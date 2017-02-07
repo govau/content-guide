@@ -1,0 +1,32 @@
+# Created by https://www.gitignore.io/api/jekyll
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-metadata
+
+### Jekyll Assets ###
+.asset-cache
+
+### npm ###
+node_modules
+
+### Generated data ###
+_data/*.json
+_assets/scss/.sass-lint.yml
+
+### Bundle ###
+.bundle
+
+### Mac folder attrs. ###
+.DS_Store
+
+### Sublime ###
+*.sublime-project
+*.sublime-workspace
+
+### Yarn ###
+yarn.lock
+
+## template files ##
+_includes/templates/

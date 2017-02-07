@@ -1,0 +1,38 @@
+{% comment %}
+# GUIDE EXAMPLE INCLUDE
+
+Use this to include an example of something.
+
+## Usage:
+
+{% include guide_example.liquid
+  title = "My title"
+  content= "My content"
+%}
+
+The content can span multiple lines. Note it is interpreted by Markdown.
+This means that the content is indentation sensitive. For example:
+
+{% include guide_example.liquid
+  title = "My title"
+  content= "
+This is one paragraph.
+
+This will be another.
+
+> This is a blockquote.
+
+  This is an indented code snippet.
+"
+%}
+{% endcomment %}
+
+<div class="guide-example">
+  <div class="guide-example--rendered" id="{{ include.title | slugify }}">
+    <h3 class="guide-example--rendered--heading">
+      <span>Example<span class="visuallyhidden"> of {{ include.title | markdownify }}</span></span>
+    </h3>
+
+    {{ include.content | markdownify }}
+  </div>
+</div>

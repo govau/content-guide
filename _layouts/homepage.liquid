@@ -1,0 +1,86 @@
+---
+layout: default
+---
+
+<main role="main" id="content" class="content-main homepage">
+
+  <div class="abstract">
+    {{ page.abstract | markdownify }}
+  </div>
+
+  <nav aria-label="main navigation">
+
+    <div class="links-group">
+
+      {% comment %}
+        DRAFT: Support to loop through pages too.
+      {% endcomment %}
+      {% comment %}
+      {% assign pages = site.pages | where: "layout", "page" %}
+      {% for page in pages %}
+        <li>
+          <a href="{{ site.baseurl }}/{{ page.url }}">
+            {{ page.title }}
+          </a>
+        </li>
+      {% endfor %}
+      {% endcomment %}
+
+
+      {% comment %}
+        Making sure we have control over the order of the collections.
+
+        The order for each is defined in the Collection config under _config.yml.
+      {% endcomment %}
+      {% assign collections_ordered = site.collections | sort: "order" %}
+
+      {% comment %}
+        This is the main loop. It iterates through all collections.
+      {% endcomment %}
+      {% for collection in collections_ordered %}
+        {% comment %}
+          This unless is here currently because there is a mystery/ghost
+          collection, with a value of nil. Any ideas?
+        {% endcomment %}
+        {% unless collection.title == nil %}
+
+
+        <div class="collection__item">
+          <h2 id="{{ collection.label }}">
+            <a href="{{ site.baseurl }}/{{ collection.label }}" class="headline-slug-link">
+              {{ collection.title }}
+            </a>
+          </h2>
+
+          <div class="abstract">
+            {{ collection.description | markdownify }}
+          </div>
+
+          <ul class="popular-now">
+
+            {% comment %}
+              Similar to above, here we want to set the order of a given collection’s documents.
+            {% endcomment %}
+            {% assign collection_docs_ordered = collection.docs | sort: "order" %}
+
+            {% comment %}
+              This loops through the docs of each collection...
+              (unless it’s the index itself, which calls this very layout).
+            {% endcomment %}
+            {% for doc in collection_docs_ordered %}
+              {% unless doc.layout == "collections/index" %}
+                <li><a href="{{ site.baseurl }}/{{ collection.label }}#{{ doc.title | slugify }}">{{ doc.title }}</a></li>
+              {% endunless %}
+            {% endfor %}
+
+          </ul>
+        </div>
+        {% endunless %}
+
+      {% endfor %}
+    </div>
+  </nav>
+
+  {{ content }}
+
+</main>

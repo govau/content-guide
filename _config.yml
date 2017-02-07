@@ -1,0 +1,187 @@
+# JEKYLL CONFIGURATION
+#
+# This is the main conifuration for this Guides Jekyll setup.
+# For more information see https://jekyllrb.com/docs/configuration/#configuration-settings
+
+
+# TEAM SETTINGS
+team: Guides Team
+email_team: guides@digital.gov.au
+
+
+# GUIDE SETTINGS
+title: DTA Content Guide
+description: A draft content style guide to help teams meet the needs of all users, regardless of their ability.
+github_url: https://github.com/AusDTO/gov-au-content-guide
+
+
+# LICENSE SETTINGS
+#
+# We're presuming you use GitHub, and have the license file in master, titled `LICENSE.md`
+license: CC BY 4.0
+
+
+# UI Kit URL for javascript includes
+#
+# This needs to be abstracted eventually into a styles gem?
+uikit_github_url: https://github.com/AusDTO/gov-au-ui-kit
+uikit_base_url: https://gov-au-ui-kit.apps.staging.digital.gov.au/
+
+
+# MARKDOWN FLAVOUR
+#
+# There are numerous ‘flavours’ (super sets) of Markdown.
+# We opt for kramdown: https://kramdown.gettalong.org/
+#
+# This is b/c kramdown has support for the Markdown super set goodies like
+# definition lists, abbreviations, and footnotes.
+#
+# Syntax reference: https://kramdown.gettalong.org/syntax.html
+markdown: kramdown
+
+
+# BUILD EXCLUDES
+#
+# These files are ignored when Jekyll builds the site.
+exclude: [
+  "node_modules",
+  "_data",
+  "vendor",
+  "bin",
+  ".DS_Store",
+  "Gemfile",
+  "Gemfile.lock",
+  "Rakefile",
+  "circle.yml",
+  "_config*.yml",
+  "config.ru",
+  "ld_library_path",
+  "LICENSE.md",
+  "manifest*.yml",
+  "yarn.lock",
+  "README.md",
+  "*.sublime-project"
+]
+
+
+# GEMS
+#
+# These are additional Ruby gems this guide relies on.
+gems:
+  - jekyll-assets # https://github.com/jekyll/jekyll-assets
+  - rouge # https://github.com/jneen/rouge
+
+
+# ASSET PIPELINE SETTINGS
+#
+# We use jekyll-assets: https://github.com/jekyll/jekyll-assets
+assets:
+  assets:
+    - "*.png"
+    - "*.gif"
+    - "*.svg"
+  sources:
+    - _assets/scss
+    - _assets/vendor/dto-ui-kit/assets/sass/ui-kit
+    - _assets/img
+    - _assets/js
+
+
+# HIGHLIGHTER
+#
+# Code syntax highlighting
+highlighter: rouge
+
+
+# COLLECTIONS CONFIGURATION
+#
+# @required
+#   title         {string}   The name of the collection for display in navigation
+#   description   {string}   Text for category description
+#   order         {integer}  The order attribute is used to sort the navigation.
+#   output        {boolean}  Whether or not to render the pages out
+#
+# For example:
+# collections:
+#   dummy-collection:
+#     title: "Dummy collection title"
+#     description: "The description for this collection. It is placed on the homepage listing."
+#     order: 0
+#     output: false
+#
+collections:
+  principles:
+    title: "Principles"
+    description: "Desc. for principles"
+    order: 0
+    output: true
+  accessibility-inclusivity:
+    title: "Accessibility and inclusivity"
+    description: "The description for this collection. It is placed on the homepage listing."
+    order: 1
+    output: true
+  punctuation-grammar:
+    title: "Punctuation and grammar"
+    description: "Desc. for punctuation-grammar"
+    order: 2
+    output: true
+  numbers-measurements:
+    title: "Numbers and measurements"
+    description: "Desc. for numbers-measurements"
+    order: 3
+    output: true
+  content-structure:
+    title: "Content structure"
+    description: "Desc. for content-structure"
+    order: 4
+    output: true
+  content-types:
+    title: "Content types"
+    description: "Desc. for content-types"
+    order: 5
+    output: true
+  formatting:
+    title: "Formatting"
+    description: "Desc. for formating"
+    order: 6
+    output: true
+  writing-style:
+    title: "Writing style"
+    description: "Desc. for writing-style"
+    order: 7
+    output: true
+  terms-phrases:
+    title: "Terms and phrases"
+    description: "Desc. for terms-phrases"
+    order: 8
+    output: true
+
+
+# PROSE.IO
+#
+# Configuration for the htt://prose.io editor.
+prose:
+#  rooturl: ''
+  siteurl: 'http://gov.au/alpha'
+  ignore:
+    - _config.yml
+    - /manifest.yml
+    - /circle.yml
+    - /_assets
+    - /_data
+    - /_layouts
+    - /_includes
+    - /_plugins
+    - /_posts
+    - /assets
+    - /bin
+    - /fonts
+    - /css
+    - /js
+    - /Staticfile
+    - /Staticfile.auth
+    - /Gemfile
+    - /Gemfile.lock
+    - /.ruby-version
+    - /.gitignore
+    - /feed.xml
