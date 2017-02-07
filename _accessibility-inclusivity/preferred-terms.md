@@ -1,5 +1,5 @@
 ---
-title: "Preferred terms"
+title: "Preferred accessibility terms"
 order: 2
 ---
 
@@ -14,8 +14,6 @@ Avoid discriminatory language that treats some people differently from others.
 - Older people or seniors, not pensioners, old-age pensioners or the aged.
 - Young people, not youth or juveniles.
 
-Do not use CALD (culturally and linguistically diverse) or EAL/D (English as an additional language or dialect).
-
 Speak to the person (in plain English, without jargon) rather than speaking to their difference. This avoids getting caught up in semantics and is respectful of:
 
 - disability
@@ -29,3 +27,8 @@ Speak to the person (in plain English, without jargon) rather than speaking to t
 - pre and post effects of wars
 - religious affiliations
 - values or philosophical differences.
+
+### Disability language resources
+
+- [Australian Network On Disability --- Inclusive Language](http://www.and.org.au/pages/inclusive-language.html)
+- [People with disability --- Guide to Reporting Disability](http://pwd.org.au/library/guide-to-reporting-disability.html)

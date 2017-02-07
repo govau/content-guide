@@ -20,7 +20,7 @@ To make a PDF accessible you must structure it so a screen reader follows the lo
 Always tell your users that they are downloading a PDF. Include the file size and a summary of what the PDF is about. Provide a contact (an email address) so users can request the information in a different format.
 
 {% include guide_example.liquid
-  title = "Referencing a PDF"
+  title = "referencing a PDF"
   content= "
 [Sustainable farming guide 472KB PDF]()
 

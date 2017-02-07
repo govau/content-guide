@@ -1,7 +1,15 @@
 ---
-title: "Translations & languages"
-order: 6
+title: "Languages other than English"
+order: 7
 ---
+
+Make sure your content can be understood by someone who speaks English as a second, third and fourth language.
+
+Consider whether the information should also be provided in appropriate community languages --- a good idea if there are compliance requirements.
+
+Do not use the terms CALD (culturally and linguistically diverse) or EAL/D (English as an additional language or dialect).
+
+### Translation
 
 Content written in plain English is easier to translate (and read). But translating is not just about the words, it’s also about capturing the meaning of what you are communicating within the context of a culture.
 
