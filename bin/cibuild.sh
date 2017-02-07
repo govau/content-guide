@@ -16,8 +16,6 @@ main() {
 
   git submodule init                                                    # Pulling submodule
   git submodule update                                                  # Updating submodule
-  npm i                                                                 # Installing dependencies for our build
-  npm start                                                             # Starting build
 
   case "${GITBRANCH}" in
     master)
