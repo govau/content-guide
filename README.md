@@ -75,7 +75,7 @@ If you still have troubles ask for help! (:
 
 ## Copyright & license
 
-Copyright Digital Transformation Agency. Licensed under the Creative Commons Attribution 4.0 International Public License. See [LICENSE file](https://github.com/AusDTO/gov-au-content-guide/blob/master/LICENSE) for more details.
+Copyright Digital Transformation Agency. Licensed under the Creative Commons Attribution 4.0 International Public License. See [LICENSE file](https://github.com/govau/content-guide/blob/master/LICENSE.md) for more details.
 
 ## About the DTA
 
