@@ -29,7 +29,7 @@ While it is Australian Government practice to refer to Indigenous Australians, t
 Indigenous is the common term when referring to a business entity or business function
 
 {% include guide_example.liquid
-  title = "referencing a PDF"
+  title = "use of Indigenous word"
   content= "
 Indigenous Specialist Officer, Indigenous Services Branch.
 "

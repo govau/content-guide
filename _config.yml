@@ -110,11 +110,6 @@ highlighter: rouge
 #     output: false
 #
 collections:
-  principles:
-    title: "Principles"
-    description: "Desc. for principles"
-    order: 0
-    output: true
   accessibility-inclusivity:
     title: "Accessibility & inclusivity"
     description: "The description for this collection. It is placed on the homepage listing."
