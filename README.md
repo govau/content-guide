@@ -1,91 +1,81 @@
-# DTA Design Guide
+# Draft Content Style Guide
 
-[![Build passing/failing](https://circleci.com/gh/AusDTO/gov-au-ui-kit.svg?style=shield)](https://circleci.com/gh/AusDTO/gov-au-ui-kit)
-[![license link](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/AusDTO/dto-design-guide/master/README.md)
-[![Latest release](https://img.shields.io/github/release/AusDTO/gov-au-ui-kit.svg?maxAge=1209600)](https://github.com/AusDTO/gov-au-ui-kit/releases)
+This guide is designed to help people working in the Australian Government create simpler, clearer and faster information.
 
+It can be currently accessed at http://content-style-guide.apps.staging.digital.gov.au/
 
-How to use the UI-Kit CSS framework to build accessible and usable sites.
+**Status:** the guide is in active development.
 
 ---
 
 ## Table of contents
-1. [Development](#development)
+
+1. [Feedback](#feedback)
 1. [Contributing](#contributing)
+1. [Developer information](#developer-information)
 1. [Copyright & license](#copyright--license)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Feedback
 
-## Development
+You can leave feedback to the guide in numerous ways:
 
-Development dependencies:
-
-* Ruby (= 2.3.1)
-* jekyll (= 3.3.1)
-* Node (>= 6)
-
-Clone the repo:
-
-```shell
-git clone https://github.com/AusDTO/dto-design-guide.git
-git submodule init
-git submodule update
-```
-
-Install dependencies and set up project:
-
-```shell
-cd dto-design-guide
-bundle install && yarn
-```
-
-To generate the `uikit.json` and move the template files run this.
-_(You only have to run this once after initial pulling or after the submodule version has changed)_
-
-```shell
-npm start
-```
-
-Fire up Jekyll:
-
-```shell
-jekyll serve --watch --incremental
-```
-
-Open the site at [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Updating content from UI-Kit
-
-This guide includes the [UI-Kit](https://github.com/AusDTO/gov-au-ui-kit) as a
-[git submodule](https://www.kernel.org/pub/software/scm/git/docs/user-manual.html#submodules) to `_assets/vendor/dto-ui-kit`.
-
-```
-├── _assets
-│   └── vendor
-│       └── dto-ui-kit
-```
-
-The node script in `./generate-json.js` will be run with `npm start` and extracts out all template files and puts them into the `_includes/templates` folder
-for jekyll to reuse. The script also generates the `_data/uikit.json` after it parses the ui kit via [KSS](https://github.com/kneath/kss).
-
-```
-├── _data
-│   └── uikit.json
-├── _includes
-│   └── templates
-```
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. via the email feedback buttons and links in the guide (Please join our [Content Design in Government Google Group](https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government) to give feedback)
+2. via GitHub issues.
 
 ## Contributing
 
-Open an issue first to discuss potential changes/additions. We encourage you to read our
-[Contributor Code of Conduct](https://github.com/AusDTO/gov-au-ui-kit/blob/master/code_of_conduct.md). By ensuring that all contributors follow this guide we can maintain an inclusive and friendly community.
+ToDo: add useful information here :)
+
+### Markdown
+
+To mark-up your content, write in Markdown. We use the 'kramdown' (default) markdown parser, which provides a couple of extra features. For a reference on what's possible see the [kramdown quick reference](http://kramdown.gettalong.org/quickref.html).
+
+## Developer information
+
+This guide is built with [Jekyll](http://jekyllrb.com/).
+
+### Setup
+
+You would only **need** to do the following if you are a developer. If you are a content editor you can access and editing content for the guide directly via GitHub. However, it can be nice having the guide locally to work and preview --- feel free to ask a developer if you would like to set up a local instance of the guide.
+
+There is also a simpler guide in the [README of the service-handbook project](https://github.com/AusDTO/service-handbook/blob/gh-pages/README.md) which might be useful to incorporate here.
+
+### Requirements
+
+- Ruby
+- Jekyll
+-
+
+Setup locally
+
+```
+git clone https://github.com/govau/content-guide.git
+cd content-guide
+git submodule init
+gem install bundler
+bundle install
+```
+
+Launch locally
+
+```
+bundle exec jekyll serve
+```
+
+If you get gem errors, try
+
+```
+rbenv rehash
+```
+
+If you still have troubles ask for help! (:
 
 ## Copyright & license
 
-© Copyright Commonwealth of Australia.
+Copyright Digital Transformation Office. Licensed under the Creative Commons Attribution 4.0 International Public License. See [LICENSE file](https://github.com/AusDTO/gov-au-content-guide/blob/master/LICENSE) for more details.
 
-With the exception of the Commonwealth Coat of Arms and where otherwise noted, this work is [licensed under the MIT license](https://github.com/AusDTO/dto-design-guide/blob/master/LICENSE.md).
+## About the DTO
+
+![](https://www.dto.gov.au/images/govt-crest.png "Australian Government crest and Digital Transformation Office title")
+
+The GOV.AU Content Guide is maintained and funded by the [Digital Transformation Office](https://www.dto.gov.au/).
