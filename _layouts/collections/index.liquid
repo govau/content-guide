@@ -29,10 +29,17 @@ layout: section
           <h2 id="index-links">Contents</h2>
           <ul>
             {% comment %}
+              Fetches each of the collection’s docs, and orders them.
+
+              The order is determined by the value given to the ‘order’ key in the metadata section for each collection doc.
+            {% endcomment %}
+            {% assign collection_docs_ordered = collection.docs | sort: "order" %}
+
+            {% comment %}
               Now we loop through the docs of the page’s collection...
               (unless it’s the index itself, which calls this very layout).
             {% endcomment %}
-            {% for doc in collection.docs %}
+            {% for doc in collection_docs_ordered %}
               {% unless doc.layout == "collections/index" %}
                 <li><a href="{{ page.url }}#{{ doc.title | slugify }}">{{ doc.title }}</a></li>
               {% endunless %}
@@ -47,14 +54,6 @@ layout: section
       The content from the collection’s index.md file.
     {% endcomment %}
     {{ content }}
-
-
-    {% comment %}
-      Fetches each of the collection’s docs, and orders them.
-
-      The order is determined by the value given to the ‘order’ key in the metadata section for each collection doc.
-    {% endcomment %}
-    {% assign collection_docs_ordered = collection.docs | sort: "order" %}
 
     {% comment %}
       Now we want to iterate through all the other collection’s docs, again
