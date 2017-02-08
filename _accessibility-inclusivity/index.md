@@ -1,7 +1,7 @@
 ---
 title: "Punctuation & grammar"
 layout: "collections/index"
-abstract: ""
+abstract: "Use language to connect with all users respectfully and politely regardless of origin and ability."
 published: true
 
 # Content strategy

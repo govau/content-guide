@@ -3,8 +3,6 @@ title: "Preferred accessibility terms"
 order: 2
 ---
 
-Use language to connect with all users respectfully and politely regardless of origin and ability.
-
 Avoid discriminatory language that treats some people differently from others.
 
 - People with disability, not people with a disability, or disabled or handicapped people.

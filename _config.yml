@@ -11,7 +11,7 @@ email_team: guides@digital.gov.au
 
 # GUIDE SETTINGS
 title: DTA Content Guide
-description: A draft content style guide to help teams meet the needs of all users, regardless of their ability.
+description: A guide to help Australian Government teams create simple, clear and fast information.
 github_url: https://github.com/govau/content-guide
 
 
@@ -110,47 +110,56 @@ highlighter: rouge
 #     output: false
 #
 collections:
+  updates:
+    title: "Latest updates"
+    description: "Recent changes to this guide."
+    order: 0
+    output: true
   accessibility-inclusivity:
     title: "Accessibility & inclusivity"
-    description: "The description for this collection. It is placed on the homepage listing."
+    description: ""
     order: 1
     output: true
   punctuation-grammar:
     title: "Punctuation & grammar"
-    description: "Desc. for punctuation-grammar"
+    description: ""
     order: 2
     output: true
   numbers-measurements:
     title: "Numbers & measurements"
-    description: "Desc. for numbers-measurements"
+    description: ""
     order: 3
     output: true
   content-structure:
     title: "Content structure"
-    description: "Desc. for content-structure"
+    description: ""
     order: 4
     output: true
   content-types:
     title: "Content types"
-    description: "Desc. for content-types"
+    description: ""
     order: 5
     output: true
   formatting:
     title: "Formatting"
-    description: "Desc. for formating"
+    description: ""
     order: 6
     output: true
   writing-style:
     title: "Writing style"
-    description: "Desc. for writing-style"
+    description: ""
     order: 7
     output: true
   terms-phrases:
     title: "Terms & phrases"
-    description: "Desc. for terms-phrases"
+    description: ""
     order: 8
     output: true
-
+  sources:
+    title: "Sources"
+    description: "Resources consulted to build this guide."
+    order: 10
+    output: true
 
 # PROSE.IO
 #

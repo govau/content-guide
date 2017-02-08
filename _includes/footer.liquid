@@ -44,13 +44,18 @@
             Remove hardcoding.
           {% endcomment %}
           <ul>
-            <li><a href="https://groups.google.com/a/digital.gov.au/forum/#!forum/content-design-in-government" rel="external">Join Google Group community</a></li>
+            <li><a href="https://groups.google.com/a/digital.gov.au/forum/#!forum/content-design-in-government" rel="external">Content Design in Government Google Group</a></li>
 
             {% comment %}
               Inserts the github_url /issues/new, if it’s defined (defined in _config.yml).
             {% endcomment %}
             {% if site.github_url %}
-            <li><a href="{{ site.github_url }}/issues/new" rel="external">Report an issue on GitHub</a></li>
+            <li>        
+            <svg class="icon-inline fa-github" role="img" title="GitHub icon" aria-labelledby="fa-github-alt-source">
+              <title id="fa-github-alt-source" lang="en">GitHub icon</title>
+              <use xlink:href="{{ site.baseurl }}/assets/spritesheet.svg#fa-github"/>
+            </svg>
+            <a href="{{ site.github_url }}/issues/new" rel="external">Report an issue on GitHub</a></li>
             {% endif %}
 
             <li>
@@ -69,7 +74,6 @@
           {% endcomment %}
           <ul>
             <li><a href="https://www.dta.gov.au/" rel="external">About the <abbr>DTA</abbr></a></li>
-            <li><a href="https://www.dta.gov.au/standard/design-guides/" rel="external"><abbr>DSS</abbr>: Guides</a></li>
           </ul>
         </div>
       </nav>
@@ -87,12 +91,12 @@
       {% if site.github_url %}
         <p>
           <svg class="icon-inline fa-github" role="img" title="GitHub icon" aria-labelledby="fa-github-alt-source">
-            <title id="fa-github-alt-source" lang="en">Github icon</title>
+            <title id="fa-github-alt-source" lang="en">GitHub icon</title>
             <use xlink:href="{{ site.baseurl }}/assets/spritesheet.svg#fa-github"/>
           </svg>
 
           <a class="footer-link" href="{{ site.github_url }}" rel="external">
-            {{ site.title }} on Github
+            {{ site.title }} on GitHub
           </a>
         </p>
       {% endif %}
