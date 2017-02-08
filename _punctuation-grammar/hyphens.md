@@ -11,7 +11,6 @@ Some nouns are also hyphenated, for example about-face, air-conditioning. Check 
 
 Login is not hyphenated.
 
-**For example**
 {% include guide_example.liquid
   title = "not using hyphen in login or log in"
   content= "

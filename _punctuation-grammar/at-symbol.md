@@ -1,12 +1,6 @@
 ---
 title: "At symbol (@)"
-order: 13
+order: 14
 ---
 
-
-{% include guide_example.liquid
-  title = "referencing a PDF"
-  content= "
-
-"
-%}
+Use the @ symbol in email addresses and social media handles only.

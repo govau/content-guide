@@ -7,7 +7,6 @@ Apostrophes can indicate:
 - possession
 - substitution for ‘is’, ‘us’ or ‘are’.
 
-**For example**
 {% include guide_example.liquid
   title = "of apostrophes"
   content= "
@@ -21,10 +20,8 @@ Apostrophes can indicate:
 "
 %}
 
-
 Use &#8217;s for words that end in s to show possession if you pronounce the s (for example, personal names). If you don't pronounce the s just use an apostrophe.
 
-**For example**
 {% include guide_example.liquid
   title = "apostrophe and possession"
   content= "
@@ -34,7 +31,6 @@ Dickens's books, not Dickens' books.
 
 Don’t use apostrophes for plural abbreviation or decades.
 
-**For example**
 {% include guide_example.liquid
   title = "common misuses of apostrophes"
   content= "

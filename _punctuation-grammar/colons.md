@@ -28,7 +28,6 @@ Not like this
 
 You can use a colon in a sentence fragment. But [bullet point lists]() are more accessible and long sentences can reduce readability.
 
-**For example**
 {% include guide_example.liquid
   title = "using a colon in a sentence fragment"
   content= "
