@@ -5,7 +5,9 @@ order: 3
 
 Images must have alternative text (or `alt` text) to describe the information or function of the image.
 
-Alt text sits behind the image and appears when an image is disabled, fails to load or when people with low vision or reading difficulties use screen readers or speech input software.
+Alt text sits behind the image and appears when
+- an image is disabled or fails to load
+- people with low vision or reading difficulties use screen readers or speech input software.
 
 When content includes images, you must write the alt text.
 

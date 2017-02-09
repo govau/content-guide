@@ -1,11 +1,13 @@
 ---
-title: "Aboriginal & Torres Strait Islander terms"
+title: "Aboriginal & Torres Strait Islander peoples"
 order: 6
 ---
 
 Aboriginal and Torres Strait Islander peoples represent a diverse range of cultures and are not 1 homogenous group.
 
-Within Aboriginal and Torres Strait Islander peoples/nations are many distinct cultural groups. English is a second, third or even fourth language for many First Australians.
+Within Aboriginal and Torres Strait Islander peoples/nations are many distinct cultural groups.
+
+English is a second, third or even fourth language for many First Australians.
 
 Do not use:
 
@@ -24,18 +26,21 @@ Instead use:
 
 ### ‘Indigenous’
 
-While it is Australian Government practice to refer to Indigenous Australians, this is not preferred by many Aboriginal and Torres Strait Islander peoples. Find an alternative when you can, especially when referring to individuals.
+While it is Australian Government practice to refer to Indigenous Australians, this is not preferred by many Aboriginal and Torres Strait Islander peoples.
+
+Find an alternative to using Indigenous when you can, especially when referring to individuals.
 
 Indigenous is the common term when referring to a business entity or business function
 
+Indigenous should always be capitalised.
+
 {% include guide_example.liquid
-  title = "use of Indigenous word"
+  title = "using Indigenous"
   content= "
-Indigenous Specialist Officer, Indigenous Services Branch.
+- Indigenous Specialist Officer
+- Indigenous Services Branch.
 "
 %}
-
-Indigenous should always be capitalised.
 
 ### Cultural terms
 
