@@ -3,7 +3,7 @@ title: "Phone numbers"
 order: 4
 ---
 
-Use the following spacing formats, except in forms:
+Use the following spacing formats:
 
 - 5550 0000 for phone numbers in a local area
 - 02 5550 0000 for interstate phone numbers --- not (02) 5550 0000

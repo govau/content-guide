@@ -17,7 +17,11 @@ Abbreviate measures when using a number. Do not put a space between number and m
 {% include guide_example.liquid
   title = "writing numbers with measures"
   content= "
-6cm, 6kg, 6kJ, 6km/h (not 6kph) and 6kW
+- 6cm
+- 6kg
+- 6kJ
+- 6km/h --- not 6kph
+- 6kW
 "
 %}
 

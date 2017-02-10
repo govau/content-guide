@@ -6,7 +6,8 @@ order: 2
 {% include guide_example.liquid
   title = "punctuating time periods"
   content= "
-9am or 9:00am
+- 9am
+- 9:00am
 "
 %}
 
