@@ -3,11 +3,11 @@ title: "Navigation labels"
 order: 4
 ---
 
-Well written navigation labels reflect the needs of the user and aren't difficult to understand.
+Write the navigation label to meet the user's need.
 
-Tools that analyse keywords can be helpful when choosing navigation labels.
+The label should tell all users of what they will find at the destination. Often it will be the same as the page title.
 
-A navigation label predicts the page it is linking to, and often uses the same wording as the page's title.
+Keyword analysis tools can help.
 
 {% include guide_example.liquid
   title = "navigation labels"
@@ -18,4 +18,4 @@ Page title: Latest news and media releases
 "
 %}
 
-Use sentence casing except where there is a proper noun.
+Use sentence case (an initial capital then lower case) for navigation labels, except when using proper nouns.

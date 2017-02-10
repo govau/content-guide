@@ -3,28 +3,13 @@ title: "Hyperlinks"
 order: 3
 ---
 
-Users scan links on web pages looking for the pieces of information they need.
+### Use precise link text
 
-To be useful and accessible, embed the link and make sure the words are precise and can help the user predict where the link leads.
+Make the destination of the link clear.
 
-### Place carefully
-
-Add hyperlinks wherever they are most useful to the user. This includes within paragraphs --- although be aware of overcrowding paragraphs with too many links as this can affect readability.
-
-Grouping links together at the bottom of a page (and not within the text) can disrupt readability too. Users may skip the text and just read the links.
-
-### Make the destination clear
-
-As always, think about your users and their context when reading the information. Think helpful. Be precise.
+Think about the user and their context when reading the information. Think helpful.
 
 Don’t use meaningless terms such as ‘click here’, ‘read more’ or ‘useful links’.
-
-{% include guide_example.liquid
-  title = "link text"
-  content= "
-Teachers can [attend education forums](#) outside class time.
-"
-%}
 
 Don’t make the link text too long. Only link the keywords.
 
@@ -42,25 +27,29 @@ Not this
 "
 %}
 
-### Drop the https://
+### Place links carefully
 
-**REVIEW THIS: If the site can be accessed without `www` in the address, you don't need to write it when you reference it. But keep the `www` if there is only a redirect in place.**
+Add links wherever they are most useful to the user.
 
-{% include guide_example.liquid
-  title = "referencing websites"
-  content= "
-- The Digital Transformation Agency's website is [www.dta.gov.au](https://www.dta.gov.au/).
-- Twitter's website is [twitter.com](https://twitter.com).
-"
-%}
+Embed links in paragraphs to help the user scan for the information they need.
 
-### Email addresses
+Be careful of overcrowding paragraphs with links as this can affect readability.
 
-Hyperlink all email addresses. Don't use the `mailto:` prefix in the link text, but make sure it is included in the URL.
+Grouping links together at the bottom of a page can disrupt readability too. Users may skip the text and just read the links.
+
+### Make calls-to-action accurate and prominent
+
+Use keywords the user will understand that accurately describe the action.
+
+### Use the email address as the link
+
+Hyperlink all email addresses.
+
+Use `mailto:` prefix in the URL but not in the link text.
 
 {% include guide_example.liquid
   title = "links email addresses"
   content= "
-[belinda.blogs@dto.gov.au](mailto:belinda.blogs@dto.gov.au) --- not [email Belinda, Head of Social Media](mailto:belinda.blogs@dto.gov.au).
+Contact [belinda.blogs@dto.gov.au](mailto:belinda.blogs@dto.gov.au) --- not [email Belinda, Head of Social Media](mailto:belinda.blogs@dto.gov.au).
 "
 %}

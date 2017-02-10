@@ -3,13 +3,11 @@ title: "Bullet point lists"
 order: 2
 ---
 
-Break up long sentences with lists, making it easier for your reader to understand and scan.
+Break up long sentences with lists to make it easier for the user to scan.
 
-Bullet point lists break up the page and help with readability.
+Use minimal punctuation and add a full stop after the final point.
 
-**REVIEW THIS: Only use a numbered list for ordered steps or to show priority.**
-
-Use minimal punctuation and add a full stop after the final point. [Don't use a semicolon at the end of items]().
+Don't add a [semicolon](/punctuation-grammar/#semicolons) to the end of list items.
 
 {% include guide_example.liquid
   title = "bullet point list"
@@ -22,7 +20,7 @@ The environmental protection plan includes:
 "
 %}
 
-For full sentences, use a capital letter at the start of each point and end with a full stop.
+For a list of full sentences, use a capital letter at the start of each point and end with a full stop.
 
 **For example**
 {% include guide_example.liquid
@@ -34,3 +32,5 @@ Awareness week agenda
 - The awareness week booklet will be launched.
 "
 %}
+
+**REVIEW THIS: Only use a numbered list for ordered steps or to show priority.**
