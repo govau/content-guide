@@ -3,6 +3,6 @@ title: "Fact sheets"
 order: 2
 ---
 
-Fact sheet content should be offered in HTML to meet accessibility requirements and allow for printing.
+Publish fact sheets in HTML. This improves accessibility and allows for printing.
 
-If there is a need to offer the information as a PDF in addition to HTML, you must [make the PDF accessible]().
+If the user needs the information available as a PDF as well as HTML, you must [make the PDF accessible](/accessibility-inclusivity/#pdfs).
