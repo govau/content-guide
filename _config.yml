@@ -113,7 +113,7 @@ collections:
   updates:
     title: "Latest updates"
     description: "Recent changes to this guide."
-    order: 0
+    order: 9
     output: true
   accessibility-inclusivity:
     title: "Accessibility & inclusivity"

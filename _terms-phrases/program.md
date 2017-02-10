@@ -3,7 +3,7 @@ title: "Program"
 order: 15
 ---
 
-Use program, not programme.
+Use program --- not programme.
 
 {% include guide_example.liquid
   title = "using program in a sentence"

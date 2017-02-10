@@ -17,7 +17,7 @@ Use numbers for date periods.
 {% include guide_example.liquid
   title = "punctuating date periods"
   content= "
-19th century, not Nineteenth century.
+19th century --- not Nineteenth century.
 "
 %}
 

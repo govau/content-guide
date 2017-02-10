@@ -3,7 +3,7 @@ title: "Adviser"
 order: 5
 ---
 
-Use adviser, not advisor.
+Use adviser --- not advisor.
 {% include guide_example.liquid
   title = "using adviser"
   content= "

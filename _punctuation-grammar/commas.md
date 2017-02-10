@@ -5,30 +5,28 @@ order: 11
 
 Use commas minimally.
 
-Commas are useful for enhancing clarity because they bring in a natural pause. But using too many can indicate too many words in the sentence. Try shortening your sentences instead.
+Commas increase clarity because they bring in a natural pause.
+
+Too many commas are a sign a sentence should be rewritten.
 
 {% include guide_example.liquid
   title = "using commas"
   content= "
 Like this
 
-> After the proposal had been discussed at length in Cabinet, a media release was issued.
+> Cabinet discussed the proposal, then the Department issued a media release.
 
-Or this
+> The Department issued a media release, about the proposal discussed by Cabinet.
 
-> The proposal, that was discussed in Cabinet, prompted a media release.
+Not like this
 
-But not like this
+> The proposal, was discussed in Cabinet and prompted a media release by the Department.
 
-> The proposal, was discussed at length in Cabinet and prompted a media release.
-
-Or not like this
-
-> The minister brought in 3 viewpoints and, she spoke to the whole team.
+> The proposal was discussed in Cabinet and, prompted a media release by the Department.
 "
 %}
 
-Don't use an Oxford comma (a comma before the final ‘and’ or ‘or’ in a sentence).
+Don't use Oxford commas (a comma before the final ‘and’ or ‘or’ in a sentence).
 
 {% include guide_example.liquid
   title = "not using an Oxford comma"
@@ -43,4 +41,4 @@ Not like this
 "
 %}
 
-Alternatively, shorten the sentence to a 1 idea or use a [bullet point list]().
+Alternatively, shorten the sentence to 1 idea or use a [bullet point list](/content-structure/#bullet-point-lists).

@@ -10,7 +10,7 @@ Use the word million instead of digits for 1 million and upwards.
 {% include guide_example.liquid
   title = "numbers"
   content= "
-- 1 to 9, not one to nine
+- 1 to 9 --- not one to nine
 - 10 to 9999
 - 10,000 to 1 million
 - 100s of them

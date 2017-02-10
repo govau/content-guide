@@ -5,14 +5,13 @@ abstract: ""
 published: true
 ---
 
-We have been closely guided by the [Government Digital Service (GDS) Style guide](https://www.gov.uk/guidance/style-guide) and [GDS blog](https://gds.blog.gov.uk/).
+We have been closely guided by and used content from:
 
-We have also used content from:
-
+- the [Government Digital Service (GDS) Style guide](https://www.gov.uk/guidance/style-guide) and [GDS blog](https://gds.blog.gov.uk/).
 - Department of Communications and the Arts's Online Style Guide.
 - Department of Finance's Good practice publishing for Australian Government entities.
 
-Style and design guides consulted:
+Other style and design guides consulted:
 
 - [18F Content Guide](https://pages.18f.gov/content-guide/) and other [18F Guides](https://pages.18f.gov/guides/)
 - [The Guardian and Observer style guide](https://www.theguardian.com/info/series/guardian-and-observer-style-guide)

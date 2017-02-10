@@ -61,6 +61,6 @@ Hyperlink all email addresses. Don't use the `mailto:` prefix in the link text, 
 {% include guide_example.liquid
   title = "links email addresses"
   content= "
-[belinda.blogs@dto.gov.au](mailto:belinda.blogs@dto.gov.au), not [email Belinda, Head of Social Media](mailto:belinda.blogs@dto.gov.au).
+[belinda.blogs@dto.gov.au](mailto:belinda.blogs@dto.gov.au) --- not [email Belinda, Head of Social Media](mailto:belinda.blogs@dto.gov.au).
 "
 %}

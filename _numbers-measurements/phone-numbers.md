@@ -6,7 +6,7 @@ order: 4
 Use the following spacing formats, except in forms:
 
 - 5550 0000 for phone numbers in a local area
-- 02 5550 0000 for interstate phone numbers, not (02) 5550 0000
+- 02 5550 0000 for interstate phone numbers --- not (02) 5550 0000
 - 61 2 7010 0000 for Australian numbers dialed from overseas
 - 0491 570 156 for mobile numbers
 - 1300 975 707 or 1800 160 401 or 1900 654 321 for 10 digit numbers
