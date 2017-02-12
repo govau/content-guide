@@ -44,7 +44,10 @@ There is also a simpler guide in the [README of the service-handbook project](ht
 
 - Ruby
 - Jekyll
--
+
+We also pull in the 1.x version of the [UI-Kit](https://github.com/AusDTO/gov-au-ui-kit) as a submodule.
+
+We will likely change this, and instead package up everything needed to produce a new guide scaffold as a Ruby gem for Jekyll to consume.
 
 Setup locally
 
@@ -72,10 +75,10 @@ If you still have troubles ask for help! (:
 
 ## Copyright & license
 
-Copyright Digital Transformation Office. Licensed under the Creative Commons Attribution 4.0 International Public License. See [LICENSE file](https://github.com/AusDTO/gov-au-content-guide/blob/master/LICENSE) for more details.
+Copyright Digital Transformation Agency. Licensed under the Creative Commons Attribution 4.0 International Public License. See [LICENSE file](https://github.com/govau/content-guide/blob/master/LICENSE.md) for more details.
 
-## About the DTO
+## About the DTA
 
-![](https://www.dto.gov.au/images/govt-crest.png "Australian Government crest and Digital Transformation Office title")
+![](https://www.dta.gov.au/images/govt-crest.png "Australian Government crest and Digital Transformation Agency title")
 
-The GOV.AU Content Guide is maintained and funded by the [Digital Transformation Office](https://www.dto.gov.au/).
+The DTA Content Guide is maintained and funded by the [Digital Transformation Agency](https://www.dta.gov.au/).
