@@ -1,8 +1,12 @@
 ---
 title: "Images"
-order: 5
+order: 6
 ---
 
-Use images minimally and with purpose. [Make the images accessible]().
+Use images minimally and with purpose.
 
-When using images to complement online information, focus on real people and locations. Users tend to ignore decorative images used to ‘brighten up’ web pages.
+[Make the images accessible](/accessibility-inclusivity/#images-alt-text).
+
+If you use images to enhance written information use real people and locations.
+
+Users ignore images that are just decorative.

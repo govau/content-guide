@@ -1,6 +1,10 @@
 ---
 title: "PDFs"
-order: 6
+order: 7
 ---
 
-If you can demonstrate a strong user need to provide a PDF, you must [make the PDF accessible](/accessibility-inclusivity/#pdfs) and provide the same information in another format such as HTML.
+Only make a PDF if there is a strong user need.
+
+You must [make the PDF accessible](/accessibility-inclusivity/#pdfs).
+
+You must also provide the same information found in the PDF in another format, such as HTML.

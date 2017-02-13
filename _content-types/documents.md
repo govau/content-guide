@@ -5,11 +5,13 @@ order: 1
 
 ### Microsoft Word
 
-Microsoft Word formats (`.doc` and `.docx`) do not currently conform to WCAG 2.0 when viewed on mobile devices.
+Microsoft Word formats (`.doc` and `.docx`) don't conform to WCAG 2.0 when viewed on mobile devices.
 
-Never publish Word documents on the web on their own. If possible present the information as a HTML page. If really necessary, link to an [accessible PDF](/accessibility-inclusivity/#pdfs) as well as the accessible Word document.
+Don't publish Word documents on the web on their own. Give the information on a HTML page.
 
-Make Word documents accessible to everyone, even if you are emailing them. This includes people who rely on assistive technologies, such as screen readers.
+If there is a user need for a PDF, [make the PDF accessible](/accessibility-inclusivity/#pdfs) and link to the accessible Word document.
+
+Make Word documents accessible to everyone even if you are emailing them internally. This includes people who rely on assistive technologies, such as screen readers.
 
 Microsoft has guidance on [making Word documents more accessible ](https://support.office.com/en-us/article/Creating-accessible-Word-documents-d9bf3683-87ac-47ea-b91a-78dcacb3c66d?CTT=3&CorrelationId=b3c40249-a7fa-4300-9c12-5d0f79242a78&ui=en-US&rs=en-US&ad=US).
 
