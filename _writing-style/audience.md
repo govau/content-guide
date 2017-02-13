@@ -3,9 +3,14 @@ title: "Audience"
 order: 1
 ---
 
-You should write so everyone can understand. But your content will be more effective if you understand the specific needs of your user.
+Write so everyone can understand.
 
-You need find out:
+Find out how the user behaves and what they're interested in or worried about.
 
-- how the user behaves and what they're interested in or worried about --- so your writing will catch their attention and answer their questions
-- the user's vocabulary --- so that you can use the same terms and phrases they'll use to search for content.
+If you understand what the user needs it will help you to catch their attention and answer their questions.
+
+Learn the user's vocabulary.
+
+Use the same terms and phrases your users use so they can find your content.
+
+Make sure that your content is up to date and shows that interacting with government can be easy.

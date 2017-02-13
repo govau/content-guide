@@ -3,9 +3,15 @@ title: "Voice"
 order: 5
 ---
 
-Use active voice (subject-verb-object). Active voice gets straight to the point.
+Use active voice (subject-verb-object).
 
-Avoid passive voice (object-verb-subject). It usually makes it difficult to know who did what to whom and sends the reader backwards.
+Active voice gets straight to the point.
+
+Avoid passive voice (object-verb-subject).
+
+Passive voice usually makes it difficult to know who did what to whom and sends the reader backwards.
+
+To write in active voice use first and second person (we, us) instead of third person (he, she, it and they).
 
 {% include guide_example.liquid
   title = "using active voice"
@@ -22,14 +28,12 @@ Not this
 "
 %}
 
-Try using the first and second person (we, us) instead of the third person to help you to write in the active voice.
-
-You can use passive voice if there is no do-er.
+You can use passive voice if you can't specify the do-er of the action.
 
 {% include guide_example.liquid
   title = "using passive voice"
   content= "
-The proposal for the new-part time role was approved in March.
+The part-time role was approved in March.
 "
 %}
 
@@ -37,17 +41,18 @@ The proposal for the new-part time role was approved in March.
 
 Use contractions carefully to be more conversational.
 
-Remember that low-literacy users and people with English as another language may find contractions difficult to understand.
+Low-literacy users and people who speak [languages other than English](/accessibility-inclusivity/#languages-other-than-english) may find contractions difficult to understand.
 
 Avoid less common colloquial contractions like you'd.
 
-Always consider the context. Avoid using contractions where a user may misunderstand what they are being asked to do, for example in a form.
+Always consider the context.
+
+Don't use contractions where a user may misunderstand what they are being asked to do, for example on a form.
 
 ### -ings (gerunds)
 
-Avoid using a gerund (-ings) where possible, for more concise language.
+Avoid using gerunds (-ings) where possible, for more concise language.
 
-**For example**
 {% include guide_example.liquid
   title = "avoiding gerunds"
   content= "

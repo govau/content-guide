@@ -5,11 +5,10 @@ order: 4
 
 The modern government tone is direct, calm and understated.
 
-Speak politely and use language that is positive but sensitive and respectful.
-
-Be aware who you are writing for. Be conscious of what the user is wanting to do.
-
-Tell them what they need to know.
+- Speak politely and use language that is positive but sensitive and respectful.
+- Be aware who you are writing for.
+- Be conscious of what the user needs to do.
+- Tell the user what they need to know.
 
 ### Pronouns
 
@@ -17,13 +16,12 @@ Use first and second pronouns (I, we, us and you) to establish a connection with
 
 Avoid third person nouns (Australian Government Department of X) and pronouns (he, she, it and they).
 
-**For example**
 {% include guide_example.liquid
   title = "pronouns"
   content= "
 Like this
 
-> Tell us if you are having trouble with your account.
+> Tell us if you have trouble with your account.
 
 Not this
 
@@ -31,11 +29,11 @@ Not this
 "
 %}
 
-Use 'they' and 'them' when talking *about*, rather than *to* someone or something.
+Use 'they' and 'them' when talking about, rather than to someone or something.
 
 {% include guide_example.liquid
   title = "third person pronouns"
   content= "
-The team will do user research to help them understand the needs of users.
+User research is a team sport. We're all responsible for meeting their needs.
 "
 %}
