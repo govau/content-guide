@@ -25,7 +25,7 @@ Other style and design guides consulted:
 - [Style Manual for Authors, Editors and Printers](http://www.australia.gov.au/about-government/publications/style-manual)
 - Government of Tasmania's The Writing Guide
 - Department of Foreign Affairs and Trade's Website and Intranet Style Guide
-- Australian Customs and Border Protection Service's Writing Style Guide
+- Australian Customs and Border Protection Service's Writing Style Guide.
 
 Other resources:
 
@@ -37,4 +37,4 @@ Other resources:
 - [Vision Australia's Computer screen readers](http://www.visionaustralia.org/living-with-low-vision/learning-to-live-independently/using-technology-and-computers/technology-overview/computer-screen-readers)
 - [People with Disability's Guide to Reporting Disability](http://www.pwd.org.au/library/guide-to-reporting-disability.html)
 - [Nielsen Norman Group's How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/)
-- [Australian Network on Disability's Inclusive language](http://www.and.org.au/pages/inclusive-language.html)
+- [Australian Network on Disability's Inclusive language](http://www.and.org.au/pages/inclusive-language.html).
