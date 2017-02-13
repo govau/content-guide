@@ -5,6 +5,15 @@ order: 7
 
 Use the most recent edition of the [Macquarie Dictionary](https://www.macquariedictionary.com.au/), and the first option listed.
 
-The default Microsoft Word spell checker setting is US English, which differs from Australian English (for instance, in the spelling of words ending in **ise**, where the American version uses **ize**).
+Set your spell checker to Australian English.
 
-The English UK setting uses spellings more similar to Australian English.
+If you are using Microsoft Word, set it to English UK rather than American English.
+
+Use the spelling organisations use for their own names.
+
+{% include guide_example.liquid
+  title = "using US spelling for organsiations"
+  content= "
+World Health Organization
+"
+%}

@@ -1,6 +1,6 @@
 ---
 title: "Plain English terms"
-order: 14
+order: 15
 ---
 
 <table class="content-table">
@@ -250,10 +250,6 @@ order: 14
 <tr>
 <td>require</td>
 <td>need or must</td>
-</tr>
-<tr>
-<td>reuse, re-using</td>
-<td>re-use, reusing</td>
 </tr>
 <tr>
 <td>subsequently</td>

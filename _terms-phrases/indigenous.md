@@ -1,6 +1,6 @@
 ---
 title: "Indigenous"
-order: 12
+order: 13
 ---
 
-Use [preferred Aboriginal & Torres Strait Islander terms]() instead of Indigenous.
+Use specific [preferred Aboriginal & Torres Strait Islander terms](/accessibility-inclusivity/#aboriginal-torres-strait-islander-peoples) instead of Indigenous.

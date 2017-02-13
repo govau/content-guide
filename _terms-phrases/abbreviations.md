@@ -1,22 +1,24 @@
 ---
 title: "Abbreviations"
-order: 0
+order: 1
 ---
 
-Only use abbreviations of general terms when the abbreviation is the clearer and more common form.
+Only use abbreviations of general terms if the abbreviation is the clearer and more common form.
+
+See also guidance on [abbreviating numbers and measures](/numbers-measurements/).
 
 {% include guide_example.liquid
   title = "abbreviations"
   content= "
-- Ms instead of Miss/Mistress or Mrs/Misses
-- Mr instead of Mister
-- Pty Ltd instead of Proprietary Limited
+- Ms instead of Miss/Mistress or Mrs/Misses.
+- Mr instead of Mister.
+- Pty Ltd instead of Proprietary Limited.
 "
 %}
 
-See also guidance on [abbreviating numbers and measures]().
+### Honours, awards & distinctions
 
-For honours, awards and distinctions, write the abbreviation without full stops.
+Abbreviate honours, awards and distinctions without full stops.
 
 {% include guide_example.liquid
   title = "abbreviating honours, awards and distinctions"

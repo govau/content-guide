@@ -1,6 +1,6 @@
 ---
 title: "Effect & affect"
-order: 7
+order: 9
 ---
 
 {% include guide_example.liquid

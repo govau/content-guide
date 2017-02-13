@@ -1,21 +1,24 @@
 ---
 title: "Acronyms"
-order: 4
+order: 3
 ---
 
-Don’t use an acronym unless the full name has already been said once.
+Write out the full name first before you introduce the acronym.
 
-**For example**
 {% include guide_example.liquid
   title = "acronyms"
   content= "
-Digital Transformation Agency (DTA).
+Welcome to the Digital Transformation Agency (DTA).
+
+The DTA works to make public services clear, simple and fast.
 "
 %}
 
-If an acronym is well known to an Australian audience, such as NSW or ABC, there is no need to spell it out. If you are writing for an international audience spell it out once and then use the acronym.
+You don't need to spell it acronyms that are well known to an Australian audience. For example, NSW or ABC.
 
-Most acronyms for companies or organisations are uppercase with the exception of Anzac.
+If you are writing for an international audience spell it out once and then use the acronym.
+
+Most acronyms for companies or organisations are uppercase, with the exception of Anzac.
 
 Don’t use full stops in acronyms.
 
