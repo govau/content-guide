@@ -5,7 +5,7 @@ order: 5
 
 HTML should be the default format for all government information. This includes content that was previously available in Portable Document Format (PDF).
 
-On mobile devices, PDFs do not comply with [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) due to a lack of consistency in assistive technology.
+On mobile devices, PDFs do not comply with <a href="https://www.w3.org/TR/WCAG20/" rel="external">Web Content Accessibility Guidelines (WCAG) 2.0</a> due to a lack of consistency in assistive technology.
 
 PDFs are also difficult for many users to access on smaller screens.
 

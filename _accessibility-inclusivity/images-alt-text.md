@@ -11,7 +11,7 @@ Alt text sits behind the image and appears when:
 
 When content includes images, you must write the alt text.
 
-Different types of images have different alt text requirements. You can use an [alt text decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/) to help you work out what kind of alt text you need.
+Different types of images have different alt text requirements. You can use an <a href="https://www.w3.org/WAI/tutorials/images/decision-tree/" rel="external">alt text decision tree</a> to help you work out what kind of alt text you need.
 
 ### Captions
 
@@ -43,4 +43,4 @@ Long text alternative is a full description of a complex image or a table of dat
 
 To write long text imagine you're describing the essential elements of a complex image in a radio interview.
 
-Also see [W3C's complex images tutorial](https://www.w3.org/WAI/tutorials/images/complex/).
+Also see <a href="https://www.w3.org/WAI/tutorials/images/complex/" rel="external">W3C's complex images tutorial</a>.
