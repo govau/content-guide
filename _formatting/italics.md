@@ -18,7 +18,7 @@ Instead of Latin words, use plain English where possible.
 {% include guide_example.liquid
   title = "avoiding italics"
   content= "
-'He talked for a long time' instead of 'He talked _ad infinitum_'.
+a long time --- not _ad infinitum_
 "
 %}
 
