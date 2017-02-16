@@ -3,7 +3,7 @@ title: "Semicolons (;)"
 order: 10
 ---
 
-Use shorter sentences, [em dashes](#em-dashes) or [bullet point lists](/content-structure/#bullet-point-lists) rather than semicolons.
+Avoid using semicolons. Use shorter sentences, [em dashes](#em-dashes) or [bullet point lists](/content-structure/#bullet-point-lists) instead.
 
 {% include guide_example.liquid
   title = "alternatives to semicolons"
@@ -14,6 +14,6 @@ Like this
 
 Not this
 
-> We want to help to make public services simple and clear; and also fast.
+> We want to help to make public services simple and clear; we also want to help make them fast.
 "
 %}

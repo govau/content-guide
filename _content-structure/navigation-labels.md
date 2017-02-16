@@ -5,7 +5,7 @@ order: 4
 
 Write the navigation label to meet the user's need.
 
-The label should tell all users of what they will find at the destination. Often it will be the same as the page title.
+The label should tell all users what they will find at the destination. Often it will be the same as the page title.
 
 Keyword analysis tools can help.
 

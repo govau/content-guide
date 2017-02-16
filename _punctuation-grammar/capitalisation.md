@@ -5,41 +5,56 @@ order: 1
 
 Capital letters are hard to read. Keep them to a minimum.
 
-Use sentence case for most things.
+Use sentence case for most things. Capitalise the first word and proper nouns.
 
 {% include guide_example.liquid
   title = "sentence case capitalisation"
+  content= "
+- How to apply
+- Rules of engagement
+- Working at the Digital Transformation Agency
+"
+%}
+
+Do not capitalise nouns, unless they are proper nouns (for example, names of people, places or organisations).
+
+{% include guide_example.liquid
+  title = "capitalising nouns"
   content= "
 - the internet --- not the Internet
 - the web --- not the Web or World Wide Web
 - the intranet --- not the Intranet
 - wi-fi --- not wifi, WiFi or Wi-fi
+- south-east New South Wales (proper noun)
 "
 %}
 
-Use title case for proper nouns.
+Use title case for proper nouns. Capitalise the principal words only.
 
 {% include guide_example.liquid
-  title = "proper noun capitalisation"
+  title = "capitalising proper nouns"
   content= "
-south-east New South Wales
+- United States of America
+- Department of the Environment and Energy
+- Snow White and the Seven Dwarves
 "
 %}
 
 ### Headings and subheadings
 
-Use sentence case.
+Use sentence case. In general, capitalise the first word only.
 
 {% include guide_example.liquid
-  title = "headings and subheadingsF"
+  title = "headings and subheadings"
   content= "
-Business innovation incentives
+- Business innovation incentives
+- Applying for a visa
 "
 %}
 
 ### Proper nouns
 
-Capitalise proper nouns to distinguish from the common noun or generic meaning.
+Capitalise proper nouns to distinguish them from common nouns or the generic meaning.
 
 {% include guide_example.liquid
   title = "proper nouns"
@@ -48,10 +63,10 @@ Capitalise proper nouns to distinguish from the common noun or generic meaning.
 - the Treasury
 - the Crown
 - the House, when referring to either parliamentary chamber
-- the Budget --- budget provisions, the budgetary process, successive budgets.
+- the Budget --- budget provisions, the budgetary process, successive budgets
 - Parliament House
 - Australia Post
-- Australian Government, but then the government.
+- Australian Government, but then the government
 "
 %}
 
@@ -66,8 +81,8 @@ Capitalise specific references to the current prime minister but not when referr
 {% include guide_example.liquid
   title = "capitalising people's titles"
   content= "
-- The Minister for Communications ... the Minister ... ministers ... ministerial.
-- Minister Jane Blog, and then the Minister.
+- the Minister for Communications ... the Minister ... ministers ... ministerial
+- Minister Jane Blog, and then the Minister
 "
 %}
 
@@ -91,7 +106,7 @@ Title contractions do not require punctuation.
 {% include guide_example.liquid
   title = "capitalising department titles"
   content= "
-Department of Communications and Arts, but then the Department.
+Department of Communications and Arts, but then the Department
 "
 %}
 
@@ -105,8 +120,8 @@ Capitalise the principal words only.
   title = "different kinds of titles"
   content= "
 - Administrative Arrangements Order
-- the Government Information Public Access Act, then the Act
-- Read Steps to Enter Residential Aged Care before our workshop.
+- The Government Information Public Access Act, then the Act
+- Read [Steps to Enter Residential Aged Care]() before our workshop.
 "
 %}
 
@@ -118,5 +133,6 @@ A, And, At, For, From, In, Of, On, The or To.
   content= "
 - The Sound of Silence
 - To Kill a Mockingbird
+- Of Mice and Men
 "
 %}

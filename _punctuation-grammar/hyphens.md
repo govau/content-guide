@@ -8,7 +8,7 @@ Use hyphens when 2 or more words form an adjective.
 {% include guide_example.liquid
   title = "using hyphens for adjectives"
   content= "
-A first-class experience.
+a first-class experience
 "
 %}
 
@@ -17,7 +17,7 @@ Do not use hyphens when joining an adverb to a noun.
 {% include guide_example.liquid
   title = "not using hyphens to join adverb to noun"
   content= "
-Highly intelligent --- not highly-intelligent.
+highly intelligent --- not highly-intelligent
 "
 %}
 
@@ -49,12 +49,12 @@ The group is going to re-form (join up again) to reform (change) the policy.
 "
 %}
 
-Use a hyphen when the second word is ‘up’  or when the first and second word ends with the same letter.
+Use a hyphen when the second word is ‘up’ or when the first and second words end and start with the same letter.
 
 {% include guide_example.liquid
   title = "using hyphens with 'up'"
   content= "
-- Meet-up.
-- Re-engage.
+- meet-up
+- re-engage
 "
 %}

@@ -3,7 +3,7 @@ title: "Ellipses ( ... )"
 order: 13
 ---
 
-Use ellipses after text when deliberately leaving something out, for example in the middle of a long quote.
+Use ellipses after text when deliberately leaving something out --- for example in the middle of a long quote.
 
 {% include guide_example.liquid
   title = "referencing a PDF"
@@ -14,7 +14,7 @@ With ellipsis: 'Today ... we analysed the results.'
 "
 %}
 
-Use a space on either side of the ellipsis except when followed by a question mark.
+Use a space on either side of the ellipsis except when it's followed by a question mark.
 
 {% include guide_example.liquid
   title = "referencing a PDF"

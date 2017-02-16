@@ -3,12 +3,13 @@ title: "Quotation marks (‘ ’ & “ ”)"
 order: 12
 ---
 
-Use single quotation marks.
+Use single quotation marks when quoting a person or a source.
 
 {% include guide_example.liquid
   title = "single quotation marks"
   content= "
-The manager said, ‘Work-life balance is an important part of our organisation’s success.’
+- The manager said, ‘Work-life balance is an important part of our organisation’s success.’
+- The report concluded, ‘Focus on user needs.’
 "
 %}
 

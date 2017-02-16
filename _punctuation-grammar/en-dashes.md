@@ -1,5 +1,5 @@
 ---
-title: "En dashes (--)"
+title: "En dashes (&ndash;)"
 order: 5
 ---
 
@@ -11,6 +11,6 @@ Use ‘to’ in time and date ranges --- not hyphens or en dashes.
   title = "using words not en dashes for ranges"
   content= "
 - We are open Monday to Friday, 9am to 5pm.
-- The expo runs 29 to 31 July 2017.
+- The conference runs 29 to 31 July 2017.
 "
 %}

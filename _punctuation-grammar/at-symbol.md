@@ -1,5 +1,5 @@
 ---
-title: "At symbol (@)"
+title: "At symbols (@)"
 order: 14
 ---
 
