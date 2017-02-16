@@ -11,7 +11,7 @@ Users with dyslexia can find italics very difficult to read.
 
 Never use italics in headlines.
 
-### Latin words
+### Avoid Latin words
 
 Instead of Latin words, use plain English where possible.
 
