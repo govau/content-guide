@@ -5,19 +5,19 @@ order: 0
 
 Use digits instead of words for most numbers.
 
-Use a comma for every third digit from the right upwards from 10,000.
+Use a comma between the third and fourth digit from the right, for numbers 10,000 and above.
 
-Use words for ordinals.
+Use words for ordinals, except for dates.
 
-Use the word million instead of digits for 1 million and upwards.
+Use the word million instead of digits for 1 million and above.
 
 {% include guide_example.liquid
   title = "numbers"
   content= "
 - 1 to 9 --- not one to nine
-- first, second, third
 - 10 to 9999
 - 10,000 to 1 million
+- first, second, third
 - 100s of them
 - 5kg
 - 50KB
@@ -43,7 +43,6 @@ Abbreviate million, billion and trillion in headings, tables and graphics.
 
 Use digits at the beginning of a line, bulleted item or sentence.
 
-**For example**
 {% include guide_example.liquid
   title = "using digits at the start of a line"
   content= "

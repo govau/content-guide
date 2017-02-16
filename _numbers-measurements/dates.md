@@ -14,7 +14,7 @@ Like this
 
 Not this
 
-> 8th October, 2016.
+> 8th October, 2016
 "
 %}
 
@@ -40,9 +40,11 @@ Use ‘to’ in time and date ranges --- not hyphens or en dashes.
   content= "
 We are open Monday to Friday, 9am to 5pm.
 
-Tax years
+This will take 10 to 15 minutes.
 
-- 2013 to 2014.
-- 2014 to 2015.
-- 2015 to 2016."
+This is covers these financial years:
+- 2013 to 2014
+- 2014 to 2015
+- 2015 to 2016.
+"
 %}

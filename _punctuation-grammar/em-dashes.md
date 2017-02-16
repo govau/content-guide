@@ -12,7 +12,7 @@ Focus on user needs --- not government needs.
 "
 %}
 
-Write an em dash:
+How to type an em dash:
 
 - Windows: hold <kbd>Ctrl</kbd> + <kbd>Alt</kbd> keys and type <kbd>-</kbd>
 - Mac: hold <kbd>Option</kbd> + <kbd>Shift</kbd> keys and type <kbd>-</kbd>

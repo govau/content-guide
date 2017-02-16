@@ -7,7 +7,7 @@ Think about the user when you write the script.
 
 Get to the point early on.
 
-Think visually and show don’t tell. What you show on the video should describe what is being said to reduce the narrative.
+Think visually. Show, don’t tell. What you show on the video should describe what is being said to reduce the narrative.
 
 ### Make short videos
 

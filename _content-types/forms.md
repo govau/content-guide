@@ -4,8 +4,8 @@ order: 4
 ---
 
 - Think about the user’s need and what they need to do.
-- Write forms in in plain English.
-- Follow the [DTA Design Guide guidance on building forms](http://guides.service.gov.au/design-guide/components/forms-buttons/index.html).
+- Write forms in plain English.
+- Follow the [DTA Design Guide on building forms](http://guides.service.gov.au/design-guide/components/forms-buttons/index.html).
 - Test forms for usability and accessibility.
 - If a form will be printed, scanned or emailed, provide a contact support phone number on the form.
 
