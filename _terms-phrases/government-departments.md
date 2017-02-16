@@ -1,6 +1,6 @@
 ---
 title: "Government departments"
-order: 12
+order: 10
 ---
 
 **REVIEW:** Write the government department’s name in full on first mention and then as 'the Department'.
@@ -12,7 +12,7 @@ The Department for Communication and the Arts is the Australian Government’s l
 "
 %}
 
-Use first person pronouns through the rest of the text: we, us.
+Use first-person pronouns through the rest of the text: we, us.
 
 When naming other departments, use the name in full followed by the acronym in brackets.
 

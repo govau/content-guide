@@ -10,9 +10,9 @@ See also guidance on [abbreviating numbers and measures](/numbers-measurements/)
 {% include guide_example.liquid
   title = "abbreviations"
   content= "
-- Ms instead of Miss/Mistress or Mrs/Misses.
-- Mr instead of Mister.
-- Pty Ltd instead of Proprietary Limited.
+- Ms --- instead of Miss/Mistress or Mrs/Misses
+- Mr --- instead of Mister
+- Pty Ltd --- instead of Proprietary Limited
 "
 %}
 
@@ -23,6 +23,10 @@ Abbreviate honours, awards and distinctions without full stops.
 {% include guide_example.liquid
   title = "abbreviating honours, awards and distinctions"
   content= "
-AO, OM, BA, DipEd, PhD
+- AO (Order of Australia)
+- OM (Member of the Order of Merit)
+- BA (Batchelor of Arts)
+- DipEd (Diploma of Education)
+- PhD (Doctor of Philosophy)
 "
 %}

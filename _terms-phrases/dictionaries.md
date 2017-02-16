@@ -1,6 +1,6 @@
 ---
 title: "Dictionaries"
-order: 7
+order: 6
 ---
 
 Use the most recent edition of the [Macquarie Dictionary](https://www.macquariedictionary.com.au/), and the first option listed.
@@ -12,7 +12,7 @@ If you are using Microsoft Word, set it to English UK rather than American Engli
 Use the spelling organisations use for their own names.
 
 {% include guide_example.liquid
-  title = "using US spelling for organsiations"
+  title = "using US spelling for organisations"
   content= "
 World Health Organization
 "

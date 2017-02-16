@@ -1,6 +1,6 @@
 ---
 title: "Gender"
-order: 11
+order: 9
 ---
 
 Use gender-neutral job titles.
@@ -8,9 +8,9 @@ Use gender-neutral job titles.
 {% include guide_example.liquid
   title = "gender-neutral job titles"
   content= "
-- Worker instead of workman.
-- Business manager or business person instead of businessman or businesswoman.
-- Chairperson instead of chairman or chairwoman.
+- worker --- instead of workman.
+- business manager or business person --- instead of businessman or businesswoman
+- chairperson --- instead of chairman or chairwoman
 "
 %}
 

@@ -1,6 +1,6 @@
 ---
 title: "eg, ie, etc & nb"
-order: 10
+order: 8
 ---
 
 Avoid the Latin abbreviations eg, ie, etc and nb.
@@ -9,7 +9,7 @@ Avoid the Latin abbreviations eg, ie, etc and nb.
 
 Use 'for example' instead of eg.
 
-If space is limited, for example in a table, you may can use eg.
+If space is limited, for example in a table, you can use eg.
 
 Only do this if your users can understand it (sometimes screen readers won't read it correctly).
 

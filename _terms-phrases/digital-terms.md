@@ -1,6 +1,6 @@
 ---
 title: "Digital terms"
-order: 8
+order: 7
 ---
 
 - blog post
@@ -19,7 +19,7 @@ order: 8
 - sub-site
 - URL
 - web
-- webpage
+- web page
 - website
 - wi-fi
 - world wide web

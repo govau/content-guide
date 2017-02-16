@@ -1,6 +1,6 @@
 ---
 title: "Plain English terms"
-order: 15
+order: 13
 ---
 
 <table class="content-table">
@@ -77,7 +77,7 @@ order: 15
 </tr>
 <tr>
 <td>create a dialogue with them</td>
-<td>speak to people</td>
+<td>speak to them</td>
 </tr>
 <tr>
 <td>deliver, drive</td>
@@ -85,7 +85,7 @@ order: 15
 </tr>
 <tr>
 <td>despite the fact that</td>
-<td>although, despite</td>
+<td>although</td>
 </tr>
 <tr>
 <td>disburse</td>
@@ -173,15 +173,11 @@ order: 15
 </tr>
 <tr>
 <td>in the event of, in the event that</td>
-<td>if when</td>
-</tr>
-<tr>
-<td>in the event that</td>
-<td>if</td>
+<td>if, when</td>
 </tr>
 <tr>
 <td>in the light of, in view of</td>
-<td>because</td>
+<td>because of</td>
 </tr>
 <tr>
 <td>it is requested that you declare</td>
@@ -197,7 +193,7 @@ order: 15
 </tr>
 <tr>
 <td>leverage</td>
-<td>to use, build on</td>
+<td>use, build on</td>
 </tr>
 <tr>
 <td>make an application</td>
@@ -261,7 +257,7 @@ order: 15
 </tr>
 <tr>
 <td>that is the reason why</td>
-<td>that is why, the reason why</td>
+<td>that is why</td>
 </tr>
 <tr>
 <td>the way in which</td>

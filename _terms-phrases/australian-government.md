@@ -1,6 +1,6 @@
 ---
 title: "Australian Government"
-order: 5
+order: 4
 ---
 
 Use 'Australian Government' when talking about the national government of Australia.
