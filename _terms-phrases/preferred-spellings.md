@@ -18,9 +18,20 @@ We are an adviser to government.
 ‘Effect’ is a generally a noun. ‘Affect’ is a verb.
 
 {% include guide_example.liquid
-  title = "referencing a PDF"
+  title = "effect and affect"
   content= "
 The training has had an **effect** on performance. The training has started to **affect** the team's performance.
+"
+%}
+
+### Focused
+
+Use focused --- not focussed.
+
+{% include guide_example.liquid
+  title = "focused"
+  content= "
+We are focused on user needs.
 "
 %}
 
