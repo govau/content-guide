@@ -50,6 +50,6 @@ Use `mailto:` prefix in the URL but not in the link text.
 {% include guide_example.liquid
   title = "links email addresses"
   content= "
-Contact [belinda.blogs@dto.gov.au](mailto:belinda.blogs@dto.gov.au) --- not [email Belinda, Head of Social Media](mailto:belinda.blogs@dto.gov.au).
+Contact [belinda.blogs@dta.gov.au](mailto:belinda.blogs@dta.gov.au) --- not [email Belinda, Head of Social Media](mailto:belinda.blogs@dta.gov.au).
 "
 %}
