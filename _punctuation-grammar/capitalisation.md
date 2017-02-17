@@ -5,7 +5,9 @@ order: 1
 
 Capital letters are hard to read. Keep them to a minimum.
 
-Use sentence case for most things. Capitalise the first word and proper nouns.
+Use sentence case for most things (capitalise the first word).
+
+Use title case for proper nouns (capitalise the principle words).
 
 {% include guide_example.liquid
   title = "sentence case capitalisation"
@@ -16,57 +18,35 @@ Use sentence case for most things. Capitalise the first word and proper nouns.
 "
 %}
 
-Do not capitalise nouns, unless they are proper nouns (for example, names of people, places or organisations).
-
-{% include guide_example.liquid
-  title = "capitalising nouns"
-  content= "
-- the internet --- not the Internet
-- the web --- not the Web or World Wide Web
-- the intranet --- not the Intranet
-- wi-fi --- not wifi, WiFi or Wi-fi
-- south-east New South Wales (proper noun)
-"
-%}
-
-Use title case for proper nouns. Capitalise the principal words only.
-
-{% include guide_example.liquid
-  title = "capitalising proper nouns"
-  content= "
-- United States of America
-- Department of the Environment and Energy
-- Snow White and the Seven Dwarves
-"
-%}
-
 ### Headings and subheadings
 
-Use sentence case. In general, capitalise the first word only.
+Use sentence case for headings and subheadings.
+
+In general, capitalise the first word only.
 
 {% include guide_example.liquid
   title = "headings and subheadings"
   content= "
 - Business innovation incentives
 - Applying for a visa
+- Visiting Australia
 "
 %}
 
-### Proper nouns
+### Nouns
 
-Capitalise proper nouns to distinguish them from common nouns or the generic meaning.
+Use title case for proper nouns --- for example, names of people, places or organisations).
+
+Capitalise the principal words only, to distinguish them from common nouns or the generic meaning.
 
 {% include guide_example.liquid
-  title = "proper nouns"
+  title = "capitalising proper nouns"
   content= "
-- the Cabinet
-- the Treasury
-- the Crown
-- the House, when referring to either parliamentary chamber
-- the Budget --- budget provisions, the budgetary process, successive budgets
-- Parliament House
-- Australia Post
+- Jane Blogs
 - Australian Government, but then the government
+- United States of America
+- Digital Transformation Agency
+- The Department of the Environment and Energy is an Australian Government department.
 "
 %}
 
@@ -120,8 +100,8 @@ Capitalise the principal words only.
   title = "different kinds of titles"
   content= "
 - Administrative Arrangements Order
-- The Government Information Public Access Act, then the Act
-- Read [Steps to Enter Residential Aged Care]() before our workshop.
+- read [Steps to Enter Residential Aged Care]() first
+- the Government Information (Public Access) Act 2009, then the Act
 "
 %}
 

@@ -10,11 +10,13 @@ You can use a colon in a sentence fragment --- but bullet point lists are easier
 {% include guide_example.liquid
   title = "using a colon in a sentence fragment"
   content= "
-> The community are considering: green solutions, cultural festivals and bush-regeneration programs.
+> The community are considering: green solutions, cultural festivals, crowdsourcing funds, conferences and bush-regeneration programs.
 
 > The community are considering:
 > - green solutions
 > - cultural festivals
+> - crowdsourcing funds
+> - conferences
 > - bush-regeneration programs.
 "
 %}

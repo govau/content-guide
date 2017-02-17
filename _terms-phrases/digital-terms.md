@@ -9,8 +9,8 @@ order: 7
 - e-learning
 - HTML
 - homepage
-- internet
-- intranet
+- internet --- not the Internet
+- intranet --- not the Intranet
 - login (noun)
 - log in (verb)
 - online
@@ -18,9 +18,9 @@ order: 7
 - standalone
 - sub-site
 - URL
-- web
+- web --- not the Web or World Wide Web
 - web page
 - website
-- wi-fi
+- wi-fi --- not wifi, WiFi or Wi-fi
 - world wide web
 - XML

@@ -34,3 +34,15 @@ Not this
 > Australian and state and territory governments.
 "
 %}
+
+### Government terms
+
+{% include guide_example.liquid
+  title = "other government terms"
+  content= "
+- the Cabinet
+- the Treasury
+- Parliament House --- use 'the House' when referring to either parliamentary chamber
+- the Budget, budget provisions, the budgetary process, successive budgets
+"
+%}
