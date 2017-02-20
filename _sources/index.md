@@ -5,6 +5,8 @@ abstract: ""
 published: true
 ---
 
+The DTA Content Guide and earlier guides were developed with the help of members of the <a href="https://groups.google.com/a/digital.gov.au/forum/#!forum/content-design-in-government" rel="external">Content Design in Government Google Group</a>. We are grateful for their continuing guidance.
+
 We have been closely guided by and used content from:
 
 - the [Government Digital Service (GDS) Style guide](https://www.gov.uk/guidance/style-guide) and [GDS blog](https://gds.blog.gov.uk/).

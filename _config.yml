@@ -11,7 +11,7 @@ email_team: guides@digital.gov.au
 
 # GUIDE SETTINGS
 title: DTA Content Guide
-description: A guide to help Australian Government teams create simple, clear and fast information.
+description: A guide to help Australian Government teams design simple, clear and fast content.
 github_url: https://github.com/govau/content-guide
 
 
@@ -110,6 +110,11 @@ highlighter: rouge
 #     output: false
 #
 collections:
+  about:
+    title: "About the DTA Content Guide"
+    description: "The purpose of this guide and how you can contribute to it."
+    order: 0
+    output: true
   updates:
     title: "Latest updates"
     description: "Recent changes to this guide."
