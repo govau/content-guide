@@ -19,7 +19,7 @@ The main changes are listed below.
 #### New user interface and GitHub repo
 
 - Implementation of the <a href="https://github.com/AusDTO/gov-au-ui-kit" rel="external">DTA's UI-Kit CSS framework</a>.
-- A new <a href="https://github.com/govau/content-guide" rel="external>govau/content-guide</a> GitHub repository</a>.
+- A new <a href="https://github.com/govau/content-guide" rel="external">govau/content-guide</a> GitHub repository</a>.
 
 #### Changes to guidance
 
