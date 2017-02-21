@@ -27,5 +27,5 @@ The main changes are listed below.
 - [Always capitalise Department and Minister if it is a proper noun](/punctuation-grammar/index.html#capitalisation) in all instances (TBC).
 - Use [words for ordinals](/numbers-measurements/#numbers), except for dates.
 - Added [guidance on referring to senators](/terms-phrases/#ministers-senators-mps).
-- Use [focused](/terms-phrases/#preferred-spellings), not focused.
+- Use [focused](/terms-phrases/#preferred-spellings), not focussed.
 - Programme, not program &#8212; no, we're joking. We still recommend you <a href="https://www.macquariedictionary.com.au/news/view/editor/article/17/" rel="external">spell it 'program' and here's why</a> (and by the way, thanks for reading all the way to the bottom).
