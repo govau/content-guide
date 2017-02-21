@@ -18,4 +18,4 @@ How to type an em dash:
 - Mac: hold <kbd>Option</kbd> + <kbd>Shift</kbd> keys and type <kbd>-</kbd>
 - [kramdown markdown](http://kramdown.gettalong.org/) notation: use 3 hyphens (<kbd>---</kbd>)
 - HTML: `&mdash;`
-- Google Docs: go to 'Insert' menu and then 'Special characters'.
+- Google Docs: go to 'Insert' menu, 'Special characters' and select 'Punctuation' and 'Dash/Connector'.
