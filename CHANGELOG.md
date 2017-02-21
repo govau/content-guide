@@ -1,6 +1,6 @@
 # DTA Content Guide changelog
 
-## Content Guide "Getting with the program"
+## Content Guide 'Getting with the program'
 
 ### 1.0 - 2017-02-03
 
@@ -23,9 +23,9 @@ The main changes are listed below.
 
 #### Changes to guidance
 
-- Updated guidance on [how to reference cultural diversity]() (TBC).
+- Updated guidance on [how to reference cultural diversity](/accessibility-inclusivity/) (TBC).
 - [Capitalise Department and Minister](/punctuation-grammar/index.html#capitalisation) if it is a proper noun in all instances (TBC).
 - Use [words for ordinals](/numbers-measurements/#numbers), except for dates.
 - Added [guidance on referring to senators](/terms-phrases/#ministers-senators-mps).
-- Use [Focused](/terms-phrases/#preferred-spellings), not focused.
-- Programme, not program. No, we're just joking: we <a href="https://www.macquariedictionary.com.au/news/view/editor/article/17/" rel="external">still recommend spelling it 'program' and here's why</a> (by the way, thanks for reading all the way to the bottom).
+- Use [focused](/terms-phrases/#preferred-spellings), not focused.
+- Programme, not program &mdash no, we're joking. We <a href="https://www.macquariedictionary.com.au/news/view/editor/article/17/" rel="external">still recommend spelling it 'program' and here's why</a> (by the way, thanks for reading all the way to the bottom).
