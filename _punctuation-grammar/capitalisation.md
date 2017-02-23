@@ -56,8 +56,6 @@ Capitalise formal titles, unless using them as nouns or adjectives.
 
 Capitalise specific references to the current prime minister but not when referring to a former prime minister.
 
-**REVIEW EXAMPLE**
-
 {% include guide_example.liquid
   title = "capitalising people's titles"
   content= "
@@ -80,8 +78,6 @@ Title contractions do not require punctuation.
 %}
 
 ### Department titles
-
-**REVIEW EXAMPLE**
 
 {% include guide_example.liquid
   title = "capitalising department titles"

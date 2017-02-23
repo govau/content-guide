@@ -24,8 +24,10 @@ The main changes are listed below.
 ### Changes to guidance
 
 - Updated guidance on [how to reference cultural diversity](/accessibility-inclusivity/) (TBC).
-- [Always capitalise Department and Minister if it is a proper noun](/punctuation-grammar/index.html#capitalisation) in all instances (TBC).
+- [Always capitalise department, minister and senator if they are part of a proper noun](/punctuation-grammar/index.html#capitalisation).
 - Use [words for ordinals](/numbers-measurements/#numbers), except for dates.
+- Added guidance on [using numbered (ordered) lists](/content-structure/#bullet-point-lists).
 - Added [guidance on referring to senators](/terms-phrases/#ministers-senators-mps).
+- Added [preference for using text message]() over SMS (TBC).
 - Use [focused](/terms-phrases/#preferred-spellings), not focused.
-- Expanded guidance on [using Programme in the context of existing legislation](/terms-phrases/#preferred-spellings) (TBC).
+- Added guidance on [using programme in the context of existing legislation](/terms-phrases/#preferred-spellings).

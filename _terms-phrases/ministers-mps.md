@@ -3,7 +3,7 @@ title: "Ministers, senators & MPs"
 order: 12
 ---
 
-**REVIEW:** Refer to ministers in the Australian Government by their full title in the first instance, and then as the Minister.
+Refer to ministers in the Australian Government by their full title in the first instance, and then as the Minister.
 
 {% include guide_example.liquid
   title = "referring to Australian Government ministers"
@@ -12,7 +12,7 @@ The Honourable Minister for Education, Jane Blogs, opened the school. The Minist
 "
 %}
 
-**REVIEW:** Refer to senators by their full title in the first instance, and then by ‘Senator’ and their surname.
+Refer to senators by their full title in the first instance, and then by ‘Senator’ and their surname.
 
 {% include guide_example.liquid
   title = "referring to senators"
@@ -27,7 +27,7 @@ If the senator has never been a minister:
 "
 %}
 
-**REVIEW:** For members of parliament who have never been minsters, refer to them by their full title in the first instance, and then by using Mr or Ms and their surname.
+For members of parliament who have never been minsters, refer to them by their full title in the first instance, and then by using Mr or Ms and their surname.
 
 {% include guide_example.liquid
   title = "referring to members of parliament"
