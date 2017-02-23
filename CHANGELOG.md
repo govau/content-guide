@@ -6,20 +6,20 @@
 
 Live release of the DTA Content Guide.
 
-Too much has changed since the <a href="https://github.com/AusDTO/gov-au-content-guide">draft Content Style Guide v1.0</a> was released in May 2016 to provide a detailed list.
+The [draft Content Style Guide v1.0](https://github.com/AusDTO/gov-au-content-guide) was released in May 2016. Too much has changed in this version to provide a complete list.
 
 The main changes are listed below.
 
-#### IA and content streamlining
+#### IA & content streamlining
 
-- Implementation of a completely new information architecture, based on card sorts with DTA content designers and members of the Content Design in Government Google Group.
+- Implementation of a new information architecture, based on card sorts with DTA content designers and members of the Content Design in Government Google Group.
 - Removed repetition and outdated guidance.
 - Improvement of content and rendering of examples in multiple sections.
 
-#### New user interface and GitHub repo
+#### New user interface & GitHub repo
 
-- Implementation of the <a href="https://github.com/AusDTO/gov-au-ui-kit" rel="external">DTA's UI-Kit CSS framework</a>.
-- A new <a href="https://github.com/govau/content-guide" rel="external>govau/content-guide</a> GitHub repository</a>.
+- Implementation of the [DTA's UI-Kit CSS framework](https://github.com/AusDTO/gov-au-ui-kit).
+- A new [govau/content-guide](https://github.com/govau/content-guide) GitHub repository</a>.
 
 #### Changes to guidance
 
@@ -28,4 +28,4 @@ The main changes are listed below.
 - Use [words for ordinals](/numbers-measurements/#numbers), except for dates.
 - Added [guidance on referring to senators](/terms-phrases/#ministers-senators-mps).
 - Use [focused](/terms-phrases/#preferred-spellings), not focused.
-- Programme, not program &mdash no, we're joking. We <a href="https://www.macquariedictionary.com.au/news/view/editor/article/17/" rel="external">still recommend spelling it 'program' and here's why</a> (by the way, thanks for reading all the way to the bottom).
+- Programme &mdash; no, we're joking. We follow the <a href="https://www.macquariedictionary.com.au/">Macquarie Dictionary</a>'s recommendation to [spell it 'program'](/terms-phrases/#preferred-spellings). You can read the <a href="https://www.macquariedictionary.com.au/news/view/editor/article/17/">Macquarie Dictionary editor's thoughts about 'programme or program?'</a>. (And thanks for reading all the way to the bottom of our changelog!)
