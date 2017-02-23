@@ -46,10 +46,9 @@ New programs should use the 'program' spelling.
 {% include guide_example.liquid
   title = "using program"
   content= "
-- the program for the team
-- Customs (Australian Trusted Trader Programme) Rule 2015
-- Data-matching Program (Assistance and Tax) Act 1990
-- Rural Development Programme for England
+- program of events
+- South Pacific Regional Environmental Programme (Privileges and Immunities) Regulations 1996
+- Corrosion Prevention and Control Program
 "
 %}
 
