@@ -28,6 +28,6 @@ The main changes are listed below.
 - Use [words for ordinals](/numbers-measurements/#numbers), except for dates.
 - Added guidance on [using numbered (ordered) lists](/content-structure/#bullet-point-lists).
 - Added [guidance on referring to senators](/terms-phrases/#ministers-senators-mps).
-- Added [preference for using text message]() over SMS (TBC).
+- Added [preference for using text message](/terms-phrases/#digital-terms) over SMS.
 - Use [focused](/terms-phrases/#preferred-spellings), not focused.
 - Added guidance on [using programme in the context of existing legislation](/terms-phrases/#preferred-spellings).
