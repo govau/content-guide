@@ -42,7 +42,7 @@ Capitalise the principal words only, to distinguish them from common nouns or th
 {% include guide_example.liquid
   title = "capitalising proper nouns"
   content= "
-- Jane Blogs
+- Jane Bloggs
 - Australian Government, but then the government
 - United States of America
 - Digital Transformation Agency
@@ -60,7 +60,7 @@ Capitalise specific references to the current prime minister but not when referr
   title = "capitalising people's titles"
   content= "
 - the Minister for Communications ... the Minister ... ministers ... ministerial
-- Minister Jane Blog, and then the Minister
+- Minister Jane Bloggs, and then the Minister
 "
 %}
 
