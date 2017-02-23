@@ -17,6 +17,7 @@ order: 7
 - PDF
 - standalone
 - sub-site
+- text message --- not SMS
 - URL
 - web --- not the Web or World Wide Web
 - web page
