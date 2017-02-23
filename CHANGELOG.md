@@ -21,11 +21,6 @@ The main changes are listed below.
 - Implementation of the [DTA's UI-Kit CSS framework](https://github.com/AusDTO/gov-au-ui-kit).
 - A new [govau/content-guide](https://github.com/govau/content-guide) GitHub repository</a>.
 
-### New user interface & GitHub repo
-
-- Implementation of the <a href="https://github.com/AusDTO/gov-au-ui-kit" rel="external">DTA's UI-Kit CSS framework</a>.
-- A new <a href="https://github.com/govau/content-guide" rel="external">govau/content-guide</a> GitHub repository</a>.
-
 ### Changes to guidance
 
 - Updated guidance on [how to reference cultural diversity](/accessibility-inclusivity/) (TBC).
@@ -33,4 +28,4 @@ The main changes are listed below.
 - Use [words for ordinals](/numbers-measurements/#numbers), except for dates.
 - Added [guidance on referring to senators](/terms-phrases/#ministers-senators-mps).
 - Use [focused](/terms-phrases/#preferred-spellings), not focused.
-- Programme &mdash; no, we're joking. We follow the <a href="https://www.macquariedictionary.com.au/">Macquarie Dictionary</a>'s recommendation to [spell it 'program'](/terms-phrases/#preferred-spellings). You can read the <a href="https://www.macquariedictionary.com.au/news/view/editor/article/17/">Macquarie Dictionary editor's thoughts about 'programme or program?'</a>. Thanks for reading all the way to the bottom of our changelog!
+- Expanded guidance on [using Programme in the context of existing legislation](/terms-phrases/#preferred-spellings) (TBC).

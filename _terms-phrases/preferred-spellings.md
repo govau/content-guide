@@ -39,10 +39,17 @@ We are focused on user needs.
 
 Use program --- not programme.
 
+Use programme if it is part of a proper noun, for example the title of an existing program or legislation.
+
+New programs should use the 'program' spelling.
+
 {% include guide_example.liquid
-  title = "using program in a sentence"
+  title = "using program"
   content= "
-This is the program for the team.
+- the program for the team
+- Customs (Australian Trusted Trader Programme) Rule 2015
+- Data-matching Program (Assistance and Tax) Act 1990
+- Rural Development Programme for England
 "
 %}
 
