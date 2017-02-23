@@ -38,7 +38,7 @@ Awareness week agenda
 
 ### Numbered (ordered) lists
 
-**REVIEW THIS: Only use a numbered list for ordered steps or to show priority.**
+Only use a numbered list for ordered steps or to show priority.
 
 {% include guide_example.liquid
   title = "numbered list"
