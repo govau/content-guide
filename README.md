@@ -55,6 +55,7 @@ Setup locally
 git clone https://github.com/govau/content-guide.git
 cd content-guide
 git submodule init
+git submodule update
 gem install bundler
 bundle install
 ```
