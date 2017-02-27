@@ -301,8 +301,8 @@ main {
       position: relative;
 
       &:hover {
-        // border-bottom: none;
-        // background-color: $background-colour;
+        border-bottom: none;
+        background-color: $background-colour;
 
         &:after {
           content: '\00B6'; // pilcrow character
