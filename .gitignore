@@ -25,6 +25,11 @@ _assets/scss/.sass-lint.yml
 *.sublime-project
 *.sublime-workspace
 
+### Intellij IDEA ###
+
+### Intellij IDEA ###
+.idea
+
 ### Yarn ###
 yarn.lock
 
