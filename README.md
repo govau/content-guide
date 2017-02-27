@@ -1,4 +1,4 @@
-# Draft Content Style Guide
+# Draft Content Guide
 
 This guide is designed to help people working in the Australian Government create simpler, clearer and faster information.
 
@@ -13,7 +13,7 @@ It can be currently accessed at http://content-style-guide.apps.staging.digital.
 1. [Feedback](#feedback)
 1. [Contributing](#contributing)
 1. [Developer information](#developer-information)
-1. [Copyright & license](#copyright--license)
+1. [Copyright and license](#copyright--license)
 
 ## Feedback
 
@@ -73,7 +73,7 @@ rbenv rehash
 
 If you still have troubles ask for help! (:
 
-## Copyright & license
+## Copyright and license
 
 Copyright Digital Transformation Agency. Licensed under the Creative Commons Attribution 4.0 International Public License. See [LICENSE file](https://github.com/govau/content-guide/blob/master/LICENSE.md) for more details.
 

@@ -1,5 +1,5 @@
 ---
-title: "Terms & phrases"
+title: "Terms and phrases"
 layout: "collections/index"
 abstract: ""
 published: true

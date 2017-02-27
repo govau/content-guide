@@ -16,7 +16,7 @@ See also guidance on [abbreviating numbers and measures](/numbers-measurements/)
 "
 %}
 
-### Honours, awards & distinctions
+### Honours, awards and distinctions
 
 Abbreviate honours, awards and distinctions without full stops.
 

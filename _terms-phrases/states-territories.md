@@ -1,5 +1,5 @@
 ---
-title: "States & territories"
+title: "States and territories"
 order: 15
 ---
 
@@ -21,12 +21,12 @@ Use contractions and acronyms if space is limited (for example, a table) or to a
 "
 %}
 
-### State & territory governments
+### State and territory governments
 
 Capitalise the formal state or territory government title only.
 
 {% include guide_example.liquid
-  title = "referring to state & territory governments"
+  title = "referring to state and territory governments"
   content= "
 - ACT Government
 - Government of South Australia

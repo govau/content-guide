@@ -1,5 +1,5 @@
 ---
-title: "Images & alt text"
+title: "Images and alt text"
 order: 3
 ---
 

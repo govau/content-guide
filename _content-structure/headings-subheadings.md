@@ -1,5 +1,5 @@
 ---
-title: "Headings & subheadings"
+title: "Headings and subheadings"
 order: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Measurement & weights"
+title: "Measurement and weights"
 order: 5
 ---
 

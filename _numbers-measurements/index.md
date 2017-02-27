@@ -1,5 +1,5 @@
 ---
-title: "Numbers & measurement"
+title: "Numbers and measurement"
 layout: "collections/index"
 abstract: "Numbers are easier to read on a screen than words, so use them where possible."
 published: true

@@ -1,5 +1,5 @@
 ---
-title: "Ministers, senators & MPs"
+title: "Ministers, senators and MPs"
 order: 12
 ---
 

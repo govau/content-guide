@@ -1,5 +1,5 @@
 ---
-title: "Surveys & questionnaires"
+title: "Surveys and questionnaires"
 order: 5
 ---
 

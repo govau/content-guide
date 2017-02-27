@@ -1,5 +1,5 @@
 ---
-title: "Punctuation & grammar"
+title: "Punctuation and grammar"
 layout: "collections/index"
 abstract: ""
 published: true

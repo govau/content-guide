@@ -86,7 +86,7 @@ Department of Communications and Arts, but then the Department
 "
 %}
 
-### Legislation, publications, policies, programs & report titles
+### Legislation, publications, policies, programs and report titles
 
 Use title case for titles of books, films, photographs, publications, TV programs, paintings, songs and albums.
 

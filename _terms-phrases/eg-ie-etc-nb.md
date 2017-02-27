@@ -1,5 +1,5 @@
 ---
-title: "eg, ie, etc & nb"
+title: "eg, ie, etc and nb"
 order: 8
 ---
 

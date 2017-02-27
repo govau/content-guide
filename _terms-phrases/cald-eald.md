@@ -1,5 +1,5 @@
 ---
-title: "CALD & EAL/D"
+title: "CALD and EAL/D"
 order: 5
 ---
 

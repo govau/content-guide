@@ -1,5 +1,5 @@
 ---
-title: "Hours & minutes"
+title: "Hours and minutes"
 order: 2
 ---
 

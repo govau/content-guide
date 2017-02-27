@@ -121,17 +121,17 @@ collections:
     order: 9
     output: true
   accessibility-inclusivity:
-    title: "Accessibility & inclusivity"
+    title: "Accessibility and inclusivity"
     description: ""
     order: 1
     output: true
   punctuation-grammar:
-    title: "Punctuation & grammar"
+    title: "Punctuation and grammar"
     description: ""
     order: 2
     output: true
   numbers-measurements:
-    title: "Numbers & measurements"
+    title: "Numbers and measurements"
     description: ""
     order: 3
     output: true
@@ -156,7 +156,7 @@ collections:
     order: 7
     output: true
   terms-phrases:
-    title: "Terms & phrases"
+    title: "Terms and phrases"
     description: ""
     order: 8
     output: true

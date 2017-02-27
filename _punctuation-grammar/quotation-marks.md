@@ -1,5 +1,5 @@
 ---
-title: "Quotation marks (‘ ’ & “ ”)"
+title: "Quotation marks (‘ ’ and “ ”)"
 order: 12
 ---
 

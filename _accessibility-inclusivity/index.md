@@ -1,5 +1,5 @@
 ---
-title: "Accessibility & inclusivity"
+title: "Accessibility and inclusivity"
 layout: "collections/index"
 abstract: "Use language to connect with all users respectfully and politely regardless of origin and ability."
 published: true

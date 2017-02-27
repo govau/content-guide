@@ -1,5 +1,5 @@
 ---
-title: "Aboriginal & Torres Strait Islander peoples"
+title: "Aboriginal and Torres Strait Islander peoples"
 order: 6
 ---
 

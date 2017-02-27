@@ -13,7 +13,7 @@ We are an adviser to government.
 "
 %}
 
-### Effect & affect
+### Effect and affect
 
 ‘Effect’ is a generally a noun. ‘Affect’ is a verb.
 
