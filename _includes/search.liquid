@@ -1,0 +1,38 @@
+<div id="search">
+    <form id="search-form" action="/search/" method="get">
+        <label for="q">Search content guide</label>
+        <input name="q" id="search-query" type="text" autocomplete="on"/>
+        <input type="submit" value="Search">
+    </form>
+</div>
+
+<section id="search-results" class="search-results" style="display: none;">
+    <h2>Search results</h2>
+    Sorted by relevance
+    <div class="entries">
+    </div>
+</section>
+
+{% raw %}
+<script id="search-results-template" type="text/mustache">
+  <ul class="list-horizontal">
+  {{#entries}}
+    <li>
+      <article>
+        <h3>
+          <a href="{{ url }}">{{title}}</a>
+        </h3>
+        <div class="meta">
+          {{#date}}<time datetime="{{ pubdate }}">{{ displaydate }}</time>{{/date}}
+        </div>
+        <p>abstract todo {{ abstract }}</p>
+      </article>
+    </li>
+  {{/entries}}
+  </ul>
+</script>
+{% endraw %}
+
+
+
+
