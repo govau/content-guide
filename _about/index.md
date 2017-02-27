@@ -7,7 +7,7 @@ published: true
 
 The DTA Content Guide documents the latest thinking in digital content design.
 
-The Content Guide has a strong focus on accessibility --- government information is for everyone.
+The Content Guide has a strong focus on [accessibility and inclusivity](/accessibility-inclusivity/) --- government information is for everyone.
 
 ### Sources for the Content Guide
 
@@ -26,7 +26,7 @@ Give feedback or ask questions by:
 - <a href="https://github.com/govau/content-guide/issues/new" rel="external">logging a GitHub issue</a>
 - <a href="mailto:guides@digital.gov.au">guides@digital.gov.au</a>.
 
-### Guides to meet the Digital Service Standard
+### Use guides to meet the Digital Service Standard
 
 The DTA Content Guide is a part of a suite of guide products, including the [DTA Design Guide](http://guides.service.gov.au/design-guide/).
 

@@ -1,6 +1,6 @@
 ---
 title: "Preferred spellings"
-order: 14
+order: 13
 ---
 
 ### Adviser

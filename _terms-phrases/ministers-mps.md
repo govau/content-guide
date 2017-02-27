@@ -1,6 +1,6 @@
 ---
 title: "Ministers, senators and MPs"
-order: 12
+order: 11
 ---
 
 Refer to ministers in the Australian Government by their full title in the first instance, and then as the Minister.

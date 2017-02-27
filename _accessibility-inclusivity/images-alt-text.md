@@ -9,17 +9,17 @@ Alt text sits behind the image and appears when:
 - an image is disabled or fails to load
 - people with low vision or reading difficulties use screen readers or speech input software.
 
-When content includes images, you must write the alt text.
+If you include images you must create alt text.
 
 Different types of images have different alt text requirements. You can use an <a href="https://www.w3.org/WAI/tutorials/images/decision-tree/" rel="external">alt text decision tree</a> to help you work out what kind of alt text you need.
 
 ### Captions
 
-Add 'Caption: description of the image...' below the image. Don't duplicate the alt text.
+Add 'Caption: description of the image...' below the image.
 
-### Decorative images
+Don't use the same text in the caption and alt text. If the caption clearly explains the image make the alt text blank.
 
-If an image is just decoration you should use a null (empty) alt text: `alt=""`.
+In HTML5 <a href="https://www.w3.org/wiki/HTML/Elements/figcaption" rel="external">use the `<figcaption>` tag</a> in the `<figure>` element.
 
 ### Informative images
 
@@ -28,19 +28,31 @@ Informative images convey a simple concept or information that can be expressed 
 Informative images need:
 
 - to be referenced in the surrounding text
-- a short `alt` text that briefly describes the content (this should be different from the text of a caption)
-- a short description conveying the essential information presented by the informative image.
+- a short `alt` text that briefly describes the content (this should be different from the text of a caption).
 
 ### Complex images
 
 Complex images such as graphs, charts and diagrams need:
 
+- to be referenced in the surrounding text
 - a short `alt` text that briefly describes the content (this should be different from the text of a caption)
 - content near the image that explains why it is there and what it shows or highlights
 - a clear text link that leads to a page with the long text alternative and possibly the associated data.
 
+#### Long text alternative
+
 Long text alternative is a full description of a complex image or a table of data used to generate the graph or chart.
 
-To write long text imagine you're describing the essential elements of a complex image in a radio interview.
+Long text helps people who don’t understand graphs or diagrams as well as those who can’t see them.
+
+To write long text imagine you're describing the essential elements of a complex image in a radio interview or over the phone. Explain the important aspects, not the detail.
 
 Also see <a href="https://www.w3.org/WAI/tutorials/images/complex/" rel="external">W3C's complex images tutorial</a>.
+
+### Decorative images
+
+If an image is just decoration you should use a null (empty) alt text: `alt=""`.
+
+A common way of including decorative images is to add them using the CSS rather than the HTML code.
+
+Never include an informative image with CSS.

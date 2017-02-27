@@ -1,6 +1,6 @@
 ---
 title: "Digital terms"
-order: 7
+order: 6
 ---
 
 - blog post

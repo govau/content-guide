@@ -1,6 +1,6 @@
 ---
 title: "States and territories"
-order: 15
+order: 14
 ---
 
 Use the names of states and territories in full.

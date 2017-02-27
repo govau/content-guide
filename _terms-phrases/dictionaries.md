@@ -1,6 +1,6 @@
 ---
 title: "Dictionaries"
-order: 6
+order: 5
 ---
 
 Use the most recent edition of the [Macquarie Dictionary](https://www.macquariedictionary.com.au/), and the first option listed.

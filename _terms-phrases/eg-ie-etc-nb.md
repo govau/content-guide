@@ -1,6 +1,6 @@
 ---
 title: "eg, ie, etc and nb"
-order: 8
+order: 7
 ---
 
 Avoid the Latin abbreviations eg, ie, etc and nb.

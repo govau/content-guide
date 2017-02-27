@@ -1,6 +1,6 @@
 ---
 title: "Gender"
-order: 9
+order: 8
 ---
 
 Use gender-neutral job titles.

@@ -1,7 +1,7 @@
 ---
 title: "Accessibility and inclusivity"
 layout: "collections/index"
-abstract: "Use language to connect with all users respectfully and politely regardless of origin and ability."
+abstract: "Use respectful language to help all users regardless of their origin and ability."
 published: true
 
 # Content strategy

@@ -1,6 +1,6 @@
 ---
 title: "Government departments"
-order: 10
+order: 9
 ---
 
 Write the government department’s name in full on first mention and then as 'the Department'.

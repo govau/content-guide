@@ -1,6 +1,6 @@
 ---
 title: "Plain English terms"
-order: 13
+order: 12
 ---
 
 <table class="content-table">
