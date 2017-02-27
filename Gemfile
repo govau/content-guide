@@ -7,6 +7,7 @@ gem "html-proofer"
 gem "rake"
 gem "rack-jekyll"
 gem "puma"
+gem "jekyll-lunr-js-search"
 
 # If you have any plugins, put them here!
 # group :jekyll_plugins do
