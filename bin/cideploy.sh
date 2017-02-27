@@ -7,6 +7,19 @@ set -e -v
 # return code if any command errors not just the last command of the pipeline.
 set -o pipefail
 
+# setup basic auth on the container
+basicauth() {
+  if [[ -n ${CF_BASIC_AUTH_PASSWORD+x} ]]
+  then
+    # htpasswd is needed when setting up basicauth
+    sudo apt-get update
+    sudo apt-get install -qy apache2-utils
+    htpasswd -cb _site/Staticfile.auth $CF_BASIC_AUTH_USERNAME $CF_BASIC_AUTH_PASSWORD
+  else
+    echo "Not setting a password."
+  fi
+}
+
 # main script function
 #
 main() {
@@ -14,6 +27,7 @@ main() {
 
   case "${GITBRANCH}" in
     master)
+      basicauth
       cf api $CF_API_PROD
       cf auth $CF_USER_PROD $CF_PASSWORD_PROD
       cf target -o $CF_ORG_PROD

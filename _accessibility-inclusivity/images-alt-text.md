@@ -1,15 +1,17 @@
 ---
-title: "Images & alt text"
+title: "Images and alt text"
 order: 3
 ---
 
 Images must have alternative text (or `alt` text) to describe the information or function of the image.
 
-Alt text sits behind the image and appears when an image is disabled, fails to load or when people with low vision or reading difficulties use screen readers or speech input software.
+Alt text sits behind the image and appears when:
+- an image is disabled or fails to load
+- people with low vision or reading difficulties use screen readers or speech input software.
 
 When content includes images, you must write the alt text.
 
-Different types of images have different alt text requirements. You can use an [alt text decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/) to help you work out what kind of alt text you need.
+Different types of images have different alt text requirements. You can use an <a href="https://www.w3.org/WAI/tutorials/images/decision-tree/" rel="external">alt text decision tree</a> to help you work out what kind of alt text you need.
 
 ### Captions
 
@@ -41,4 +43,4 @@ Long text alternative is a full description of a complex image or a table of dat
 
 To write long text imagine you're describing the essential elements of a complex image in a radio interview.
 
-Also see [W3C's complex images tutorial](https://www.w3.org/WAI/tutorials/images/complex/).
+Also see <a href="https://www.w3.org/WAI/tutorials/images/complex/" rel="external">W3C's complex images tutorial</a>.
