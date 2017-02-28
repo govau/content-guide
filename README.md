@@ -52,9 +52,10 @@ We will likely change this, and instead package up everything needed to produce 
 Setup locally
 
 ```
-git clone https://github.com/govau/content-guide.git
+git clone git@github.com:govau/content-guide.git 
 cd content-guide
 git submodule init
+git submodule update
 gem install bundler
 bundle install
 ```
