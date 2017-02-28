@@ -1,6 +1,6 @@
 ---
 title: "Images and alt text"
-order: 3
+order: 6
 ---
 
 Images must have alternative text (or `alt` text) to describe the information or function of the image.
@@ -20,6 +20,8 @@ Add 'Caption: description of the image...' below the image.
 Don't use the same text in the caption and alt text. If the caption clearly explains the image make the alt text blank.
 
 In HTML5 <a href="https://www.w3.org/wiki/HTML/Elements/figcaption" rel="external">use the `<figcaption>` tag</a> in the `<figure>` element.
+
+**ADD EXAMPLE OF CAPTION**
 
 ### Informative images
 

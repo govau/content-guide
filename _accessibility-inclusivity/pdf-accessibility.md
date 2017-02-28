@@ -1,6 +1,6 @@
 ---
 title: "PDF accessibility"
-order: 5
+order: 8
 ---
 
 HTML should be the default format for all government information.
@@ -30,7 +30,7 @@ For guidance on how to do this read:
 - <a href="http://www.adobe.com/accessibility/products/acrobat.html" rel="exernal">Accessibility for Adobe Acrobat --- Adobe</a>
 - <a href="http://www.adobe.com/accessibility/products/indesign.html" rel="exernal">Accessibility for Adobe InDesign --- Adobe</a>
 
-### Make it clear you're linking to a PDF
+### Make it clear you're linking to a PDF file
 
 Always tell your users that they are downloading a PDF and how big it is --- this should be part of the link to the document.
 

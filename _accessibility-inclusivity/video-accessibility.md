@@ -1,6 +1,6 @@
 ---
 title: "Video accessibility"
-order: 4
+order: 7
 ---
 
 Videos must have:

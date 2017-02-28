@@ -5,6 +5,10 @@ order: 7
 
 Only make a PDF if there is a strong user need.
 
-You must [make the PDF accessible](/accessibility-inclusivity/#pdfs).
+PDFs are not accessible on mobile devices.
 
-You must also provide the same information found in the PDF in another format, such as HTML.
+You must [make the content of the PDF  accessible](/accessibility-inclusivity/#pdf-accessibility):
+
+- structure the PDF logically
+- include 'PDF' and the file size in the link to the file
+- provide contact details so the user can request the information in another format.

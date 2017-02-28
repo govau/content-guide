@@ -1,6 +1,6 @@
 ---
 title: "Assistive technologies"
-order: 6
+order: 9
 ---
 
 People use different combinations of assistive technology and adaptive strategies to use government services.

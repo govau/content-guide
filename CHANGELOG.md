@@ -23,7 +23,7 @@ The main changes are listed below.
 
 ### Changes to guidance
 
-- Updated guidance on [how to reference cultural diversity](/accessibility-inclusivity/) (TBC).
+- New guidance on [accessibility and inclusivity](/accessibility-inclusivity/).
 - [Always capitalise department, minister and senator if they are part of a proper noun](/punctuation-grammar/#capitalisation).
 - Use [words for ordinals](/numbers-measurements/#numbers), except for dates.
 - Added guidance on [using numbered (ordered) lists](/content-structure/#bullet-point-lists).
