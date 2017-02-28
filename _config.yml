@@ -41,7 +41,7 @@ markdown: kramdown
 
 # BUILD INCLUDES
 #
-# Directories that start with a _ are ignored, except for those included here.
+# Directories that start with a "_" or "." are ignored, except for those included here.
 include: ["_pages"]
 
 # BUILD EXCLUDES
@@ -124,7 +124,7 @@ collections:
     title: "Latest updates"
     description: "Recent changes to this guide."
     order: 9
-    output: false
+    output: true
   accessibility-inclusivity:
     title: "Accessibility and inclusivity"
     description: ""
