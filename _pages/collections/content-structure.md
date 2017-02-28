@@ -1,8 +1,10 @@
 ---
-title: "Punctuation and grammar"
+title: "Content structure"
 layout: "collections/index"
-abstract: ""
+abstract: "Plan the structure before you write anything."
 published: true
+permalink: "/content-structure"
+collection: "content-structure"
 
 # Content strategy
 purpose: To do X, Y, and Z

@@ -1,8 +1,10 @@
 ---
-title: "Content structure"
+title: "Formatting"
 layout: "collections/index"
-abstract: "Plan the structure before you write anything."
+abstract: ""
 published: true
+permalink: "/formatting/"
+collection: "formatting"
 
 # Content strategy
 purpose: To do X, Y, and Z
