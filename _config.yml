@@ -69,6 +69,7 @@ exclude: [
 # These are additional Ruby gems this guide relies on.
 gems:
   - jekyll-assets # https://github.com/jekyll/jekyll-assets
+  - jekyll-lunr-js-search # https://github.com/slashdotdash/jekyll-lunr-js-search
   - rouge # https://github.com/jneen/rouge
 
 
