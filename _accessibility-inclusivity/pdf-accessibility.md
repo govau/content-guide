@@ -34,7 +34,7 @@ For guidance on how to do this read:
 
 Always tell your users that they are downloading a PDF and how big it is --- this should be part of the link to the document.
 
-### Offer an alternative format
+### Offer an alternative format to PDF
 
 Provide a contact (an email address) so users can request the information in a different format.
 

@@ -23,7 +23,7 @@ Keep sentences short so the meaning is concise. This means the screen reader won
 
 Not all screen readers work the same and some can miss nuances in longer sentences.
 
-#### Screen readers navigate using headings, links and tags
+#### Use headings, links and tags to help screen readers
 
 Screen readers can index headings, links and tags to give users an overview of a web page and enable them to navigate by these elements.
 

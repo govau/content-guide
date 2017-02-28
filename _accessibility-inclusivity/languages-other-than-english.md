@@ -7,4 +7,4 @@ Make sure your content can be understood by someone who speaks English as a seco
 
 Content should also be culturally sensitive to people who come from different cultures and may have different experiences with, and expectations of, dealing with government
 
-<a href="https://www.dss.gov.au/settlement-and-multicultural-affairs/programs-policy/multicultural-access-and-equity/multicultural-access-and-equity-resources" rel="external">Resources to help government meet the needs of multicultural users</a> is available from the Department of Social Services.
+Resources to <a href="https://www.dss.gov.au/settlement-and-multicultural-affairs/programs-policy/multicultural-access-and-equity/multicultural-access-and-equity-resources" rel="external">help government meet the needs of multicultural users</a> are available from the Department of Social Services.

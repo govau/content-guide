@@ -3,6 +3,13 @@ title: "Images and alt text"
 order: 6
 ---
 
+
+
+- Make sure there is sufficient contrast between any text and the background.
+- Use dot, dashes and patterns in graphs in addition to colour to show the difference between data.
+
+### All images need alt text
+
 Images must have alternative text (or `alt` text) to describe the information or function of the image.
 
 Alt text sits behind the image and appears when:
@@ -41,7 +48,7 @@ Complex images such as graphs, charts and diagrams need:
 - content near the image that explains why it is there and what it shows or highlights
 - a clear text link that leads to a page with the long text alternative and possibly the associated data.
 
-#### Long text alternative
+### Long text alternative
 
 Long text alternative is a full description of a complex image or a table of data used to generate the graph or chart.
 
