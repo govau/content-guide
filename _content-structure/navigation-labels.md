@@ -1,6 +1,7 @@
 ---
 title: "Navigation labels"
 order: 4
+exclude_from_search: true
 ---
 
 Write the navigation label to meet the user's need.

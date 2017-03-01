@@ -1,6 +1,7 @@
 ---
 title: "Headings and subheadings"
 order: 1
+exclude_from_search: true
 ---
 
 ### Make the title short and accurate

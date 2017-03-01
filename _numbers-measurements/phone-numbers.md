@@ -1,6 +1,7 @@
 ---
 title: "Phone numbers"
 order: 4
+exclude_from_search: true
 ---
 
 Use spaces to help people read phone numbers.

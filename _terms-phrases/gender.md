@@ -1,6 +1,7 @@
 ---
 title: "Gender"
 order: 8
+exclude_from_search: true
 ---
 
 Use gender-neutral job titles.

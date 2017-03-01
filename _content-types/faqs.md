@@ -1,6 +1,7 @@
 ---
 title: "FAQs"
 order: 3
+exclude_from_search: true
 ---
 
 Avoid using FAQs (frequently asked questions).

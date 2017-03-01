@@ -1,6 +1,7 @@
 ---
 title: "Semicolons (;)"
 order: 10
+exclude_from_search: true
 ---
 
 Avoid using semicolons. Use shorter sentences, [em dashes](#em-dashes) or [bullet point lists](/content-structure/#bullet-point-lists) instead.

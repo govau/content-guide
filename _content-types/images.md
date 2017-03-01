@@ -1,6 +1,7 @@
 ---
 title: "Images"
 order: 6
+exclude_from_search: true
 ---
 
 Use images minimally and with purpose.

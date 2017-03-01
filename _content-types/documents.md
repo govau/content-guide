@@ -1,6 +1,7 @@
 ---
 title: "Documents"
 order: 1
+exclude_from_search: true
 ---
 
 ### Microsoft Word

@@ -1,6 +1,7 @@
 ---
 title: "Audience"
 order: 1
+exclude_from_search: true
 ---
 
 Write so everyone can understand.

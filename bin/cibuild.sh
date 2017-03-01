@@ -11,7 +11,6 @@ set -o pipefail
 set -x
 
 main() {
-  export JEKYLL_ENV=production
   readonly GITBRANCH="${CIRCLE_BRANCH}"
 
   git submodule init                                                    # Pulling submodule

@@ -1,6 +1,7 @@
 ---
 title: "Capitalisation"
 order: 1
+exclude_from_search: true
 ---
 
 Capital letters are hard to read. Keep them to a minimum.

@@ -39,6 +39,10 @@ uikit_base_url: https://gov-au-ui-kit.apps.staging.digital.gov.au/
 # Syntax reference: https://kramdown.gettalong.org/syntax.html
 markdown: kramdown
 
+# BUILD INCLUDES
+#
+# Directories that start with a "_" or "." are ignored, except for those included here.
+include: ["_pages"]
 
 # BUILD EXCLUDES
 #
@@ -125,42 +129,42 @@ collections:
     title: "Accessibility and inclusivity"
     description: ""
     order: 1
-    output: true
+    output: false
   punctuation-grammar:
     title: "Punctuation and grammar"
     description: ""
     order: 2
-    output: true
+    output: false
   numbers-measurements:
     title: "Numbers and measurements"
     description: ""
     order: 3
-    output: true
+    output: false
   content-structure:
     title: "Content structure"
     description: ""
     order: 4
-    output: true
+    output: false
   content-types:
     title: "Content types"
     description: ""
     order: 5
-    output: true
+    output: false
   formatting:
     title: "Formatting"
     description: ""
     order: 6
-    output: true
+    output: false
   writing-style:
     title: "Writing style"
     description: ""
     order: 7
-    output: true
+    output: false
   terms-phrases:
     title: "Terms and phrases"
     description: ""
     order: 8
-    output: true
+    output: false
   sources:
     title: "Sources"
     description: "Resources used to write the Content Guide."

@@ -1,6 +1,7 @@
 ---
 title: "Italics"
 order: 1
+exclude_from_search: true
 ---
 
 Avoid using italics.

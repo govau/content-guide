@@ -1,6 +1,7 @@
 ---
 title: "Structure content"
 order: 3
+exclude_from_search: true
 ---
 
 [Structure content](/content-structure/) to put the user first, with clear purpose and focus on outcome.

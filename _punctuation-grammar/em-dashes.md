@@ -1,6 +1,7 @@
 ---
 title: "Em dashes (&mdash;)"
 order: 4
+exclude_from_search: true
 ---
 
 You can use an em dash with spaces to add a related idea to a sentence instead of creating a new sentence. Be careful the sentence does not become too long.

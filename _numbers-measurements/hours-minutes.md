@@ -1,6 +1,7 @@
 ---
 title: "Hours and minutes"
 order: 2
+exclude_from_search: true
 ---
 
 {% include guide_example.liquid

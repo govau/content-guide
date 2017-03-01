@@ -1,6 +1,7 @@
 ---
 title: "Dictionaries"
 order: 5
+exclude_from_search: true
 ---
 
 Use the most recent edition of the [Macquarie Dictionary](https://www.macquariedictionary.com.au/), and the first option listed.
