@@ -4,22 +4,26 @@ order: 7
 ---
 
 Videos must have:
-- transcripts for reading by people who don’t want to watch the video and for search engine indexing
+- transcripts for people who don’t want to watch the video, and for search engine indexing
 - closed captions for people who can’t hear the dialogue and other sounds
-- audio descriptions as appropriate for people who can’t see the video.
+- audio description for people who can’t see the video that explains any important visual-only detail.
 
-Audio description is not necessary for only dialogue delivered straight to camera ('talking heads'). But you must still provide audio description for any text displayed in the video. Also, use audio description to set the scene and giving context if this is not obvious from the title.
+Accessible video resources:
+
+- <a href="https://mediaaccess.org.au/practical-web-accessibility/media/requirements" rel="external">Quick reference to audio and video requirements under WCAG --- Media Access Australia</a>
+- <a href="https://www.sitepoint.com/accessible-video/" rel="external">Short guide to creating accessible video --- SitePoint</a>
+- <a href="http://webaim.org/techniques/captions/" rel="external">Guidance on using captions, transcripts and audio descriptions --- WebAIM</a>.
 
 ### Think about all access issues for video
 
 - Visual impairment.
 - Hearing impairment.
-- Mobility --- restricted keyboard access.
+- Mobility --- for example, restricted keyboard access.
 - Flickering and moving content.
 - Language difficulty.
-- Non-conducive environments, for example a noisy environment or a workplace where the sound disturbs colleagues.
+- Non-conducive environments --- for example a noisy environment or a workplace where the sound disturbs colleagues.
 
-### Provide a transcript
+### Provide a transcript and close captions
 
 Add the HTML transcript to the same page as the video. Or add a link below or beside the video to a page with the transcript.
 
@@ -38,8 +42,8 @@ Write relevant non-verbal information in square brackets.
 
 End the transcript with 'End of transcript'.
 
-### Video accessibility resources
+### Use audio description for important visual-only information
 
-- <a href="https://mediaaccess.org.au/practical-web-accessibility/media/requirements" rel="external">Quick reference: Accessibility requirements for online audio and video --- Media Access Australians</a>
-- <a href="https://www.sitepoint.com/accessible-video/" rel="external">8 Steps to Creating Accessible Video --- Sitepoint</a>
-- <a href="http://webaim.org/techniques/captions/" rel="external">Captions, Transcripts, and Audio Descriptions --- WebAIM</a>
+Provide audio description for any text displayed in the video and to give context if it is not obvious from the title.
+
+You don't need audio description for dialogue delivered straight to camera ('talking heads').

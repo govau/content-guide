@@ -27,8 +27,8 @@ It is best practice to use an <a href="https://www.naati.com.au/" rel="external"
 
 ### Make all formats accessible
 
-Make sure translated content is as accessible as the plain English version.
+Make sure the format of the translated content is accessible.
 
-If you need a PDF of the translated content:
-- the plain English version must be available in HTML
+If there is a user need for a PDF of the translated content you must:
+- make the plain English version available in HTML
 - [make the content in PDFs accessible](/accessibility-inclusivity/#pdf-accessibility).

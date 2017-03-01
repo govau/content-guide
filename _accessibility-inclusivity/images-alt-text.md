@@ -3,10 +3,11 @@ title: "Images and alt text"
 order: 6
 ---
 
+### Choose relevant and clear images
 
+Use words rather than images. Only use images that usefully add to the text content.
 
-- Make sure there is sufficient contrast between any text and the background.
-- Use dot, dashes and patterns in graphs in addition to colour to show the difference between data.
+Make sure there is sufficient contrast between any text and the background in images.
 
 ### All images need alt text
 
@@ -28,7 +29,13 @@ Don't use the same text in the caption and alt text. If the caption clearly expl
 
 In HTML5 <a href="https://www.w3.org/wiki/HTML/Elements/figcaption" rel="external">use the `<figcaption>` tag</a> in the `<figure>` element.
 
-**ADD EXAMPLE OF CAPTION**
+{% include guide_example.liquid
+  title = "image caption"
+  content= "<figure>
+  <img src='/assets/coat-of-arms.png' alt='' />
+  <figcaption>Caption: the conventional version of the Commonwealth Coat of Arms of Australia.</figcaption>
+</figure>"
+%}
 
 ### Informative images
 
@@ -39,7 +46,7 @@ Informative images need:
 - to be referenced in the surrounding text
 - a short `alt` text that briefly describes the content (this should be different from the text of a caption).
 
-### Complex images
+### Diagrams and complex images
 
 Complex images such as graphs, charts and diagrams need:
 
@@ -48,9 +55,11 @@ Complex images such as graphs, charts and diagrams need:
 - content near the image that explains why it is there and what it shows or highlights
 - a clear text link that leads to a page with the long text alternative and possibly the associated data.
 
+Graphs need dots, dashes and patterns, in addition to colour, to show the difference between data.
+
 ### Long text alternative
 
-Long text alternative is a full description of a complex image or a table of data used to generate the graph or chart.
+A long text alternative is a full description of a complex image or the table of data used to generate a graph or chart.
 
 Long text helps people who don’t understand graphs or diagrams as well as those who can’t see them.
 

@@ -112,13 +112,13 @@ highlighter: rouge
 #
 collections:
   about:
-    title: "About the DTA Content Guide"
-    description: "The purpose of this guide and how you can contribute to it."
+    title: "About this guide"
+    description: "What the Content Guide is and how you can contribute to it."
     order: 0
     output: true
   updates:
     title: "Latest updates"
-    description: "Recent changes to this guide."
+    description: "Changelog for the Content Guide."
     order: 9
     output: true
   accessibility-inclusivity:
@@ -163,7 +163,7 @@ collections:
     output: true
   sources:
     title: "Sources"
-    description: "Resources consulted to build this guide."
+    description: "Resources used to write the Content Guide."
     order: 10
     output: true
 

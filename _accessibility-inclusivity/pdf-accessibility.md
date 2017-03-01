@@ -5,7 +5,9 @@ order: 8
 
 HTML should be the default format for all government information.
 
-If there is a strong user need to provide a PDF (for example for printing) the document must still be accessible. You should still make sure the content is available in another format such as HTML.
+If there is a strong user need to provide a PDF (for example for printing) the document must still be accessible.
+
+You should still make sure the PDF content is available in another format such as HTML.
 
 ### PDFs are not accessible on mobile devices
 
@@ -23,7 +25,7 @@ Users may simply choose not to open a PDF and this means information is hidden.
 
 To make a PDF accessible you must structure it so a screen reader follows the logical order of the content (structural hierarchy).
 
-For guidance on how to do this read:
+Guidance on how to structure PDFs:
 
 - <a href="https://www.w3.org/TR/2014/NOTE-WCAG20-TECHS-20140408/pdf.html" rel="exernal">PDF Techniques for WCAG 2.0 --- W3C</a>
 - <a href="https://www.w3.org/TR/WCAG20-TECHS/general.html" rel="exernal">General Techniques for WCAG 2.0 --- W3C
@@ -32,13 +34,13 @@ For guidance on how to do this read:
 
 ### Make it clear you're linking to a PDF file
 
-Always tell your users that they are downloading a PDF and how big it is --- this should be part of the link to the document.
+Use the link to tell your users that they are downloading a PDF and how big it is.
 
 ### Offer an alternative format to PDF
 
 Provide a contact (an email address) so users can request the information in a different format.
 
-If you are relying on PDF as the accessible format, then the document needs a HTML landing page in which the document is described with an overview and outcomes as appropriate.
+If you are relying on PDF as the accessible format, then the document needs a HTML landing page. The landing page should contain an overview of the document and outcomes, if relevant.
 
 {% include guide_example.liquid
   title = "referencing a PDF"

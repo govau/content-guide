@@ -8,17 +8,17 @@ Avoid discriminatory language that treats some people differently from others.
 {% include guide_example.liquid
   title = "inclusive terms"
   content= "
-- People with disability --- not people with a disability or disabled or handicapped people.
+- People with disability --- not people with a disability, disabled or handicapped people.
 - Intellectually impaired --- not intellectually disabled.
 - Hearing impaired --- not deaf.
 - Visually impaired --- not blind.
-- Older people or seniors --- not pensioners or old-age pensioners or the aged.
+- Older people or seniors --- not pensioners, old-age pensioners or the aged.
 - Young people --- not youth or juveniles.
 - First Australians or Aboriginal and Torres Strait Islander peoples (note the plural) --- not ATSI, Aborigines or Aboriginals.
 "
 %}
 
-More <a href="http://pwd.org.au/library/guide-to-reporting-disability.html" rel="external">examples of how to talk about disability</a> is available from People with Disability.
+More <a href="http://pwd.org.au/library/guide-to-reporting-disability.html" rel="external">examples of how to talk about disability</a> are available from People with Disability.
 
 ### Speak to the person, not their difference
 

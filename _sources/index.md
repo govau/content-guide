@@ -5,7 +5,7 @@ abstract: ""
 published: true
 ---
 
-The DTA Content Guide and earlier guides were developed with the help of members of the <a href="https://groups.google.com/a/digital.gov.au/forum/#!forum/content-design-in-government" rel="external">Content Design in Government Google Group</a>. We are grateful for their continuing guidance.
+The DTA Content Guide and earlier guides were developed with the help of members of the <a href="https://groups.google.com/a/digital.gov.au/forum/#!forum/content-design-in-government" rel="external">Content Design in Government Google Group</a>. We are grateful for their continuing support.
 
 We have been closely guided by and used content from:
 

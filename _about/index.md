@@ -1,5 +1,5 @@
 ---
-title: "About the DTA Content Guide"
+title: "About this guide"
 layout: "collections/index"
 abstract: "The Digital Transformation Agency's Content Guide helps Australian Government teams design simple, clear and fast content."
 published: true
