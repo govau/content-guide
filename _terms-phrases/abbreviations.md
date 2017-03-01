@@ -1,6 +1,7 @@
 ---
 title: "Abbreviations"
 order: 1
+exclude_from_search: true
 ---
 
 Only use abbreviations of general terms if the abbreviation is the clearer and more common form.

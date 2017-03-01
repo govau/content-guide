@@ -1,6 +1,7 @@
 ---
 title: "Forms"
 order: 4
+exclude_from_search: true
 ---
 
 - Think about the user’s need and what they need to do.

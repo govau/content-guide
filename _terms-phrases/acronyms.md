@@ -1,6 +1,7 @@
 ---
 title: "Acronyms"
 order: 3
+exclude_from_search: true
 ---
 
 Write out the full name first before you introduce the acronym.

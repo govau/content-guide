@@ -1,6 +1,7 @@
 ---
 title: "Numbers"
 order: 0
+exclude_from_search: true
 ---
 
 Use digits instead of words for most numbers.

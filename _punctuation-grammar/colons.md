@@ -1,6 +1,7 @@
 ---
 title: "Colons (:)"
 order: 8
+exclude_from_search: true
 ---
 
 Use a colon to lead into a [bullet point list](/content-structure/#bullet-point-lists) after a sentence fragment.

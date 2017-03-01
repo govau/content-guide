@@ -1,6 +1,7 @@
 ---
 title: "Hyphens (-)"
 order: 3
+exclude_from_search: true
 ---
 
 Use hyphens when 2 or more words form an adjective.

@@ -1,6 +1,7 @@
 ---
 title: "Underline"
 order: 3
+exclude_from_search: true
 ---
 
 Don’t underline or underscore any text.

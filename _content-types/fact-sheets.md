@@ -1,6 +1,7 @@
 ---
 title: "Fact sheets"
 order: 2
+exclude_from_search: true
 ---
 
 Publish fact sheets in HTML. This improves accessibility and allows for printing.

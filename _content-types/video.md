@@ -1,6 +1,7 @@
 ---
 title: "Video"
 order: 8
+exclude_from_search: true
 ---
 
 [Make videos accessible to the user](/accessibility-inclusivity/#video-and-transcripts).

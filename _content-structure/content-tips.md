@@ -1,6 +1,7 @@
 ---
 title: "Paragraphs"
 order: 0
+exclude_from_search: true
 ---
 
 Use short, simple paragraphs.

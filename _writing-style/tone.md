@@ -1,6 +1,7 @@
 ---
 title: "Tone"
 order: 4
+exclude_from_search: true
 ---
 
 The modern government tone is direct, calm and understated.

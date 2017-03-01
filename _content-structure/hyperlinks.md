@@ -1,6 +1,7 @@
 ---
 title: "Hyperlinks"
 order: 3
+exclude_from_search: true
 ---
 
 ### Use precise link text

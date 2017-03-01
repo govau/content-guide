@@ -1,6 +1,7 @@
 ---
 title: "Voice"
 order: 5
+exclude_from_search: true
 ---
 
 Use active voice (subject-verb-object).

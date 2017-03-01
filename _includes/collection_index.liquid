@@ -1,0 +1,90 @@
+{% comment %}
+This is the main loop. It iterates through all collections.
+{% endcomment %}
+{% for collection in site.collections %}
+
+  {% comment %}
+  This is the main if condition: only continue to do things if this the collection matches the page’s collection.
+  {% endcomment %}
+  {% if collection.label == page.collection %}
+
+  <header>
+    <h1><span class="guide-title">{{ site.title }}</span>
+      {{ collection.title }}
+    </h1>
+
+    <div class="abstract">
+      {{ page.abstract | markdownify }}
+    </div>
+
+    {% comment %}
+    This condition only continues if there are indeed enough headings on the page to bother building a ToC.
+    {% endcomment %}
+    {% if collection.docs.size >= 2 %}
+    <nav class="index-links">
+      <h2 id="index-links">Contents</h2>
+      <ul>
+        {% comment %}
+        Fetches each of the collection’s docs, and orders them.
+
+        The order is determined by the value given to the ‘order’ key in the metadata section for each collection doc.
+        {% endcomment %}
+        {% assign collection_docs_ordered = collection.docs | sort: "order" %}
+
+        {% comment %}
+        Now we loop through the docs of the page’s collection...
+        (unless it’s the index itself, which calls this very layout).
+        {% endcomment %}
+        {% for doc in collection_docs_ordered %}
+          <li><a href="{{ page.url }}#{{ doc.title | slugify }}">{{ doc.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+    {% endif %}
+
+  </header>
+
+  {% comment %}
+  Now we want to iterate through all the other collection’s docs, again
+  provided it’s not the [this] index itself.
+
+  For each doc we fetch the heading, set the ID, and then pull in the doc’s
+  content, and filter it through a markdown parser.
+  {% endcomment %}
+  {% for doc in collection_docs_ordered %}
+
+  <article class="collection__item">
+    <h2 id="{{ doc.title | slugify }}">
+      <a href="{{ page.url }}#{{ doc.title | slugify }}" class="headline-slug-link">
+        {{ doc.title }}
+      </a>
+    </h2>
+
+    {% comment %}
+    We now include each doc’s content.
+
+    The liquify filter is custom, and provided in _plugins/liquify.rb.
+    We need this because the docs can contain liquid includes, that won’t
+    otherwise be processed by the inbuilt markdownify filter alone.
+    {% endcomment %}
+    {{ doc.content | liquify | markdownify }}
+
+  </article>
+
+  {% comment %}
+  Provided it’s not the first item, we add a link back to the ToC.
+
+  This could be removed if desired.
+  {% endcomment %}
+  {% unless forloop.first %}
+  <span class="back-to-index-link"><a href="#index-links">Back to contents &uarr;</a></span>
+  {% endunless %}
+
+  {% endfor %}
+
+  {% comment %}
+  Now that all the content goodness has been extracted we break the iteration.
+  {% endcomment %}
+  {% break %}
+  {% endif %}
+{% endfor %}

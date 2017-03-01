@@ -1,6 +1,7 @@
 ---
 title: "Ampersands (&)"
 order: 7
+exclude_from_search: true
 ---
 
 Don’t use an ampersand in a sentence, except if it is part of an organisation's name.

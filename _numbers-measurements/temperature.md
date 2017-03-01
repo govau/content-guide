@@ -1,6 +1,7 @@
 ---
 title: "Temperature"
 order: 5
+exclude_from_search: true
 ---
 
 For temperatures use °C and °F.

@@ -1,6 +1,7 @@
 ---
 title: "Apostrophes (')"
 order: 2
+exclude_from_search: true
 ---
 
 Apostrophes can indicate possession.
