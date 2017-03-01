@@ -1,6 +1,7 @@
 ---
 title: "Dates"
 order: 1
+exclude_from_search: true
 ---
 
 Don't punctuate dates.

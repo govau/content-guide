@@ -1,6 +1,7 @@
 ---
 title: "Inclusive language and terms"
 order: 2
+exclude_from_search: true
 ---
 
 Avoid discriminatory language that treats some people differently from others.

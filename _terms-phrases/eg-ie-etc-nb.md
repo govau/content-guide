@@ -1,6 +1,7 @@
 ---
 title: "eg, ie, etc and nb"
 order: 7
+exclude_from_search: true
 ---
 
 Avoid the Latin abbreviations eg, ie, etc and nb.

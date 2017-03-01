@@ -1,6 +1,7 @@
 ---
 title: "Contractions"
 order: 6
+exclude_from_search: true
 ---
 
 Use contractions carefully to be more conversational.

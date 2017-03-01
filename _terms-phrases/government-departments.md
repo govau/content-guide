@@ -1,6 +1,7 @@
 ---
 title: "Government departments"
 order: 9
+exclude_from_search: true
 ---
 
 Write the government department’s name in full on first mention and then as 'the Department'.

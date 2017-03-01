@@ -1,5 +1,7 @@
 ---
 title: "PDF accessibility"
+order: 5
+exclude_from_search: true
 order: 8
 ---
 

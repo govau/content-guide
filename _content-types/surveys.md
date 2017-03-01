@@ -1,6 +1,7 @@
 ---
 title: "Surveys and questionnaires"
 order: 5
+exclude_from_search: true
 ---
 
 - Make surveys accessible. Keep them short and relevant.

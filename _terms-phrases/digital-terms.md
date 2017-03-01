@@ -1,6 +1,7 @@
 ---
 title: "Digital terms"
 order: 6
+exclude_from_search: true
 ---
 
 - blog post

@@ -1,6 +1,7 @@
 ---
 title: "States and territories"
 order: 14
+exclude_from_search: true
 ---
 
 Use the names of states and territories in full.

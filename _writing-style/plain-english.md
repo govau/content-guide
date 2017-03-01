@@ -1,6 +1,7 @@
 ---
 title: "Plain English"
 order: 2
+exclude_from_search: true
 ---
 
 Write in plain English so everyone can understand, regardless of their ability.

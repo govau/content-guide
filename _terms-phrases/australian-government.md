@@ -1,6 +1,7 @@
 ---
 title: "Australian Government"
 order: 4
+exclude_from_search: true
 ---
 
 Use 'Australian Government' when talking about the national government of Australia.

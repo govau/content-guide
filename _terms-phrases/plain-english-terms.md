@@ -1,6 +1,7 @@
 ---
 title: "Plain English terms"
 order: 12
+exclude_from_search: true
 ---
 
 <table class="content-table">

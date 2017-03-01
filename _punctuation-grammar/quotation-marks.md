@@ -1,6 +1,7 @@
 ---
 title: "Quotation marks (‘ ’ and “ ”)"
 order: 12
+exclude_from_search: true
 ---
 
 Use single quotation marks when quoting a person or a source.

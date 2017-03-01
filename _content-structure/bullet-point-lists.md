@@ -1,6 +1,7 @@
 ---
 title: "Bullet point lists"
 order: 2
+exclude_from_search: true
 ---
 
 Break up long sentences with lists to make it easier for the user to scan.

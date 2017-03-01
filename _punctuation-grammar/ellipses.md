@@ -1,6 +1,7 @@
 ---
 title: "Ellipses ( ... )"
 order: 13
+exclude_from_search: true
 ---
 
 Use ellipses after text when deliberately leaving something out --- for example in the middle of a long quote.
