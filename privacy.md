@@ -7,7 +7,7 @@ published: true
 
 # Privacy
 
-Thank you for visiting the DTA Content Guide, an online service managed by the Digital Transformation Office, located in Canberra, ACT.
+Thank you for visiting the DTA Content Guide, an online service managed by the Digital Transformation Agency, located in Canberra, ACT.
 
 We respect and protect the privacy of our users. This privacy policy tells you how we collect and use information.
 
@@ -90,7 +90,7 @@ We also follow the Guides for Agencies and Organisations issued by the Office of
 ## Contact us
 
 Guides Product Owner
-Digital Transformation Office
+Digital Transformation Agency
 PO Box 457
 Canberra ACT 2600
 Australia
