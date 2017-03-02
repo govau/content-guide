@@ -157,10 +157,12 @@ table {
 
 
 
-.page-header .site-search {
+.page-header, .hero {
+  .site-search {
     float: right;
     max-width: 40%;
     margin-top: 1.6em;
+  }
 }
 
 .site-search .site-search-border {
