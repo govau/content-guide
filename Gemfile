@@ -4,9 +4,6 @@ ruby "2.3.1"
 gem "jekyll", "3.3.1"
 gem "jekyll-assets"
 gem "html-proofer"
-gem "rake"
-gem "rack-jekyll"
-gem "puma"
 
 # Required for search
 gem 'therubyracer'
