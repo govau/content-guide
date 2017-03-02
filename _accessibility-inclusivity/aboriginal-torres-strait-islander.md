@@ -42,7 +42,7 @@ Find an alternative to using Indigenous when you can, especially when referring 
 
 It is preferable to use local language group names.
 
-The <a href="http://austlang.aiatsis.gov.au/main.php">Australian Indigenous Languages Database</a> from AIATSIS may help you identify the appropriate local language.
+The <a href="http://austlang.aiatsis.gov.au/main.php" rel="external">Australian Indigenous Languages Database</a> from AIATSIS may help you identify the appropriate local language.
 
 {% include guide_example.liquid
   title = "alternatives to using Indigenous"

@@ -29,10 +29,10 @@ To make a PDF accessible you must structure it so a screen reader follows the lo
 
 Guidance on how to structure PDFs:
 
-- <a href="https://www.w3.org/TR/2014/NOTE-WCAG20-TECHS-20140408/pdf.html" rel="exernal">PDF Techniques for WCAG 2.0 --- W3C</a>
-- <a href="https://www.w3.org/TR/WCAG20-TECHS/general.html" rel="exernal">General Techniques for WCAG 2.0 --- W3C
-- <a href="http://www.adobe.com/accessibility/products/acrobat.html" rel="exernal">Accessibility for Adobe Acrobat --- Adobe</a>
-- <a href="http://www.adobe.com/accessibility/products/indesign.html" rel="exernal">Accessibility for Adobe InDesign --- Adobe</a>
+- <a href="https://www.w3.org/TR/2014/NOTE-WCAG20-TECHS-20140408/pdf.html" rel="external">PDF Techniques for WCAG 2.0 --- W3C</a>
+- <a href="https://www.w3.org/TR/WCAG20-TECHS/general.html" rel="external">General Techniques for WCAG 2.0 --- W3C
+- <a href="http://www.adobe.com/accessibility/products/acrobat.html" rel="external">Accessibility for Adobe Acrobat --- Adobe</a>
+- <a href="http://www.adobe.com/accessibility/products/indesign.html" rel="external">Accessibility for Adobe InDesign --- Adobe</a>
 
 ### Make it clear you're linking to a PDF file
 

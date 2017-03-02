@@ -17,6 +17,6 @@ How to type an em dash:
 
 - Windows: hold <kbd>Ctrl</kbd> + <kbd>Alt</kbd> keys and type <kbd>-</kbd>
 - Mac: hold <kbd>Option</kbd> + <kbd>Shift</kbd> keys and type <kbd>-</kbd>
-- [kramdown markdown](http://kramdown.gettalong.org/) notation: use 3 hyphens (<kbd>---</kbd>)
+- <a href="http://kramdown.gettalong.org/" rel="external">kramdown markdown</a> notation: use 3 hyphens (<kbd>---</kbd>)
 - HTML: `&mdash;`
 - Google Docs: go to 'Insert' menu, 'Special characters' and select 'Punctuation' and 'Dash/Connector'.
