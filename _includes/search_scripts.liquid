@@ -1,9 +1,10 @@
 
-<script src="{{site.baseurl}}/js/search.min.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="{% asset_path search.js %}"></script>
+
 <script>
   $(document).ready(function(){
     $('.search-input').focus(function() {
-        $.getJSON( "{{site.baseurl}}/js/index.json");
+        $.getJSON( "{{site.baseurl}}/search-engine/index.json");
     });
 
     // If search-input has value add class that moves it in front of label
@@ -17,7 +18,7 @@
     });
       $(function() {
           $('#search-query').lunrSearch({
-              indexUrl: '{{site.baseurl}}/js/index.json',   // Url for the .json file containing search index data
+              indexUrl: '{{site.baseurl}}/search-engine/index.json',   // Url for the .json file containing search index data
               results : '#search-results',  // selector for containing search results element
               entries : '.entries',         // selector for search entries containing element (contained within results above)
               template: '#search-results-template'  // selector for Mustache.js template
