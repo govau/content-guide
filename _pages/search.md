@@ -1,5 +1,5 @@
 ---
 layout: search
-title: DTA Content Guide search
+title: Search
 permalink: "/search/"
 ---
