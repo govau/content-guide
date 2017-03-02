@@ -4,10 +4,9 @@ ruby "2.3.1"
 gem "jekyll", "3.3.1"
 gem "jekyll-assets"
 gem "html-proofer"
-gem "rake"
-gem "rack-jekyll"
-gem "puma"
-gem "jekyll-lunr-js-search"
+
+# Required for search
+gem 'therubyracer'
 
 # If you have any plugins, put them here!
 # group :jekyll_plugins do
