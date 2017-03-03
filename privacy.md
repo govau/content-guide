@@ -122,6 +122,8 @@ The information collected by these tools may include:
 We use this information to maintain, secure and improve our websites and to enhance your experience when using them.
 
 You can opt out of collection of this information by Google Analytics by using the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout){:rel="external"}.
+=======
+Thank you for visiting the DTA Content Guide, an online service managed by the Digital Transformation Agency, located in Canberra, ACT.
 
 ## How we define personal information
 
@@ -205,7 +207,7 @@ We also follow the Guides for Agencies and Organisations issued by the Office of
 ## Contact us
 
 Guides Product Owner
-Digital Transformation Office
+Digital Transformation Agency
 PO Box 457
 Canberra ACT 2600
 Australia
