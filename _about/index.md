@@ -22,7 +22,7 @@ The Content Guide is a ‘living’ guide. We [regularly update and add new cont
 We welcome this guide being adopted across government and hope it starts many good conversations in your organisation.
 
 Give feedback or ask questions by:
-- joining the <a href="https://groups.google.com/a/digital.gov.au/forum/#!forum/content-design-in-government" rel="external">Content Design in Government Google Group</a>
+- joining the [Content Design in Government Google Group](https://groups.google.com/a/digital.gov.au/forum/#!forum/content-design-in-government){:rel="external"}
 - <a href="https://github.com/govau/content-guide/issues/new" rel="external">logging a GitHub issue</a>
 - <a href="mailto:guides@digital.gov.au">guides@digital.gov.au</a>.
 
