@@ -1,23 +1,138 @@
 ---
 title: "Privacy"
 layout: "page"
-abstract: "How this site uses personal information."
+abstract: "How this site collects and uses information."
 published: true
 ---
 
+https://www.oaic.gov.au/agencies-and-organisations/guides/guide-to-developing-an-app-privacy-policy
+https://oaic.gov.au/about-us/corporate-information/key-documents/privacy-policy
+intranet
+https://marketplace.service.gov.au/privacy-policy
+
 # Privacy
 
-Thank you for visiting the DTA Content Guide, an online service managed by the Digital Transformation Office, located in Canberra, ACT.
+This privacy policy outlines the personal information handling practices of the Guides team in the Digital Transformation Agency.
 
-We respect and protect the privacy of our users. This privacy policy tells you how we collect and use information.
+The Digital Transformation Agency has its own Privacy Statement that also applies.
 
-## How we define Personal Information
+The specific legal obligations of the Guides team when collecting and handling your personal information are outlined in the Privacy Act 1988 and in particular in the Australian Privacy Principles found in that Act.
 
-The term "Personal Information" in this privacy policy means any information from which your identity is apparent or can be reasonably ascertained.
+We will update this privacy policy when our information handling practices change.
 
-We do not collect Personal Information about you when you visit this online service.
+Updates will be published on our website.
 
-You can use this service without telling us who you are or revealing other Personal Information. If you send us a contact or feedback form you do not need to identify yourself or use your real name.
+## Our uses of personal information
+
+We collect, hold, use and disclose personal information to provide guidance and tools for the Australian Government to build simple, clear and fast services.
+
+These functions and activities include:
+- providing guidance on building digital services
+- sharing code to build digital services
+- providing training and presentations.
+
+## Collection of personal information
+
+We try to only collect the information we need for the particular function or activity we are carrying out.
+
+The main way we collect personal information about you is when you give it to us.
+
+For example, we collect personal information such as contact details and feedback when you:
+- post a comment in the Content Design in Google Group
+- send to feedback to guides@digital.gov.au or content@digital.gov.au.
+
+We are sometimes given personal information that we have not asked for. This is called 'unsolicited personal information'. When we receive this kind of information we comply with the requirements set out in APP 4.
+
+
+
+
+
+
+
+
+
+
+## How you collect personal information. (Collection)
+- The kinds of personal information that you collect and hold.
+
+## How you hold personal information. (Storage)
+
+## How an individual may access their personal information and seek correction of it. (Access)
+
+## How an individual may complain if you or a contractor breaches the APPs or a binding registered APP code. (Complaints)
+
+## Whether you are likely to disclose personal information to overseas recipients (including a related body corporate), and the likely countries that information may be sent. (Disclosure)
+
+## Contact details
+
+--------------
+
+
+
+### Website records
+
+Records, including submissions through feedback forms and information obtained through website analytics, of DTA websites operated and managed by the DTA, including:
+
+### Event records
+
+
+We respect and protect the privacy of our users.
+
+This policy tells you how we collect and use information to run our services.
+
+## Scope of policy
+
+This privacy policy applies to specific websites and services operated by the Guides team in the [Digital Transformation Agency]( https://www.dta.gov.au/){:rel="external"} (DTA):
+
+- [GOV-AU UI-Kit](https://github.com/AusDTO/gov-au-ui-kit){:rel="external"}
+- [DTA Design Guide](http://guides.service.gov.au/design-guide/){:rel="external"}
+- [DTA Content Guide](http://guides.service.gov.au/content-guide/){:rel="external"}
+
+We use third-party tools and services to support these services.
+
+The DTA is an Australian Government entity.
+
+### Third-party services and analytics tools
+
+We use third-party services to support the delivery of our services.
+
+These services have their own privacy policies, linked below.
+
+lookback.io
+
+trello
+
+JIRA
+
+
+- We use tools and services provided by third parties, such as Google Analytics, to collect or view website traffic.
+
+- We use Google services to host the [Content Design in Government Google Group](https://groups.google.com/a/digital.gov.au/forum/#!forum/content-design-in-government){:rel="external"} and the guides@digital.gov.au and content@digital.gov.au email addresses to receive feedback and communicate changes about our services. Read the [Google Privacy Policy](https://www.google.com/policies/privacy/){:rel="external"}
+- We use GitHub to host and collaboratively build our services. Read the [GitHub Privacy Statement](https://help.github.com/articles/github-privacy-statement/){:rel="external"}.
+- We use Eventbrite](https://www.eventbrite.com.au/) to schedule public events about our services. Read the [Eventbrite Privacy Policy](https://www.eventbrite.com.au/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_AU).
+- We use SurveyMonkey to send surveys about our services. Read the [SurveyMonkey Privacy Policy](https://www.surveymonkey.com/mp/policy/privacy-policy/){:rel="external"}.
+
+We use the cookies and session tools to improve your experience when accessing our services.
+
+The information collected by these tools may include:
+- the IP address of the device you are using and information and sites that IP address has come from
+- the page accessed on our site
+- the next site visited.
+
+We use this information to maintain, secure and improve our websites and to enhance your experience when using them.
+
+You can opt out of collection of this information by Google Analytics by using the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout){:rel="external"}.
+
+## How we define personal information
+
+The term 'Personal Information' in this privacy policy means any information from which your identity is apparent or can be reasonably ascertained.
+
+We collect personal information about you when you visit our services.
+
+<!-- -->
+You can use our services without telling us who you are or revealing other personal information.
+
+If you send us a contact or feedback form you do not need to identify yourself or use your real name.
 
 ## Scope of this service
 
