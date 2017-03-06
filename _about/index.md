@@ -23,13 +23,13 @@ We welcome this guide being adopted across government and hope it starts many go
 
 Give feedback or ask questions by:
 - joining the [Content Design in Government Google Group](https://groups.google.com/a/digital.gov.au/forum/#!forum/content-design-in-government){:rel="external"}
-- <a href="https://github.com/govau/content-guide/issues/new" rel="external">logging a GitHub issue</a>
+- [logging a GitHub issue](https://github.com/govau/content-guide/issues/new){:rel="external"}
 - <a href="mailto:guides@digital.gov.au">guides@digital.gov.au</a>.
 
 ## Use guides to meet the Digital Service Standard
 
 The DTA Content Guide is a part of a suite of guide products, including the [DTA Design Guide](http://guides.service.gov.au/design-guide/).
 
-The Guides suite help teams build services that meet the <a href="https://www.dta.gov.au/standard/" rel="external">Digital Service Standard</a>.
+The Guides suite help teams build services that meet the [Digital Service Standard](https://www.dta.gov.au/standard/){:rel="external"}.
 
 Be great. Be consistent. Love the Guides.

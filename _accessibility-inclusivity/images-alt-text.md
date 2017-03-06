@@ -21,7 +21,7 @@ Alt text sits behind the image and appears when:
 
 If you include images you must create alt text.
 
-Different types of images have different alt text requirements. You can use an <a href="https://www.w3.org/WAI/tutorials/images/decision-tree/" rel="external">alt text decision tree</a> to help you work out what kind of alt text you need.
+Different types of images have different alt text requirements. You can use an [alt text decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/){:rel="external"} to help you work out what kind of alt text you need.
 
 ### Captions
 
@@ -29,7 +29,7 @@ Add 'Caption: description of the image...' below the image.
 
 Don't use the same text in the caption and alt text. If the caption clearly explains the image make the alt text blank.
 
-In HTML5 <a href="https://www.w3.org/wiki/HTML/Elements/figcaption" rel="external">use the `<figcaption>` tag</a> in the `<figure>` element.
+In HTML5 [use the `<figcaption>` tag](https://www.w3.org/wiki/HTML/Elements/figcaption){:rel="external"} in the `<figure>` element.
 
 {% include guide_example.liquid
   title = "image caption"
@@ -67,7 +67,7 @@ Long text helps people who don’t understand graphs or diagrams as well as thos
 
 To write long text imagine you're describing the essential elements of a complex image in a radio interview or over the phone. Explain the important aspects, not the detail.
 
-Also see <a href="https://www.w3.org/WAI/tutorials/images/complex/" rel="external">W3C's complex images tutorial</a>.
+Also see [W3C's complex images tutorial](https://www.w3.org/WAI/tutorials/images/complex/){:rel="external"}.
 
 ### Decorative images
 

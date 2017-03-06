@@ -22,7 +22,7 @@ highly intelligent --- not highly-intelligent
 "
 %}
 
-Some nouns are also hyphenated. Check the <a href="https://www.macquariedictionary.com.au/" rel="external">Macquarie Dictionary</a>.
+Some nouns are also hyphenated. Check the [Macquarie Dictionary](https://www.macquariedictionary.com.au/){:rel="external"}.
 
 {% include guide_example.liquid
   title = "hyphenated nouns"

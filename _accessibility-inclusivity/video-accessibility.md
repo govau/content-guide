@@ -12,9 +12,9 @@ Videos must have:
 
 Accessible video resources:
 
-- <a href="https://mediaaccess.org.au/practical-web-accessibility/media/requirements" rel="external">Quick reference to audio and video requirements under WCAG --- Media Access Australia</a>
-- <a href="https://www.sitepoint.com/accessible-video/" rel="external">Short guide to creating accessible video --- SitePoint</a>
-- <a href="http://webaim.org/techniques/captions/" rel="external">Guidance on using captions, transcripts and audio descriptions --- WebAIM</a>.
+- [Quick reference to audio and video requirements under WCAG --- Media Access Australia](https://mediaaccess.org.au/practical-web-accessibility/media/requirements){:rel="external"}
+- [Short guide to creating accessible video --- SitePoint](https://www.sitepoint.com/accessible-video/){:rel="external"}
+- [Guidance on using captions, transcripts and audio descriptions --- WebAIM](http://webaim.org/techniques/captions/){:rel="external"}.
 
 ### Think about all access issues for video
 
