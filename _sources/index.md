@@ -5,17 +5,18 @@ abstract: ""
 published: true
 ---
 
-The DTA Content Guide and earlier guides were developed with the help of members of the <a href="https://groups.google.com/a/digital.gov.au/forum/#!forum/content-design-in-government" rel="external">Content Design in Government Google Group</a>. We are grateful for their continuing support.
+The DTA Content Guide and earlier guides were developed with the help of members of the [Content Design in Government Google Group](https://groups.google.com/a/digital.gov.au/forum/#!forum/content-design-in-government){:rel="external"}. We are grateful for their continuing support.
 
 We have been closely guided by and used content from:
 
-- the [Government Digital Service (GDS) Style guide</a> and <a href="https://gds.blog.gov.uk/" rel="external">GDS blog](https://www.gov.uk/guidance/style-guide){:rel="external"}.
+- the [Government Digital Service (GDS) Style guide](https://www.gov.uk/guidance/style-guide){:rel="external"} and
+[GDS blog](https://gds.blog.gov.uk/){:rel="external"}.
 - Department of Communications and the Arts's Online Style Guide.
 - Department of Finance's Good practice publishing for Australian Government entities.
 
 Other style and design guides consulted:
 
-- [18F Content Guide</a> and other <a href="https://pages.18f.gov/guides/" rel="external">18F Guides](https://pages.18f.gov/content-guide/){:rel="external"}
+- [18F Content Guide](https://pages.18f.gov/content-guide/){:rel="external"} and other [18F Guides](https://pages.18f.gov/guides/){:rel="external"}
 - [The Guardian and Observer style guide](https://www.theguardian.com/info/series/guardian-and-observer-style-guide){:rel="external"}
 - [Department of the Prime Minister and Cabinet's Australian Government Branding Design Guide](https://www.dpmc.gov.au/resource-centre/government/australian-government-branding-guidelines-use-australian-government-logo-australian-government-departments-and-agencies){:rel="external"}
 - Australian Electoral Commission's Brand Manual
