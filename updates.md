@@ -1,17 +1,8 @@
----
-layout: homepage
-title: DTA Content Guide homepage
-abstract: "## What is the Content
-Guide?
-
-The Digital Transformation Agency's Content Guide helps Australian Government teams design simple, clear and fast content."
----
-
 ## Latest updates
 
 ### 8 March 2017
 
-Live release of the DTA Content Guide.
+Live release of the DTA Content Guide
 
 Major changes:
 
