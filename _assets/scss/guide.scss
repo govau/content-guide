@@ -554,15 +554,16 @@ main {
     }
   }
 
-  .guide-example--rendered {
+  .guide-example__rendered {
     position: relative;
     border: solid 2px $non-white;
     margin: ($base-spacing * 1.5) 0;
     padding: rem(75) ($medium-spacing + $small-spacing) rem(30) ($medium-spacing + $small-spacing);
 
-    .guide-example--rendered--heading {
+    .guide-example__rendered__heading {
+      display: block;
       position: absolute;
-      top: -22px;
+      top: 0;
       left: 0;
       font-weight: normal;
       background-color: $non-white;
