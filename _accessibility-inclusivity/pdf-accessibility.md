@@ -13,7 +13,7 @@ You should still make sure the PDF content is available in another format such a
 
 ### PDFs are not accessible on mobile devices
 
-On mobile devices, PDFs do not comply with <a href="https://www.w3.org/TR/WCAG20/" rel="external">Web Content Accessibility Guidelines (WCAG) 2.0</a> due to a lack of consistency in assistive technology.
+On mobile devices, PDFs do not comply with [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/){:rel="external"} due to a lack of consistency in assistive technology.
 
 You can only reply on users being able to access a PDF if they will always be using a desktop or laptop device.
 
@@ -29,10 +29,10 @@ To make a PDF accessible you must structure it so a screen reader follows the lo
 
 Guidance on how to structure PDFs:
 
-- <a href="https://www.w3.org/TR/2014/NOTE-WCAG20-TECHS-20140408/pdf.html" rel="exernal">PDF Techniques for WCAG 2.0 --- W3C</a>
-- <a href="https://www.w3.org/TR/WCAG20-TECHS/general.html" rel="exernal">General Techniques for WCAG 2.0 --- W3C
-- <a href="http://www.adobe.com/accessibility/products/acrobat.html" rel="exernal">Accessibility for Adobe Acrobat --- Adobe</a>
-- <a href="http://www.adobe.com/accessibility/products/indesign.html" rel="exernal">Accessibility for Adobe InDesign --- Adobe</a>
+- [PDF Techniques for WCAG 2.0 --- W3C](https://www.w3.org/TR/2014/NOTE-WCAG20-TECHS-20140408/pdf.html){:rel="external"}
+- <a href="https://www.w3.org/TR/WCAG20-TECHS/general.html" rel="external">General Techniques for WCAG 2.0 --- W3C
+- [Accessibility for Adobe Acrobat --- Adobe](http://www.adobe.com/accessibility/products/acrobat.html){:rel="external"}
+- [Accessibility for Adobe InDesign --- Adobe](http://www.adobe.com/accessibility/products/indesign.html){:rel="external"}
 
 ### Make it clear you're linking to a PDF file
 

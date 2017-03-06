@@ -19,7 +19,7 @@ Avoid discriminatory language that treats some people differently from others.
 "
 %}
 
-More <a href="http://pwd.org.au/library/guide-to-reporting-disability.html" rel="external">examples of how to talk about disability</a> are available from People with Disability.
+More [examples of how to talk about disability](http://pwd.org.au/library/guide-to-reporting-disability.html){:rel="external"} are available from People with Disability.
 
 ### Speak to the person, not their difference
 
@@ -39,4 +39,4 @@ This avoids getting caught up in semantics and is respectful of:
 - religious affiliations
 - values or philosophical differences.
 
-More <a href="http://www.and.org.au/pages/inclusive-language.html" rel="external">guidance on inclusive language</a> is available from the Australian Network on Disability.
+More [guidance on inclusive language](http://www.and.org.au/pages/inclusive-language.html){:rel="external"} is available from the Australian Network on Disability.
