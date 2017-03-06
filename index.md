@@ -1,5 +1,5 @@
 ---
 layout: homepage
-title: DTA Content Guide homepage
+title: GOV.AU Content Guide homepage
 abstract: ""
 ---
