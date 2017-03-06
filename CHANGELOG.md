@@ -1,10 +1,10 @@
-# Updates to the DTA Content Guide
+# Updates to the GOV.AU Content Guide
 
 ## Content Guide 'Getting with the program'
 
 ### 1.0.0 &#8212; 2017-03-03
 
-Live release of the DTA Content Guide.
+Live release of the GOV.AU Content Guide.
 
 The [draft Content Style Guide v1.0](https://github.com/AusDTO/gov-au-content-guide) was released in May 2016. Too much has changed in this version to provide a complete list.
 
