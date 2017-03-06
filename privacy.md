@@ -16,19 +16,20 @@ This privacy policy outlines the personal information handling practices of the 
 
 The Digital Transformation Agency has its own Privacy Statement that also applies.
 
-The specific legal obligations of the Guides team when collecting and handling your personal information are outlined in the Privacy Act 1988 and in particular in the Australian Privacy Principles found in that Act.
+The specific legal obligations of the Digital Transformation Agency when collecting and handling your personal information are outlined in the [Privacy Act 1988](https://www.legislation.gov.au/Details/C2016C00838) and in particular in the Australian Privacy Principles found in that Act.
 
 We will update this privacy policy when our information handling practices change.
 
-Updates will be published on our website.
+Updates will be published on our websites.
 
-## Our uses of personal information
+## How we use personal information
 
 We collect, hold, use and disclose personal information to provide guidance and tools for the Australian Government to build simple, clear and fast services.
 
 These functions and activities include:
-- providing guidance on building digital services
-- sharing code to build digital services
+- sharing code (UI-Kit) to build digital services
+- providing guidance on building digital services (DTA Design Guide and DTA Content Guide)
+- researching with users to improve our products
 - providing training and presentations.
 
 ## Collection of personal information
@@ -37,33 +38,115 @@ We try to only collect the information we need for the particular function or ac
 
 The main way we collect personal information about you is when you give it to us.
 
-For example, we collect personal information such as contact details and feedback when you:
-- post a comment in the Content Design in Google Group
+For example, we collect contact details and feedback when you:
+- post a comment in the Content Design in Government Google Group
 - send to feedback to guides@digital.gov.au or content@digital.gov.au.
 
-We are sometimes given personal information that we have not asked for. This is called 'unsolicited personal information'. When we receive this kind of information we comply with the requirements set out in APP 4.
+### Unsolicited personal information
 
+We are sometimes given personal information that we have not asked for. This is called 'unsolicited personal information'.
 
+When we receive 'unsolicited personal information' we comply with the requirements set out in APP 4.
 
+### Sensitive information
 
+We may indirectly collect information defined as 'sensitive information' in the Privacy Act. For example, disability details of users that we are researching with to improve our products.
 
+We generally only collect and hold sensitive information with the consent of the relevant individual.
 
+### Anonymity
 
+Where possible, we will allow you to interact anonymously or using a pseudonym.
 
+However, for some of our functions and activities we usually need your name and contact details.
 
+### Collecting personal information through websites
 
-## How you collect personal information. (Collection)
-- The kinds of personal information that you collect and hold.
+We maintain several websites:
 
-## How you hold personal information. (Storage)
+- UI-Kit
+- DTA Design Guide
+- DTA Content Guide.
 
-## How an individual may access their personal information and seek correction of it. (Access)
+We collect information, including submissions through email and the Content Design in Government Google Group, and information from user research.
 
-## How an individual may complain if you or a contractor breaches the APPs or a binding registered APP code. (Complaints)
+We use this information to operate, manage and improve our websites and services.
 
-## Whether you are likely to disclose personal information to overseas recipients (including a related body corporate), and the likely countries that information may be sent. (Disclosure)
+We use repositories in GitHub (GitHub projects) to store and collaborate on the code used to build our websites and services.
+
+Where our websites and GitHub projects allow you to make comments, log issues, make commits or collect feedback we collect your email address and/or username and sometimes other contact details (for example, details in your signature block).
+
+We may use your email address and/or username to respond to your feedback.
+
+[GitHub has its own Privacy Statement](https://help.github.com/articles/github-privacy-statement/).
+
+The personal information handled by GitHub and Google is stored on servers across multiple countries.
+
+### Analytic, session and cookie tools
+
+We use a range of tools provided by third parties, such as Google Analytics, to collect or view website traffic information. These sites have their own privacy policies.
+
+We also use cookies and session tools to improve your experience when accessing our websites.
+
+The information collected by these tools may include the IP address of the device you are using and information about sites that IP address has come from, the pages accessed on our site and the next site visited. We use the information to maintain, secure and improve our websites and to enhance your experience when using them.
+
+You can opt out of the collection of this information by Google Analytics using the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
+
+### Hosting events
+
+We use Eventbrite to facilitate registration and attendance at our events. When you register for an event using this service we might collect your personal information so we can facilitate your registration and attendance at the event. Eventbrite will handle your personal information and has its own privacy policy.
+
+### User research
+
+We use third-party services, such as Lookback, SurveyMonkey and OptimalSort, to help us research with users to improve our services. These services have their own privacy policies.
+
+Where we collect personal information from users outside of the DTA we provide a consent form. The consent form details how the user's personal information will be handled.
+
+## Disclosing your personal information and sensitive information
+
+We only disclose your information (include sensitive information) for the purposes for which you gave it to us or for directly related purposes you would reasonably expect or if you agree.
+
+The DTA discloses personal information to a number of service providers it users. The details of disclosure are specified in the DTA Privacy Policy under Section 4: 'Disclosing (sharing) your personal information and sensitive information'.
+
+We are generally not likely to disclose personal information to a person (other than you) who is not in Australia or an external Territory. However:
+
+- web traffic information is disclosed to Google Analytics when you visit our websites Google stores information across multiple countries
+- when you provide feedback, log issues or create commits using GitHub the information is disclosed to GitHub.
+
+Google and GitHub store information across multiple countries.
+
+If you communicate with us your email service provider may store information in data centres outside of Australia. If you provide us with your email address you are authorising us to send your personal information to this address.
+
+## Storing and security of your personal information
+
+To help protect the privacy of data and personal information we collect and hold, we maintain physical, technical and administrative safeguards. We follow the policies and procedures specified in the DTA Privacy Policy under Section 3: 'Holding your personal information'.
+
+## Accessing and correcting your personal information
+
+We try to make sure that personal information we collect, use or disclose is accurate, up-do-date and complete. follow the policies and procedures specified in the DTA Privacy Policy under Section 5: 'Rights and choices'.
+
+## How to make a complaint
+
+If you think that we have interfered with your privacy or otherwise breached our obligations under the APPs, you can make a complaint to us.
+
+Any complaints should be in writing, setting out as much detail as possible, and addressed to our Privacy Officer.
+
+We will take reasonable steps to investigate any complaint, and to notify you of the outcome of our investigation, within 30 days. We will assess and handle any complaints about the conduct of a DTA officer using the [APS Values](http://www.apsc.gov.au/aps-employment-policy-and-advice/aps-values-and-code-of-conduct/aps-values) and [APS Code of Conduct](http://www.apsc.gov.au/aps-employment-policy-and-advice/aps-values-and-code-of-conduct/code-of-conduct) and the [misconduct guidelines issues by the Australian Public Service Commission](http://www.apsc.gov.au/aps-employment-policy-and-advice/aps-values-and-code-of-conduct/handling-misconduct).
+
+If we do not respond to your complaint within 30 days, or you are not satisfied with the outcome of our investigations, you can make a complaint directly to the Office of the Australian Information Commissioner by following the [OAIC How do I make a privacy complaint?](https://www.oaic.gov.au/individuals/how-do-i-make-a-privacy-complaint)
 
 ## Contact details
+
+You can contact us:
+
+Email: guides@digital.gov.au
+
+Post: Privacy Officer
+Digital Transformation Agency
+PO Box 457
+Canberra City ACT 2601
+
+
 
 --------------
 
@@ -104,7 +187,6 @@ trello
 
 JIRA
 
-
 - We use tools and services provided by third parties, such as Google Analytics, to collect or view website traffic.
 
 - We use Google services to host the [Content Design in Government Google Group](https://groups.google.com/a/digital.gov.au/forum/#!forum/content-design-in-government){:rel="external"} and the guides@digital.gov.au and content@digital.gov.au email addresses to receive feedback and communicate changes about our services. Read the [Google Privacy Policy](https://www.google.com/policies/privacy/){:rel="external"}
@@ -122,92 +204,3 @@ The information collected by these tools may include:
 We use this information to maintain, secure and improve our websites and to enhance your experience when using them.
 
 You can opt out of collection of this information by Google Analytics by using the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout){:rel="external"}.
-=======
-Thank you for visiting the DTA Content Guide, an online service managed by the Digital Transformation Agency, located in Canberra, ACT.
-
-## How we define personal information
-
-The term 'Personal Information' in this privacy policy means any information from which your identity is apparent or can be reasonably ascertained.
-
-We collect personal information about you when you visit our services.
-
-<!-- -->
-You can use our services without telling us who you are or revealing other personal information.
-
-If you send us a contact or feedback form you do not need to identify yourself or use your real name.
-
-## Scope of this service
-
-The purpose of this online service is to help Australian Government teams design simple, clear and fast content.
-
-## Personal Information and this service
-
-If you contact us we will collect the email address you nominate and any other identifying information you provide, such as a name or phone number.
-
-Please do not give us other personal or sensitive information.
-
-Other than circumstances such as unlawful activity or serious threats to health and safety, we do not share Personal Information with other government agencies.
-
-If you ask us about an issue that needs to be dealt with by another agency, we will provide you with the necessary details to make contact yourself.
-
-You may opt out of further contact from us at any time.
-
-## How we deal with complaints and requests
-
-You may request access to Personal Information about you that we hold and you may ask us to correct your Personal Information if you find that it is not accurate, up-to-date or complete.
-
-You may also make a complaint about our handling of your Personal Information. These services are free of charge.
-
-To protect your privacy and the privacy of others, we will need evidence of your identity before we can grant you access to information about you or change it.
-
-You can contact us by email, or send your request or complaint to the postal address below. We undertake to respond within 30 days.
-
-If the request or complaint will take longer to resolve, we will provide you with a date by which we expect to respond.
-
-## How we protect your Personal Information
-
-This online service is hosted in Australia in secure, government accredited facilities.
-
-To help protect the privacy of data and personal information we collect and hold, we maintain physical, technical and administrative safeguards.
-
-We update and test our security technology on an ongoing basis.
-
-We train our employees about the importance of confidentiality and maintaining the privacy and security of your information.
-
-Access to your Personal Information is restricted to employees who need it to provide benefits or services to you.
-
-## Website analytics
-
-To improve your experience on our site, we may use 'cookies'. Cookies are an industry standard and most major web sites use them.
-
-A cookie is a small text file that our site may place on your computer as a tool to remember your preferences.
-
-You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this you may not be able to use the full functionality of this website.
-
-Our website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of such other sites.
-
-When you go to other websites from here, we advise you to be aware and read their privacy policy.
-
-Our website uses Google Analytics, a service which transmits website traffic data to Google servers in the United States.
-
-Google Analytics does not identify individual users or associate your IP address with any other data held by Google.
-
-We use reports provided by Google Analytics to help us understand website traffic and webpage usage.
-
-By using this website, you consent to the processing of data about you by Google in the manner described in Google's Privacy Policy and for the purposes set out above.
-
-You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, or use the opt-out service provided by Google.
-
-## Our obligations
-
-This online service is bound by the provisions of the Privacy Act 1988 (Cwlth), including the Australian Privacy Principles.
-
-We also follow the Guides for Agencies and Organisations issued by the Office of the Australian Information Commissioner.
-
-## Contact us
-
-Guides Product Owner
-Digital Transformation Agency
-PO Box 457
-Canberra ACT 2600
-Australia
