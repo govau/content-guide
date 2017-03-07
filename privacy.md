@@ -5,12 +5,12 @@ abstract: "How this site collects and uses information."
 published: true
 ---
 
-https://www.oaic.gov.au/agencies-and-organisations/guides/guide-to-developing-an-app-privacy-policy
-https://oaic.gov.au/about-us/corporate-information/key-documents/privacy-policy
-intranet
-https://marketplace.service.gov.au/privacy-policy
+# 1. Scope
 
-# Privacy
+1.1 The Australian Privacy Principles (APPs) set out in the Privacy ACT 1988 require the Digital Transformation Agency (DTA) to have a privacy policy. This privacy policy sets out the practices of the Guides team in the Digital Transformation Agency in relation to handling personal information.
+
+
+
 
 This privacy policy outlines the personal information handling practices of the Guides team in the Digital Transformation Agency.
 
