@@ -1,14 +1,8 @@
----
-layout: homepage
-title: GOV.AU Content Guide homepage
-abstract: ""
----
-
 ## Latest updates
 
 ### 8 March 2017
 
-Live release of the DTA Content Guide.
+Live release of the DTA Content Guide
 
 Major changes:
 
@@ -20,5 +14,5 @@ Major changes:
 <svg class="icon-inline fa-github" role="img" title="GitHub icon" aria-labelledby="fa-github-alt-source">
 <title id="fa-github-alt-source" lang="en">GitHub icon</title>
 <use xlink:href="/assets/spritesheet.svg#fa-github"/>
-</svg> Read the <a href="https://github.com/govau/content-guide/blob/master/CHANGELOG.md" rel="external">full Content Guide changelog on GitHub</a>.
+</svg> Read the [full Content Guide changelog on GitHub](https://github.com/govau/content-guide){:rel="external"}.
 </p>

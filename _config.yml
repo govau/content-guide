@@ -120,54 +120,54 @@ collections:
     description: "What the Content Guide is and how you can contribute to it."
     order: 0
     output: true
-  updates:
-    title: "Latest updates"
-    description: "Changelog for the Content Guide."
-    order: 9
-    output: true
+  # updates:
+  #   title: "Latest updates"
+  #   description: "Changelog for the Content Guide."
+  #   order: 9
+  #   output: true
   accessibility-inclusivity:
     title: "Accessibility and inclusivity"
-    description: ""
+    description: "Guidance on designing content that includes everyone. How to write about disability, for Aboriginal and Torres Strait Islander audiences and for people who speak languages other than English."
     order: 1
     output: false
   punctuation-grammar:
     title: "Punctuation and grammar"
-    description: ""
+    description: "How to use the symbols, mechanics and rules of language. Includes capitalisation, use of apostrophes ('), quotation marks (&quot;) and em dashes (&mdash;)."
     order: 2
     output: false
   numbers-measurements:
     title: "Numbers and measurements"
-    description: ""
+    description: "How to write all kinds of numbers. Includes dates and times, phone numbers and weights."
     order: 3
     output: false
   content-structure:
     title: "Content structure"
-    description: ""
+    description: "Guidance on using the basic content building blocks: paragraphs, headings, bullet point lists and links."
     order: 4
     output: false
   content-types:
     title: "Content types"
-    description: ""
+    description: "How to use and create common kinds of content. Includes documents, forms, surveys and fact sheets."
     order: 5
     output: false
   formatting:
     title: "Formatting"
-    description: ""
+    description: "How to use italics, bold and underline."
     order: 6
     output: false
   writing-style:
     title: "Writing style"
-    description: ""
+    description: "Guidance on writing content that is engaging and scannable. Includes plain English, voice, tone and contractions."
     order: 7
     output: false
   terms-phrases:
     title: "Terms and phrases"
-    description: ""
+    description: "How to spell specific words and terms. Includes guidance on abbreviation, plain English and digital terms, Australian Government words and how to address ministers, senators and MPs."
     order: 8
     output: false
   sources:
     title: "Sources"
-    description: "Resources used to write the Content Guide."
+    description: "A list of the resources used to write the DTA Content Guide."
     order: 10
     output: true
 
