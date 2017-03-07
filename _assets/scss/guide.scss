@@ -63,13 +63,13 @@ table {
     background-size: 70%;
 
     @include media($tablet) {
-      background-position: bottom 15% left 8%;
+      background-position: bottom 15% left 5%;
       background-size: 45%;
       min-height: 0;
     }
 
     @include media($desktop) {
-      background-position: bottom 10% left 8%;
+      background-position: bottom 10% left 5%;
       background-size: 40%;
       min-height: 18em;
     }
