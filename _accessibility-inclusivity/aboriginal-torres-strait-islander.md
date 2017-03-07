@@ -31,8 +31,8 @@ Instead use:
 
 More context on writing for Aboriginal and Torres Strait Islander audiences:
 
-- <a href="https://www.dpmc.gov.au/resource-centre/indigenous-affairs/communicating-aboriginal-and-torres-strait-islander-audiences" rel="external">Communicating with Aboriginal and Torres Strait Islander Audiences --- Department of Prime Minister and Cabinet (2016)</a>
-- <a href="http://www.finance.gov.au/advertising/indigenous-communications-research/" rel="external">Media Consumption and Communication Preferences of Aboriginal and Torres Strait Islander Audiences --- Department of Finance (2014)</a>.
+- [Communicating with Aboriginal and Torres Strait Islander Audiences --- Department of Prime Minister and Cabinet (2016)](https://www.dpmc.gov.au/resource-centre/indigenous-affairs/communicating-aboriginal-and-torres-strait-islander-audiences){:rel="external"}
+- [Media Consumption and Communication Preferences of Aboriginal and Torres Strait Islander Audiences --- Department of Finance (2014)](http://www.finance.gov.au/advertising/indigenous-communications-research/){:rel="external"}.
 
 ### The word ‘Indigenous’
 
@@ -42,7 +42,7 @@ Find an alternative to using Indigenous when you can, especially when referring 
 
 It is preferable to use local language group names.
 
-The <a href="http://austlang.aiatsis.gov.au/main.php">Australian Indigenous Languages Database</a> from AIATSIS may help you identify the appropriate local language.
+The [Australian Indigenous Languages Database](http://austlang.aiatsis.gov.au/main.php){:rel="external"} from AIATSIS may help you identify the appropriate local language.
 
 {% include guide_example.liquid
   title = "alternatives to using Indigenous"

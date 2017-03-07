@@ -9,4 +9,4 @@ People use different combinations of assistive technology and adaptive strategie
 
 The most common assistive technologies are screen readers, screen magnifiers, voice recognition and keyboard navigation.
 
-For context read the <a href="https://www.w3.org/WAI/intro/people-use-web/" rel="external">W3C's guide to how people with disabilities use the web</a>.
+For context read the [W3C's guide to how people with disabilities use the web](https://www.w3.org/WAI/intro/people-use-web/){:rel="external"}.

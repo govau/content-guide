@@ -1,10 +1,7 @@
 ---
 layout: homepage
-title: DTA Content Guide homepage
-abstract: "## What is the Content
-Guide?
-
-The Digital Transformation Agency's Content Guide helps Australian Government teams design simple, clear and fast content."
+title: GOV.AU Content Guide homepage
+abstract: ""
 ---
 
 ## Latest updates
@@ -23,5 +20,5 @@ Major changes:
 <svg class="icon-inline fa-github" role="img" title="GitHub icon" aria-labelledby="fa-github-alt-source">
 <title id="fa-github-alt-source" lang="en">GitHub icon</title>
 <use xlink:href="/assets/spritesheet.svg#fa-github"/>
-</svg> Read the [full Content Guide changelog on GitHub](https://github.com/govau/content-guide){:rel="external"}.
+</svg> Read the <a href="https://github.com/govau/content-guide" rel="external">full Content Guide changelog on GitHub</a>.
 </p>

@@ -5,9 +5,9 @@ exclude_from_search: true
 ---
 
 - Make surveys accessible. Keep them short and relevant.
-- Follow the [DTA Content Guide on making forms](#forms).
+- Follow the [GOV.AU Content Guide on making forms](#forms).
 - Say how long the survey will take to complete.
-- [Triple test your survey](http://www.disambiguity.com/triple-test-survey/) with people who could be potential respondents.
+- [Triple test your survey](http://www.disambiguity.com/triple-test-survey/){:rel="external"} with people who could be potential respondents.
 
 ### Make the title of the survey clear
 
