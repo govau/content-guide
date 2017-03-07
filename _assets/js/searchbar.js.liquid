@@ -21,6 +21,20 @@ window.addEventListener('load', function () {
         }
     }
 
+    // when the searchbar gets focus, fetch the search index so it is cached for later
+    function onSiteSearchFocus() {
+        var http;
+        if (window.XMLHttpRequest) {
+          http = new XMLHttpRequest();
+        }
+        else {
+          http = new XDomainRequest();
+        }
+        http.open("GET", "{{site.baseurl}}/search-engine/index.json", true);
+        http.send();
+    }
+
+    siteSearchText.addEventListener("focus", onSiteSearchFocus, false);
     siteSearchText.addEventListener("change", onSiteSearchChange, false);
     onSiteSearchChange();
 });
