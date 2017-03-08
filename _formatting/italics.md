@@ -10,14 +10,23 @@ Screen readers interpret italics in different ways.
 
 Users with dyslexia can find italics very difficult to read.
 
-Never use italics in headlines.
+Don't use italics in headlines.
+
+When [referring to legislation, reports and publications use capitals instead of italics](/punctuation-grammar/#capitalisation). Link to the source where possible.
+
+{% include guide_example.liquid
+  title = "referring to acts"
+  content= "
+According to the [Privacy Act 1988](https://www.legislation.gov.au/Details/C2016C00979){:rel='external'} ...
+"
+%}
 
 ### Avoid Latin words
 
 Instead of Latin words, use plain English where possible.
 
 {% include guide_example.liquid
-  title = "avoiding italics"
+  title = "avoiding Latin words"
   content= "
 a long time --- not _ad infinitum_
 "
