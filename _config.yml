@@ -145,8 +145,8 @@ collections:
     description: ""
     order: 4
     output: false
-  content-types:
-    title: "Content types"
+  types-of-content:
+    title: "Types of content"
     description: ""
     order: 5
     output: false
