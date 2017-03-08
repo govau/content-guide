@@ -25,7 +25,7 @@ Accessible video resources:
 - Language difficulty.
 - Non-conducive environments --- for example a noisy environment or a workplace where the sound disturbs colleagues.
 
-### Provide a transcript and close captions
+### Provide a transcript and closed captions
 
 Add the HTML transcript to the same page as the video. Or add a link below or beside the video to a page with the transcript.
 
