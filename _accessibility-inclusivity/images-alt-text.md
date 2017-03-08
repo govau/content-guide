@@ -9,6 +9,8 @@ order: 6
 
 Use words rather than images. Only use images that usefully add to the text content.
 
+Make sure the images are not culturally insensitive to any multicultural audience.
+
 Make sure there is sufficient contrast between any text and the background in images.
 
 ### All images need alt text
