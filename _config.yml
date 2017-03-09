@@ -115,7 +115,7 @@ highlighter: rouge
 #     output: false
 #
 collections:
-  about:
+  how-to-use-guide:
     title: "How to use this guide"
     description: "About this Content Guide and how you can use it."
     order: 0
