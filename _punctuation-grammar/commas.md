@@ -13,11 +13,11 @@ Commas increase clarity because they bring in a natural pause. But too many comm
   content= "
 Like this
 
-> Cabinet discussed the proposal, then the Department issued a media release.
+> Cabinet discussed the proposal, then we issued a media release.
 
 Not like this
 
-> The proposal, which was discussed in Cabinet, prompted a media release by the Department.
+> The proposal, which was discussed in Cabinet, prompted a media release by us.
 "
 %}
 

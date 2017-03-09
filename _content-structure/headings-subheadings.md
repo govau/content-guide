@@ -18,6 +18,8 @@ Use only 1 top level (`H1`) heading.
 
 ### Break up content with subheadings
 
+Users lose track if there are too many heading levels.
+
 Break up blocks of text and draw the reader in with short interesting headings.
 
 Help the user to understand the relationship between sections of text.
@@ -34,6 +36,8 @@ Start headings and subheadings with keywords that help your user to make a conne
   title = "frontloading subheading"
   content= "
 Digital communities of practice
+
+Smart cities in Europe
 "
 %}
 

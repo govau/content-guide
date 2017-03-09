@@ -1,6 +1,6 @@
 ---
 title: "Em dashes (&mdash;)"
-order: 4
+order: 5
 exclude_from_search: true
 ---
 

@@ -115,60 +115,55 @@ highlighter: rouge
 #     output: false
 #
 collections:
-  about:
-    title: "About this guide"
-    description: "What the Content Guide is and how you can contribute to it."
+  how-to-use-guide:
+    title: "How to use this guide"
+    description: "About this Content Guide and how you can use it."
     order: 0
     output: true
-  # updates:
-  #   title: "Latest updates"
-  #   description: "Changelog for the Content Guide."
-  #   order: 9
-  #   output: true
+#  updates:
+#    title: "Latest updates"
+#    description: "Changelog for the Content Guide."
+#    order: 9
+#    output: true
   accessibility-inclusivity:
     title: "Accessibility and inclusivity"
-    description: "Guidance on designing content that includes everyone. How to write about disability, for Aboriginal and Torres Strait Islander audiences and for people who speak languages other than English."
-    order: 1
-    output: false
+    description: "How to design content for First Australians, people who speak languages other than English and people with disability."
+    order: 3
+    output: true
   punctuation-grammar:
     title: "Punctuation and grammar"
-    description: "How to use the symbols, mechanics and rules of language. Includes capitalisation, use of apostrophes ('), quotation marks (&quot;) and em dashes (&mdash;)."
-    order: 2
-    output: false
+    description: "How to punctuate and capitalise content for screens."
+    order: 4
+    output: true
   numbers-measurements:
     title: "Numbers and measurements"
-    description: "How to write all kinds of numbers. Includes dates and times, phone numbers and weights."
-    order: 3
-    output: false
+    description: "Guidance for writing numbers on screens."
+    order: 7
+    output: true
   content-structure:
     title: "Content structure"
-    description: "Guidance on using the basic content building blocks: paragraphs, headings, bullet point lists and links."
-    order: 4
-    output: false
-  content-types:
-    title: "Content types"
-    description: "How to use and create common kinds of content. Includes documents, forms, surveys and fact sheets."
-    order: 5
-    output: false
-  formatting:
-    title: "Formatting"
-    description: "How to use italics, bold and underline."
+    description: "The basic building blocks for crafting good content."
+    order: 1
+    output: true
+  types-of-content:
+    title: "Types of content"
+    description: "How to create and use common kinds of content."
     order: 6
-    output: false
+    output: true
   writing-style:
     title: "Writing style"
-    description: "Guidance on writing content that is engaging and scannable. Includes plain English, voice, tone and contractions."
-    order: 7
-    output: false
+    description: "Guidance on writing plain English content that reflects a modern government voice."
+    order: 2
+    output: true
   terms-phrases:
     title: "Terms and phrases"
-    description: "How to spell specific words and terms. Includes guidance on abbreviation, plain English and digital terms, Australian Government words and how to address ministers, senators and MPs."
-    order: 8
-    output: false
+    description: "Spellings of commonly used government and digital words and terms."
+    order: 5
+    output: true
   sources:
     title: "Sources"
-    description: "A list of the resources used to write the DTA Content Guide."
-    order: 10
+    description: "How this guide was put together."
+    order: 9
     output: true
 
 # PROSE.IO

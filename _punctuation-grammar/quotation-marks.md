@@ -1,6 +1,6 @@
 ---
 title: "Quotation marks (‘ ’ and “ ”)"
-order: 12
+order: 14
 exclude_from_search: true
 ---
 
@@ -23,13 +23,13 @@ The team leader said, 'We need to follow the director's advice that “work-life
 "
 %}
 
-### Punctuating colloquial expressions
+### Punctuating unusual or colloquial expressions
 
 Use single quote marks to enclose and emphasise an unusual or colloquial expression.
 
 {% include guide_example.liquid
   title = "colloquial or unusual expression"
   content= "
-They refer to it as the ‘content focus model'.
+They refer to it as 'Create Once, Publish Enthusiastically'.
 "
 %}
