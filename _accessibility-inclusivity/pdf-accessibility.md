@@ -25,7 +25,7 @@ Users may simply choose not to open a PDF and this means information is hidden.
 
 ### Structure PDFs logically
 
-To make a PDF accessible you must structure it so that structural elements such as headings are marked-up so tht a screen reader can follow the logical order of the content (structural hierarchy).
+To make a PDF accessible you must make sure structural elements such as headings are marked-up so that a screen reader can follow the logical order of the content. This is called the structural hierarchy.
 
 Guidance on how to structure PDFs:
 
