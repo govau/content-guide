@@ -1,6 +1,6 @@
 ---
 title: "En dashes (&ndash;)"
-order: 5
+order: 7
 exclude_from_search: true
 ---
 
