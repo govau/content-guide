@@ -1,6 +1,6 @@
 ---
 title: "Semicolons (;)"
-order: 11
+order: 10
 exclude_from_search: true
 ---
 

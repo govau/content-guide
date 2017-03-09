@@ -1,6 +1,6 @@
 ---
 title: "Commas (,)"
-order: 12
+order: 11
 exclude_from_search: true
 ---
 
