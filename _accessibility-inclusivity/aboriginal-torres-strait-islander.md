@@ -3,7 +3,7 @@ title: "Aboriginal and Torres Strait Islander peoples"
 order: 3
 ---
 
-Aboriginal and Torres Strait Islander peoples represent a diverse range of cultures and are not 1 homogenous group.
+Aboriginal and Torres Strait Islander peoples represent a diverse range of cultures and are not a homogenous group.
 
 Within Aboriginal and Torres Strait Islander peoples/nations are many distinct cultural groups.
 
