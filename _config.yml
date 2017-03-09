@@ -132,12 +132,12 @@ collections:
     output: false
   punctuation-grammar:
     title: "Punctuation and grammar"
-    description: "How to punctuate and capitalise content for digital devices."
+    description: "How to punctuate and capitalise content for screens."
     order: 4
     output: false
   numbers-measurements:
     title: "Numbers and measurements"
-    description: "Guidance for writing numbers on digital devices."
+    description: "Guidance for writing numbers on screens."
     order: 7
     output: false
   content-structure:
