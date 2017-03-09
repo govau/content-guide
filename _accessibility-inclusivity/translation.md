@@ -5,7 +5,7 @@ order: 5
 
 Find out if there is a user need to provide the content in other community languages.
 
-This can be helpful if there are compliance requirements.
+This can be important if there are compliance requirements or health and safety issues.
 
 ### Identify the right languages
 
