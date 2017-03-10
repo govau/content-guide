@@ -7,7 +7,7 @@ window.addEventListener('load', function () {
         if (siteSearchText.value) {
             //Add the class if it doesnt have it already
             var className = siteSearchText.className;
-            if(!className.contains("has-value")) {
+            if (className.toString().indexOf("has-value") < 0) {
                 if (className!= "") {
                     className += " ";
                 }
