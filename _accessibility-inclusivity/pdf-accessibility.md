@@ -15,7 +15,7 @@ You should still make sure the PDF content is available in another format such a
 
 On mobile devices, PDFs do not comply with [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/){:rel="external"} due to a lack of support for document structure.
 
-You can only reply on users being able to access an accessible PDF with assistive technologies if they will always be using a desktop or laptop device.
+People can only use assistive technologies to read PDFs if they are using a desktop or laptop device.
 
 PDFs are also difficult for many users to access on smaller screens as they don't reflow.
 

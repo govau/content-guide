@@ -16,14 +16,15 @@ Accessible video resources:
 - [Short guide to creating accessible video --- SitePoint](https://www.sitepoint.com/accessible-video/){:rel="external"}
 - [Guidance on using captions, transcripts and audio descriptions --- WebAIM](http://webaim.org/techniques/captions/){:rel="external"}.
 
-### Think about all access issues for video
+### Think about all accessibility issues
 
-- Visual impairment.
-- Hearing impairment.
-- Mobility --- for example, restricted keyboard access.
-- Flickering and moving content.
-- Language difficulty.
-- Non-conducive environments --- for example a noisy environment or a workplace where the sound disturbs colleagues.
+Video is not just difficult for users with visual impairment. Think about:
+
+- hearing impairment
+- mobility --- for example, restricted keyboard access
+- flickering and moving content
+- language difficulty
+- non-conducive environments --- for example a noisy environment or a workplace where the sound disturbs colleagues.
 
 ### Provide a transcript and closed captions
 

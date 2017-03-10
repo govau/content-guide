@@ -16,16 +16,17 @@ Do not use:
 
 - Aboriginals, Aborigine --- these words are associated with colonisation and assimilation and are distressing to many people
 - ATSI --- never use the acronym ATSI as this is considered disrespectful
-- Aboriginal and/or Torres Strait Islander Australians.
+- Aboriginal and/or Torres Strait Islander
+- Aboriginal and Torres Strait Australians.
 
 Instead use:
 
+- First Australians
 - Aboriginal and Torres Strait Islander peoples (note the plural)
 - Aboriginal peoples (note the plural)
 - Torres Strait Islander peoples (note the plural)
 - Aboriginal man/woman/child
-- Aboriginal Elder
-- First Australians.
+- Aboriginal Elder.
 "
 %}
 
@@ -47,7 +48,7 @@ The [Australian Indigenous Languages Database](http://austlang.aiatsis.gov.au/ma
 {% include guide_example.liquid
   title = "alternatives to using Indigenous"
   content= "
-If you are sure use:
+If you are sure, use:
 
 > The Ngunnawal woman spoke first.
 

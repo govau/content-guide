@@ -10,15 +10,15 @@ The best way to do this is by using common words, or plain English.
 
 Writing in plain English means using simpler and more direct language.
 
-It does not mean ‘dumbing down’ information.
+It does not mean ‘dumbing down’ information. Plain English helps decision making and builds trust with the user.
 
 ### How to write in plain English
 
-- Write less and [structure content](/content-structure/) around the needs of the user.
+- Avoid jargon so the user can understand the first time they read the content.
 - Use [active voice](#voice) --- not passive.
 - Choose the shorter [plain English word, term, sentence](/terms-phrases/#plain-english-terms) and paragraph over the longer.
-- Avoid jargon so the user can understand the first time they read the content.
 - Minimise punctuation. Use several short sentences instead of a long sentence broken up with punctuation.
+- Aim for a Year 5 reading level (the same level a 9 year old can understand) --- see [guidance on readability](#readability).
 
 ### Make sure all of the users can understand
 

@@ -11,7 +11,7 @@ People use screen readers to navigate and understand web pages through a combina
 
 ### Clear writing helps all users
 
-Write clearly and use plain English. This helps users with screen readers by making content easier to understand and to skim.
+Write clearly and use [plain English](/writing-style/#plain-english). This helps users with screen readers by making content easier to understand and to skim.
 
 Keep sentences short so the meaning is concise. This means the screen reader won't need to read out a lot of punctuation. Not all screen readers work the same and some can miss nuances in longer sentences.
 
