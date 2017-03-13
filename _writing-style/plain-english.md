@@ -18,7 +18,7 @@ It does not mean ‘dumbing down’ information. Plain English helps decision ma
 - Use [active voice](#voice) --- not passive.
 - Choose the shorter [plain English word, term, sentence](/terms-phrases/#plain-english-terms) and paragraph over the longer.
 - Minimise punctuation. Use several short sentences instead of a long sentence broken up with punctuation.
-- Aim for a Year 5 reading level (the same level a 9 year old can understand) --- see [guidance on readability](#readability).
+- Aim for a [Year 5 reading level](#readability) (the same level a 9 year old can understand).
 
 ### Make sure all of the users can understand
 
