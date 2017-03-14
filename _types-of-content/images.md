@@ -1,6 +1,6 @@
 ---
 title: "Images"
-order: 6
+order: 7
 exclude_from_search: true
 ---
 

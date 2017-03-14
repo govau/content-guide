@@ -1,6 +1,6 @@
 ---
 title: "Documents"
-order: 1
+order: 2
 exclude_from_search: true
 ---
 
