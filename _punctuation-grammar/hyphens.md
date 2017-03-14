@@ -32,13 +32,13 @@ Some nouns are also hyphenated. Check the [Macquarie Dictionary](https://www.mac
 "
 %}
 
-Login and sign in are not hyphenated.
+Login and sign in are not hyphenated. Also read guidance on [using sign in instead of log in](/terms-phrases/#digital-terms).
 
 {% include guide_example.liquid
   title = "punctuating sign in and log in"
   content= "
-- You need to use your login (noun) to log in (verb) to the site.
 - You need to use your sign in (noun) to sign in (verb) to the site.
+- You need to use your login (noun) to log in (verb) to the site.
 "
 %}
 
