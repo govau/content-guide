@@ -25,8 +25,8 @@ exclude_from_search: true
 - world wide web
 - XML
 
-### Sign in and log in
+### Sign in versus log in
 
-Use 'sign in' and 'sign out' (note, no hyphen) instead of 'log in' or 'log out' in text, links and buttons.
+Consider using 'sign in' and 'sign out' (note, no hyphen) instead of 'log in' or 'log out' in text, links and buttons.
 
-'Sign in' is generally a more recognisable call to action than 'log in' for a digital account. But you should make sure this is the right choice for the user.
+'Sign in' seems to becoming a more recognisable call to action than 'log in'. But you should test this with the user.

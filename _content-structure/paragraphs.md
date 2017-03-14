@@ -1,6 +1,6 @@
 ---
 title: "Paragraphs"
-order: 1
+order: 2
 exclude_from_search: true
 ---
 

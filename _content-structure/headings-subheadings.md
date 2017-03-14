@@ -1,6 +1,6 @@
 ---
 title: "Headings and subheadings"
-order: 2
+order: 3
 exclude_from_search: true
 ---
 
