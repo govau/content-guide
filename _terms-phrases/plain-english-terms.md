@@ -1,6 +1,6 @@
 ---
 title: "Plain English terms"
-order: 12
+order: 11
 exclude_from_search: true
 ---
 

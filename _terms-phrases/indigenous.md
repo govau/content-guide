@@ -1,6 +1,6 @@
 ---
 title: "Indigenous"
-order: 10
+order: 9
 exclude_from_search: true
 ---
 

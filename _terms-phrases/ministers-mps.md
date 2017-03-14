@@ -1,6 +1,6 @@
 ---
 title: "Ministers, senators and MPs"
-order: 11
+order: 10
 exclude_from_search: true
 ---
 

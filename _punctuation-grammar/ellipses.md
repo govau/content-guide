@@ -1,6 +1,6 @@
 ---
 title: "Ellipses ( ... )"
-order: 13
+order: 14
 exclude_from_search: true
 ---
 

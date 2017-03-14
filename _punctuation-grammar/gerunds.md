@@ -1,6 +1,6 @@
 ---
 title: "Gerunds (-ings)"
-order: 12
+order: 13
 exclude_from_search: true
 ---
 
