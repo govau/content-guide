@@ -12,7 +12,7 @@ Content with a good readability level helps users know what to do. This includes
 
 The 'Flesch reading ease' index is a common measure for content. It is built into many readability tools.
 
-Writing with a high Flesch reading ease score (about 100) is easy to read.
+Content with a high Flesch reading ease score (about 100) is easy to read.
 
 Readability tools can show where content can be improved. They can also give you useful metrics to use to suggest changes to stakeholders.
 
