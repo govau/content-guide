@@ -2,7 +2,7 @@
 
 ## Content Guide 'Getting with the program'
 
-### 1.0.0 &#8212; 2017-03-03
+### 1.0.0 &#8212; 2017-03-XX
 
 Live release of the GOV.AU Content Guide.
 
@@ -29,6 +29,6 @@ The main changes are listed below.
 - Added guidance on [using numbered (ordered) lists](/content-structure/#bullet-point-lists).
 - Added [guidance on referring to senators](/terms-phrases/#ministers-senators-mps).
 - Added [preference for using text message](/terms-phrases/#digital-terms) over SMS.
-- Use [focused](/terms-phrases/#preferred-spellings), not focused.
+- Use [focused](/terms-phrases/#preferred-spellings), not focussed.
 - Limit use of [ampersands](/punctuation-grammar/#ampersands).
 - Added guidance on [using programme in the context of existing legislation](/terms-phrases/#preferred-spellings).
