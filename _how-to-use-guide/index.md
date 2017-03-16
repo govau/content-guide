@@ -31,7 +31,7 @@ The Content Guide is a collaborative product written by the Digital Transformati
 
 We summarise major updates on our home page. You can read a [full changelog for the Content Guide](https://github.com/govau/content-guide/blob/master/CHANGELOG.md){:rel="external"} in our GitHub repository.
 
-The [original sources for the Content Guide](/sources/) included the GOV.UK style guide, 18F Content Guide, and The Guardian and Observer style guide.
+The [original sources for the Content Guide](/sources/) included the GOV.UK style guide, 18F Content Guide, Style Manual: For Authors, Editors and Printers, and The Guardian and Observer style guide.
 
 ## How you can contribute
 

@@ -10,9 +10,10 @@ The GOV.AU Content Guide and earlier guides were developed with the help of memb
 We have been closely guided by and used content from:
 
 - the [Government Digital Service (GDS) Style guide](https://www.gov.uk/guidance/style-guide){:rel="external"} and
-[GDS blog](https://gds.blog.gov.uk/){:rel="external"}.
-- Department of Communications and the Arts's Online Style Guide.
-- Department of Finance's Good practice publishing for Australian Government entities.
+[GDS blog](https://gds.blog.gov.uk/){:rel="external"}
+- Department of Communications and the Arts's Online Style Guide
+- Department of Finance's Good practice publishing for Australian Government entities
+- [Style Manual: For Authors, Editors and Printers](http://www.australia.gov.au/about-government/publications/style-manual){:rel="external"}.
 
 Other style and design guides consulted:
 
