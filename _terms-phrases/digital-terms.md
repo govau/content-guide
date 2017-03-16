@@ -29,4 +29,4 @@ exclude_from_search: true
 
 Consider using 'sign in' and 'sign out' (note, no hyphen) instead of 'log in' or 'log out' in text, links and buttons.
 
-'Sign in' seems to becoming a more recognisable call to action than 'log in'. But you should test this with the user.
+'Sign in' seems to be becoming a more recognisable call to action than 'log in'. But you should test this with the user.
