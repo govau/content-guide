@@ -12,7 +12,7 @@ Users with dyslexia can find italics very difficult to read.
 
 Don't use italics in headlines.
 
-When [referring to legislation, reports and publications use capitals instead of italics](/punctuation-grammar/#capitalisation). Link to the source where possible.
+Use [capitals instead of italics for acts and other publications](/punctuation-grammar/#capitalisation). Link to the source where possible.
 
 {% include guide_example.liquid
   title = "referring to acts"
