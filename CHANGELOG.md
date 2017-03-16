@@ -24,6 +24,7 @@ The main changes are listed below.
 ### Changes to guidance
 
 - New guidance on [accessibility and inclusivity](/accessibility-inclusivity/).
+- New guidance on [readability](/writing-style/#readability).
 - [Always capitalise minister and senator if they are part of a proper noun](/punctuation-grammar/#capitalisation).
 - Use [words for ordinals](/numbers-measurements/#numbers), except for dates.
 - Added guidance on [using numbered (ordered) lists](/content-structure/#bullet-point-lists).
