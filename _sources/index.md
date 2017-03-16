@@ -1,7 +1,7 @@
 ---
 title: "Sources"
 layout: "collections/index"
-abstract: ""
+abstract: "How this guide was put together."
 published: true
 ---
 

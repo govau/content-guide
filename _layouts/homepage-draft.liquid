@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<main role="main" id="content" class="content-main homepage">
+
+  <h2 class="subtitle--homepage">Get started</h2>
+
+  <p>Learn how to <a href="/content-structure/">structure content</a>, write in <a href="/writing-style/">plain English</a> and create <a href="/accessibility-inclusivity/"> accessible content</a> that includes everyone.<p>
+
+  <h2>Guidance sections</h2>
+
+  <nav aria-label="main navigation">
+
+    <ul class="collection-listing">
+
+      {% comment %}
+        DRAFT: Support to loop through pages too.
+      {% endcomment %}
+      {% comment %}
+      {% assign pages = site.pages | where: "layout", "page" %}
+      {% for page in pages %}
+        <li>
+          <a href="{{ site.baseurl }}/{{ page.url }}">
+            {{ page.title }}
+          </a>
+        </li>
+      {% endfor %}
+      {% endcomment %}
+
+      {% comment %}
+        Making sure we have control over the order of the collections.
+
+        The order for each is defined in the Collection config under _config.yml.
+      {% endcomment %}
+      {% assign collections_ordered = site.collections | sort: "order" %}
+
+      {% comment %}
+        This is the main loop. It iterates through all collections.
+      {% endcomment %}
+      {% for collection in collections_ordered %}
+        {% comment %}
+          This unless is here currently because there is a mystery/ghost
+          collection, with a value of nil. Any ideas?
+        {% endcomment %}
+        {% unless collection.title == nil %}
+        <li>
+          <h3>
+            <a href="{{ site.baseurl }}/{{ collection.label }}/">
+            {{ collection.title }}
+            </a>
+          </h3>
+          {{ collection.description | markdownify }}
+        </li>
+        {% endunless %}
+      {% endfor %}
+    </ul>
+  </nav>
+
+  {{ content }}
+
+</main>
