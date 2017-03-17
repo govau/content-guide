@@ -27,9 +27,9 @@ The specific legal obligations of the DTA when collecting and handling your pers
 
 The website of the [Office of the Australian Information Commissioner contains further information about privacy](http://www.oaic.gov.au/privacy), including the APPs, legislation and policies.
 
-### How we update this policy
+### Updates to policy
 
-We may review and update this policy from time to time, to take account of new laws or technology, or changes to the DTA’s priorities, functions, operations or practices. If we do, we will publish any updates on our website.
+We may review and update this policy from time to time, to take account of new laws or technology, or changes to the DTA’s priorities, functions, operations or practices. If we do, we will publish any updates on our websites.
 
 ## Collecting your personal information
 
@@ -43,9 +43,9 @@ The Guides team in the DTA works with government agencies to provide guidance an
 
 These functions and activities of the Guides team include:
   - sharing code (including the [UI-Kit product](https://github.com/govau/uikit)) to build digital services
-  - providing guidance on building digital services ([DTA Design Guide](https://github.com/AusDTO/dto-design-guide) and [GOV.AU Content Guide](https://github.com/govau/content-guide) products)
+  - providing guidance on building digital services ([DTA Design Guide](http://guides.service.gov.au/design-guide/) and [GOV.AU Content Guide](http://guides.service.gov.au/content-guide/) products)
   - researching with users to improve our products
-  - providing training and presentations on our products.
+  - providing training and presentations on our products and services.
 
 ### Types of personal information
 
@@ -87,15 +87,13 @@ The Guides team in the DTA has several public websites hosted at: http://guides.
 
 Each of these websites has their own privacy statements. These privacy statements notify users of information relevant to the collection, use and disclosure of personal information collected through those particular websites.
 
-The code for these websites are hosted in public repositories in GitHub.
+The code for these websites is hosted in public repositories in GitHub. [GitHub has its own privacy statement](https://help.github.com/articles/github-privacy-statement/).
 
 Users can comment on, submit issues and pull requests to these repositories. When these are submitted to GitHub they become part of the code of these websites.
 
-[GitHub has its own privacy statement](https://help.github.com/articles/github-privacy-statement/).
-
 ### Analytics tools
 
-We use a range of tools provided by third parties, such as Google Analytics, to collect or view website traffic information. These sites have their own privacy policies, for example, the [Google Privacy Policy](https://www.google.com/policies/privacy/).
+We use a range of tools provided by third parties, including Google Analytics, to collect or view website traffic information. These sites have their own privacy policies, for example, the [Google Privacy Policy](https://www.google.com/policies/privacy/).
 
 We also use cookies and session tools to improve your experience when accessing our website and the websites we manage.
 
@@ -110,7 +108,7 @@ In relation to Google Analytics you can opt out of the collection of this inform
 
 ### MailChimp and newsletters
 
-To send out our news we use MailChimp. This provides online tools that can be used to create, send, and manage emails.
+To send out our news we use MailChimp. This provides online tools that can be used to create, send and manage emails.
 
 MailChimp may collect personal information, such as distribution lists that contain email addresses, and other information relating to those email addresses.
 
@@ -126,7 +124,9 @@ The social networking service will also handle your personal information for its
 
 ### Eventbrite and hosting events
 
-We use Eventbrite to facilitate registration and attendance at DTA events, including training on using Guides products. When you register for an event using this service we might collect your personal information, so we can facilitate your registration and attendance at the relevant event. [Eventbrite will handle your personal information and has its own privacy policy](https://www.eventbrite.com.au/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_AU).
+We use Eventbrite to facilitate registration and attendance at DTA events, including training on using Guides products and services.
+
+When you register for an event using this service we might collect your personal information, so we can facilitate your registration and attendance at the relevant event. [Eventbrite will handle your personal information and has its own privacy policy](https://www.eventbrite.com.au/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_AU).
 
 ## Holding your personal information
 
@@ -157,10 +157,10 @@ To protect the personal information we disclose, we enter into a contract or Mem
 
 ### Information outside of Australia
 
-We are generally not likely to disclose personal information to a person (other than you) who is not in Australia or an external Territory. However:
+We are generally not likely to disclose personal information to a person (other than you) who is not in Australia or an external territory. However:
   - web traffic information is disclosed to Google Analytics when you visit our websites --- Google stores information across multiple countries.
   - when you communicate with us through a social network service such as Facebook or Twitter, the social network provider and its partners may collect and hold your personal information overseas
-  - when you comment on, log issues or submit pull requests to GitHub repositories hosting code for Guides products --- GitHub stores information in the United States of America.
+  - when you comment on, log issues or submit pull requests to GitHub repositories hosting code for Guides products, GitHub may collect and hold your personal information overseas.
 
 If you communicate with us through email, your email service provider may store information in data centres outside of Australia. If you provide us with your email address, you are authorising us to send your personal information to this address.
 
@@ -172,7 +172,7 @@ We try to make sure that the personal information we collect, use or disclose is
   - promptly add updated or new personal information to existing records
   - review the quality of personal information before we use or disclose it.
 
-### Accessing your inforamtion
+### Accessing your information
 
 At no cost, you can:
   - request access to personal information about you that we hold
@@ -190,7 +190,7 @@ If we refuse to correct your personal information, you can ask us to for example
 
 ### Freedom of Information requests
 
-You also have the right under the [Freedom of Information Act 1982 (Cth)](https://www.legislation.gov.au/Series/C2004A02562) to ask for access to documents that we hold, and to ask for information that we hold about you to be changed or annotated if it is incomplete, incorrect, out-of-date or misleading.
+You also have the right under the [Commonwealth Freedom of Information Act 1982](https://www.legislation.gov.au/Series/C2004A02562) to ask for access to documents that we hold, and to ask for information that we hold about you to be changed or annotated if it is incomplete, incorrect, out-of-date or misleading.
 
 ## How to make a complaint
 
@@ -200,9 +200,9 @@ Any complaints should be in writing, setting out as much detail as possible, and
 
 We will take reasonable steps to investigate any complaint, and to notify you of the outcome of our investigation, within 30 days.
 
-We will assess and handle any complaints about the conduct of a DTA officer using the [APS Values and Code of Conduct in the Public Service ACT 1999](https://www.legislation.gov.au/Details/C2016C00420) and the guidelines issued by the [Australian Public Service Commission](http://www.apsc.gov.au/).
+We will assess and handle any complaints about the conduct of a DTA officer using the [Australian Public Service Values and Code of Conduct in the Public Service Act 1999](https://www.legislation.gov.au/Details/C2016C00420) and the guidelines issued by the [Australian Public Service Commission](http://www.apsc.gov.au/).
 
-If we do not respond to your complaint within 30 days, or you are not satisfied with the outcome of our investigations, you can [make a complaint directly to the Office of the Australian Information Commissioner](http://www.oaic.gov.au/privacy/making-a-privacy-complaint).
+If we do not respond to your complaint within 30 days, or you are not satisfied with the outcome of our investigations, you can [make a complaint to the Office of the Australian Information Commissioner](http://www.oaic.gov.au/privacy/making-a-privacy-complaint).
 
 ## Contact details --- Privacy Officer
 
@@ -220,7 +220,7 @@ Canberra ACT 2601
 
 ### Website records
 
-Records, including submissions through feedback forms and information obtained through website analytics, of DTA websites operated and managed by the DTA, including: http://guides.service.gov.au/
+Records, including submissions through feedback forms and information obtained through website analytics, of websites operated and managed by the DTA, including: http://guides.service.gov.au/
 
 **Purpose**: To operate and manage websites managed by the DTA, including content management.
 
@@ -230,11 +230,9 @@ Records, including submissions through feedback forms and information obtained t
 
 **Disclosed to**: Not usually disclosed to anyone when relating to DTA’s website. When the DTA is managing a website on behalf of one or more other agencies, the information may be disclosed to the agency or agencies concerned.
 
-For further information, see the [dta.gov.au website privacy statement](https://www.dta.gov.au/privacy-statement/).
-
 ### Training and event records
 
-Records of DTA training and events, including training on Guides products.
+Records of DTA training and events, including training on Guides products and services.
 
 Attendees are generally APS staff. Information on attendees is collected:
   - when people self-register to attend, through Eventbrite
@@ -257,14 +255,16 @@ Attendees are generally APS staff. Information on attendees is collected:
 
 **Disclosed to**: Not usually disclosed to anyone other than the agency concerned. We may provide a list of trained individuals back to a relevant agency so they can coordinate available accredited assessors in their agency.
 
+See the [Google Privacy Policy](https://www.google.com/policies/privacy/). Google stores information across multiple countries.
+
 ### User research records
 
-**Purpose**: To help DTA research with users to improve our services and products.
+We require users to sign a consent form before participating in user research with the DTA. The consent form details how the user's personal information will be handled.
 
-**Content**: Where we collect personal information from users outside of the DTA we provide a consent form. The consent form details how the user's personal information will be handled.
+**Purpose**: To help the DTA research with users to improve our services and products.
 
-Content may include:
-  - given, family names and title
+**Content**: Content may include:
+  - given names, family names and title
   - date of birth
   - gender
   - occupation and employment history
@@ -277,4 +277,4 @@ Content may include:
 
 **Disclosed to**: Not usually disclosed to anyone other than the individuals concerned or their authorised representative.
 
-The DTA use third-party services, including Lookback, SurveyMonkey and OptimalSort to conduct user research. These services have their own privacy policies and may store information across multiple countries.
+The DTA use third-party services including Lookback, SurveyMonkey and OptimalSort to conduct user research. These services have their own privacy policies and may store information across multiple countries.
