@@ -2,9 +2,13 @@
 
 ## Scope
 
-The [Australian Privacy Principles](https://www.oaic.gov.au/individuals/privacy-fact-sheets/general/privacy-fact-sheet-17-australian-privacy-principles) (APPs) set out in the [Privacy ACT 1988](https://www.legislation.gov.au/Series/C2004A03712) require the Digital Transformation Agency (DTA) to have a privacy policy.  This privacy policy sets out the practices of the Guides team in the DTA in relation to handling personal information.
+The [Australian Privacy Principles](https://www.oaic.gov.au/individuals/privacy-fact-sheets/general/privacy-fact-sheet-17-australian-privacy-principles) (APPs) set out in the [Privacy ACT 1988](https://www.legislation.gov.au/Series/C2004A03712) require the Digital Transformation Agency (DTA) to have a privacy policy.
+
+This privacy policy sets out the practices of the Guides team in the DTA in relation to handling personal information.
 
 The [Digital Transformation Agency has its own Privacy Policy](https://www.dta.gov.au/privacy-statement/) that also applies.
+
+### Purpose of this policy
 
 The purpose of this privacy policy is to:
   - clearly communicate the DTA’s practices for handling personal information
@@ -12,6 +16,8 @@ The purpose of this privacy policy is to:
   - give you a better and more complete understanding of the sort of personal information that the DTA holds, and the way we handle that information.
 
 The DTA takes its privacy obligations very seriously. We are committed to meeting the highest standards when we collect, store, use and disclose your personal information.
+
+### Legal obligations for the DTA
 
 The specific legal obligations of the DTA when collecting and handling your personal information are set out in the Privacy Act 1988 and the APPs. The APPs:
   - set out legally binding standards for handling personal information
@@ -21,6 +27,8 @@ The specific legal obligations of the DTA when collecting and handling your pers
 
 The website of the [Office of the Australian Information Commissioner contains further information about privacy](http://www.oaic.gov.au/privacy), including the APPs, legislation and policies.
 
+### How we update this policy
+
 We may review and update this policy from time to time, to take account of new laws or technology, or changes to the DTA’s priorities, functions, operations or practices. If we do, we will publish any updates on our website.
 
 ## Collecting your personal information
@@ -29,37 +37,51 @@ The DTA collects, holds, uses and discloses personal information to achieve our 
 
 The DTA works with government agencies to make services simpler, clearer and faster for everyone.
 
+### Guides team activities
+
 The Guides team in the DTA works with government agencies to provide guidance and tools to build simple, clear and fast services.
 
 These functions and activities of the Guides team include:
-  - sharing code ([the UI-Kit product](https://github.com/govau/uikit)) to build digital services
-  - providing guidance on building digital services ([DTA Design Guide](https://github.com/AusDTO/dto-design-guide) and [GOV.AU Content Guide products](https://github.com/govau/content-guide))
+  - sharing code (including the [UI-Kit product](https://github.com/govau/uikit)) to build digital services
+  - providing guidance on building digital services ([DTA Design Guide](https://github.com/AusDTO/dto-design-guide) and [GOV.AU Content Guide](https://github.com/govau/content-guide) products)
   - researching with users to improve our products
-  - providing training and presentations on our product.
+  - providing training and presentations on our products.
 
-The DTA currently collects and holds the types of personal information that are described in [Schedule 1](#schedule-1) of this policy. For each type of personal information listed in Schedule 1, we have also described:
+### Types of personal information
+
+The DTA currently collects and holds the types of personal information that are described in [Schedule 1](#schedule-1-personal-information-management) of this policy.
+
+For each type of personal information listed in Schedule 1, we have also described:
   - the purpose for which we collect, hold, use and disclose the information
   - the content of the information, including any sensitive content
   - who the information is about
   - whether the information is usually accessed by or disclosed to third parties.
 
-We only collect personal information by lawful and fair means. We usually collect it directly from you. For example, we might collect personal information:
+### How we collect personal inforamtion
+
+We only collect personal information by lawful and fair means.
+
+We usually collect personal information directly from you. For example, we might collect personal information:
   - when you submit email addresses and other personal information through one of the websites we manage
   - from you writing to us or contacting us.
 
-We will comply with the requirements in [APP 5](https://www.oaic.gov.au/individuals/privacy-fact-sheets/general/privacy-fact-sheet-17-australian-privacy-principles#australian-privacy-principle-5-notification-of-the-collection-of-personal-information) to notify you of a number of things before we collect information.
-
-Those things include the purpose for which we are collecting your personal information, and whether the DTA usually discloses that personal information to any other organisation or government agency.
+We will comply with the requirements in [APP 5](https://www.oaic.gov.au/individuals/privacy-fact-sheets/general/privacy-fact-sheet-17-australian-privacy-principles#australian-privacy-principle-5-notification-of-the-collection-of-personal-information) to notify you of a number of things before we collect information. Those things include the purpose for which we are collecting your personal information, and whether the DTA usually discloses that personal information to any other organisation or government agency.
 
 We try to only collect the personal information we need for the particular function or activity we are carrying out. If we do not collect your personal information, we will generally not be in a position to undertake the relevant function or activity.
+
+### Unsolicited personal information
 
 We are sometimes given personal information that we have not asked for, including information sent to us via guides@digital.gov.au or content@digital.gov.au. This is called 'unsolicited personal information'.
 
 When we receive unsolicited personal information, we will comply with the requirements regarding dealing with that kind of personal information set out in [APP 4](https://www.oaic.gov.au/individuals/privacy-fact-sheets/general/privacy-fact-sheet-17-australian-privacy-principles#australian-privacy-principle-4-dealing-with-unsolicited-personal-information).
 
+### Sensitive information
+
 Certain information we collect is called ‘sensitive information’ in the Privacy Act. This includes, for example, details of disability in user research records. The DTA generally only collects and holds sensitive information with the consent of the relevant individual.
 
 Where possible, we will allow you to interact with us anonymously or using a pseudonym. For example, if you contact us with a general question we will not ask for your name unless we need it to properly handle your question. However, for most of our functions and activities we usually need your name and contact details.
+
+### Guides websites and GitHub
 
 The Guides team in the DTA has several public websites hosted at: http://guides.service.gov.au/
 
@@ -70,6 +92,8 @@ The code for these websites are hosted in public repositories in GitHub.
 Users can comment on, submit issues and pull requests to these repositories. When these are submitted to GitHub they become part of the code of these websites.
 
 [GitHub has its own privacy statement](https://help.github.com/articles/github-privacy-statement/).
+
+### Analytics tools
 
 We use a range of tools provided by third parties, such as Google Analytics, to collect or view website traffic information. These sites have their own privacy policies, for example, the [Google Privacy Policy](https://www.google.com/policies/privacy/).
 
@@ -84,17 +108,23 @@ We use this information to maintain, secure and improve our websites and to enha
 
 In relation to Google Analytics you can opt out of the collection of this information using the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 
+### MailChimp and newsletters
+
 To send out our news we use MailChimp. This provides online tools that can be used to create, send, and manage emails.
 
 MailChimp may collect personal information, such as distribution lists that contain email addresses, and other information relating to those email addresses.
 
 If you want further information about the type of personal information MailChimp collects, you can refer to the [MailChimp Privacy Policy](https://mailchimp.com/legal/privacy/).
 
+### Social media
+
 We use social networking services such as Twitter, Facebook, LinkedIn, YouTube, Tumblr and GitHub to communicate with the public about our work.
 
 When you communicate with us using these services we might collect your personal information, but we only use it to help us to communicate with you and the public generally.
 
 The social networking service will also handle your personal information for its own purposes. These sites have their own privacy policies.
+
+### Eventbrite and hosting events
 
 We use Eventbrite to facilitate registration and attendance at DTA events, including training on using Guides products. When you register for an event using this service we might collect your personal information, so we can facilitate your registration and attendance at the relevant event. [Eventbrite will handle your personal information and has its own privacy policy](https://www.eventbrite.com.au/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_AU).
 
@@ -111,19 +141,21 @@ We regularly assess the risk of misuse, interference, loss, and unauthorised acc
   - ensure that people we contract with, where possible, are subject to the same strict privacy obligations that we operate under
   - conduct regular internal and external audits to assess whether we have adequately complied with or implemented these measures.
 
-Personal information that we collect and hold is generally contained in a ‘Commonwealth record’ as defined in the [Commonwealth Archives Act 1983](https://www.legislation.gov.au/Series/C2004A02796).
+Personal information that we collect and hold is generally contained in a 'Commonwealth record' as defined in the [Commonwealth Archives Act 1983](https://www.legislation.gov.au/Series/C2004A02796).
 
 We manage Commonwealth records in accordance with the Archives Act, the [Administrative Functions Disposal Authority](http://www.naa.gov.au/information-management/records-authorities/types-of-records-authorities/AFDA/index.aspx), and any relevant Records Disposal Authority.
 
 ## Disclosing (sharing) your personal information and sensitive information
 
-[Schedule 1](#schedule-1) describes in more detail when we generally disclose each type of personal information we collect.
+[Schedule 1](#schedule-1-personal-information-management) describes in more detail when we generally disclose each type of personal information we collect.
 
 We only disclose your sensitive information for the purposes for which you gave it to us or for directly related purposes you would reasonably expect or if you agree.
 
 The DTA discloses personal information to a number of service providers it uses. These include providers that host our website servers, manage our IT and manage our human resources information.
 
 To protect the personal information we disclose, we enter into a contract or Memorandum of Understanding (MOU) which requires the service provider to only use or disclose the information for the purposes of the contract or MOU. We also include special privacy requirements in the contract or MOU, where necessary.
+
+### Information outside of Australia
 
 We are generally not likely to disclose personal information to a person (other than you) who is not in Australia or an external Territory. However:
   - web traffic information is disclosed to Google Analytics when you visit our websites --- Google stores information across multiple countries.
@@ -140,6 +172,8 @@ We try to make sure that the personal information we collect, use or disclose is
   - promptly add updated or new personal information to existing records
   - review the quality of personal information before we use or disclose it.
 
+### Accessing your inforamtion
+
 At no cost, you can:
   - request access to personal information about you that we hold
   - ask us to correct your personal information if you find that it is not accurate, up-to-date or complete.
@@ -153,6 +187,8 @@ If you ask, we must give you access to your personal information, and take reaso
 If we make a correction and we have disclosed the incorrect information to others, you can ask us to tell them about the correction. We must do so unless there is a valid reason not to.
 
 If we refuse to correct your personal information, you can ask us to for example, attach or link a statement to your personal information which states that you believe the information is incorrect and why.
+
+### Freedom of Information requests
 
 You also have the right under the [Freedom of Information Act 1982 (Cth)](https://www.legislation.gov.au/Series/C2004A02562) to ask for access to documents that we hold, and to ask for information that we hold about you to be changed or annotated if it is incomplete, incorrect, out-of-date or misleading.
 
@@ -182,59 +218,63 @@ Canberra ACT 2601
 
 ## Schedule 1: Personal information management
 
-### 1. Website records
+### Website records
 
-Records, including submissions through feedback forms and information obtained through website analytics, of DTA websites operated and managed by the DTA, including:
-- http://www.dta.gov.au
-- https://ausdta.github.io/service-handbook/
-- https://digitalservicestandardaus.tumblr.com/
-any other websites identified at [insert]
+Records, including submissions through feedback forms and information obtained through website analytics, of DTA websites operated and managed by the DTA, including: http://guides.service.gov.au/
 
-**Purpose**: To operate and manage websites managed by the DTA, including content management
+**Purpose**: To operate and manage websites managed by the DTA, including content management.
 
-**Content**: Given names, family name, title, email address, IP addresses, metadata
+**Content**: Given names, family name, title, email address, IP addresses, metadata.
 
-**Regarding**: Members of the public who interact with the websites that DTA manages
+**Regarding**: Members of the public who interact with the websites that DTA manages,
 
 **Disclosed to**: Not usually disclosed to anyone when relating to DTA’s website. When the DTA is managing a website on behalf of one or more other agencies, the information may be disclosed to the agency or agencies concerned.
 
-For further information, see the [privacy statement specific to the dta.gov.au website](https://www.dta.gov.au/privacy-statement/){rel="external"}.
+For further information, see the [dta.gov.au website privacy statement](https://www.dta.gov.au/privacy-statement/).
 
-### 2.Training and event records
+### Training and event records
 
-Records of DTA training and events, including training on the Digital Service Standard. Attendees are generally APS staff. Information on attendees is collected:
+Records of DTA training and events, including training on Guides products.
+
+Attendees are generally APS staff. Information on attendees is collected:
   - when people self-register to attend, through Eventbrite
   - when attendees provide feedback on a paper form (which may be anonymous but may include name and organisation), which is recorded in a Google spreadsheet
   - in a training register of individuals who have attended, maintained in a Google spreadsheet.
 
-**Purpose**: To deliver training to interested people and maintain information on persons attending DTA training courses, conferences, seminars and forums, including preparing attendee lists and verifying whether individual has been trained
+**Purpose**: To deliver training to interested people and maintain information on persons attending DTA training courses, conferences, seminars and forums, including preparing attendee lists and verifying whether individual has been trained.
 
-**Content**: Participants’ names, work addresses, contact details, employer, positions held, training history, financial information, physical disabilities or special needs
+**Content**:
+  - participants’ names
+  - work addresses
+  - contact details
+  - employer
+  - positions held
+  - training history
+  - financial information
+  - physical disabilities or special needs.
 
-**Regarding**: DTA staff and staff of other agencies who have participated in DTA training programs or events
+**Regarding**: DTA staff and staff of other agencies who have participated in DTA training programs or events.
 
 **Disclosed to**: Not usually disclosed to anyone other than the agency concerned. We may provide a list of trained individuals back to a relevant agency so they can coordinate available accredited assessors in their agency.
 
-### 3. User research records
+### User research records
 
-**Purpose**: To help us research with users to improve our services.
+**Purpose**: To help DTA research with users to improve our services and products.
 
 **Content**: Where we collect personal information from users outside of the DTA we provide a consent form. The consent form details how the user's personal information will be handled.
 
-Information in records may include:
-- given names
-- family name
-- title
-- date of birth
-- gender
-- occupation and employment history
-- qualifications and academic history - if the person identifies as an Aboriginal and Torres Strait Island person
-- physical and mental health issues
-- disabilities
-- racial or ethnic details.
+Content may include:
+  - given, family names and title
+  - date of birth
+  - gender
+  - occupation and employment history
+  - qualifications and academic history
+  - racial or ethnic details
+  - if the person identifies as an Aboriginal and Torres Strait Island person
+  - physical, mental health issues and disabilities.
 
-**Regarding**: Users who have agreed to participate in user research on Guides products.
+**Regarding**: Users who have agreed to participate in user research on DTA products and services.
 
 **Disclosed to**: Not usually disclosed to anyone other than the individuals concerned or their authorised representative.
 
-We use third-party services, such as Lookback, SurveyMonkey and OptimalSort to conduct user research. These services have their own privacy policies and may store information across multiple countries.
+The DTA use third-party services, including Lookback, SurveyMonkey and OptimalSort to conduct user research. These services have their own privacy policies and may store information across multiple countries.
