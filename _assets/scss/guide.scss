@@ -404,13 +404,14 @@ main {
           width: 45%;
         }
 
-        min-height: 16rem; // more magic numbers
+        // min-height: 16rem; // more magic numbers
         padding-left: $medium-spacing;
         border-left: 1px solid $border-colour;
         display: flex;
         flex-direction: column;
 
-        & > h2 {
+        & > h2,
+        & > h3 {
           margin-top: 0;
           margin-bottom: $small-spacing;
         }

@@ -6,54 +6,115 @@ layout: default
 
   <h2 class="subtitle--homepage">Get started</h2>
 
-  <p>Learn how to <a href="/content-structure/">structure content</a>, write in <a href="/writing-style/">plain English</a> and create <a href="/accessibility-inclusivity/"> accessible content</a> that includes everyone.<p>
+  <p class="longdesc">
+    Learn how to <a href="/content-structure/">structure content</a>, write in <a href="/writing-style/">plain English</a> and create
+    <a href="/accessibility-inclusivity/"> accessible content</a> that includes everyone.
+  <p>
 
   <h2>Guidance sections</h2>
 
   <nav aria-label="main navigation">
 
     <ul class="collection-listing">
-
-      {% comment %}
-        DRAFT: Support to loop through pages too.
-      {% endcomment %}
-      {% comment %}
-      {% assign pages = site.pages | where: "layout", "page" %}
-      {% for page in pages %}
-        <li>
-          <a href="{{ site.baseurl }}/{{ page.url }}">
-            {{ page.title }}
+      {% comment %}<li>
+        <h3>
+          <a href="/how-to-use-guide/">
+          How to use this guide
           </a>
-        </li>
-      {% endfor %}
-      {% endcomment %}
+        </h3>
+        <p>About this Content Guide and how you can use it.</p>
 
-      {% comment %}
-        Making sure we have control over the order of the collections.
+      </li>{% endcomment %}
 
-        The order for each is defined in the Collection config under _config.yml.
-      {% endcomment %}
-      {% assign collections_ordered = site.collections | sort: "order" %}
+      <li>
+        <h3>
+          <a href="/content-structure/">
+          Content structure
+          </a>
+        </h3>
+        <p>The basic building blocks for crafting good content.</p>
 
-      {% comment %}
-        This is the main loop. It iterates through all collections.
-      {% endcomment %}
-      {% for collection in collections_ordered %}
-        {% comment %}
-          This unless is here currently because there is a mystery/ghost
-          collection, with a value of nil. Any ideas?
-        {% endcomment %}
-        {% unless collection.title == nil %}
-        <li>
-          <h3>
-            <a href="{{ site.baseurl }}/{{ collection.label }}/">
-            {{ collection.title }}
-            </a>
-          </h3>
-          {{ collection.description | markdownify }}
-        </li>
-        {% endunless %}
-      {% endfor %}
+      </li>
+
+      <li>
+        <h3>
+          <a href="/writing-style/">
+          Writing style
+          </a>
+        </h3>
+        <p>Guidance on writing plain English content that reflects a modern government voice.</p>
+
+      </li>
+
+      <li>
+        <h3>
+          <a href="/accessibility-inclusivity/">
+          Accessibility and inclusivity
+          </a>
+        </h3>
+        <p>How to design content for First Australians, people who speak languages other than English and people with disability.</p>
+
+      </li>
+
+      <li>
+        <h3>
+          <a href="/punctuation-grammar/">
+          Punctuation and grammar
+          </a>
+        </h3>
+        <p>How to punctuate and capitalise content for screens.</p>
+
+      </li>
+
+      <li>
+        <h3>
+          <a href="/terms-phrases/">
+          Terms and phrases
+          </a>
+        </h3>
+        <p>Spellings of commonly used government and digital words and terms.</p>
+
+      </li>
+
+      <li>
+        <h3>
+          <a href="/numbers-measurements/">
+          Numbers and measurements
+          </a>
+        </h3>
+        <p>Guidance for writing numbers on screens.</p>
+
+      </li>
+
+      <li>
+        <h3>
+          <a href="/formatting/">
+          Formatting
+          </a>
+        </h3>
+        <p>How to use italic, bold and underline.</p>
+
+      </li>
+
+      <li>
+        <h3>
+          <a href="/types-of-content/">
+          Types of content
+          </a>
+        </h3>
+        <p>How to create and use common kinds of content.</p>
+
+      </li>
+
+      {% comment %}<li>
+        <h3>
+          <a href="/sources/">
+          Sources
+          </a>
+        </h3>
+        <p>How this guide was put together.</p>
+
+      </li>{% endcomment %}
     </ul>
   </nav>
 
