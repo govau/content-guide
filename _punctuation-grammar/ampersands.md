@@ -1,6 +1,6 @@
 ---
 title: "Ampersands (&)"
-order: 7
+order: 9
 exclude_from_search: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Bullet point lists"
-order: 2
+order: 5
 exclude_from_search: true
 ---
 

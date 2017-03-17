@@ -5,7 +5,7 @@ order: 5
 
 Find out if there is a user need to provide the content in other community languages.
 
-This can be helpful if there are compliance requirements.
+This can be important if there are compliance requirements or health and safety issues.
 
 ### Identify the right languages
 
@@ -23,7 +23,7 @@ Translating is not just about the literal words. It’s also about capturing the
 
 ### Use an accredited translator
 
-It is best practice to use an <a href="https://www.naati.com.au/" rel="external">NAATI-accredited translator</a>. Then ask  another accredited translator to check it.
+It is best practice to use an [NAATI-accredited translator](https://www.naati.com.au/){:rel="external"}. Then ask  another accredited translator to check it.
 
 ### Make all formats accessible
 

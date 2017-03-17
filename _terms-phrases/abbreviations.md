@@ -26,7 +26,7 @@ Abbreviate honours, awards and distinctions without full stops.
   content= "
 - AO (Order of Australia)
 - OM (Member of the Order of Merit)
-- BA (Batchelor of Arts)
+- BA (Bachelor of Arts)
 - DipEd (Diploma of Education)
 - PhD (Doctor of Philosophy)
 "

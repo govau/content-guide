@@ -82,4 +82,4 @@ Copyright Digital Transformation Agency. Licensed under the Creative Commons Att
 
 ![](https://www.dta.gov.au/images/govt-crest.png "Australian Government crest and Digital Transformation Agency title")
 
-The DTA Content Guide is maintained and funded by the [Digital Transformation Agency](https://www.dta.gov.au/).
+The GOV.AU Content Guide is maintained and funded by the [Digital Transformation Agency](https://www.dta.gov.au/).

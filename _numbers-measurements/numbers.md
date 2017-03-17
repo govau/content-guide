@@ -4,11 +4,9 @@ order: 0
 exclude_from_search: true
 ---
 
-Use digits instead of words for most numbers.
+Use digits instead of words for most numbers. This makes numbers easier to read a screen. Use words for ordinals (for example, first) except dates and date periods.
 
-Use a comma between the third and fourth digit from the right, for numbers 10,000 and above.
-
-Use words for ordinals, except for dates.
+Add a comma between the third and fourth digit from the right, for numbers 10,000 and above.
 
 Use the word million instead of digits for 1 million and above.
 

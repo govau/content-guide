@@ -10,6 +10,7 @@ _site/
 
 ### npm ###
 node_modules
+npm-debug.log
 
 ### Generated data ###
 _data/*.json
@@ -24,8 +25,6 @@ _assets/scss/.sass-lint.yml
 ### Sublime ###
 *.sublime-project
 *.sublime-workspace
-
-### Intellij IDEA ###
 
 ### Intellij IDEA ###
 .idea

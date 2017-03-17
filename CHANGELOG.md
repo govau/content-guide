@@ -1,10 +1,10 @@
-# Updates to the DTA Content Guide
+# Updates to the GOV.AU Content Guide
 
 ## Content Guide 'Getting with the program'
 
-### 1.0.0 &#8212; 2017-03-03
+### 1.0.0 &#8212; 2017-03-XX
 
-Live release of the DTA Content Guide.
+Live release of the GOV.AU Content Guide.
 
 The [draft Content Style Guide v1.0](https://github.com/AusDTO/gov-au-content-guide) was released in May 2016. Too much has changed in this version to provide a complete list.
 
@@ -24,11 +24,12 @@ The main changes are listed below.
 ### Changes to guidance
 
 - New guidance on [accessibility and inclusivity](/accessibility-inclusivity/).
-- [Always capitalise department, minister and senator if they are part of a proper noun](/punctuation-grammar/#capitalisation).
+- New guidance on [readability](/writing-style/#readability).
+- [Always capitalise minister and senator if they are part of a proper noun](/punctuation-grammar/#capitalisation).
 - Use [words for ordinals](/numbers-measurements/#numbers), except for dates.
 - Added guidance on [using numbered (ordered) lists](/content-structure/#bullet-point-lists).
 - Added [guidance on referring to senators](/terms-phrases/#ministers-senators-mps).
 - Added [preference for using text message](/terms-phrases/#digital-terms) over SMS.
-- Use [focused](/terms-phrases/#preferred-spellings), not focused.
+- Use [focused](/terms-phrases/#preferred-spellings), not focussed.
 - Limit use of [ampersands](/punctuation-grammar/#ampersands).
 - Added guidance on [using programme in the context of existing legislation](/terms-phrases/#preferred-spellings).

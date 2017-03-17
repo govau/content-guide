@@ -4,14 +4,11 @@ order: 1
 exclude_from_search: true
 ---
 
-Write so everyone can understand.
+Your writing will be most effective if you understand who you’re writing for.
 
-Find out how the user behaves and what they're interested in or worried about.
+To understand your audience you should know:
 
-If you understand what the user needs it will help you to catch their attention and answer their questions.
+- how they behave, what they’re interested in or worried about --- so your writing will catch their attention and answer their questions
+- their vocabulary --- so that you can use the same terms and phrases they’ll use to search for information.
 
-Learn the user's vocabulary.
-
-Use the same terms and phrases your users use so they can find your content.
-
-Make sure that your content is up to date and shows that interacting with government can be easy.
+When you have multiple audiences, make your writing as easy to read as possible so it's accessible to everyone.

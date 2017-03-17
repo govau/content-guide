@@ -1,6 +1,6 @@
 ---
 title: "Images"
-order: 6
+order: 7
 exclude_from_search: true
 ---
 
@@ -10,4 +10,4 @@ Use images minimally and with purpose.
 
 If you use images to enhance written information use real people and locations.
 
-Users ignore images that are just decorative.
+Decorative images are typically ignored by most users.

@@ -1,6 +1,6 @@
 ---
 title: "Hyperlinks"
-order: 3
+order: 6
 exclude_from_search: true
 ---
 
@@ -8,7 +8,7 @@ exclude_from_search: true
 
 Make the destination of the link clear.
 
-Think about the user and their context when reading the information. Think helpful.
+Think about the user and their context when reading the information. Be helpful.
 
 Don’t use meaningless terms such as ‘click here’, ‘read more’ or ‘useful links’.
 
@@ -25,6 +25,11 @@ Not this
 
 > [Attend a Brisbane workshop for developers and writers next month](#).
 
+Never this
+
+> Attend a Brisbane workshop for developers and writers next month.
+>
+> [Click here for more information.](#)
 "
 %}
 

@@ -14,8 +14,8 @@ exclude_from_search: true
 
 Sources:
 
-- <a href="http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/2071.0main+features902012-2013" rel="external">Reflecting a Nation: Stories from the 2011 Census, 2012–2013</a>, <a href="http://www.abs.gov.au/ausstats/abs@.nsf/mf/3238.0.55.001" rel="external">Estimates of Aboriginal and Torres Strait Islander Australians, June 2011</a> and <a href="http://stat.data.abs.gov.au/Index.aspx?DataSetCode=ABS_CENSUS2011_B13" rel="external">ABS.Stat - Language Spoken at Home by Sex</a> contain statistics that show Australia's diversity
-- <a href="http://www.abs.gov.au/ausstats/abs@.nsf/Previousproducts/3101.0Main%20Features3Mar%202013?open" rel="external">Australian Demographic Statistics, Mar 2013</a> contains statistics about migration to Australia.
+- [Reflecting a Nation: Stories from the 2011 Census, 2012–2013](http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/2071.0main+features902012-2013){:rel="external"}, [Estimates of Aboriginal and Torres Strait Islander Australians, June 2011](http://www.abs.gov.au/ausstats/abs@.nsf/mf/3238.0.55.001){:rel="external"} and [ABS.Stat - Language Spoken at Home by Sex](http://stat.data.abs.gov.au/Index.aspx?DataSetCode=ABS_CENSUS2011_B13){:rel="external"} contain statistics that show Australia's diversity
+- [Australian Demographic Statistics, Mar 2013](http://www.abs.gov.au/ausstats/abs@.nsf/Previousproducts/3101.0Main%20Features3Mar%202013?open){:rel="external"} contains statistics about migration to Australia.
 
 ### Abilities and expectations of Australians vary
 
@@ -39,12 +39,12 @@ Numeracy levels for Australians aged 15 to 74 years:
 
 Sources:
 
-- <a href="http://www.abs.gov.au/ausstats/abs@.nsf/mf/4430.0.10.001" rel="external">Disability, Ageing and Carers, Australia: First Results, 2015</a>
-- <a href="http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/4228.0main+features992011-2012" rel="external">Programme for the International Assessment of Adult Competencies, Australia, 2011-2012</a> contains statistics about Australia's literacy and numeracy levels.
+- [Disability, Ageing and Carers, Australia: First Results, 2015](http://www.abs.gov.au/ausstats/abs@.nsf/mf/4430.0.10.001){:rel="external"}
+- [Programme for the International Assessment of Adult Competencies, Australia, 2011-2012](http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/4228.0main+features992011-2012){:rel="external"} contains statistics about Australia's literacy and numeracy levels.
 
 ### Australia's population is ageing
 
 - 14% of Australia's population is over 65. It will rise to 18% by 2061.
 - 420,300 Australians are aged 85 years or over. It will rise to 3.5 million people by 2069.
 
-Source: <a href="http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/3222.0main+features52012%20(base)%20to%202101" rel="external">Population Projections, Australia, 2012 (base) to 2101</a>.
+Source: [Population Projections, Australia, 2012 (base) to 2101](http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/3222.0main+features52012%20(base)%20to%202101){:rel="external"}.

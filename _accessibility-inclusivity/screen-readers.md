@@ -3,17 +3,19 @@ title: "Screen readers"
 order: 10
 ---
 
-Screen readers are an assistive technology that helps users who are blind or visually impaired.
+Screen readers are an assistive technology that helps users who are blind, visually impaired or have reading difficulties.
 
-People use screen readers to understand web pages through a combination of:
+People use screen readers to navigate and understand web pages through a combination of:
 - reading the content of the web page in a linear order
-- moving around the page through the links and headings.
+- moving around the page through headings, links and form elements.
 
 ### Clear writing helps all users
 
-Write clearly and use plain English. This helps users with screen readers by making content easier to understand and to skim.
+Write clearly and use [plain English](/writing-style/#plain-english). This helps users with screen readers by making content easier to understand and to skim.
 
 Keep sentences short so the meaning is concise. This means the screen reader won't need to read out a lot of punctuation. Not all screen readers work the same and some can miss nuances in longer sentences.
+
+Frontload paragraphs so the screen reader user can skip to the next paragraph if the content isn't relevant to them. This helps users to scan content in the same way it helps sighted readers.
 
 ### Headings, links and tags help screen readers navigate
 

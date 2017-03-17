@@ -14,23 +14,22 @@
       <div class="wrapper">
         <div class="page-header__logo">
           <a href="{{ site.baseurl }}/" class="logo">
-            <svg role="img" title="Content Guide logo" aria-labelledby="dg_logo-title">
-              <title id="dg_logo-title" lang="en">Content Guide logo</title>
-              <use xlink:href="{{ site.baseurl }}/assets/spritesheet.svg#dg_logo"/>
+            <svg role="img" title="Content Guide logo" aria-labelledby="dc_logo-title">
+              <title id="dc_logo-title" lang="en">Content Guide logo</title>
+              <use xlink:href="{{ site.baseurl }}/assets/spritesheet.svg#dc_logo"/>
             </svg>
-
             <span>{{ site.title }}</span>
           </a>
 
           <div class="site-search">
-           <form action="/search/" role="search" method="get">
-             <label for="site-search-text">Search content guide</label>
-             <div class="site-search-border">
-               <input type="search" name="q" id="site-search-text" title="Search" class="search-input"/>
-               <input class="submit" type="submit" value="Search"/>
-             </div>
-           </form>
-         </div><!--site-search-->
+            <form action="/search/" role="search" method="get">
+              <label for="site-search-text">Search</label>
+              <div class="site-search-border">
+                <input type="search" name="q" id="site-search-text" title="Search" class="search-input"/>
+                <input class="submit" type="submit" value="Search"/>
+              </div>
+            </form>
+          </div><!--site-search-->
 
           <span class="badge--default">Draft</span>
         </div>
@@ -48,15 +47,25 @@
       <div class="wrapper">
         <div class="page-header__logo">
           <a href="{{ site.baseurl }}/" class="logo">
-            <svg role="img" title="Content Guide logo" aria-labelledby="dg_logo-title">
-              <title id="dg_logo-title" lang="en">Content Guide logo</title>
-              <use xlink:href="{{ site.baseurl }}/assets/spritesheet.svg#dg_logo"/>
+            <svg role="img" title="Content Guide logo" aria-labelledby="dc_logo-title">
+              <title id="dc_logo-title" lang="en">Content Guide logo</title>
+              <use xlink:href="{{ site.baseurl }}/assets/spritesheet.svg#dc_logo"/>
             </svg>
 
             <h1>{{ site.title }}</h1>
           </a>
 
           <span class="badge--default">Draft</span>
+
+          <div class="site-search">
+             <form action="/search/" role="search" method="get">
+               <label for="site-search-text">Search</label>
+               <div class="site-search-border">
+                 <input type="search" name="q" id="site-search-text" title="Search" class="search-input"/>
+                 <input class="submit" type="submit" value="Search"/>
+               </div>
+             </form>
+          </div><!--site-search-->
         </div>
 
         <div class="site-description">

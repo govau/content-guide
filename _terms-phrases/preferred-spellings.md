@@ -1,6 +1,6 @@
 ---
 title: "Preferred spellings"
-order: 13
+order: 12
 exclude_from_search: true
 ---
 

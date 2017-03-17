@@ -1,6 +1,6 @@
 ---
 title: "Gender"
-order: 8
+order: 7
 exclude_from_search: true
 ---
 

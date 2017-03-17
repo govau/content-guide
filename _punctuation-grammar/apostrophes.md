@@ -37,14 +37,4 @@ Don’t use apostrophes for plural abbreviations or decades.
 "
 %}
 
-Use apostrophes for substitutions of ‘is’, ‘us’ or ‘are’ and in other [contractions](/writing-style/#contractions).
-
-{% include guide_example.liquid
-  title = "of apostrophes for substituting ‘is’, ‘us’ or ‘are’"
-  content= "
-- it’s difficult (it is difficult)
-- Who’s the right person? (who is the right person?)
-- let’s go (let us go)
-- you’re right (you are right)
-"
-%}
+Use apostrophes for substitutions of ‘is’, ‘us’ or ‘are’ and in other [contractions](#contractions).

@@ -1,6 +1,6 @@
 ---
 title: "Colons (:)"
-order: 8
+order: 10
 exclude_from_search: true
 ---
 
@@ -11,9 +11,9 @@ You can use a colon in a sentence fragment --- but bullet point lists are easier
 {% include guide_example.liquid
   title = "using a colon in a sentence fragment"
   content= "
-> The community are considering: green solutions, cultural festivals, crowdsourcing funds, conferences and bush-regeneration programs.
+> We are considering: green solutions, cultural festivals, crowdsourcing funds, conferences and bush-regeneration programs.
 
-> The community are considering:
+> We are considering:
 > - green solutions
 > - cultural festivals
 > - crowdsourcing funds
