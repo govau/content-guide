@@ -16,7 +16,7 @@ List of the [resources used to write the GOV.AU Content Guide](/sources/).
 
 ### 8 March 2017
 
-Live release of the DTA Content Guide.
+Live release of the GOV.AU Content Guide.
 
 Major changes:
 

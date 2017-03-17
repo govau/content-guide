@@ -5,6 +5,8 @@ abstract: "The GOV.AU Content Guide helps Australian Government teams design sim
 published: true
 ---
 
+## Welcome to the Guides
+
 The Content Guide is part of a suite of guide products for Australian Government teams, including the [DTA Design Guide](http://guides.service.gov.au/design-guide/).
 
 The guides help teams build services that are simple, clear and fast, and meet the [Digital Service Standard](https://www.dta.gov.au/standard/){:rel="external"}.
@@ -17,11 +19,19 @@ Be great. Be consistent. Love the Guides.
 
 ## Start here
 
-If you're new to content design we suggest you read about [structuring content](/content-structure/), [plain English and writing style](/writing-style/) and making sure your [writing is inclusive and accessible](/accessibility-inclusivity/).
+If you're new to content design we suggest you read this first:
 
-If you're an experienced content creator, check quick reference guides on how to spell [government terms and phrases](/terms-phrases), [how we punctuate](/punctuation-grammar) and [write numbers for screens](/numbers-measurements).
+- [content structure](/content-structure/)
+- [plain English and writing style](/writing-style/)
+- [making accessible and inclusive content](/accessibility-inclusivity/).
 
-We are also working on [guidance on content types](/types-of-content), including documents, forms and survey.
+If you're an experienced content creator check quick reference guides on:
+
+- [spelling government terms and phrases](/terms-phrases)
+- [how we punctuate](/punctuation-grammar)
+- [writing numbers and measurements](/numbers-measurements).
+
+We're working on [guidance on content types](/types-of-content), including documents, forms and surveys.
 
 You'll find guidance on how we use the UI-Kit CSS framework to build content types in the [DTA Design Guide](http://guides.service.gov.au/design-guide/).
 
@@ -29,9 +39,13 @@ You'll find guidance on how we use the UI-Kit CSS framework to build content typ
 
 The Content Guide is a collaborative product written by the Digital Transformation Agency with the support and guidance of the wider government content community.
 
-We summarise major updates on our home page. You can read a [full changelog for the Content Guide](https://github.com/govau/content-guide/blob/master/CHANGELOG.md){:rel="external"} in our GitHub repository.
+The [original sources for the Content Guide](/sources/) included the GOV.UK style guide, 18F Content Guide, The Guardian and Observer style guide and Style Manual: For Authors, Editors and Printers.
 
-The [original sources for the Content Guide](/sources/) included the GOV.UK style guide, 18F Content Guide, Style Manual: For Authors, Editors and Printers, and The Guardian and Observer style guide.
+## Latest updates
+
+We summarise major updates on our home page.
+
+You can read a [full changelog for the Content Guide](https://github.com/govau/content-guide/blob/master/CHANGELOG.md){:rel="external"} in our GitHub repository.
 
 ## How you can contribute
 
