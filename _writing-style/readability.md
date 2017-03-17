@@ -33,8 +33,12 @@ When most people reach Year 5 reading level (around age 9) the way they read con
 
 By 9 years old most children stop reading whole words and start reading by recognising shapes. This allows people to read much faster.
 
-Most readers don’t read one word at a time. They bounce around, especially online. They expect words and fill them in. An adult brain can drop up to 30% of the text and still understand the content.
+Most readers don’t read single words in order. They bounce backwards and forwards, especially online. They expect words and fill them in.
 
-A person's vocabulary will grow as they age but the shape-recognition reading skill stays with them.
+An adult brain can drop up to 30% of the text and still understand the content.
 
-Writing for the Year 5 reading level, [structuring your writing](/content-structure/) and [writing in plain English](#plain-english) will make it easier for the user to understand your content.
+When a user reaches a word or phrase that is unfamiliar or difficult it slows down their understanding. If they experience too much of this they lose confidence in the content and may give up.
+
+A person's vocabulary will grow as they age but the shape recognition skill stays with them.
+
+Writing for the Year 5 reading level, [structuring your writing](/content-structure/) and [writing in plain English](#plain-english) will make it easier for all users to read your content.
