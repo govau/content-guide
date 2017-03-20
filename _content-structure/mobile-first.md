@@ -16,7 +16,7 @@ Think about how the content will work on a mobile device first. Then think about
 
 Don't rely on video and images to convey important information.
 
-Plain text can reflow and resize to fit all size screens.
+Plain text can reformat and resize to fit all size screens (reflow).
 
 It's harder to make images and video accessible across different mobile devices.
 
