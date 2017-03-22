@@ -39,7 +39,7 @@ More context on writing for Aboriginal and Torres Strait Islander audiences:
 
 While it is Australian Government practice to refer to Indigenous Australians, this is not preferred by many Aboriginal and Torres Strait Islander peoples.
 
-Find an alternative to using Indigenous when you can, especially when referring to individuals.
+Find an alternative to using Indigenous when you can, especially when referring to individuals. For example, First Australians.
 
 It is preferable to use local language group names.
 
