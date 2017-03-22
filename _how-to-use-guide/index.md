@@ -5,8 +5,6 @@ abstract: "The GOV.AU Content Guide helps Australian Government teams design sim
 published: true
 ---
 
-## Guidance to design accessible digital content for everyone
-
 We know [Australians prefer to use digital government services](https://www.dta.gov.au/blog/how-do-australians-really-feel-about-digital-government-services/){:rel="external"}. We need to make it easy for all users to access the services they need.
 
 The Content Guide helps teams design content that is accessible to all users regardless of their ability and environment.
