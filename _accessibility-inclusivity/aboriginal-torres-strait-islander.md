@@ -16,7 +16,7 @@ Wherever possible you should find out the user's preferred words.
 #### Use the correct language group name if possible
 
 {% include guide_example.liquid
-  title = "preferred terms for referring to First Australians"
+  title = "using language group name"
   content= "
 - The Ngunnawal woman spoke first.
 - We wish to acknowledge the traditional custodians of the land we are meeting on, the Ngunnawal people.
@@ -87,7 +87,7 @@ Guidance on how to write for First Australian audiences:
 Make sure of the context and relevance before using First Australian cultural terms.
 
 {% include guide_example.liquid
-  title = "First Australian terms"
+  title = "First Australians cultural terms"
   content= "
 - First Peoples
 - On Country
