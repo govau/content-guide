@@ -1,8 +1,7 @@
 ---
 title: "PDF accessibility"
-order: 5
-exclude_from_search: true
 order: 8
+exclude_from_search: true
 ---
 
 HTML should be the default format for all government information.

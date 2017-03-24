@@ -1,6 +1,7 @@
 ---
 title: "Aboriginal and Torres Strait Islander peoples"
 order: 3
+exclude_from_search: true
 ---
 
 The terms 'First Australians' and 'Aboriginal and Torres Strait Islander peoples' include distinct and diverse cultural groups. They do not represent a homogenous group.

@@ -1,6 +1,6 @@
 ---
 title: "Measurement and weights"
-order: 5
+order: 6
 exclude_from_search: true
 ---
 

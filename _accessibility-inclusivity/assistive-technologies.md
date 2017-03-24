@@ -1,6 +1,5 @@
 ---
 title: "Assistive technologies"
-order: 6
 exclude_from_search: true
 order: 9
 ---

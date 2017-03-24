@@ -1,8 +1,7 @@
 ---
 title: "Video accessibility"
-order: 4
-exclude_from_search: true
 order: 7
+exclude_from_search: true
 ---
 
 Videos must have:

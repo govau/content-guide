@@ -1,6 +1,6 @@
 ---
 title: "Numbers"
-order: 0
+order: 1
 exclude_from_search: true
 ---
 
