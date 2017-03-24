@@ -4,17 +4,16 @@ order: 3
 exclude_from_search: true
 ---
 
-The terms 'First Australians' and 'Aboriginal and Torres Strait Islander peoples' include distinct and diverse cultural groups. They do not represent a homogenous group.
+The terms 'First Australians' and 'Aboriginal and Torres Strait Islander peoples' (note the plural) include distinct and diverse cultural groups. These terms do not represent a homogenous group.
 
-### Find out the user's preference
+Don't use:
 
-The following terms are general guides.
+- Aboriginals, Aborigine — these words are associated with colonisation and assimilation and are distressing to many people
+- ATSI — never use the acronym ATSI as this is considered disrespectful
+- Aboriginal and/or Torres Strait Islander
+- Aboriginal and Torres Strait Australians.
 
-The words that First Australians use to refer to themselves may be different depending on where they are from. They can also change over time.
-
-Wherever possible you should find out the user's preferred words.
-
-#### Use the correct language group name if possible
+### Use the correct language group name if possible
 
 {% include guide_example.liquid
   title = "using language group name"
@@ -33,9 +32,8 @@ First Australian is not generally used in reference to an individual.
 {% include guide_example.liquid
   title = "preferred terms for referring to First Australians"
   content= "
-- We want to find out how to better meet the needs of First Australians.
+- More than 1000 First Australians were employed through the program.
 - Aboriginal and Torres Strait Islander peoples have distinct identities, histories and cultural traditions.
-- She identifies as an Aboriginal and Torres Strait Islander person.
 "
 %}
 
@@ -50,13 +48,6 @@ If appropriate you can use the terms 'Aboriginal peoples' and 'Torres Strait Isl
 - Torres Strait Islander child/woman/man.
 "
 %}
-
-Don't use:
-
-- Aboriginals, Aborigine — these words are associated with colonisation and assimilation and are distressing to many people
-- ATSI — never use the acronym ATSI as this is considered disrespectful
-- Aboriginal and/or Torres Strait Islander
-- Aboriginal and Torres Strait Australians.
 
 ### Be careful using the word 'Indigenous'
 
