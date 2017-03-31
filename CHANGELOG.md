@@ -33,3 +33,4 @@ The main changes are listed below.
 - Use [focused](/terms-phrases/#preferred-spellings), not focussed.
 - Limit use of [ampersands](/punctuation-grammar/#ampersands).
 - Added guidance on [using programme in the context of existing legislation](/terms-phrases/#preferred-spellings).
+- Expanded guidance on [when to use words instead of digits](/numbers-measurements/#numbers).
