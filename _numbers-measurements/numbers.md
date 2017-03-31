@@ -4,11 +4,13 @@ order: 1
 exclude_from_search: true
 ---
 
-Use digits instead of words for most numbers. This makes numbers easier to read a screen. Use words for ordinals (for example, first) except dates and date periods.
+Use digits instead of words for most numbers. This makes numbers easier to read on a screen.
+
+Use words for common expressions where digits would look strange. For example, 'one or two of them'. Use words for ordinals (for example, first) but not dates and date periods (for example, 19th century).
 
 Add a comma between the third and fourth digit from the right, for numbers 10,000 and above.
 
-Use the word million instead of digits for 1 million and above.
+Use the word million instead of digits.
 
 {% include guide_example.liquid
   title = "numbers"
