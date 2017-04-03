@@ -10,9 +10,9 @@ Avoid discriminatory language that treats some people differently from others.
   title = "inclusive terms"
   content= "
 - People with disability --- not people with a disability, disabled or handicapped people.
-- Intellectually impaired --- not intellectually disabled.
-- Hearing impaired --- not deaf.
-- Visually impaired --- not blind.
+- People with intellectual disability --- not intellectually disabled.
+- People who are deaf or have a hearing impairment --- not unable to hear.
+- People who are blind or have a vision impairment --- not unable to see.
 - Older people or seniors --- not pensioners, old-age pensioners or the aged.
 - Young people --- not youth or juveniles.
 - First Australians or Aboriginal and Torres Strait Islander peoples (note the plural) --- not ATSI, Aborigines or Aboriginals.
