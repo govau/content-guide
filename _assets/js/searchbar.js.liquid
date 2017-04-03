@@ -1,0 +1,40 @@
+
+window.addEventListener('load', function () {
+    var siteSearchText = document.getElementById("site-search-text");
+
+    function onSiteSearchChange() {
+        // If search-input is not empty, add class that moves it in front of label
+        if (siteSearchText.value) {
+            //Add the class if it doesnt have it already
+            var className = siteSearchText.className;
+            if (className.toString().indexOf("has-value") < 0) {
+                if (className!= "") {
+                    className += " ";
+                }
+                className += "has-value";
+                siteSearchText.className = className;
+            }
+        }
+        else {
+            //Remove the class
+            siteSearchText.className = siteSearchText.className.replace("has-value","");
+        }
+    }
+
+    // when the searchbar gets focus, fetch the search index so it is cached for later
+    function onSiteSearchFocus() {
+        var http;
+        if (window.XMLHttpRequest) {
+          http = new XMLHttpRequest();
+        }
+        else {
+          http = new XDomainRequest();
+        }
+        http.open("GET", "{{site.baseurl}}/search-engine/index.json", true);
+        http.send();
+    }
+
+    siteSearchText.addEventListener("focus", onSiteSearchFocus, false);
+    siteSearchText.addEventListener("change", onSiteSearchChange, false);
+    onSiteSearchChange();
+});

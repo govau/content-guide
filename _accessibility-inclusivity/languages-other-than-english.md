@@ -1,6 +1,7 @@
 ---
 title: "Languages other than English"
 order: 4
+exclude_from_search: true
 ---
 
 Make sure your content can be understood by someone who speaks English as a second, third or fourth language.

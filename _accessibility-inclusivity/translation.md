@@ -1,6 +1,7 @@
 ---
 title: "Translation"
 order: 5
+exclude_from_search: true
 ---
 
 Find out if there is a user need to provide the content in other community languages.

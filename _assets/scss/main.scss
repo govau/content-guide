@@ -6,3 +6,12 @@ $gov-ui-kit-image-base-url: 'https://gov-au-ui-kit.apps.staging.digital.gov.au/l
 @import 'guide';
 
 @import 'heading-overrides';
+
+p.longdesc {
+  max-width: none;
+}
+
+.list-search {
+  padding: 0 0 0 1em;
+  margin: 0;
+}

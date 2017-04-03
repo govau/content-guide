@@ -1,6 +1,7 @@
 ---
 title: "Screen readers"
 order: 10
+exclude_from_search: true
 ---
 
 Screen readers are an assistive technology that helps users who are blind, visually impaired or have reading difficulties.

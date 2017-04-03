@@ -1,8 +1,7 @@
 ---
 title: "PDF accessibility"
-order: 5
-exclude_from_search: true
 order: 8
+exclude_from_search: true
 ---
 
 HTML should be the default format for all government information.
@@ -17,7 +16,7 @@ On mobile devices, PDFs do not comply with [Web Content Accessibility Guidelines
 
 People can only use assistive technologies to read PDFs if they are using a desktop or laptop device.
 
-PDFs are also difficult for many users to access on smaller screens as they don't reflow.
+PDFs are also difficult for many users to access on smaller screens as they don't resize and reformat to fit the screen (reflow).
 
 People can also be aware of how much data they use --- especially on mobile devices. Downloading large files (over 1MB) can be difficult especially in regional and remote places.
 

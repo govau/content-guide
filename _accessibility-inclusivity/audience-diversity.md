@@ -27,15 +27,15 @@ Sources:
 
 Literacy levels for Australians aged 15 to 74 years:
 
-- 44% at literacy Level 1 to 2 (a very low level)
-- 39% at Level 3
-- 17% at Level 4 to 5 (the highest level).
+- 44% at literacy level 1 to 2 (a very low level)
+- 39% at level 3
+- 17% at level 4 to 5 (the highest level).
 
 Numeracy levels for Australians aged 15 to 74 years:
 
-- approximately 55% at numeracy Level 1 to 2 (a very low level)
-- 32% at Level 3
-- 13% at Level 4 to 5 (the highest level).
+- approximately 55% at numeracy level 1 to 2 (a very low level)
+- 32% at level 3
+- 13% at level 4 to 5 (the highest level).
 
 Sources:
 

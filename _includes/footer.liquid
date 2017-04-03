@@ -1,3 +1,9 @@
+{% assign homeUrl = site.url %}
+
+{% if site.baseurl.size > 0 %}
+  {% assign homeUrl = site.baseurl %}
+{% endif %}
+
 <footer role="contentinfo">
   <div class="wrapper">
 
@@ -6,7 +12,7 @@
         <div class="footer-menu">
           <h2>Content</h2>
           <ul>
-            <li><a href="{{ site.url }}">Home</a></li>
+            <li><a href="{{ homeUrl }}">Home</a></li>
 
             {% comment %}
               Need to loop through pages too?

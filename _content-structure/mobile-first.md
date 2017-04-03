@@ -12,11 +12,13 @@ It can be much harder for some people with disability to use a mobile device tha
 
 Think about how the content will work on a mobile device first. Then think about how it will translate to a larger screen.
 
+Write and design content that is consistent and uses [plain English](/writing-style/#plain-english) so [everyone can use it](/accessibility-inclusivity/).
+
 ### Communicate with text first
 
 Don't rely on video and images to convey important information.
 
-Plain text can reflow and resize to fit all size screens.
+Plain text can reformat and resize to fit all size screens (reflow).
 
 It's harder to make images and video accessible across different mobile devices.
 

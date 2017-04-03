@@ -1,8 +1,7 @@
 ---
 title: "Images and alt text"
-order: 3
-exclude_from_search: true
 order: 6
+exclude_from_search: true
 ---
 
 ### Choose relevant and clear images

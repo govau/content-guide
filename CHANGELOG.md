@@ -16,7 +16,7 @@ The main changes are listed below.
 - Removed repetition and outdated guidance.
 - Improvement of content and rendering of examples in multiple sections.
 
-#### New user interface and GitHub repo
+### New user interface and GitHub repo
 
 - Implementation of the [DTA's UI-Kit CSS framework](https://github.com/AusDTO/gov-au-ui-kit).
 - A new [govau/content-guide](https://github.com/govau/content-guide) GitHub repository</a>.
@@ -33,3 +33,4 @@ The main changes are listed below.
 - Use [focused](/terms-phrases/#preferred-spellings), not focussed.
 - Limit use of [ampersands](/punctuation-grammar/#ampersands).
 - Added guidance on [using programme in the context of existing legislation](/terms-phrases/#preferred-spellings).
+- Expanded guidance on [when to use words instead of digits](/numbers-measurements/#numbers).

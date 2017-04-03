@@ -10,7 +10,7 @@ Write a clear title and lead summary. Tell the user what the page is about and w
 
 Headings are the first words users read to check the relevance of content before they commit to reading it.
 
-Make headings short and succinct enough to stand alone to be read out of context, for example in search results and on social media.
+Make headings short and succinct enough to stand alone when read out of context, for example in search results and on social media.
 
 Google searches only show 55 characters of the page title.
 
