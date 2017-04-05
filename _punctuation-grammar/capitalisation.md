@@ -86,7 +86,7 @@ Department of Communications and Arts, but then the department
 "
 %}
 
-### Legislation, publications, policies, programs and report titles
+### Legislation and acts, publications, policies, programs and report titles
 
 Use title case for titles of books, films, photographs, publications, TV programs, paintings, songs and albums.
 
@@ -98,6 +98,6 @@ Capitalise the principal words only. Exceptions are when the title begins with a
 - Administrative Arrangements Order
 - Read [Australian Government Branding](https://www.dpmc.gov.au/resource-centre/government/australian-government-branding-guidelines-use-australian-government-logo-australian-government-departments-and-agencies){:rel='external'} for guidance on using the Australian Government logo.
 - the Government Information (Public Access) Act 2009, then the Act
-- read A New Tax System (Australian Business Number) Act 1999
+- read [A New Tax System (Australian Business Number) Act 1999](https://www.legislation.gov.au/Series/C2004A00467){:rel='external'}
 "
 %}

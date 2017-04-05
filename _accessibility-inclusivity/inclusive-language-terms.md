@@ -19,8 +19,6 @@ Avoid discriminatory language that treats some people differently from others.
 "
 %}
 
-More [examples of how to talk about disability](http://pwd.org.au/library/guide-to-reporting-disability.html){:rel="external"} are available from People with Disability.
-
 ### Speak to the person, not their difference
 
 Speak to the person in plain English without jargon. Don't speak to their difference.
@@ -40,3 +38,5 @@ This avoids getting caught up in semantics and is respectful of:
 - values or philosophical differences.
 
 More [guidance on inclusive language](http://www.and.org.au/pages/inclusive-language.html){:rel="external"} is available from the Australian Network on Disability.
+
+People with Disability have [examples of how to talk about disability](http://pwd.org.au/library/guide-to-reporting-disability.html){:rel="external"}.
