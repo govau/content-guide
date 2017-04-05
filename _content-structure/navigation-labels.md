@@ -4,7 +4,7 @@ order: 7
 exclude_from_search: true
 ---
 
-Write the navigation label to meet the user's need.
+Write the navigation label to meet the user's needs.
 
 The label should tell all users what they will find at the destination. Often it will be the same as the page title.
 

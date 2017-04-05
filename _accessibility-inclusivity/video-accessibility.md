@@ -46,6 +46,8 @@ End the transcript with 'End of transcript'.
 
 ### Use audio description for important visual-only information
 
-Provide audio description for any text displayed in the video and to give context if it is not obvious from the title.
+Provide audio description for any text displayed in the video.
+
+Use audio description to give context if it is not obvious from the title.
 
 You don't need audio description for dialogue delivered straight to camera ('talking heads').

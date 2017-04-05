@@ -18,7 +18,7 @@ Use contractions carefully to create a more conversational voice.
 
 Low-literacy users and people who speak [languages other than English](/accessibility-inclusivity/#languages-other-than-english) may find contractions difficult to understand.
 
-Avoid less common colloquial contractions like you'd.
+Avoid less common colloquial contractions like &#8217;you'd&#8217;.
 
 Always consider the context.
 

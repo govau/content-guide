@@ -16,9 +16,9 @@ Apostrophes can indicate possession.
 "
 %}
 
-Use &#8217;s for words that end in s to show possession if you pronounce the s (for example, personal names).
+Use &#8217;s for words that end in &#8217;s&#8217; to show possession if you pronounce the &#8217;s&#8217; (for example, personal names).
 
-If you don't pronounce the s just use an apostrophe.
+If you don't pronounce the &#8217;s&#8217; just use an apostrophe.
 
 {% include guide_example.liquid
   title = "apostrophe and possession"

@@ -4,6 +4,8 @@ order: 6
 exclude_from_search: true
 ---
 
+Don't use en dashes (--).
+
 Use spaced em dashes ( --- ) instead of en dashes (--) to break up sentences.
 
 Use ‘to’ in time and date ranges --- not hyphens or en dashes.

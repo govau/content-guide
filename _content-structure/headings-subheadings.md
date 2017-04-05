@@ -26,11 +26,9 @@ Help the user to understand the relationship between sections of text.
 
 Short content should only use 2 subheading levels (`H2` and `H3`).
 
-Users lose track if there are too many heading levels.
-
 ### Frontload keywords in headings
 
-Start headings and subheadings with keywords that help your user to make a connection.
+Start headings and subheadings with keywords that help the user to make a connection.
 
 {% include guide_example.liquid
   title = "frontloading subheading"

@@ -12,7 +12,7 @@ Avoid passive voice (object-verb-subject).
 
 Passive voice usually makes it difficult to know who did what to whom and sends the reader backwards.
 
-To write in active voice use first and second person (we, us) instead of third person (he, she, it and they).
+Use first and second person (we, us) instead of third person (he, she, it and they).
 
 {% include guide_example.liquid
   title = "using active voice"

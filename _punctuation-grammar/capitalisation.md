@@ -82,7 +82,7 @@ Title contractions do not require punctuation.
 {% include guide_example.liquid
   title = "capitalising department titles"
   content= "
-Department of Communications and Arts, but then the department
+The Department of Communications and Arts is an Australian Government department. The department's office is in Canberra.
 "
 %}
 
