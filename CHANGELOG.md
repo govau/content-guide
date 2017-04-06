@@ -34,3 +34,4 @@ The main changes are listed below.
 - Limit use of [ampersands](/punctuation-grammar/#ampersands).
 - Added guidance on [using programme in the context of existing legislation](/terms-phrases/#preferred-spellings).
 - Expanded guidance on [when to use words instead of digits](/numbers-measurements/#numbers).
+- Improved guidance on [Oxford commas](/punctuation-grammar/#commas).
