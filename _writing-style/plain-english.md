@@ -18,7 +18,7 @@ Plain English [improves readability](/writing-style/#readability) for all users.
 
 - Avoid jargon so the user can understand the content the first time they read it.
 - Use [active voice](#voice) --- not passive.
-- Find shorter plain language words, terms, sentences and paragraphs.
+- Use the shorter, plain English word, term, sentence and paragraph over the longer.
 - Minimise punctuation. Use several short sentences instead of a long sentence broken up with punctuation.
 - Aim for a [Year 5 reading level](#readability) (the same level a 9 year old can understand).
 
