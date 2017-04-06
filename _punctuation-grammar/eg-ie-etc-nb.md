@@ -4,7 +4,7 @@ order: 7
 exclude_from_search: true
 ---
 
-Avoid the Latin abbreviations eg, ie, etc and nb.
+Avoid the Latin abbreviations eg, ie, etc (et cetera) and nb.
 
 [Don't use italics for Latin](/formatting/#italics).
 

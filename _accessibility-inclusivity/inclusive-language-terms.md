@@ -9,6 +9,9 @@ Avoid discriminatory language that treats some people differently from others.
 {% include guide_example.liquid
   title = "inclusive terms"
   content= "
+- Worker --- instead of workman.
+- Business manager or business person --- instead of businessman or businesswoman.
+- Chairperson --- instead of chairman or chairwoman.
 - People with disability --- not people with a disability, disabled or handicapped people.
 - People with intellectual disability --- not intellectually disabled.
 - People who are deaf or have a hearing impairment --- not unable to hear.
@@ -16,6 +19,23 @@ Avoid discriminatory language that treats some people differently from others.
 - Older people or seniors --- not pensioners, old-age pensioners or the aged.
 - Young people --- not youth or juveniles.
 - First Australians or Aboriginal and Torres Strait Islander peoples (note the plural) --- not ATSI, Aborigines or Aboriginals.
+"
+%}
+
+### Avoid gendered pronouns
+
+Rewrite the sentence to avoid using gender-specific singular pronouns (he/she, her/his, her/him).
+
+{% include guide_example.liquid
+  title = "avoiding gender-specific singular pronouns"
+  content= "
+Use this
+
+> Submit your employment declaration.
+
+Not this
+
+> Every employee should submit his employment declaration.
 "
 %}
 

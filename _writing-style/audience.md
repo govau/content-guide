@@ -11,4 +11,4 @@ To understand your audience you should know:
 - how they behave, what they’re interested in or worried about --- so your writing will catch their attention and answer their questions
 - their vocabulary --- so that you can use the same terms and phrases they’ll use to search for information.
 
-When you have multiple audiences, make your writing as easy to read as possible so it's accessible to everyone.
+For multiple audiences, make your writing as easy to read as possible so it's accessible to everyone --- write for a [Year 5 reading level](#readability).

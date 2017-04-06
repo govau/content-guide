@@ -12,6 +12,8 @@ Writing in plain English means using simpler and more direct language.
 
 It does not mean ‘dumbing down’ information. Plain English helps people make decisions and builds trust.
 
+Plain English [improves readability](/writing-style/#readability) for all users.
+
 ### How to write in plain English
 
 - Avoid jargon so the user can understand the content the first time they read it.

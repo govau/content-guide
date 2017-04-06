@@ -20,3 +20,5 @@ Page title: Latest news and media releases
 %}
 
 Use sentence case (an initial capital then lower case) for navigation labels, except when using proper nouns.
+
+There's guidance on [forms elements and other design components](http://guides.service.gov.au/design-guide/) in the DTA Design Guide.
