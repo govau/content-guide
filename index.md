@@ -4,10 +4,6 @@ title: GOV.AU Content Guide homepage
 abstract: ""
 ---
 
-## About this guide
-
-Read [about this Content Guide](/how-to-use-guide/) and how you can use it.
-
 ## Sources
 
 List of the [resources used to write the GOV.AU Content Guide](/sources/).

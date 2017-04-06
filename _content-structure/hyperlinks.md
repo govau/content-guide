@@ -43,9 +43,11 @@ Be careful of overcrowding paragraphs with links as this can affect readability.
 
 Grouping links together at the bottom of a page can disrupt readability too. Users may skip the text and just read the links.
 
-### Make calls-to-action accurate and prominent
+### Make calls to actions (CTAs) accurate and prominent
 
 Use keywords the user will understand that accurately describe the action.
+
+Guidance on [buttons and labels](http://guides.service.gov.au/design-guide/components/forms-buttons/index.html) is available in the DTA Design Guide.
 
 ### Use the email address as the link
 

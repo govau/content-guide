@@ -6,7 +6,9 @@ exclude_from_search: true
 
 Use digits instead of words for most numbers. This makes numbers easier to read on a screen.
 
-Use words for common expressions where digits would look strange. For example, 'one or two of them'. Use words for ordinals (for example, first) but not dates and date periods (for example, 19th century).
+Use words for:
+- common expressions where digits would look strange --- for example, 'one or two of them'
+- ordinals (first, second) but not [dates and date periods](#dates) (19th century).
 
 Add a comma between the third and fourth digit from the right, for numbers 10,000 and above.
 
@@ -16,6 +18,7 @@ Use the word million instead of digits.
   title = "numbers"
   content= "
 - 1 to 9 --- not one to nine
+- one or two of them
 - 10 to 9999
 - 10,000 to 1 million
 - first, second, third

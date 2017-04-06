@@ -1,6 +1,6 @@
 ---
 title: "Images and alt text"
-order: 6
+order: 7
 exclude_from_search: true
 ---
 
@@ -51,9 +51,9 @@ Informative images need:
 - to be referenced in the surrounding text
 - a short `alt` text that briefly describes the content.
 
-### Diagrams and complex images
+### Diagrams, graphs, charts and other complex images
 
-Complex images such as graphs, charts and diagrams need:
+Complex images need:
 
 - to be referenced in the surrounding text
 - content near the image that explains why it is there and what it shows or highlights

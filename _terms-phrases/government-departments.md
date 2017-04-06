@@ -1,6 +1,6 @@
 ---
 title: "Government departments"
-order: 9
+order: 8
 exclude_from_search: true
 ---
 

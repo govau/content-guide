@@ -4,6 +4,10 @@ order: 1
 exclude_from_search: true
 ---
 
+Understand the diversity of your audience.
+
+Write [content that all users can read](/writing-style/#readability) and understand.
+
 ### Australia is one of the most culturally diverse countries
 
 - 27% of Australia’s 22 million people were born overseas.
