@@ -4,13 +4,13 @@ order: 3
 exclude_from_search: true
 ---
 
-Use contractions carefully to create a more conversational voice.
+Use contractions to create a more conversational voice. But make sure the user can understand them.
 
 {% include guide_example.liquid
   title = "contractions"
   content= "
 - it’s difficult (it is difficult)
-- Who’s the right person? (who is the right person?)
+- who’s the right person? (who is the right person?)
 - let’s go (let us go)
 - you’re right (you are right)
 "
