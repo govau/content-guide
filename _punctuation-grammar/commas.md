@@ -21,17 +21,23 @@ Not like this
 "
 %}
 
-Don't use Oxford commas (a comma before the final ‘and’ or ‘or’ in a sentence).
+### Avoid Oxford commas
+
+Restructure content to avoid sentences that need Oxford commas (a comma before the final ‘and’ or ‘or’ in a sentence).
 
 {% include guide_example.liquid
   title = "not using an Oxford comma"
   content= "
 Like this
 
-> We share stories from our user research to identify positives, negatives, opportunities and themes.
+> We share stories from our user research to identify:
+- positives
+- negatives
+- opportunities and quick improvements
+- themes.
 
 Not like this
 
-> We share stories from our user research to identify positives, negatives, opportunities, and themes.
+> We share stories from our user research to identify positives, negatives, opportunities and quick improvements, and themes.
 "
 %}

@@ -77,27 +77,15 @@ Title contractions do not require punctuation.
 "
 %}
 
+### Publications
+
+Use [title case for legislation, acts and other publications](/terms-phrases/#australian-government).
+
 ### Department titles
 
 {% include guide_example.liquid
   title = "capitalising department titles"
   content= "
 The Department of Communications and Arts is an Australian Government department. The department's office is in Canberra.
-"
-%}
-
-### Legislation and acts, publications, policies, programs and report titles
-
-Use title case for titles of books, films, photographs, publications, TV programs, paintings, songs and albums.
-
-Capitalise the principal words only. Exceptions are when the title begins with a, for, on, to and so on.
-
-{% include guide_example.liquid
-  title = "different kinds of titles"
-  content= "
-- Administrative Arrangements Order
-- Read [Australian Government Branding](https://www.dpmc.gov.au/resource-centre/government/australian-government-branding-guidelines-use-australian-government-logo-australian-government-departments-and-agencies){:rel='external'} for guidance on using the Australian Government logo.
-- the Government Information (Public Access) Act 2009, then the Act
-- read [A New Tax System (Australian Business Number) Act 1999](https://www.legislation.gov.au/Series/C2004A00467){:rel='external'}
 "
 %}
