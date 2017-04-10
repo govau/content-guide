@@ -21,7 +21,7 @@ This is the main loop. It iterates through all collections.
     This condition only continues if there are indeed enough headings on the page to bother building a ToC.
     {% endcomment %}
     {% if collection.docs.size >= 2 %}
-    <nav class="index-links">
+    <nav id="nav" class="index-links">
       <h2 id="index-links">Contents</h2>
       <ul>
         {% comment %}
