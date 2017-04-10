@@ -124,42 +124,34 @@ collections:
     title: "Content structure"
     description: "The basic building blocks for crafting good content."
     order: 1
-    output: true
   writing-style:
     title: "Writing style"
     description: "Guidance on writing plain English content that reflects a modern government voice."
     order: 2
-    output: true
   accessibility-inclusivity:
     title: "Accessibility and inclusivity"
     description: "How to design content for First Australians, people who speak languages other than English and people with disability."
     order: 3
-    output: true
   punctuation-grammar:
     title: "Punctuation and grammar"
     description: "How to punctuate and capitalise content for screens."
     order: 4
-    output: true
   terms-phrases:
     title: "Terms and phrases"
     description: "Spellings of commonly used government and digital words and terms."
     order: 5
-    output: true
   numbers-measurements:
     title: "Numbers and measurements"
     description: "Guidance for writing numbers on screens."
     order: 6
-    output: true
   formatting:
     title: "Formatting"
     description: "How to use italic, bold and underline."
     order: 7
-    output: true
   types-of-content:
     title: "Types of content"
     description: "How to create and use common kinds of content."
     order: 8
-    output: true
   sources:
     title: "Sources"
     description: "How this guide was put together."
