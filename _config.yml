@@ -157,11 +157,6 @@ collections:
     description: "How this guide was put together."
     order: 9
     output: true
-  privacy:
-    title: "Privacy statement"
-    description: ""
-    order: 10
-    output: true
 
 # PROSE.IO
 #
