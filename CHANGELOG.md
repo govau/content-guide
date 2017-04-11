@@ -2,7 +2,7 @@
 
 ## Content Guide 'Getting with the program'
 
-### 1.0.0 &#8212; 2017-03-XX
+### 1.0.0 &#8212; 2017-04-12
 
 Live release of the GOV.AU Content Guide.
 
@@ -14,7 +14,7 @@ The main changes are listed below.
 
 - Implementation of a new information architecture, based on card sorts with DTA content designers and members of the Content Design in Government Google Group.
 - Removed repetition and outdated guidance.
-- Improvement of content and rendering of examples in multiple sections.
+- Improved rendering of examples in multiple sections.
 
 ### New user interface and GitHub repo
 
@@ -23,15 +23,14 @@ The main changes are listed below.
 
 ### Changes to guidance
 
-- New guidance on [accessibility and inclusivity](/accessibility-inclusivity/).
-- New guidance on [readability](/writing-style/#readability).
-- [Always capitalise minister and senator if they are part of a proper noun](/punctuation-grammar/#capitalisation).
-- Use [words for ordinals](/numbers-measurements/#numbers), except for dates.
-- Added guidance on [using numbered (ordered) lists](/content-structure/#bullet-point-lists).
-- Added [guidance on referring to senators](/terms-phrases/#ministers-senators-mps).
-- Added [preference for using text message](/terms-phrases/#digital-terms) over SMS.
-- Use [focused](/terms-phrases/#preferred-spellings), not focussed.
-- Limit use of [ampersands](/punctuation-grammar/#ampersands).
-- Added guidance on [using programme in the context of existing legislation](/terms-phrases/#preferred-spellings).
-- Expanded guidance on [when to use words instead of digits](/numbers-measurements/#numbers).
-- Improved guidance on [Oxford commas](/punctuation-grammar/#commas).
+- New guidance on [accessibility and inclusivity](http://guides.service.gov.au/content-guide/accessibility-inclusivity/).
+- New guidance on [readability](http://guides.service.gov.au/content-guide/writing-style/#readability).
+- [Always capitalise minister and senator if part of a proper noun](http://guides.service.gov.au/content-guide/punctuation-grammar/#capitalisation).
+- Added guidance on [using numbered (ordered) lists](http://guides.service.gov.au/content-guide/content-structure/#bullet-point-lists).
+- Added [guidance on referring to senators](http://guides.service.gov.au/content-guide/terms-phrases/#ministers-senators-mps).
+- Added [preference for using text message](http://guides.service.gov.au/content-guide/terms-phrases/#digital-terms) over SMS.
+- Use [focused](http://guides.service.gov.au/content-guide/terms-phrases/#preferred-spellings), not focussed.
+- Limit use of [ampersands](http://guides.service.gov.au/content-guide/punctuation-grammar/#ampersands).
+- Added guidance on [using programme in the context of existing legislation](http://guides.service.gov.au/content-guide/terms-phrases/#preferred-spellings).
+- Expanded guidance on [when to use words instead of digits](http://guides.service.gov.au/content-guide/numbers-measurements/#numbers).
+- Improved guidance on [Oxford commas](http://guides.service.gov.au/content-guide/punctuation-grammar/#commas).

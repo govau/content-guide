@@ -10,7 +10,7 @@ List of the [resources used to write the GOV.AU Content Guide](/sources/).
 
 ## Latest updates
 
-### XX March 2017
+### 12 April 2017
 
 Live release of the GOV.AU Content Guide.
 
