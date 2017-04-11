@@ -147,11 +147,6 @@ collections:
     title: "Types of content"
     description: "How to create and use common kinds of content."
     order: 8
-  sources:
-    title: "Sources"
-    description: "How this guide was put together."
-    order: 9
-    output: true
 
 # PROSE.IO
 #
