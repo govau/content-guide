@@ -1,8 +1,9 @@
 ---
 title: "How to use this guide"
-layout: "collections/index"
+layout: "page"
 abstract: "The GOV.AU Content Guide helps Australian Government teams design simple, clear and fast content."
 published: true
+permalink: "/how-to-use-guide/"
 ---
 
 We know [Australians prefer to use digital government services](https://www.dta.gov.au/blog/how-do-australians-really-feel-about-digital-government-services/){:rel="external"}. We need to make it easy for all users to access the services they need.

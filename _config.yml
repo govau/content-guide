@@ -115,11 +115,6 @@ highlighter: rouge
 #     output: false
 #
 collections:
-  how-to-use-guide:
-    title: "How to use this guide"
-    description: "About this Content Guide and how you can use it."
-    order: 0
-    output: true
   content-structure:
     title: "Content structure"
     description: "The basic building blocks for crafting good content."
