@@ -7,13 +7,13 @@ exclude_from_search: true
 Videos must have:
 - transcripts for people who don’t want to watch the video, and for search engine indexing
 - closed captions for people who can’t hear the dialogue and other sounds
-- audio description for people who can’t see the video that explains any important visual-only detail.
+- audio description for people who can’t see the video that explains any important visual-only detail
 
 Accessible video resources:
 
 - [Quick reference to audio and video requirements under WCAG --- Media Access Australia](https://mediaaccess.org.au/practical-web-accessibility/media/requirements){:rel="external"}
 - [Short guide to creating accessible video --- SitePoint](https://www.sitepoint.com/accessible-video/){:rel="external"}
-- [Guidance on using captions, transcripts and audio descriptions --- WebAIM](http://webaim.org/techniques/captions/){:rel="external"}.
+- [Guidance on using captions, transcripts and audio descriptions --- WebAIM](http://webaim.org/techniques/captions/){:rel="external"}
 
 ### Think about all accessibility issues
 
@@ -23,7 +23,7 @@ Video is not just difficult for users with visual impairment. Think about:
 - mobility --- for example, restricted keyboard access
 - flickering and moving content
 - language difficulty
-- non-conducive environments --- for example a noisy environment or a workplace where the sound disturbs colleagues.
+- non-conducive environments --- for example a noisy environment or a workplace where the sound disturbs colleagues
 
 ### Provide a transcript and closed captions
 
