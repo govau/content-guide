@@ -21,7 +21,7 @@ Use this
 
 > Attend next month’s [workshop for developers and writers](#) in Brisbane.
 
-Not this
+Not this:
 
 > [Attend a Brisbane workshop for developers and writers next month](#).
 

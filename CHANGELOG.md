@@ -34,3 +34,4 @@ The main changes are listed below.
 - Added guidance on [using programme in the context of existing legislation](http://guides.service.gov.au/content-guide/terms-phrases/#preferred-spellings).
 - Expanded guidance on [when to use words instead of digits](http://guides.service.gov.au/content-guide/numbers-measurements/#numbers).
 - Improved guidance on [Oxford commas](http://guides.service.gov.au/content-guide/punctuation-grammar/#commas).
+- Don't add full stops to the end of [sentence fragment lists](http://guides.service.gov.au/content-guide/content-structure/#bullet-point-lists) and avoid second and third level lists.

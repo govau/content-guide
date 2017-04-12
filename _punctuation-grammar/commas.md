@@ -11,11 +11,11 @@ Commas increase clarity because they bring in a natural pause. But too many comm
 {% include guide_example.liquid
   title = "using commas"
   content= "
-Like this
+Like this:
 
 > Cabinet discussed the proposal, then we issued a media release.
 
-Not like this
+Not this:
 
 > The proposal, which was discussed in Cabinet, prompted a media release by us.
 "
@@ -28,7 +28,7 @@ Restructure content to avoid sentences that need Oxford commas (a comma before t
 {% include guide_example.liquid
   title = "not using an Oxford comma"
   content= "
-Like this
+Like this:
 
 > We share stories from our user research to identify:
 - positives

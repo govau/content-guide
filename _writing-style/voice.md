@@ -17,12 +17,12 @@ Passive voice usually makes it difficult to know who did what to whom and sends 
 {% include guide_example.liquid
   title = "using active voice"
   content= "
-Like this
+Like this:
 
 > - The committee (subject) campaigned (verb) to lower diabetes (object).
 > - We (subject) did not accept (verb) your application (object).
 
-Not this
+Not this:
 
 > - The lowering of diabetes was campaigned for by the committee.
 > - It was deemed your application was unsuccessful.

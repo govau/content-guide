@@ -33,7 +33,7 @@ Use this
 
 > Submit your employment declaration.
 
-Not this
+Not this:
 
 > Every employee should submit his employment declaration.
 "

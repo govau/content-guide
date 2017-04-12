@@ -9,11 +9,11 @@ Don't punctuate dates.
 {% include guide_example.liquid
   title = "punctuating dates"
   content= "
-Like this
+Like this:
 
 > Tuesday 8 October 2016
 
-Not this
+Not this:
 
 > 8th October, 2016
 "
@@ -24,11 +24,11 @@ Use numbers for date periods.
 {% include guide_example.liquid
   title = "punctuating date periods"
   content= "
-Like this
+Like this:
 
 > 19th century
 
-Not this
+Not this:
 
 > Nineteenth century
 "
