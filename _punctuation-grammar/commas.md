@@ -34,7 +34,7 @@ Like this:
 - positives
 - negatives
 - opportunities and quick improvements
-- themes.
+- themes
 
 Not like this
 

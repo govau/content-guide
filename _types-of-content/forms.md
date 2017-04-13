@@ -6,12 +6,17 @@ exclude_from_search: true
 
 Guidance on [forms, fields and labels](http://guides.service.gov.au/design-guide/components/forms-buttons/index.html) is available in the DTA Design Guide.
 
-- Think about the user’s need and what they need to do.
-- Write forms in plain English.
-- Test forms for usability and accessibility.
-- If a form will be printed, scanned or emailed, provide a contact support phone number on the form.
+### Start with the user’s needs
 
-### Make the title of the form clear
+Think about the user’s needs and what they need to do.
+
+### Check the form is usable
+
+Write forms in plain English. Test for usability and accessibility.
+
+If the user needs to print, scan or email the form, provide a contact support phone number.
+
+### Give the form a clear title
 
 Call the form something which explains the task.
 

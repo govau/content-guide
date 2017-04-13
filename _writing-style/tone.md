@@ -4,7 +4,7 @@ order: 4
 exclude_from_search: true
 ---
 
-The modern government tone is direct, calm and understated.
+The modern government tone is direct, calm and understated:
 
 - Speak politely and use language that is positive but sensitive and respectful.
 - Be aware who you are writing for.

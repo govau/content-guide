@@ -46,6 +46,6 @@ This will take 10 to 15 minutes.
 This is covers these financial years:
 - 2013 to 2014
 - 2014 to 2015
-- 2015 to 2016.
+- 2015 to 2016
 "
 %}
