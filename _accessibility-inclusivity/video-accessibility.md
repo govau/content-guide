@@ -23,7 +23,7 @@ Video is not just difficult for users with visual impairment. Think about:
 - mobility --- for example, restricted keyboard access
 - flickering and moving content
 - language difficulty
-- non-conducive environments --- for example a noisy environment or a workplace where the sound disturbs colleagues
+- the user's environment --- for example a noisy location or a workplace where the sound disturbs colleagues
 
 ### Provide a transcript and closed captions
 

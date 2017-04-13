@@ -8,7 +8,7 @@ Break up long sentences with lists to make it easier for the user to scan.
 
 ### Consistent list items
 
-Write lead-in content that introduces the list and ends with a colon (:).
+Write lead-in content that introduces the list and ends with a colon (:). Don't add a colon if it's a heading.
 
 Use a parallel structure for items so they all start in the same way. For example, start each item with a noun or a verb that is a familiar keyword for the user.
 

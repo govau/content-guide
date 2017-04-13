@@ -16,9 +16,9 @@ Make sure there is sufficient contrast between any text and the background in im
 
 Images must have alternative text (or `alt` text) to describe the information or function of the image.
 
-Alt text sits behind the image and appears when:
-- an image is disabled or fails to load
-- people with low vision or reading difficulties use [screen readers](#screen-readers) or text-to-speech software
+Alt text appears to the user when:
+- images are disabled or fail to load
+- a [screen reader](#screen-readers) or text-to-speech software is used
 
 If you include images you must create alt text.
 
@@ -48,17 +48,16 @@ Informative images convey a simple concept or information that can be expressed 
 
 Informative images need:
 
-- to be referenced in the surrounding text
-- a short `alt` text that briefly describes the content
+- text near the image that references it
+- short `alt` text that briefly describes the content
 
 ### Diagrams, graphs, charts and other complex images
 
 Complex images need:
 
-- to be referenced in the surrounding text
-- content near the image that explains why it is there and what it shows or highlights
-- a short `alt` text that briefly describes the content (this should be different from the text of a caption)
-- a clear text link that leads to a page with a long (more complete) text description (and possibly the associated data)
+- text near the image that explains why it is there and what it shows or highlights
+- short `alt` text that briefly describes the content (different from the text of a caption)
+- clear text link that leads to a page with a long text description and possibly the associated data
 
 Graphs need dots, dashes and patterns, in addition to colour, to show the difference between data.
 
