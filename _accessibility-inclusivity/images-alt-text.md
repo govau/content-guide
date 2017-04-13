@@ -18,7 +18,7 @@ Images must have alternative text (or `alt` text) to describe the information or
 
 Alt text appears to the user when:
 - images are disabled or fail to load
-- a [screen reader](#screen-readers) or text-to-speech software is used
+- [screen reader](#screen-readers) or text-to-speech software is used
 
 If you include images you must create alt text.
 
@@ -46,18 +46,18 @@ In HTML5 [use the `<figcaption>` tag](https://www.w3.org/wiki/HTML/Elements/figc
 
 Informative images convey a simple concept or information that can be expressed in a short phrase or sentence.
 
-Informative images need:
+An informative image needs:
 
 - text near the image that references it
-- short `alt` text that briefly describes the content
+- short `alt` text that briefly describes the content (different from the caption)
 
 ### Diagrams, graphs, charts and other complex images
 
-Complex images need:
+A complex image needs:
 
 - text near the image that explains why it is there and what it shows or highlights
-- short `alt` text that briefly describes the content (different from the text of a caption)
-- clear text link that leads to a page with a long text description and possibly the associated data
+- short `alt` text that briefly describes the content (different from the caption)
+- text link to a page with a long text description (and possibly the associated data)
 
 Graphs need dots, dashes and patterns, in addition to colour, to show the difference between data.
 
