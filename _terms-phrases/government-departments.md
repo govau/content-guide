@@ -15,7 +15,7 @@ The Department for Communication and the Arts is the Australian Government’s l
 
 The department is based in Canberra.
 
-We are responsible for...
+We are responsible for ...
 "
 %}
 

@@ -44,11 +44,11 @@ Avoid meaningless words such as 'more' and 'related information'. State what the
 {% include guide_example.liquid
   title = "good and bad headings"
   content= "
-Like this
+Like this:
 
 > Smart cities in Europe
 
-Not this
+Not this:
 
 > More information
 "

@@ -26,11 +26,11 @@ When referring to the Australian Government as part of a group of governments, s
 {% include guide_example.liquid
   title = "referring to the Australian Government as part of a group of government"
   content= "
-Like this
+Like this:
 
 > Australian Government and state and territory governments.
 
-Not this
+Not this:
 
 > Australian and state and territory governments.
 "

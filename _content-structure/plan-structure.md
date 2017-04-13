@@ -10,4 +10,4 @@ Structure the content around meeting the user's needs first, then meeting requir
 
 Design content to:
 - give the user only the information they need to complete the service
-- lead the user to the information they need.
+- lead the user to the information they need

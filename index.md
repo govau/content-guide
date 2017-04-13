@@ -16,9 +16,9 @@ Live release of the GOV.AU Content Guide.
 
 Major changes:
 
-- new information architecture and content refactoring
-- expanded guidance on [accessibility and inclusivity](/accessibility-inclusivity)
-- built with [UI-Kit CSS framework version 1](http://guides.service.gov.au/design-guide/).
+- New information architecture and content refactoring.
+- Expanded guidance on [accessibility and inclusivity](/accessibility-inclusivity).
+- Built with [UI-Kit CSS framework version 1](http://guides.service.gov.au/design-guide/).
 
 <p>
 <svg class="icon-inline fa-github" role="img" title="GitHub icon" aria-labelledby="fa-github-alt-source">

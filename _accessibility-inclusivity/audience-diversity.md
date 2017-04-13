@@ -18,7 +18,7 @@ Write [content that all users can read](/writing-style/#readability) and underst
 
 Sources:
 
-- [Reflecting a Nation: Stories from the 2011 Census, 2012–2013](http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/2071.0main+features902012-2013){:rel="external"}, [Estimates of Aboriginal and Torres Strait Islander Australians, June 2011](http://www.abs.gov.au/ausstats/abs@.nsf/mf/3238.0.55.001){:rel="external"} and [ABS.Stat - Language Spoken at Home by Sex](http://stat.data.abs.gov.au/Index.aspx?DataSetCode=ABS_CENSUS2011_B13){:rel="external"} contain statistics that show Australia's diversity
+- [Reflecting a Nation: Stories from the 2011 Census, 2012–2013](http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/2071.0main+features902012-2013){:rel="external"}, [Estimates of Aboriginal and Torres Strait Islander Australians, June 2011](http://www.abs.gov.au/ausstats/abs@.nsf/mf/3238.0.55.001){:rel="external"} and [ABS.Stat - Language Spoken at Home by Sex](http://stat.data.abs.gov.au/Index.aspx?DataSetCode=ABS_CENSUS2011_B13){:rel="external"} contain statistics that show Australia's diversity.
 - [Australian Demographic Statistics, Mar 2013](http://www.abs.gov.au/ausstats/abs@.nsf/Previousproducts/3101.0Main%20Features3Mar%202013?open){:rel="external"} contains statistics about migration to Australia.
 
 ### Abilities and expectations of Australians vary
@@ -33,17 +33,17 @@ Literacy levels for Australians aged 15 to 74 years:
 
 - 44% at literacy level 1 to 2 (a very low level)
 - 39% at level 3
-- 17% at level 4 to 5 (the highest level).
+- 17% at level 4 to 5 (the highest level)
 
 Numeracy levels for Australians aged 15 to 74 years:
 
 - approximately 55% at numeracy level 1 to 2 (a very low level)
 - 32% at level 3
-- 13% at level 4 to 5 (the highest level).
+- 13% at level 4 to 5 (the highest level)
 
 Sources:
 
-- [Disability, Ageing and Carers, Australia: First Results, 2015](http://www.abs.gov.au/ausstats/abs@.nsf/mf/4430.0.10.001){:rel="external"}
+- [Disability, Ageing and Carers, Australia: First Results, 2015](http://www.abs.gov.au/ausstats/abs@.nsf/mf/4430.0.10.001){:rel="external"} contains statistics about disability in Australia.
 - [Programme for the International Assessment of Adult Competencies, Australia, 2011-2012](http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/4228.0main+features992011-2012){:rel="external"} contains statistics about Australia's literacy and numeracy levels.
 
 ### Australia's population is ageing

@@ -4,7 +4,7 @@ order: 4
 exclude_from_search: true
 ---
 
-The modern government tone is direct, calm and understated.
+The modern government tone is direct, calm and understated:
 
 - Speak politely and use language that is positive but sensitive and respectful.
 - Be aware who you are writing for.
@@ -20,11 +20,11 @@ Avoid third person nouns (Australian Government Department of X) and pronouns (h
 {% include guide_example.liquid
   title = "pronouns"
   content= "
-Like this
+Like this:
 
 > Tell us if you have trouble with your account.
 
-Not this
+Not this:
 
 > If the subscriber is having difficulty accessing their account, the finance team can provide further guidance.
 "
