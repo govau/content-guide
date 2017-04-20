@@ -2,7 +2,7 @@
 
 ## Content Guide 'Getting with the program'
 
-### 1.0.0 &#8212; 2017-04-12
+### 1.0.0 &#8212; 2017-04-21
 
 Live release of the GOV.AU Content Guide.
 
@@ -13,13 +13,14 @@ The main changes are listed below.
 ### IA and content streamlining
 
 - Implementation of a new information architecture, based on card sorts with DTA content designers and members of the Content Design in Government Google Group.
+- Added Lunr search.
 - Removed repetition and outdated guidance.
 - Improved rendering of examples in multiple sections.
 
 ### New user interface and GitHub repo
 
 - Implementation of the [DTA's UI-Kit CSS framework](https://github.com/AusDTO/gov-au-ui-kit).
-- A new [govau/content-guide](https://github.com/govau/content-guide) GitHub repository</a>.
+- A new [govau/content-guide](https://github.com/govau/content-guide) GitHub repository.
 
 ### Changes to guidance
 
