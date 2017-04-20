@@ -13,7 +13,7 @@ The main changes are listed below.
 ### IA and content streamlining
 
 - Implementation of a new information architecture, based on card sorts with DTA content designers and members of the Content Design in Government Google Group.
-- Added Lunr search.
+- Added [Lunr search](https://lunrjs.com/).
 - Removed repetition and outdated guidance.
 - Improved rendering of examples in multiple sections.
 
@@ -35,4 +35,4 @@ The main changes are listed below.
 - Added guidance on [using programme in the context of existing legislation](http://guides.service.gov.au/content-guide/terms-phrases/#preferred-spellings).
 - Expanded guidance on [when to use words instead of digits](http://guides.service.gov.au/content-guide/numbers-measurements/#numbers).
 - Improved guidance on [Oxford commas](http://guides.service.gov.au/content-guide/punctuation-grammar/#commas).
-- Don't add full stops to the end of [sentence fragment lists](http://guides.service.gov.au/content-guide/content-structure/#bullet-point-lists) and avoid second and third level lists.
+- Don't add full stops to the end of [sentence fragment lists](http://guides.service.gov.au/content-guide/content-structure/#bullet-point-lists) and guidance to rewrite to avoid second and third level lists.
