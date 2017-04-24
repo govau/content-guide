@@ -11,9 +11,23 @@ set -o pipefail
 set -x
 
 main() {
+  readonly GITBRANCH="${CIRCLE_BRANCH}"
+
   git submodule init                                                    # Pulling submodule
   git submodule update                                                  # Updating submodule
-  bundle exec jekyll build
+
+  case "${GITBRANCH}" in
+    master)
+      echo "Building with production jekyll config"
+
+      bundle exec jekyll build --destination ./_site/$CF_PATH --baseurl /$CF_PATH
+      # Building jekyll plus the path variable
+      ;;
+    *)
+      echo "Building with develop jekyll config"
+      bundle exec jekyll build
+      ;;
+  esac
 }
 
 main $@
