@@ -41,7 +41,7 @@ layout: section
             {% endcomment %}
             {% for doc in collection_docs_ordered %}
               {% unless doc.layout == "collections/index" %}
-                <li><a href="{{ page.url }}#{{ doc.title | slugify }}">{{ doc.title }}</a></li>
+                <li><a href="{{ site.baseurl }}{{ page.url }}#{{ doc.title | slugify }}">{{ doc.title }}</a></li>
               {% endunless %}
             {% endfor %}
           </ul>

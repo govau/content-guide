@@ -34,12 +34,15 @@ If the caption clearly explains the image make the alt text blank.
 
 In HTML5 [use the `<figcaption>` tag](https://www.w3.org/wiki/HTML/Elements/figcaption){:rel="external"} in the `<figure>` element.
 
+{% capture content %}
+<figure>
+  <img src='{{site.baseurl}}/assets/coat-of-arms.png' alt='' />
+  <figcaption>Caption: the conventional version of the Commonwealth Coat of Arms of Australia.</figcaption>
+</figure>
+{% endcapture %}
 {% include guide_example.liquid
   title = "image caption"
-  content= "<figure>
-  <img src='/assets/coat-of-arms.png' alt='' />
-  <figcaption>Caption: the conventional version of the Commonwealth Coat of Arms of Australia.</figcaption>
-</figure>"
+  content=content
 %}
 
 ### Informative images

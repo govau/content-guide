@@ -6,7 +6,7 @@ abstract: ""
 
 ## Sources
 
-List of the [resources used to write the GOV.AU Content Guide](/sources/).
+List of the [resources used to write the GOV.AU Content Guide]({{ site.baseurl }}/sources/).
 
 ## Latest updates
 
@@ -17,7 +17,7 @@ Live release of the GOV.AU Content Guide.
 Major changes:
 
 - New information architecture, content refactoring and search functionality.
-- Expanded guidance on [accessibility and inclusivity](/accessibility-inclusivity).
+- Expanded guidance on [accessibility and inclusivity]({{ site.baseurl }}/accessibility-inclusivity).
 - Built with [UI-Kit CSS framework version 1](http://guides.service.gov.au/design-guide/).
 
 <p>
