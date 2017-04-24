@@ -2,7 +2,7 @@
 
 ## Content Guide 'Getting with the program'
 
-### 1.0.0 &#8212; 2017-04-21
+### 1.0.0 &#8212; 24 April 2017
 
 Live release of the GOV.AU Content Guide.
 
