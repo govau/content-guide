@@ -6,7 +6,9 @@ abstract: ""
 
 ## Sources
 
-List of the [resources used to write the GOV.AU Content Guide](/sources/).
+This is the sources content.
+
+of the [resources used to write the GOV.AU Content Guide](/sources/).
 
 ## Latest updates
 
