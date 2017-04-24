@@ -24,7 +24,7 @@ Abbreviate honours, awards and distinctions without full stops.
 {% include guide_example.liquid
   title = "abbreviating honours, awards and distinctions"
   content= "
-- AO (Order of Australia)
+- AO (Officer of the Order of Australia)
 - OM (Member of the Order of Merit)
 - BA (Bachelor of Arts)
 - DipEd (Diploma of Education)

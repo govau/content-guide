@@ -8,7 +8,7 @@ Use digits instead of words for most numbers. This makes numbers easier to read 
 
 Use words for:
 - common expressions where digits would look strange --- for example, 'one or two of them'
-- ordinals (first, second) but not [dates and date periods](#dates) (19th century).
+- ordinals (first, second) but not [dates and date periods](#dates) (19th century)
 
 Add a comma between the third and fourth digit from the right, for numbers 10,000 and above.
 

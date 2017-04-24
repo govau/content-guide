@@ -18,13 +18,13 @@ If you're new to content design we suggest you read this first:
 
 - [content structure](/content-structure/)
 - [plain English and writing style](/writing-style/)
-- [making accessible and inclusive content](/accessibility-inclusivity/).
+- [making accessible and inclusive content](/accessibility-inclusivity/)
 
 If you're an experienced content creator, check guidance on:
 
 - [spelling government terms and phrases](/terms-phrases)
 - [how we punctuate](/punctuation-grammar)
-- [writing numbers and measurements](/numbers-measurements).
+- [writing numbers and measurements](/numbers-measurements)
 
 We're working on [guidance on content types](/types-of-content), including documents, forms and surveys.
 
@@ -57,7 +57,7 @@ You can read a [full changelog for the Content Guide](https://github.com/govau/c
 Make a suggestion or give feedback:
 - join the [Content Design in Government Google Group](https://groups.google.com/a/digital.gov.au/forum/#!forum/content-design-in-government){:rel="external"}
 - [log a GitHub issue](https://github.com/govau/content-guide/issues/new){:rel="external"}
-- <a href="mailto:guides@digital.gov.au">guides@digital.gov.au</a>.
+- <a href="mailto:guides@digital.gov.au">guides@digital.gov.au</a>
 
 We welcome this guide being adopted across government and hope it starts many good conversations in your organisation.
 

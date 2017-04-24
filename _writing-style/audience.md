@@ -6,9 +6,9 @@ exclude_from_search: true
 
 Your writing will be most effective if you understand who you’re writing for.
 
-To understand your audience you should know:
+To understand your audience you should research:
 
-- how they behave, what they’re interested in or worried about --- so your writing will catch their attention and answer their questions
-- their vocabulary --- so that you can use the same terms and phrases they’ll use to search for information.
+- behaviour --- what the user is interested in or worried about, so your writing will catch their attention and answer their questions
+- vocabulary --- so that you can use the same terms and phrases they will use to search for information
 
 For multiple audiences, make your writing as easy to read as possible so it's accessible to everyone --- write for a [Year 5 reading level](#readability).

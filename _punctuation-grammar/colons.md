@@ -18,6 +18,6 @@ You can use a colon in a sentence fragment --- but bullet point lists are easier
 > - cultural festivals
 > - crowdsourcing funds
 > - conferences
-> - bush-regeneration programs.
+> - bush-regeneration programs
 "
 %}

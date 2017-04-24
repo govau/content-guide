@@ -29,11 +29,11 @@ Rewrite the sentence to avoid using gender-specific singular pronouns (he/she, h
 {% include guide_example.liquid
   title = "avoiding gender-specific singular pronouns"
   content= "
-Use this
+Use this:
 
 > Submit your employment declaration.
 
-Not this
+Not this:
 
 > Every employee should submit his employment declaration.
 "
@@ -55,7 +55,7 @@ This avoids getting caught up in semantics and is respectful of:
 - political impacts on life events
 - pre and post effects of wars
 - religious affiliations
-- values or philosophical differences.
+- values or philosophical differences
 
 More [guidance on inclusive language](http://www.and.org.au/pages/inclusive-language.html){:rel="external"} is available from the Australian Network on Disability.
 

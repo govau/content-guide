@@ -8,7 +8,7 @@ Screen readers are an assistive technology that helps users who are blind, visua
 
 People use screen readers to navigate and understand web pages through a combination of:
 - reading the content of the web page in a linear order
-- moving around the page through headings, links and form elements.
+- moving around the page through headings, links and form elements
 
 ### Clear writing helps all users
 
@@ -26,4 +26,4 @@ Make web pages easier to navigate for screen readers using:
 
 - [hierarchical headings](/content-structure/#headings-and-subheadings)
 - [precise links](/content-structure/#hyperlinks) that can be understood on their own without the context of surrounding text
-- meaningful [image alt text and captions](#images-and-alt-text).
+- meaningful [image alt text and captions](#images-and-alt-text)
