@@ -6,7 +6,7 @@ exclude_from_search: true
 
 Use images minimally and with purpose.
 
-[Make the images accessible](/accessibility-inclusivity/#images-and-alt-text).
+[Make the images accessible]({{ site.baseurl }}/accessibility-inclusivity/#images-and-alt-text).
 
 If you use images to enhance written information use real people and locations.
 

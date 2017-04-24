@@ -10,7 +10,7 @@ Only use the ‘Commonwealth of Australia’ when talking about the legal entity
 
 Only capitalise 'government', 'group', 'parliament', 'state' and 'territory' in a formal title.
 
-Also see guidance on [capitalising legislation and government publications](/punctuation-grammar/#capitalisation).
+Also see guidance on [capitalising legislation and government publications]({{ site.baseurl }}/punctuation-grammar/#capitalisation).
 
 {% include guide_example.liquid
   title = "referring to the Australian Government"

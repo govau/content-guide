@@ -11,7 +11,7 @@ Video should be a complementary channel. It should enhance written information.
 ### Make the video accessible
 
 Read
-[guidance on transcripts, closed captions and audio description](/accessibility-inclusivity/#video-accessibility).
+[guidance on transcripts, closed captions and audio description]({{ site.baseurl }}/accessibility-inclusivity/#video-accessibility).
 
 ### Write a focused script
 
@@ -19,7 +19,7 @@ Think about what the user needs to know and make this your main focus.
 
 Get to the point early on.
 
-Check the [voice and tone](/writing-style/). Use humour sensitively.
+Check the [voice and tone]({{ site.baseurl }}/writing-style/). Use humour sensitively.
 
 ### Think visually
 

@@ -16,7 +16,7 @@ Use contractions to create a more conversational voice. But make sure the user c
 "
 %}
 
-Low-literacy users and people who speak [languages other than English](/accessibility-inclusivity/#languages-other-than-english) may find contractions difficult to understand.
+Low-literacy users and people who speak [languages other than English]({{ site.baseurl }}/accessibility-inclusivity/#languages-other-than-english) may find contractions difficult to understand.
 
 Avoid less common colloquial contractions like &#8217;you'd&#8217;.
 
@@ -24,4 +24,4 @@ Always consider the context.
 
 Don't use contractions where a user may misunderstand what they are being asked to do, for example on a form.
 
-Follow [guidance on readability](/writing-style/#readability).
+Follow [guidance on readability]({{ site.baseurl }}/writing-style/#readability).
