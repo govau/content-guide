@@ -12,7 +12,7 @@ People use screen readers to navigate and understand web pages through a combina
 
 ### Clear writing helps all users
 
-Write clearly and use [plain English](/writing-style/#plain-english). This helps users with screen readers by making content easier to understand and to skim.
+Write clearly and use [plain English]({{ site.baseurl }}/writing-style/#plain-english). This helps users with screen readers by making content easier to understand and to skim.
 
 Keep sentences short so the meaning is concise. This means the screen reader won't need to read out a lot of punctuation. Not all screen readers work the same and some can miss nuances in longer sentences.
 
@@ -24,6 +24,6 @@ Screen readers can index web page headings, links and tags to create an overview
 
 Make web pages easier to navigate for screen readers using:
 
-- [hierarchical headings](/content-structure/#headings-and-subheadings)
-- [precise links](/content-structure/#hyperlinks) that can be understood on their own without the context of surrounding text
+- [hierarchical headings]({{ site.baseurl }}/content-structure/#headings-and-subheadings)
+- [precise links]({{ site.baseurl }}/content-structure/#hyperlinks) that can be understood on their own without the context of surrounding text
 - meaningful [image alt text and captions](#images-and-alt-text)

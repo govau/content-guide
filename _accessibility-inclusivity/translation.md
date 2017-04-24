@@ -32,4 +32,4 @@ Make sure the format of the translated content is accessible.
 
 If there is a user need for a PDF of the translated content you must:
 - make the plain English version available in HTML
-- [make the content in PDFs accessible](/accessibility-inclusivity/#pdf-accessibility)
+- [make the content in PDFs accessible]({{ site.baseurl }}/accessibility-inclusivity/#pdf-accessibility)
