@@ -36,7 +36,7 @@ This is the main loop. It iterates through all collections.
         (unless it’s the index itself, which calls this very layout).
         {% endcomment %}
         {% for doc in collection_docs_ordered %}
-          <li><a href="{{ page.url }}#{{ doc.title | slugify }}">{{ doc.title }}</a></li>
+          <li><a href="#{{ doc.title | slugify }}">{{ doc.title }}</a></li>
         {% endfor %}
       </ul>
     </nav>
@@ -55,7 +55,7 @@ This is the main loop. It iterates through all collections.
 
   <article class="collection__item">
     <h2 id="{{ doc.title | slugify }}">
-      <a href="{{ page.url }}#{{ doc.title | slugify }}" class="headline-slug-link">
+      <a href="#{{ doc.title | slugify }}" class="headline-slug-link">
         {{ doc.title }}
       </a>
     </h2>

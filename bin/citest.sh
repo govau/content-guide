@@ -16,8 +16,19 @@ set -x
 # Run jekyll hyde
 bundle exec jekyll hyde
 
+# we want the link checker to fail if internal links have not correctly
+# appended site.baseurl, so we re-build the site with a non-empty baseurl
+
+# use /tmp if TMPDIR is not defined
+if [[ -z "$TMPDIR" ]]
+then
+    export TMPDIR="/tmp"
+fi
+
+bundle exec jekyll build --destination ${TMPDIR}/_site_link_checker/baseurl --baseurl /baseurl
+
 # Run a html proofer over the site to check all internal links
-bundle exec htmlproofer _site  \
+bundle exec htmlproofer ${TMPDIR}/_site_link_checker  \
     --disable-external \
     --allow-hash-href \
     --url-ignore "/(mailto:.*)/" \

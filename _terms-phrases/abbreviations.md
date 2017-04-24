@@ -6,7 +6,7 @@ exclude_from_search: true
 
 Only use abbreviations of general terms if the abbreviation is the clearer and more common form.
 
-See also guidance on [abbreviating numbers and measures](/numbers-measurements/).
+See also guidance on [abbreviating numbers and measures]({{ site.baseurl }}/numbers-measurements/).
 
 {% include guide_example.liquid
   title = "abbreviations"

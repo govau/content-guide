@@ -79,7 +79,7 @@ Title contractions do not require punctuation.
 
 ### Publications
 
-Use [title case for legislation, acts and other publications](/terms-phrases/#australian-government).
+Use [title case for legislation, acts and other publications]({{ site.baseurl }}/terms-phrases/#australian-government).
 
 ### Department titles
 
