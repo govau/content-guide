@@ -1,6 +1,7 @@
 <nav class="skip-to">
   <a href="#content">Skip to main content</a>
-  <a href="#nav">Skip to local navigation</a>
+  {% comment %} TODO is there a better way of deciding whether to show the local nav skip link? {% endcomment %}
+  {% if page.collection %}<a href="#nav">Skip to local navigation</a>{% endif %}
 </nav>
 
 <header role="banner">

@@ -1,8 +1,8 @@
 ---
 title: "Privacy statement"
-layout: "collections/index"
+layout: "page"
 abstract: "How we handle information about you."
-published: true
+permalink: "/privacy/"
 ---
 
 This privacy statement is about [guides.service.gov.au/content-guide/](http://guides.service.gov.au/content-guide/) --- this is an online service managed by the Digital Transformation Agency (DTA), located in Canberra, Australia.

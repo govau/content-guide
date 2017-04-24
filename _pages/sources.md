@@ -1,8 +1,8 @@
 ---
 title: "Sources"
-layout: "collections/index"
+layout: "page"
 abstract: "How this guide was put together."
-published: true
+permalink: "/sources/"
 ---
 
 The GOV.AU Content Guide was developed with help from members of the [Content Design in Government Google Group](https://groups.google.com/a/digital.gov.au/forum/#!forum/content-design-in-government){:rel="external"}. We are grateful for their continuing support.

@@ -14,14 +14,11 @@ set -o pipefail
 set -x
 
 # Run jekyll hyde
-# Note - this will clobber the sitemap.xml using the site.url, so we just use production's
-# config as that's the only place where we need a valid sitemap
 bundle exec jekyll hyde
 
-# Run a html proofer over the site
-#bundle exec htmlproofer _site  \
-#    --disable-external \
-#    --allow-hash-href \
-#    --url-ignore "/(mailto:.*)/" \
-#    --file-ignore /.*feed/index\.html/ \
-#    --empty-alt-ignore
+# Run a html proofer over the site to check all internal links
+bundle exec htmlproofer _site  \
+    --disable-external \
+    --allow-hash-href \
+    --url-ignore "/(mailto:.*)/" \
+    --empty-alt-ignore

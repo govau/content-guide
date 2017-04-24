@@ -1,5 +1,17 @@
 ---
 layout: default
 ---
+<main role="main" id="content" class="content-main homepage">
+  <header>
+    <h1><span class="guide-title">{{ site.title }}</span>
+      {{ page.title }}
+    </h1>
 
-{{ content }}
+    <div class="abstract">
+      {{ page.abstract | markdownify }}
+    </div>
+  </header>
+  <article>
+    {{ content }}
+  </article>
+</main>

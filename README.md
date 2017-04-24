@@ -74,6 +74,14 @@ rbenv rehash
 
 If you still have troubles ask for help! (:
 
+### Broken link testing
+
+Internal links are tested as part of the CI build pipeline in `bin/citest.sh`, however to keep test results reproducible external links are skipped.
+
+You should periodically manually test external links with:
+
+`bin/checkexternal.sh`
+
 ## Copyright and license
 
 Copyright Digital Transformation Agency. Licensed under the Creative Commons Attribution 4.0 International Public License. See [LICENSE file](https://github.com/govau/content-guide/blob/master/LICENSE.md) for more details.
