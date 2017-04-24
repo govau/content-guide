@@ -18,7 +18,7 @@ Major changes:
 
 - New information architecture, content refactoring and search functionality.
 - Expanded guidance on [accessibility and inclusivity]({{ site.baseurl }}/accessibility-inclusivity).
-- Built with [UI-Kit CSS framework version 1]({{ site.baseurl }}http://guides.service.gov.au/design-guide/).
+- Built with [UI-Kit CSS framework version 1](http://guides.service.gov.au/design-guide/).
 
 <p>
 <svg class="icon-inline fa-github" role="img" title="GitHub icon" aria-labelledby="fa-github-alt-source">
