@@ -1,6 +1,7 @@
 ---
 title: "Hyphens (-)"
-order: 3
+order: 4
+exclude_from_search: true
 ---
 
 Use hyphens when 2 or more words form an adjective.
@@ -21,7 +22,7 @@ highly intelligent --- not highly-intelligent
 "
 %}
 
-Some nouns are also hyphenated. Check the [Macquarie Dictionary](https://www.macquariedictionary.com.au/).
+Some nouns are also hyphenated. Check the [Macquarie Dictionary](https://www.macquariedictionary.com.au/){:rel="external"}.
 
 {% include guide_example.liquid
   title = "hyphenated nouns"
@@ -31,12 +32,15 @@ Some nouns are also hyphenated. Check the [Macquarie Dictionary](https://www.mac
 "
 %}
 
-Login is not hyphenated.
+Don’t hyphenate login or sign in.
+
+Also read guidance on [using sign in instead of log in](/terms-phrases/#digital-terms).
 
 {% include guide_example.liquid
-  title = "not using hyphen in login or log in"
+  title = "punctuating sign in and log in"
   content= "
-You need to use your login (noun) to log in (verb) to the site.
+- You need to use your sign in (noun) to sign in (verb) to the site.
+- You need to use your login (noun) to log in (verb) to the site.
 "
 %}
 
@@ -55,6 +59,7 @@ Use a hyphen when the second word is ‘up’ or when the first and second words
   title = "using hyphens with 'up'"
   content= "
 - meet-up
+- call-up
 - re-engage
 "
 %}

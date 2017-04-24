@@ -1,13 +1,14 @@
 ---
 title: "Hyperlinks"
-order: 3
+order: 6
+exclude_from_search: true
 ---
 
 ### Use precise link text
 
 Make the destination of the link clear.
 
-Think about the user and their context when reading the information. Think helpful.
+Think about the user and their context when reading the information. Be helpful.
 
 Don’t use meaningless terms such as ‘click here’, ‘read more’ or ‘useful links’.
 
@@ -20,10 +21,15 @@ Use this
 
 > Attend next month’s [workshop for developers and writers](#) in Brisbane.
 
-Not this
+Not this:
 
 > [Attend a Brisbane workshop for developers and writers next month](#).
 
+Never this
+
+> Attend a Brisbane workshop for developers and writers next month.
+>
+> [Click here for more information.](#)
 "
 %}
 
@@ -37,9 +43,11 @@ Be careful of overcrowding paragraphs with links as this can affect readability.
 
 Grouping links together at the bottom of a page can disrupt readability too. Users may skip the text and just read the links.
 
-### Make calls-to-action accurate and prominent
+### Make calls to actions (CTAs) accurate and prominent
 
 Use keywords the user will understand that accurately describe the action.
+
+Guidance on [buttons and labels](http://guides.service.gov.au/design-guide/components/forms-buttons/index.html) is available in the DTA Design Guide.
 
 ### Use the email address as the link
 

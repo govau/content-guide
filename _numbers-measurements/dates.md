@@ -1,6 +1,7 @@
 ---
 title: "Dates"
-order: 1
+order: 2
+exclude_from_search: true
 ---
 
 Don't punctuate dates.
@@ -8,11 +9,11 @@ Don't punctuate dates.
 {% include guide_example.liquid
   title = "punctuating dates"
   content= "
-Like this
+Like this:
 
 > Tuesday 8 October 2016
 
-Not this
+Not this:
 
 > 8th October, 2016
 "
@@ -23,11 +24,11 @@ Use numbers for date periods.
 {% include guide_example.liquid
   title = "punctuating date periods"
   content= "
-Like this
+Like this:
 
 > 19th century
 
-Not this
+Not this:
 
 > Nineteenth century
 "
@@ -45,6 +46,6 @@ This will take 10 to 15 minutes.
 This is covers these financial years:
 - 2013 to 2014
 - 2014 to 2015
-- 2015 to 2016.
+- 2015 to 2016
 "
 %}

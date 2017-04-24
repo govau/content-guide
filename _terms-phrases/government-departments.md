@@ -1,9 +1,10 @@
 ---
 title: "Government departments"
-order: 10
+order: 8
+exclude_from_search: true
 ---
 
-Write the government department’s name in full on first mention and then as 'the Department'.
+Write the government department’s name in full on first mention and then as 'the department'.
 
 Use first-person pronouns through the rest of the text: we, us.
 
@@ -12,9 +13,9 @@ Use first-person pronouns through the rest of the text: we, us.
   content= "
 The Department for Communication and the Arts is the Australian Government’s leading adviser on communications.
 
-The Department is based in Canberra.
+The department is based in Canberra.
 
-We are responsible for...
+We are responsible for ...
 "
 %}
 
@@ -23,6 +24,6 @@ When naming other departments, use the name in full followed by the acronym in b
 {% include guide_example.liquid
   title = "using department acronyms"
   content= "
-Our Department worked closely with the Department of Foreign Affairs and Trade (DFAT).
+We worked closely with the Department of Foreign Affairs and Trade (DFAT).
 "
 %}

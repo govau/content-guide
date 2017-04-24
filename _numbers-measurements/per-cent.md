@@ -1,6 +1,7 @@
 ---
 title: "Per cent"
-order: 3
+order: 4
+exclude_from_search: true
 ---
 
 Use % when using a digit.

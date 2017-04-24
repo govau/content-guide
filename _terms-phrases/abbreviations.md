@@ -1,6 +1,7 @@
 ---
 title: "Abbreviations"
 order: 1
+exclude_from_search: true
 ---
 
 Only use abbreviations of general terms if the abbreviation is the clearer and more common form.
@@ -23,9 +24,9 @@ Abbreviate honours, awards and distinctions without full stops.
 {% include guide_example.liquid
   title = "abbreviating honours, awards and distinctions"
   content= "
-- AO (Order of Australia)
+- AO (Officer of the Order of Australia)
 - OM (Member of the Order of Merit)
-- BA (Batchelor of Arts)
+- BA (Bachelor of Arts)
 - DipEd (Diploma of Education)
 - PhD (Doctor of Philosophy)
 "

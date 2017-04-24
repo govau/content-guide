@@ -52,7 +52,7 @@ We will likely change this, and instead package up everything needed to produce 
 Setup locally
 
 ```
-git clone https://github.com/govau/content-guide.git
+git clone git@github.com:govau/content-guide.git 
 cd content-guide
 git submodule init
 git submodule update
@@ -74,6 +74,14 @@ rbenv rehash
 
 If you still have troubles ask for help! (:
 
+### Broken link testing
+
+Internal links are tested as part of the CI build pipeline in `bin/citest.sh`, however to keep test results reproducible external links are skipped.
+
+You should periodically manually test external links with:
+
+`bin/checkexternal.sh`
+
 ## Copyright and license
 
 Copyright Digital Transformation Agency. Licensed under the Creative Commons Attribution 4.0 International Public License. See [LICENSE file](https://github.com/govau/content-guide/blob/master/LICENSE.md) for more details.
@@ -82,4 +90,4 @@ Copyright Digital Transformation Agency. Licensed under the Creative Commons Att
 
 ![](https://www.dta.gov.au/images/govt-crest.png "Australian Government crest and Digital Transformation Agency title")
 
-The DTA Content Guide is maintained and funded by the [Digital Transformation Agency](https://www.dta.gov.au/).
+The GOV.AU Content Guide is maintained and funded by the [Digital Transformation Agency](https://www.dta.gov.au/).

@@ -10,7 +10,7 @@ email_team: guides@digital.gov.au
 
 
 # GUIDE SETTINGS
-title: DTA Content Guide
+title: GOV.AU Content Guide
 description: A guide to help Australian Government teams design simple, clear and fast content.
 github_url: https://github.com/govau/content-guide
 
@@ -39,6 +39,10 @@ uikit_base_url: https://gov-au-ui-kit.apps.staging.digital.gov.au/
 # Syntax reference: https://kramdown.gettalong.org/syntax.html
 markdown: kramdown
 
+# BUILD INCLUDES
+#
+# Directories that start with a "_" or "." are ignored, except for those included here.
+include: ["_pages"]
 
 # BUILD EXCLUDES
 #
@@ -85,6 +89,7 @@ assets:
     - _assets/vendor/dto-ui-kit/assets/sass/ui-kit
     - _assets/img
     - _assets/js
+    - _assets/js/vendor
 
 
 # HIGHLIGHTER
@@ -110,61 +115,38 @@ highlighter: rouge
 #     output: false
 #
 collections:
-  about:
-    title: "About the DTA Content Guide"
-    description: "The purpose of this guide and how you can contribute to it."
-    order: 0
-    output: true
-  updates:
-    title: "Latest updates"
-    description: "Recent changes to this guide."
-    order: 9
-    output: true
-  accessibility-inclusivity:
-    title: "Accessibility and inclusivity"
-    description: ""
-    order: 1
-    output: true
-  punctuation-grammar:
-    title: "Punctuation and grammar"
-    description: ""
-    order: 2
-    output: true
-  numbers-measurements:
-    title: "Numbers and measurements"
-    description: ""
-    order: 3
-    output: true
   content-structure:
     title: "Content structure"
-    description: ""
-    order: 4
-    output: true
-  content-types:
-    title: "Content types"
-    description: ""
-    order: 5
-    output: true
-  formatting:
-    title: "Formatting"
-    description: ""
-    order: 6
-    output: true
+    description: "The basic building blocks for crafting good content."
+    order: 1
   writing-style:
     title: "Writing style"
-    description: ""
-    order: 7
-    output: true
+    description: "Guidance on writing plain English content that reflects a modern government voice."
+    order: 2
+  accessibility-inclusivity:
+    title: "Accessibility and inclusivity"
+    description: "How to design content for First Australians, people who speak languages other than English and people with disability."
+    order: 3
+  punctuation-grammar:
+    title: "Punctuation and grammar"
+    description: "How to punctuate and capitalise content for screens."
+    order: 4
   terms-phrases:
     title: "Terms and phrases"
-    description: ""
+    description: "Spellings of commonly used government and digital words and terms."
+    order: 5
+  numbers-measurements:
+    title: "Numbers and measurements"
+    description: "Guidance for writing numbers on screens."
+    order: 6
+  formatting:
+    title: "Formatting"
+    description: "How to use italic, bold and underline."
+    order: 7
+  types-of-content:
+    title: "Types of content"
+    description: "How to create and use common kinds of content."
     order: 8
-    output: true
-  sources:
-    title: "Sources"
-    description: "Resources consulted to build this guide."
-    order: 10
-    output: true
 
 # PROSE.IO
 #

@@ -1,7 +1,10 @@
 ---
 title: "En dashes (&ndash;)"
-order: 5
+order: 6
+exclude_from_search: true
 ---
+
+Don't use en dashes (--).
 
 Use spaced em dashes ( --- ) instead of en dashes (--) to break up sentences.
 

@@ -1,6 +1,7 @@
 ---
 title: "At symbols (@)"
-order: 14
+order: 16
+exclude_from_search: true
 ---
 
-Use the @ symbol in email addresses and social media handles only.
+Use the &#8217;@&#8217; symbol in email addresses and social media handles only.

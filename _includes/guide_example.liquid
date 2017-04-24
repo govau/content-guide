@@ -28,10 +28,10 @@ This will be another.
 {% endcomment %}
 
 <div class="guide-example">
-  <div class="guide-example--rendered" id="{{ include.title | slugify }}">
-    <h3 class="guide-example--rendered--heading">
+  <div class="guide-example__rendered" id="{{ include.title | slugify }}">
+    <span class="guide-example__rendered__heading">
       <span>Example<span class="visuallyhidden"> of {{ include.title | markdownify }}</span></span>
-    </h3>
+    </span>
 
     {{ include.content | markdownify }}
   </div>

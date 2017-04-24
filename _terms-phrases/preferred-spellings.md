@@ -1,6 +1,7 @@
 ---
 title: "Preferred spellings"
-order: 14
+order: 13
+exclude_from_search: true
 ---
 
 ### Adviser

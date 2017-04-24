@@ -1,6 +1,7 @@
 ---
 title: "Bold"
 order: 2
+exclude_from_search: true
 ---
 
 Avoid using **bold**.

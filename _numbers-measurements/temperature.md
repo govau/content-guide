@@ -1,6 +1,7 @@
 ---
 title: "Temperature"
-order: 5
+order: 7
+exclude_from_search: true
 ---
 
 For temperatures use °C and °F.
@@ -17,4 +18,4 @@ How to type the degree symbol:
 - Windows: hold down the <kbd>Alt</kbd> key, type <kbd>0176</kbd> on the numeric keypad then release the <kbd>Alt</kbd> key
 - Mac: hold <kbd>Option</kbd> + <kbd>Shift</kbd> keys and type <kbd>8</kbd>
 - HTML: `&deg;`
-- Google Docs: go to 'Insert', 'Special characters' and select 'Symbol' and 'Miscellaneous'.
+- Google Docs: go to 'Insert', 'Special characters' and select 'Symbol' and 'Miscellaneous'

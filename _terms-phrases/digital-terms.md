@@ -1,6 +1,7 @@
 ---
 title: "Digital terms"
 order: 7
+exclude_from_search: true
 ---
 
 - blog post
@@ -11,8 +12,6 @@ order: 7
 - homepage
 - internet --- not the Internet
 - intranet --- not the Intranet
-- login (noun)
-- log in (verb)
 - online
 - PDF
 - standalone
@@ -25,3 +24,11 @@ order: 7
 - wi-fi --- not wifi, WiFi or Wi-fi
 - world wide web
 - XML
+
+### Sign in versus log in
+
+Consider using 'sign in' and 'sign out' (note, no hyphen) instead of 'log in' or 'log out' in text, links and buttons.
+
+'Sign in' seems to be becoming a more recognisable call to action than 'log in'. But you should test this with the user.
+
+Guidance on [buttons and labels](http://guides.service.gov.au/design-guide/components/forms-buttons/index.html) is available in the DTA Design Guide.

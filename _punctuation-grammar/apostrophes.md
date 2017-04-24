@@ -1,6 +1,7 @@
 ---
 title: "Apostrophes (')"
 order: 2
+exclude_from_search: true
 ---
 
 Apostrophes can indicate possession.
@@ -15,9 +16,9 @@ Apostrophes can indicate possession.
 "
 %}
 
-Use &#8217;s for words that end in s to show possession if you pronounce the s (for example, personal names).
+Use &#8217;s for words that end in &#8217;s&#8217; to show possession if you pronounce the &#8217;s&#8217; (for example, personal names).
 
-If you don't pronounce the s just use an apostrophe.
+If you don't pronounce the &#8217;s&#8217; just use an apostrophe.
 
 {% include guide_example.liquid
   title = "apostrophe and possession"
@@ -36,14 +37,4 @@ Don’t use apostrophes for plural abbreviations or decades.
 "
 %}
 
-Use apostrophes for substitutions of ‘is’, ‘us’ or ‘are’ and in other [contractions](/writing-style/#contractions).
-
-{% include guide_example.liquid
-  title = "of apostrophes for substituting ‘is’, ‘us’ or ‘are’"
-  content= "
-- it’s difficult (it is difficult)
-- Who’s the right person? (who is the right person?)
-- let’s go (let us go)
-- you’re right (you are right)
-"
-%}
+Use apostrophes for substitutions of ‘is’, ‘us’ or ‘are’ and in other [contractions](#contractions).

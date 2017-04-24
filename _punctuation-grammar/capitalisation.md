@@ -1,6 +1,7 @@
 ---
 title: "Capitalisation"
 order: 1
+exclude_from_search: true
 ---
 
 Capital letters are hard to read. Keep them to a minimum.
@@ -43,7 +44,6 @@ Capitalise the principal words only, to distinguish them from common nouns or th
   title = "capitalising proper nouns"
   content= "
 - Jane Bloggs
-- Australian Government, but then the government
 - United States of America
 - Digital Transformation Agency
 - The Department of the Environment and Energy is an Australian Government department.
@@ -77,38 +77,15 @@ Title contractions do not require punctuation.
 "
 %}
 
+### Publications
+
+Use [title case for legislation, acts and other publications](/terms-phrases/#australian-government).
+
 ### Department titles
 
 {% include guide_example.liquid
   title = "capitalising department titles"
   content= "
-Department of Communications and Arts, but then the Department
-"
-%}
-
-### Legislation, publications, policies, programs and report titles
-
-Use title case for titles of books, films, photographs, publications, TV programs, paintings, songs and albums.
-
-Capitalise the principal words only.
-
-{% include guide_example.liquid
-  title = "different kinds of titles"
-  content= "
-- Administrative Arrangements Order
-- read [Steps to Enter Residential Aged Care]() first
-- the Government Information (Public Access) Act 2009, then the Act
-"
-%}
-
-Exceptions are when the title begins with
-A, And, At, For, From, In, Of, On, The or To.
-
-{% include guide_example.liquid
-  title = "referencing a PDF"
-  content= "
-- The Sound of Silence
-- To Kill a Mockingbird
-- Of Mice and Men
+The Department of Communications and Arts is an Australian Government department. The department's office is in Canberra.
 "
 %}

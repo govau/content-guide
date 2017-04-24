@@ -1,0 +1,27 @@
+{% comment %}<div id="search">
+  <form id="search-form" action="/search/" method="get">
+    <label for="q">Search Content Guide</label>
+    <input name="q" id="search-query" type="text" autocomplete="on"/>
+    <input type="submit" value="Search">
+  </form>
+</div>{% endcomment %}
+
+
+<h2 class="search-results-header">Search results</h2>
+
+<section id="search-results" class="search-results" style="display: none;">
+  <div class="entries">
+  </div>
+</section>
+
+{% raw %}
+<script id="search-results-template" type="text/mustache">
+  <ul class="list-search">
+  {{#entries}}
+    <li>
+      <a href="{{ url }}">{{title}}</a>
+    </li>
+  {{/entries}}
+  </ul>
+</script>
+{% endraw %}

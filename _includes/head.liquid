@@ -12,7 +12,7 @@
   <meta name="msapplication-config" content="{{ site.baseurl }}/browserconfig.xml">
   <meta name="theme-color" content="#ffffff">
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}{% unless page.url == '/' %} - DTA Design Guide{% endunless %}</title>
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}{% unless page.url == '/' %} - GOV.AU Content Guide{% endunless %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   {% css main %}
@@ -28,6 +28,15 @@
 
   {% js modernizr-svg-setclasses.min %}
 
+  {% js searchbar %}
+
   {% include google_fonts.liquid %}
   {% include google_analytics.liquid %}
+
+  <script>
+    (function (h) {
+      h.className = h.className.replace('no-js', 'js')
+    })(document.documentElement)
+  </script>
+
 </head>
