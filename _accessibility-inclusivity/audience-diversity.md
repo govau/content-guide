@@ -6,7 +6,7 @@ exclude_from_search: true
 
 Understand the diversity of your audience.
 
-Write [content that all users can read](/writing-style/#readability) and understand.
+Write [content that all users can read]({{ site.baseurl }}/writing-style/#readability) and understand.
 
 ### Australia is one of the most culturally diverse countries
 

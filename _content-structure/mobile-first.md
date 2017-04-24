@@ -12,7 +12,7 @@ It can be much harder for some people with disability to use a mobile device tha
 
 Think about how the content will work on a mobile device first. Then think about how it will translate to a larger screen.
 
-Write and design content that is consistent and uses [plain English](/writing-style/#plain-english) so [everyone can use it](/accessibility-inclusivity/).
+Write and design content that is consistent and uses [plain English]({{ site.baseurl }}/writing-style/#plain-english) so [everyone can use it]({{ site.baseurl }}/accessibility-inclusivity/).
 
 ### Communicate with text first
 

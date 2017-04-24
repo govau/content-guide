@@ -38,4 +38,4 @@ The part-time role was approved in March.
 "
 %}
 
-Use [contractions](/punctuation-grammar/#contractions) carefully to be more conversational.
+Use [contractions]({{ site.baseurl }}/punctuation-grammar/#contractions) carefully to be more conversational.

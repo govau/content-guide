@@ -16,17 +16,17 @@ The GOV.AU Content Guide and the [DTA Design Guide](http://guides.service.gov.au
 
 If you're new to content design we suggest you read this first:
 
-- [content structure](/content-structure/)
-- [plain English and writing style](/writing-style/)
-- [making accessible and inclusive content](/accessibility-inclusivity/)
+- [content structure]({{ site.baseurl }}/content-structure/)
+- [plain English and writing style]({{ site.baseurl }}/writing-style/)
+- [making accessible and inclusive content]({{ site.baseurl }}/accessibility-inclusivity/)
 
 If you're an experienced content creator, check guidance on:
 
-- [spelling government terms and phrases](/terms-phrases)
-- [how we punctuate](/punctuation-grammar)
-- [writing numbers and measurements](/numbers-measurements)
+- [spelling government terms and phrases]({{ site.baseurl }}/terms-phrases)
+- [how we punctuate]({{ site.baseurl }}/punctuation-grammar)
+- [writing numbers and measurements]({{ site.baseurl }}/numbers-measurements)
 
-We're working on [guidance on content types](/types-of-content), including documents, forms and surveys.
+We're working on [guidance on content types]({{ site.baseurl }}/types-of-content), including documents, forms and surveys.
 
 You'll find guidance on how we use the UI-Kit CSS framework to build common design patterns in the [DTA Design Guide](http://guides.service.gov.au/design-guide/).
 
@@ -36,7 +36,7 @@ The Content Guide is a living product built by the Digital Transformation Agency
 
 It  will continue to grow based on feedback, research and work on other DTA products.
 
-The [original sources for the Content Guide](/sources/) included the GOV.UK style guide, 18F Content Guide, The Guardian and Observer style guide and Style Manual: For Authors, Editors and Printers.
+The [original sources for the Content Guide]({{ site.baseurl }}/sources/) included the GOV.UK style guide, 18F Content Guide, The Guardian and Observer style guide and Style Manual: For Authors, Editors and Printers.
 
 ## Use the guide in your organisation
 

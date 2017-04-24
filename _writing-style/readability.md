@@ -41,4 +41,4 @@ When a user reaches a word or phrase that is unfamiliar or difficult it slows do
 
 A person's vocabulary will grow as they age but the shape-recognition skill stays with them.
 
-Writing for the Year 5 reading level, [structuring your writing](/content-structure/) and [writing in plain English](#plain-english) will make it easier for all users to read your content.
+Writing for the Year 5 reading level, [structuring your writing]({{ site.baseurl }}/content-structure/) and [writing in plain English](#plain-english) will make it easier for all users to read your content.

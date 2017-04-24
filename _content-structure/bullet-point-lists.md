@@ -14,7 +14,7 @@ Use a parallel structure for items so they all start in the same way. For exampl
 
 Aim to make each list item a similar size. This makes lists easier to scan.
 
-Don't add a [semicolon](/punctuation-grammar/#semicolons) to the end of list items.
+Don't add a [semicolon]({{ site.baseurl }}/punctuation-grammar/#semicolons) to the end of list items.
 
 ### Sentence fragment bullet point list
 

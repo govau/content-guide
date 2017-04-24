@@ -6,7 +6,7 @@ exclude_from_search: true
 
 Avoid the Latin abbreviations eg, ie, etc (et cetera) and nb.
 
-[Don't use italics for Latin](/formatting/#italics).
+[Don't use italics for Latin]({{ site.baseurl }}/formatting/#italics).
 
 Use 'for example' instead of &#8217;eg&#8217;.
 

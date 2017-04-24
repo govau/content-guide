@@ -6,7 +6,7 @@ exclude_from_search: true
 
 Use commas minimally.
 
-Commas increase clarity because they bring in a natural pause. But too many commas are a sign a sentence should be shorter, or needs to be changed into a [bullet point list](/content-structure/#bullet-point-lists).
+Commas increase clarity because they bring in a natural pause. But too many commas are a sign a sentence should be shorter, or needs to be changed into a [bullet point list]({{ site.baseurl }}/content-structure/#bullet-point-lists).
 
 {% include guide_example.liquid
   title = "using commas"

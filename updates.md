@@ -7,7 +7,7 @@ Live release of the DTA Content Guide
 Major changes:
 
 - new IA and content refactoring
-- expanded guidance on [accessibility and inclusivity](/accessibility-inclusivity)
+- expanded guidance on [accessibility and inclusivity]({{ site.baseurl }}/accessibility-inclusivity)
 - build with [UI-Kit](https://github.com/AusDTO/gov-au-ui-kit){:rel="external"}.
 
 <p>
