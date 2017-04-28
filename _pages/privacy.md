@@ -5,7 +5,7 @@ abstract: "How we handle information about you."
 permalink: "/privacy/"
 ---
 
-This privacy statement is about [guides.service.gov.au/content-guide/](http://guides.service.gov.au/content-guide/) --- this is an online service managed by the Digital Transformation Agency (DTA), located in Canberra, Australia.
+This privacy statement is about [guides.service.gov.au/content-guide/](http://guides.service.gov.au/content-guide/) --- this is an online service managed by the Digital Transformation Agency (DTA). The DTA is located in Canberra, Australia.
 
 The [Digital Transformation Agency privacy policy](https://www.dta.gov.au/privacy-statement/){:rel="external"} describes how we handle your personal information.
 
