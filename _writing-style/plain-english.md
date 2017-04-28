@@ -281,7 +281,7 @@ Think about the [needs of users who speak a language other than English]({{ site
 <td>after</td>
 </tr>
 <tr>
-<td>table (verb) - unless tabling a document in parliament</td>
+<td>table (verb) &mdash; unless tabling a document in parliament</td>
 <td>address, discuss, release</td>
 </tr>
 <tr>
