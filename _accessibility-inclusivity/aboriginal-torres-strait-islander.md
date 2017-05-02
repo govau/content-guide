@@ -89,3 +89,5 @@ Make sure of the context and relevance before using First Australian cultural te
 - Traditional Owners or Traditional Custodians
 "
 %}
+
+There's guidance on using First Australian cultural terms in the [Communicating with Aboriginal and Torres Strait Islander Audiences](https://www.dpmc.gov.au/resource-centre/indigenous-affairs/communicating-aboriginal-and-torres-strait-islander-audiences){:rel="external"} 2016 report.
