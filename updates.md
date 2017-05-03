@@ -2,7 +2,7 @@
 
 ### 8 March 2017
 
-Live release of the DTA Content Guide
+Live release of the GOV.AU Content Guide
 
 Major changes:
 
