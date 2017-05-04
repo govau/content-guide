@@ -42,8 +42,8 @@ For a list of full sentences, use a capital letter at the start of each point an
   content= "
 Awareness week agenda:
 
-- Community morning tea hosted by the Director.
-- Launch of awareness week book.
+- We will host a community morning tea.
+- The Minister will launch the book.
 "
 %}
 
