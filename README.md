@@ -1,10 +1,10 @@
-# Draft Content Guide
+# GOV.AU Content Guide
 
 This guide is designed to help people working in the Australian Government create simpler, clearer and faster information.
 
-It can be currently accessed at http://content-style-guide.apps.staging.digital.gov.au/
+Live site: https://guides.service.gov.au/content-guide/
 
-**Status:** the guide is in active development.
+Staging site: http://content-style-guide.apps.staging.digital.gov.au/
 
 ---
 
@@ -87,7 +87,5 @@ You should periodically manually test external links with:
 Copyright Digital Transformation Agency. Licensed under the Creative Commons Attribution 4.0 International Public License. See [LICENSE file](https://github.com/govau/content-guide/blob/master/LICENSE.md) for more details.
 
 ## About the DTA
-
-![](https://www.dta.gov.au/images/govt-crest.png "Australian Government crest and Digital Transformation Agency title")
 
 The GOV.AU Content Guide is maintained and funded by the [Digital Transformation Agency](https://www.dta.gov.au/).
