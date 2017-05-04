@@ -287,7 +287,7 @@ $site-search-outline--focus:                  $light-aqua;
 } //.site-search
 
 .site-search .submit {
-    background-image: url(/assets/search--navy.svg);
+    background-image: url(asset_path("search--navy.svg"));
 }
 
 .no-js .site-search label {
