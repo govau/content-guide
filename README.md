@@ -4,7 +4,7 @@ This guide is designed to help people working in the Australian Government creat
 
 Live site: https://guides.service.gov.au/content-guide/
 
-Staging site: http://content-style-guide.apps.staging.digital.gov.au/
+Staging site: https://content-guide.apps.staging.digital.gov.au/
 
 ---
 
