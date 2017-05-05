@@ -57,7 +57,7 @@ You can read a [full changelog for the Content Guide](https://github.com/govau/c
 Make a suggestion or give feedback:
 - join the [Content Design in Government Google Group](https://groups.google.com/a/digital.gov.au/forum/#!forum/content-design-in-government){:rel="external"}
 - [log a GitHub issue](https://github.com/govau/content-guide/issues/new){:rel="external"}
-- <a href="mailto:guides@digital.gov.au">guides@digital.gov.au</a>
+- <a href="mailto:content@digital.gov.au">content@digital.gov.au</a>
 
 We welcome this guide being adopted across government and hope it starts many good conversations in your organisation.
 

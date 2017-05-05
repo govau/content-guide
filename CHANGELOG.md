@@ -1,5 +1,14 @@
 # Updates to the GOV.AU Content Guide
 
+### 1.0.1 &#8212; 5 May 2017
+
+### Fixed
+
+- Fix missing icon on the search bar bug.
+- Fix missing GitHub icon on homepage.
+- Bullet point full sentence examples.
+- Correct contact email address on How to use this guide page.
+
 ## Content Guide 'Getting with the program'
 
 ### 1.0.0 &#8212; 3 May 2017
