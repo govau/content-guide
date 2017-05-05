@@ -2,7 +2,7 @@
 
 ### 1.0.1 &#8212; 5 May 2017
 
-### Fixed
+#### Fixed
 
 - Fix missing icon on the search bar bug.
 - Fix missing GitHub icon on homepage.
