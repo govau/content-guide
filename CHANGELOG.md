@@ -1,5 +1,14 @@
 # Updates to the GOV.AU Content Guide
 
+### 1.0.1 &#8212; 5 May 2017
+
+#### Fixed
+
+- Fix missing icon on the search bar bug.
+- Fix missing GitHub icon on homepage.
+- Bullet point full sentence examples.
+- Correct contact email address on How to use this guide page.
+
 ## Content Guide 'Getting with the program'
 
 ### 1.0.0 &#8212; 3 May 2017
@@ -10,19 +19,19 @@ The [draft Content Style Guide v1.0](https://github.com/AusDTO/gov-au-content-gu
 
 The main changes are listed below.
 
-### IA and content streamlining
+#### IA and content streamlining
 
 - Implementation of a new information architecture, based on card sorts with DTA content designers and members of the Content Design in Government Google Group.
 - Added [Lunr search](https://lunrjs.com/).
 - Removed repetition and outdated guidance.
 - Improved rendering of examples in multiple sections.
 
-### New user interface and GitHub repo
+#### New user interface and GitHub repo
 
 - Implementation of the [DTA's UI-Kit CSS framework](https://github.com/AusDTO/gov-au-ui-kit).
 - A new [govau/content-guide](https://github.com/govau/content-guide) GitHub repository.
 
-### Changes to guidance
+#### Changes to guidance
 
 - New guidance on [accessibility and inclusivity](http://guides.service.gov.au/content-guide/accessibility-inclusivity/).
 - New guidance on [readability](http://guides.service.gov.au/content-guide/writing-style/#readability).
