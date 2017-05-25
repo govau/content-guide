@@ -38,7 +38,7 @@ Not this:
 
 ### Legislation, acts and other publications
 
-Use title case for titles of publications, polices, programs, books, films, photographs, TV programs, paintings, songs and albums.
+Use title case for titles of publications, policies, programs, books, films, photographs, TV programs, paintings, songs and albums.
 
 Capitalise the principal words only. Exceptions are when the title begins with a, for, on, to and so on.
 
