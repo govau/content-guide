@@ -1,8 +1,12 @@
 # Updates to the GOV.AU Content Guide
 
-### 1.1.0 &#8212; X June 2017
+### 1.1.0 &#8212; 6 June 2017
 
+#### Guidance improvements
 
+- Improved example for date ranges.
+- Added reminder to use skip links.
+- Added guidance on writing headings.
 
 #### Fixed
 
