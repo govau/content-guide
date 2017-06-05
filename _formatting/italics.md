@@ -12,7 +12,7 @@ Users with dyslexia can find italics very difficult to read.
 
 Don't use italics in headlines.
 
-Use [capitals instead of italics for acts and other publications]({{ site.baseurl }}/punctuation-grammar/#capitalisation). Link to the source where possible.
+Use [title case not italics for acts and other publications]({{ site.baseurl }}/terms-phrases/#legislation-acts-and-other-publications). Link to the source where possible.
 
 ### Avoid Latin words
 
