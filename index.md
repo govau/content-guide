@@ -10,7 +10,7 @@ List of the [resources used to write the GOV.AU Content Guide]({{ site.baseurl }
 
 ## Latest updates
 
-### 6 June 2017
+### 7 June 2017
 
 - Improved example for [date ranges]({{ site.baseurl }}/numbers-measurements/#dates).
 - Added reminder to [use skip links]({{ site.baseurl }}/accessibility-inclusivity/#hyperlinks).
