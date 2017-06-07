@@ -43,6 +43,6 @@ We are open Monday to Friday, 9am to 5pm.
 
 This will take 10 to 15 minutes.
 
-We published the 2015 to 2016 Annual Report.
+We published the annual report for the 2015 to 2016 financial year.
 "
 %}

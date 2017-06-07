@@ -4,7 +4,7 @@ order: 4
 exclude_from_search: true
 ---
 
-The user should be able to get an understanding of the whole page content by scanning the headings.
+The user should be able to get an understanding of the content by scanning the headings.
 
 ### Make the title short and accurate
 
