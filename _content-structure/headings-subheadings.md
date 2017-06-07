@@ -4,6 +4,8 @@ order: 4
 exclude_from_search: true
 ---
 
+The user should be able to get an understanding of the content by scanning the headings.
+
 ### Make the title short and accurate
 
 Write a clear title and lead summary. Tell the user what the page is about and who it's for.
