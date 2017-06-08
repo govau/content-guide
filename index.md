@@ -10,15 +10,11 @@ List of the [resources used to write the GOV.AU Content Guide]({{ site.baseurl }
 
 ## Latest updates
 
-### 3 May 2017
+### 7 June 2017
 
-Live release of the GOV.AU Content Guide.
-
-Major changes:
-
-- New information architecture, content refactoring and search functionality.
-- Expanded guidance on [accessibility and inclusivity]({{ site.baseurl }}/accessibility-inclusivity).
-- Built with [UI-Kit CSS framework version 1](http://guides.service.gov.au/design-guide/).
+- Improved example for [date ranges]({{ site.baseurl }}/numbers-measurements/#dates).
+- Added reminder to [use skip links]({{ site.baseurl }}/accessibility-inclusivity/#hyperlinks).
+- Added guidance on [writing headings]({{ site.baseurl }}/content-structure/#headings-and-subheadings).
 
 <p>
 <svg class="icon-inline fa-github" role="img" title="GitHub icon" aria-labelledby="fa-github-alt-source">
