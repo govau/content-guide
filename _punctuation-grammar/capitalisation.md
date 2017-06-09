@@ -38,7 +38,7 @@ In general, capitalise the first word only.
 
 Use title case for proper nouns --- for example, names of people, places or organisations).
 
-Capitalise the principal words only, to distinguish them from common nouns or the generic meaning.
+Capitalise the principle words only, to distinguish them from common nouns or the generic meaning.
 
 {% include guide_example.liquid
   title = "capitalising proper nouns"
