@@ -4,7 +4,7 @@
 
 Improved changelog layout.
 
-Fixed typo in Nouns
+Fixed typo in Nouns.
 
 ### 1.1.0 &#8212; 7 June 2017
 
