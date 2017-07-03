@@ -30,7 +30,7 @@ Add 'Caption: description of the image...' below the image.
 
 Don't use the same text in the caption and alt text. Otherwise a person listening to the page hears the same information twice.
 
-If the caption clearly explains the image make the alt text blank.
+If the caption clearly explains the image make the alt text blank (`alt=""`).
 
 In HTML5 [use the `<figcaption>` tag](https://www.w3.org/wiki/HTML/Elements/figcaption){:rel="external"} in the `<figure>` element.
 
@@ -76,7 +76,7 @@ Also see [W3C's complex images tutorial](https://www.w3.org/WAI/tutorials/images
 
 ### Decorative images
 
-If an image is just decoration you should use a null (empty) alt text: `alt=""`.
+If an image is just decoration you should use a null (empty) alt text: `alt=""` (don't add a space between the quotation marks).
 
 A common way of including decorative images is to add them using the CSS rather than the HTML code.
 
