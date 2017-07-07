@@ -147,6 +147,9 @@ collections:
     title: "Types of content"
     description: "How to create and use common kinds of content."
     order: 8
+  wcag:
+    title: "Understanding WCAG 2.0 requirements for content authors"
+    description: "How to make content accessible using these important guidelines."
 
 # PROSE.IO
 #
