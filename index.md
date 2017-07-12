@@ -10,11 +10,9 @@ List of the [resources used to write the GOV.AU Content Guide]({{ site.baseurl }
 
 ## Latest updates
 
-### 7 June 2017
+### 12 July 2017
 
-- Improved example for [date ranges]({{ site.baseurl }}/numbers-measurements/#dates).
-- Added reminder to [use skip links]({{ site.baseurl }}/accessibility-inclusivity/#hyperlinks).
-- Added guidance on [writing headings]({{ site.baseurl }}/content-structure/#headings-and-subheadings).
+Added guidance on meeting [WCAG criteria with content focus]({{ site.baseurl }}/accessibility-inclusivity/#wcag-2-0-for-content-authors).
 
 <p>
 <svg class="icon-inline fa-github" role="img" title="GitHub icon" aria-labelledby="fa-github-alt-source">
