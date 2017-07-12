@@ -1,10 +1,13 @@
 # Updates to the GOV.AU Content Guide
 
+### 1.2.0 &#8212; 12 July 2017
+
+Added guidance on meeting WCAG criteria with content focus.
+
 ### 1.1.1 &#8212; 8 June 2017
 
-Improved changelog layout.
-
-Fixed typo in Nouns.
+- Improved changelog layout.
+- Fixed typo in Nouns.
 
 ### 1.1.0 &#8212; 7 June 2017
 
