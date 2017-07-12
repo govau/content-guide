@@ -4,26 +4,28 @@ order: 12
 exclude_from_search: true
 ---
 
-Almost 1 in 5 Australians live with disability, 1 in 12 experience ‘colour blindness’ and 44% of Australian adults have low levels of literacy.   
-
 The Web Content Accessibility Guidelines 2.0 ([WCAG 2.0](https://www.w3.org/WAI/intro/wcag){:rel="external"}) outlines ways to make digital content accessible to the broadest population.
 
-The [Australian Government Digital Service Standard](https://www.dta.gov.au/standard/){:rel="external"} requires conformance at WCAG 2.0 level AA, which includes level A. There are 38 criteria that apply at this level plus some from level AAA we recommend. There are 17 that are the primary responsibility of content authors.
+The [Australian Government Digital Service Standard](https://www.dta.gov.au/standard/){:rel="external"} requires conformance to WCAG 2.0 level AA, which includes level A. There are 38 criteria that apply at level A, plus some from level AAA we recommend.
+
+Content authors are primarily responsible for 17 criteria.
 
 ### Think about user needs
 
-Accessibility must go beyond the technical requirements. For content to be accessible it must consider all users’ needs at every stage of development.
+Accessibility goes beyond technical requirements.
 
-In addition to conforming with the relevant WCAG criteria be sure to undertake your own user research to further understand user needs.
+You must consider all of the needs of users at every stage of development to make accessible content. Make sure you do your own research to understand user needs as well as meeting WCAG criteria.
 
 ### WCAG 2.0 requirements
 
-Each WCAG 2.0 criteria below is linked to the relevant section of [How to meet WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/){:rel="external"}.
+Each WCAG 2.0 criteria is linked to the relevant section of [How to meet WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/){:rel="external"}.
 
 #### Images
-Only include images on a page if they meet a real user need. See [Images and alt text](#images-and-alt-text) for assistance.
+Only include images on a page if they meet a real user need.
 
-##### Image alt-text
+See [images and alt text](#images-and-alt-text) for help.
+
+##### Image alt text
 
 [WCAG criteria 1.1.1 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-text-equiv-all){:rel="external"}
 
@@ -47,11 +49,11 @@ Text labels and patterns can supplement the use of colour.
 
 #### Multimedia
 
-- All prerecorded audio files must have a transcript.
+Prerecorded audio files must have a transcript.
 
-- All prerecorded video files must have a transcript, captions and potentially an audio described version.
+Prerecorded video files must have a transcript, captions and potentially an audio described version.
 
-See [Video accessibility](#video-accessibility) for assistance.
+Read [video accessibility](#video-accessibility) for help.
 
 ##### Audio-only and video-only --- prerecorded media
 
@@ -71,7 +73,7 @@ Accurate captions must be provided. Don't rely on auto-captioning options.
 
 [WCAG criteria 1.2.3 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-av-only-alt){:rel="external"}
 
-At level A, a transcript is a sufficient alternative. At level AA audio description must also be provided.
+At level A a transcript is a sufficient alternative.  At level AA audio description must also be provided.
 
 ##### Audio description --- prerecorded video
 
@@ -105,17 +107,16 @@ Use clear row and column headings for tables. This assists everyone in understan
 
 [WCAG criteria 2.4.6 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-descriptive){:rel="external"}, [2.4.10 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-headings){:rel="external"} and [3.3.2 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-minimize-error-cues){:rel="external"}
 
-- Headings must clearly describe the topic or the following section.
-- Labels must clearly describe the purpose of the form element.
-- Use section headings to organise the content.
-- Provide clear labels and instructions with forms.
+Headings must clearly describe the topic or the following section. Use section headings to organise the content.
+
+Provide clear labels and instructions with forms. Labels must clearly describe the purpose of the form element.
 
 #### Error suggestions and help
 
 [WCAG criteria 3.3.3 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-minimize-error-suggestions){:rel="external"} and [3.3.5 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-minimize-error-context-help){:rel="external"}
 
 There are 2 related criteria:
-- The 'error suggestion' critera describes the error the user has made and then adds clarity about what to do to resolve it.
+- The 'error suggestion' criteria describes the error the user has made and then adds clarity about what to do to resolve it.
 - The 'help' criteria requires clear context sensitive help or instructions if the labels are not clear enough for all users.
 
 ### Colour
@@ -124,7 +125,9 @@ There are 2 related criteria:
 
 [WCAG criteria 1.4.1 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-without-color){:rel="external"}
 
-Make sure that colour is not the only visual way of presenting information. People with visual impairment may not be able to see colours.
+Make sure that colour is not the only visual way of presenting information.
+
+People with visual impairment may not be able to see colours.
 
 #### Contrast
 
@@ -154,13 +157,13 @@ Search results usually present the page title so it must clearly describe the pa
 
 [WCAG criteria 2.4.4 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-refs){:rel="external"} and [2.4.9 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-link){:rel="external"}
 
-We recommend **the destination of all links** be clear from the linked text.  
+We recommend the destination of all links be clear from the linked text.
 
 ### Reading and comprehension
 
-Content with a good readability level helps users know what to do. This includes users with lower comprehension skills.
+Content with a good [readability level]({{ site.baseurl }}/writing-style/#readability) helps users know what to do. This includes users with lower comprehension skills.
 
-We recommend you follow the level AAA WCAG criteria below. While all the following WCAG criteria are at level AAA, we recommend that they be followed.
+We recommend you follow the level AAA WCAG criteria described here.
 
 ### Unusual words
 
