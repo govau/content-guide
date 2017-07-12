@@ -12,11 +12,13 @@ The [Australian Government Digital Service Standard](https://www.dta.gov.au/stan
 
 ### Think about user needs
 
-Accessibility must go beyond the technical requirements. For content to be accessible it must consider all users’ needs at every stage of development. In addition to conforming with the relevant WCAG criteria be sure to undertake your own user research to further understand user needs.
+Accessibility must go beyond the technical requirements. For content to be accessible it must consider all users’ needs at every stage of development.
+
+In addition to conforming with the relevant WCAG criteria be sure to undertake your own user research to further understand user needs.
 
 ### WCAG 2.0 requirements
 
-Each WCAG 2.0 criteria below is linked to the relevant section on the [How to meet WCAG 2.0 website](https://www.w3.org/WAI/WCAG20/quickref/){:rel="external"}.
+Each WCAG 2.0 criteria below is linked to the relevant section of [How to meet WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/){:rel="external"}.
 
 #### Images
 Only include images on a page if they meet a real user need. See [Images and alt text](#images-and-alt-text) for assistance.
@@ -25,7 +27,7 @@ Only include images on a page if they meet a real user need. See [Images and alt
 
 [WCAG criteria 1.1.1 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-text-equiv-all){:rel="external"}
 
-Preparing alt text for images is the responsibility of the content author.
+Content authors should prepare alt text for images.
 
 Alt text can be included in an HTML page and also in Word documents, PowerPoint presentations and PDF files.
 
@@ -45,9 +47,9 @@ Text labels and patterns can supplement the use of colour.
 
 #### Multimedia
 
-All prerecorded audio files must have a transcript.
+- All prerecorded audio files must have a transcript.
 
-All prerecorded video files must have a transcript, captions and potentially an audio described version.
+- All prerecorded video files must have a transcript, captions and potentially an audio described version.
 
 See [Video accessibility](#video-accessibility) for assistance.
 
@@ -57,19 +59,19 @@ See [Video accessibility](#video-accessibility) for assistance.
 
 Create a transcript that tells the same story and presents the same information as the prerecorded content.
 
-If there was a production script, this can be a good starting point.
+A production script can be a good starting point.
 
 ##### Captions --- prerecorded video
 
 [WCAG criteria 1.2.2 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-captions){:rel="external"}
 
-Accurate captions must be provided. Don't rely on auto-captioning options
+Accurate captions must be provided. Don't rely on auto-captioning options.
 
-##### Audio description or media alternative ---- prerecorded audio
+##### Audio description or media alternative --- prerecorded audio
 
 [WCAG criteria 1.2.3 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-av-only-alt){:rel="external"}
 
-At level A, a transcript is a sufficient alternative, however at level AA audio description must also be provided.
+At level A, a transcript is a sufficient alternative. At level AA audio description must also be provided.
 
 ##### Audio description --- prerecorded video
 
@@ -93,33 +95,28 @@ Describe and present content in a way that all users can interpret and understan
 
 [WCAG criteria  1.3.1 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-content-structure-separation-programmatic){:rel="external"}
 
-Good heading structure is essential.
-
-Headings are used for navigation by some users.
+Good heading structure is essential. Headings are used for navigation by some users.
 
 Lists can assist many users with skimming content.
 
-Clear row and column headings for tables assists everyone with understanding tabular information and helps screen reader users navigate tables.
+Use clear row and column headings for tables. This assists everyone in understanding tabular information and helps users with screen readers navigate tables.
 
 #### Headings, labels and instructions
 
 [WCAG criteria 2.4.6 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-descriptive){:rel="external"}, [2.4.10 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-headings){:rel="external"} and [3.3.2 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-minimize-error-cues){:rel="external"}
 
-Headings must clearly describe the topic or the following section.
-
-Labels must clearly describe the purpose of the form element.
-
-Use section headings to organise the content.
-
-Provide clear labels and instructions with forms.
+- Headings must clearly describe the topic or the following section.
+- Labels must clearly describe the purpose of the form element.
+- Use section headings to organise the content.
+- Provide clear labels and instructions with forms.
 
 #### Error suggestions and help
 
 [WCAG criteria 3.3.3 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-minimize-error-suggestions){:rel="external"} and [3.3.5 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-minimize-error-context-help){:rel="external"}
 
-These are related: the 'error suggestion' critera describes the error the user has made and then adds clarity about what to do to resolve it.
-
-The 'help' criteria requires clear context sensitive help or instructions if the labels are not clear enough for all users.
+There are 2 related criteria:
+- The 'error suggestion' critera describes the error the user has made and then adds clarity about what to do to resolve it.
+- The 'help' criteria requires clear context sensitive help or instructions if the labels are not clear enough for all users.
 
 ### Colour
 
@@ -127,15 +124,13 @@ The 'help' criteria requires clear context sensitive help or instructions if the
 
 [WCAG criteria 1.4.1 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-without-color){:rel="external"}
 
-Make sure that colour is not the only visual way of presenting information.
-
-People with visual impairment may not be able to see colours.
+Make sure that colour is not the only visual way of presenting information. People with visual impairment may not be able to see colours.
 
 #### Contrast
 
 [WCAG criteria 1.4.3 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-contrast){:rel="external"} and [1.4.6 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast7){:rel="external"}
 
-Contrast relates to the level of brightness between the content and the background
+Contrast relates to the level of brightness between the content and the background.
 
 There are different levels of contrast involved in meeting AA and AAA criteria.
 
@@ -143,31 +138,47 @@ There are different levels of contrast involved in meeting AA and AAA criteria.
 
 #### Sensory characteristics
 
-WCAG criteria 1.3.3 (Level A)
-- Do not rely only on sensory characteristics such as shape, size, visual location, orientation, or sound.  For example, don’t say ‘press the round button’ or ‘the button on the right’.
+[WCAG criteria 1.3.3 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-content-structure-separation-understanding){:rel="external"}
+
+Don't rely only on sensory characteristics such as shape, size, visual location, orientation, or sound. For example, don’t say ‘press the round button’ or ‘the button on the right’.
 
 #### Page title
-WCAG criteria 2.4.2 (Level A)
-- The page title is the first thing a screen reader user will hear so it is important to write a clear title
-- Search results usually present the page title so it must clearly describe the page
+
+[WCAG criteria 2.4.2 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-title){:rel="external"}
+
+The page title is the first thing a screen reader user will hear so it is important to write a clear title.
+
+Search results usually present the page title so it must clearly describe the page.
 
 #### Link purpose
-WCAG criteria 2.4.4 (Level AA) and 2.4.9 (Level AAA)
-- We recommend all links be clear from the linked text.  
+
+[WCAG criteria 2.4.4 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-refs){:rel="external"} and [2.4.9 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-link){:rel="external"}
+
+We recommend **the destination of all links** be clear from the linked text.  
 
 ### Reading and comprehension
 
-Content with a good readability level helps users know what to do. This includes users with lower comprehension skills. We recommend you follow the level AAA WCAG criteria below. While all the following WCAG criteria are at level AAA, we recommend that they be followed.
+Content with a good readability level helps users know what to do. This includes users with lower comprehension skills.
+
+We recommend you follow the level AAA WCAG criteria below. While all the following WCAG criteria are at level AAA, we recommend that they be followed.
 
 ### Unusual words
-WCAG criteria 3.1.3 (Level AAA)
-- Explain unusual words by providing a glossary
+
+[WCAG criteria 3.1.3 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-meaning-idioms){:rel="external"}
+
+Explain unusual words by providing a glossary.
 
 #### Abbreviations
-WCAG criteria 3.1.4 (Level AAA)
-- Every page should expand all abbreviations and acronyms at their first use
+
+[WCAG criteria 3.1.4 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-meaning-located){:rel="external"}
+
+Every page should expand all abbreviations and acronyms at their
+first use.
 
 #### Reading level
-WCAG criteria 3.1.5 (Level AAA)
-- Plain English is beneficial to all readers, but essential for some
-- We recommend a reading level of lower secondary education level, after removal of proper names and titles
+
+[WCAG criteria 3.1.5 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-meaning-supplements){:rel="external"}
+
+Plain English is beneficial to all readers, but essential for some.
+
+We recommend a reading level of lower secondary education level, after removal of proper names and titles.
