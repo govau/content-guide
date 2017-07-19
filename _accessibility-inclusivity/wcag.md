@@ -10,13 +10,13 @@ The [Australian Government Digital Service Standard](https://www.dta.gov.au/stan
 
 Content authors are primarily responsible for 17 criteria.
 
-### Think about user needs
+### Remember --- accessibility goes beyond technical requirements
 
-Accessibility goes beyond technical requirements.
+Meeting WCAG is an important step in making content accessible. But the needs of your users may not be met just by conforming with WCAG.
 
-You must consider all of the needs of users at every stage of development to make accessible content. Make sure you do your own research to understand user needs as well as meeting WCAG criteria.
+Make sure you do your own research to understand the needs of all your users at every stage.
 
-### WCAG 2.0 requirements
+### WCAG 2.0 content-related requirements
 
 Each WCAG 2.0 criteria is linked to the relevant section of [How to meet WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/){:rel="external"}.
 
@@ -29,7 +29,7 @@ See [images and alt text](#images-and-alt-text) for help.
 
 [WCAG criteria 1.1.1 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-text-equiv-all){:rel="external"}
 
-Content authors should prepare alt text for images.
+Prepare alt text for images.
 
 Alt text can be included in an HTML page and also in Word documents, PowerPoint presentations and PDF files.
 
@@ -49,33 +49,35 @@ Text labels and patterns can supplement the use of colour.
 
 #### Multimedia
 
-Prerecorded audio files must have a transcript.
+Pre-recorded audio files must have a transcript.
 
-Prerecorded video files must have a transcript, captions and potentially an audio described version.
+Pre-recorded video files must have a transcript, captions and potentially an audio described version.
 
-Read [video accessibility](#video-accessibility) for help.
+Read [video](#video-accessibility) for help.
 
-##### Audio-only and video-only --- prerecorded media
+##### Audio-only and video-only --- pre-recorded media
 
 [WCAG criteria 1.2.1 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-av-only-alt){:rel="external"}
 
-Create a transcript that tells the same story and presents the same information as the prerecorded content.
+Create a transcript that tells the same story and presents the same information as the pre-recorded content.
 
 A production script can be a good starting point.
 
-##### Captions --- prerecorded video
+Read [types of content --- video]({{ site.baseurl }}/types-of-content/#video) for writing tips.
+
+##### Captions --- pre-recorded video
 
 [WCAG criteria 1.2.2 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-captions){:rel="external"}
 
 Accurate captions must be provided. Don't rely on auto-captioning options.
 
-##### Audio description or media alternative --- prerecorded audio
+##### Audio description or media alternative --- pre-recorded audio
 
 [WCAG criteria 1.2.3 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-av-only-alt){:rel="external"}
 
-At level A a transcript is a sufficient alternative.  At level AA audio description must also be provided.
+At level A, a transcript is a sufficient alternative.  At level AA audio description must also be provided.
 
-##### Audio description --- prerecorded video
+##### Audio description --- pre-recorded video
 
 [WCAG criteria 1.2.5 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-audio-desc-only){:rel="external"}
 
@@ -83,7 +85,7 @@ Audio description is required for instructional videos to describe the action ha
 
 Audio description is usually not required for speeches or interviews, unless the setting is important. A transcript must be provided in this situation.
 
-##### Sign language --- prerecorded video
+##### Sign language --- pre-recorded video
 
 [WCAG criteria 1.2.6 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-sign){:rel="external"}
 
@@ -93,15 +95,19 @@ We recommend the inclusion of Auslan for health and safety information and compl
 
 Describe and present content in a way that all users can interpret and understand.
 
+Read [headings and sub-headings]({{ site.baseurl }}/content-structure/#headings-and-subheadings) for help.
+
 #### Information structure
 
 [WCAG criteria  1.3.1 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-content-structure-separation-programmatic){:rel="external"}
 
 Good heading structure is essential. Headings are used for navigation by some users.
 
-Lists can assist many users with skimming content.
+Read [content structure]({{site.baseurl}}/content-structure/) for help.
 
-Use clear row and column headings for tables. This assists everyone in understanding tabular information and helps users with screen readers navigate tables.
+Lists help users skim content.
+
+Use clear row and column headings for tables. This makes it easier to understand tabular information and helps screen readers navigate tables.
 
 #### Headings, labels and instructions
 
@@ -157,7 +163,7 @@ Search results usually present the page title so it must clearly describe the pa
 
 [WCAG criteria 2.4.4 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-refs){:rel="external"} and [2.4.9 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-link){:rel="external"}
 
-We recommend the destination of all links be clear from the linked text.
+The words used in a [hyperlink]({{ site.baseurl }}/content-structure/#hyperlinks) should help the user understand what they are linking to.
 
 ### Reading and comprehension
 
@@ -182,6 +188,8 @@ first use.
 
 [WCAG criteria 3.1.5 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-meaning-supplements){:rel="external"}
 
-Plain English is beneficial to all readers, but essential for some.
+[Plain English]({{ site.baseurl }}/writing-style/#plain-english) is beneficial to all readers, but essential for some.
 
-We recommend a reading level of lower secondary education level, after removal of proper names and titles.
+Level AAA requires a lower secondary education reading level, after removal of proper names and titles.
+
+We recommend a Year 5 reading level (around age 9).
