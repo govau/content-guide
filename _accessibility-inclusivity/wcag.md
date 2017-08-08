@@ -6,7 +6,7 @@ exclude_from_search: true
 
 The Web Content Accessibility Guidelines 2.0 ([WCAG 2.0](https://www.w3.org/WAI/intro/wcag){:rel="external"}) outlines ways to make digital content accessible to the broadest population.
 
-The [Australian Government Digital Service Standard](https://www.dta.gov.au/standard/){:rel="external"} requires conformance to WCAG 2.0 level AA, which includes level A. There are 38 criteria that apply at level A, plus some from level AAA we recommend.
+The [Australian Government Digital Service Standard](https://www.dta.gov.au/standard/){:rel="external"} requires conformance to WCAG 2.0 level AA, which includes level A. There are 38 criteria that apply at level AA, plus some from level AAA we recommend.
 
 Content authors are primarily responsible for 17 criteria.
 
