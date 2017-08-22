@@ -8,7 +8,7 @@ exclude_from_search: true
 
 Microsoft Word formats (.doc and .docx) don’t conform to WCAG 2.0.  Additionally they can be difficult to view on mobile devices.
 
-Don’t publish Word documents on the web on their own. Provide the information on an HTML page as well. If this isn't possible, [create an accessible PDF]({{ site.baseurl }}/accessibility-inclusivity/#pdf-accessibility) and publish both non-HTML formats from a landing page that summarises the document.
+Don’t publish Word documents on the web on their own. Provide the information on an HTML page as well. If this isn't possible, [create an accessible PDF]({{ site.baseurl }}/content-guide/accessibility-inclusivity/#pdf-accessibility) and publish both non-HTML formats from a landing page that summarises the document.
 
 Make Word documents accessible to everyone even if you are emailing them internally. This includes people who rely on assistive technologies such as screen readers.
 
@@ -16,7 +16,7 @@ When creating Word documents you should:
 
 - use Word’s Outline View to help you manage structure and headings
 - use Word’s Accessibility Checker to find issues and get tips
-- use [alternative text]({{ site.baseurl }}/accessibility-inclusivity/#images-and-alt-text) with visuals and tables
+- use [alternative text]({{ site.baseurl }}/content-guide/accessibility-inclusivity/#images-and-alt-text) with visuals and tables
 - ensure that color-coding isn't the only way you convey information
 - use enough contrast for text and background colours (Microsoft recommends the free app [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/))
 - use built-in headings and styles
