@@ -21,13 +21,13 @@ When creating Word documents you should:
 - use enough contrast for text and background colours (Microsoft recommends the free app Colour Contrast Analyser)
 - use built-in headings and styles
 
-Microsoft has guidance on [making Word documents more accessible ](https://support.office.com/en-us/article/Creating-accessible-Word-documents-d9bf3683-87ac-47ea-b91a-78dcacb3c66d?CTT=3&amp;CorrelationId=b3c40249-a7fa-4300-9c12-5d0f79242a78&amp;ui=en-US&amp;rs=en-US&amp;ad=US){:rel="external"}.
+Microsoft has guidance on [making Word documents more accessible ](https://support.office.com/en-us/article/Creating-accessible-Word-documents-d9bf3683-87ac-47ea-b91a-78dcacb3c66d?CTT=3&amp;CorrelationId=b3c40249-a7fa-4300-9c12-5d0f79242a78&amp;ui=en-US&amp;rs=en-US&amp;ad=US).
 
 ### Google Docs
 
 Google Docs is designed to work well with screen readers and assistive technologies.
 
-Google has guidance on [making Google Docs more accessible](https://support.google.com/docs/answer/6199477?hl=en){:rel="external"}.
+Google has guidance on [making Google Docs more accessible](https://support.google.com/docs/answer/6199477?hl=en).
 
 ### Rich Text Format (RTF)
 
@@ -48,7 +48,7 @@ When publishing Excel documents, you should:
 - Use a simple table structure
 - Use the Accessibility Checker feature to find issues and get tips.
 
-Microsoft has guidance on [making Excel documents more accessible](https://support.office.com/en-us/article/Make-your-Excel-spreadsheets-accessible-6cc05fc5-1314-48b5-8eb3-683e49b3e593){:rel="external"}. Also provide contact details for users who are unable to download the document.
+Microsoft has guidance on [making Excel documents more accessible](https://support.office.com/en-us/article/Make-your-Excel-spreadsheets-accessible-6cc05fc5-1314-48b5-8eb3-683e49b3e593). Also provide contact details for users who are unable to download the document.
 
 ### PowerPoint 
 Only publish a PowerPoint document if there is a strong user need. 
@@ -68,7 +68,7 @@ You should also:
 - If a slide contains animation, ensure it’s brief and doesn't distract from the main content
 - Use enough contrast for text and background colors.
 
-Microsoft has guidance on [making PowerPoint presentations more accessible]. https://support.office.com/en-us/article/Create-more-accessible-slides-794fc5da-f686-464d-8c29-1c6ab8515465?ui=en-US&rs=en-US&ad=US){:rel="external"}. 
+Microsoft has guidance on [making PowerPoint presentations more accessible](https://support.office.com/en-us/article/Create-more-accessible-slides-794fc5da-f686-464d-8c29-1c6ab8515465?ui=en-US&rs=en-US&ad=US). 
 
 ### EPUB
 EPUB publications should include appropriate metadata.
