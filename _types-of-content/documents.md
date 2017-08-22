@@ -34,9 +34,7 @@ Google has guidance on [making Google Docs more accessible](https://support.goog
 You should avoid RTF as a publishing format. RTF can’t carry the same level of semantic information or accessibility that the .docx format can. Note though that Microsoft Word formats (.doc and .docx) don’t conform to WCAG 2.0 and can be difficult to view on mobile devices.
 
 ### Excel
-Only publish an Excel document if there is a strong user need. 
-
-They can be extremely difficult to view on mobile devices.
+Only publish an Excel document if there is a strong user need as they can be extremely difficult to view on mobile devices.
 
 Sometimes it may not be appropriate to publish in HTML, for example when documents contains a large amount of data.
 
