@@ -22,6 +22,8 @@ Use contractions and acronyms if space is limited (for example, a table) or to a
 "
 %}
 
+Use alphabetical order by default. There may be some cases when ordering by another factor, like population size, might be better for the user.
+
 ### State and territory governments
 
 Capitalise the formal state or territory government title only.
