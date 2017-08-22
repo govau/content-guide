@@ -72,3 +72,13 @@ Microsoft has guidance on [making PowerPoint presentations more accessible](http
 EPUB publications should include appropriate metadata.
 
 WCAG Level AA conformance is recommended for EPUB publications.
+
+### Tables
+
+Tables are recommended, though it’s important to use structural mark-up to avoid accessibility barriers. You should use structural mark-up to differentiate and link header and data cells, rather than relying only on visual cues. 
+
+This will allow screen readers to interpret the table correctly, and allow assistive technologies to use the information to provide context to users.
+
+Sometimes it may not be appropriate to publish a table in HTML, like a specialist report with a large amount of data. In these cases you should use Excel or publish to data.gov.au.
+
+The World Wide Web Consortium (W3C) also has [guidance on how to structure tables](https://www.w3.org/WAI/tutorials/tables/).
