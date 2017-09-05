@@ -16,7 +16,7 @@ For example, you should:
 
 - create a logical structure with chapters, headings, paragraphs and sections
 - use bookmarks to help users locate content in long documents
-- use PDF authoring tools that offer accessibility support, like Microsoft Office 10 or Adobe Acrobat's PDFMaker.
+- use PDF authoring tools that offer accessibility support, like Microsoft Office 10 or Adobe Acrobat's PDFMaker
 
 You can also use Adobe Acrobat Pro and other tools to check and improve accessibility of PDF files.
 
