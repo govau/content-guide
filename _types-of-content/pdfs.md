@@ -14,9 +14,9 @@ In all cases, you should follow guidance to make accessible PDFs.
 
 For example, you should:
 
-Create a logical structure with chapters, headings, paragraphs and sections
-Use bookmarks to help users locate content in long documents
-Use PDF authoring tools that offer accessibility support, like Microsoft Office 10 or Adobe Acrobat's PDFMaker.
+- Create a logical structure with chapters, headings, paragraphs and sections
+- Use bookmarks to help users locate content in long documents
+- Use PDF authoring tools that offer accessibility support, like Microsoft Office 10 or Adobe Acrobat's PDFMaker.
 
 You can also use Adobe Acrobat Pro and other tools to check and improve accessibility of PDF files.
 
