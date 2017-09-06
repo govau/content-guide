@@ -8,11 +8,10 @@ exclude_from_search: true
 
 Do not use full stops after after email addresses that end sentences as they may be misread.
 
-Example
-You can email the department at example@department.gov.au
+{% include guide_example.liquid title = "email addresses" content= "
+You can email the department at [example@department.gov.au](mailto:example@department.gov.au) " %}
 
 Use full stops for other kinds of hyperlinks that end sentences. The link text should form part of the sentence.
 
-
-Example
-Download a form from our HR team at Department of Example.
+{% include guide_example.liquid title = "form download" content= "
+Download a form from our HR team at [Department of Example](https://www.department-example.gov/){:rel="external"}. " %}
