@@ -6,7 +6,7 @@ exclude_from_search: true
 
 ### Microsoft Word
 
-Microsoft Word formats (.doc and .docx) don’t conform to WCAG 2.0.  Additionally they can be difficult to view on mobile devices.
+Microsoft Word formats (.doc and .docx) don’t conform to [WCAG 2.0]({{ site.baseurl }}/accessibility-inclusivity/#wcag-2-0-for-content-authors).  Additionally they can be difficult to view on mobile devices.
 
 Don’t publish Word documents on the web on their own. Provide the information on an HTML page as well. If this isn't possible, [create an accessible PDF]({{ site.baseurl }}/accessibility-inclusivity/#pdf-accessibility) and publish both non-HTML formats from a landing page that summarises the document.
 
@@ -17,7 +17,7 @@ When creating Word documents you should:
 - use Word’s Outline View to help you manage structure and headings
 - use Word’s Accessibility Checker to find issues and get tips
 - use [alternative text]({{ site.baseurl }}/accessibility-inclusivity/#images-and-alt-text) with visuals and tables
-- make sure that color-coding is not the only way you convey information
+- make sure that colour-coding is not the only way you convey information
 - use enough contrast for text and background colours (Microsoft recommends the free app [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/){:rel="external"}
 - use built-in headings and styles.
 
@@ -31,7 +31,7 @@ Google has guidance on [making Google Docs more accessible](https://support.goog
 
 ### Rich Text Format (RTF)
 
-You should avoid RTF as a publishing format. RTF can’t carry the same level of semantic information or accessibility that the .docx format can. Note though that Microsoft Word formats (.doc and .docx) don’t conform to WCAG 2.0 and can be difficult to view on mobile devices.
+You should avoid RTF as a publishing format. RTF can’t carry the same level of semantic information or accessibility that the .docx format can. Note though that Microsoft Word formats (.doc and .docx) don’t conform to [WCAG 2.0]({{ site.baseurl }}/accessibility-inclusivity/#wcag-2-0-for-content-authors) and can be difficult to view on mobile devices.
 
 ### Excel
 Only publish an Excel document if there is a strong user need. They can be extremely difficult to view on mobile devices.
@@ -62,7 +62,7 @@ You should also:
 - use descriptive alternative text for pictures, charts, and other visual objects
 - use accessible templates — PowerPoint has many
 - use the program’s Grayscale feature to see how slides might look for someone who is colourblind
-- make sure that color-coding is not the only way you convey information
+- make sure that colour-coding is not the only way you convey information
 - make sure that animation is brief and does not distract from the main content
 - use enough contrast for text and background colors.
 
@@ -71,7 +71,7 @@ Microsoft has guidance on [making PowerPoint presentations more accessible](http
 ### EPUB
 EPUB publications should include appropriate metadata.
 
-WCAG Level AA conformance is recommended for EPUB publications.
+[WCAG Level AA conformance](https://www.w3.org/WAI/WCAG20/quickref/#top){:rel="external"} is recommended for EPUB publications.
 
 ### Tables
 
