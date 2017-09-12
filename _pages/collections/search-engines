@@ -1,0 +1,14 @@
+---
+title: "Writing for SEO"
+layout: "section"
+abstract: "<p>SEO stands for Search Engine Optimisation. SEO is the way search engines find and rank your content in search results.</p><p>Highly ranked content helps users find information.</p>"
+published: true
+permalink: "/search-engines/"
+collection: "search-engines"
+
+# Content strategy
+purpose: To do X, Y, and Z
+max_length: J words
+reading_difficulty_grading: year K
+---
+{% include collection_index.liquid %}
