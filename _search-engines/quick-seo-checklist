@@ -1,0 +1,46 @@
+---
+title: "Quick SEO checklist"
+order: 8
+exclude_from_search: true
+---
+
+Check your content against this SEO checklist.
+
+### Keywords
+
+- Identify and use keywords naturally throughout your content.
+- Make sure keywords are consistent with your title, description, headings, main body of content and metadata. For example, if ‘Wages for first-year apprentices’ is your heading, include this in the body of your text, your metadata and meta title for search. 
+
+### Meta titles and descriptions
+
+- Make sure that:
+
+-- titles use up to 70 characters or less, including spaces
+-- descriptions use up to 100 character per line, maximum of 3 lines.
+
+- Check that titles and descriptions are automated in your CMS. 
+
+- Make sure titles and descriptions are relevant to your topic.
+
+- Be descriptive but clear.
+
+- Be succinct, not wordy.
+
+### Metadata (for your content management system)
+
+- Check that all relevant metadata fields have been filled in.
+
+### Headings
+
+- Display headings on 1 line.
+
+### Frontload your content with keywords
+
+- Use H1 headings on your page first, followed by H2 and H3 headings.
+- Reflect what your content is about. See [headings and subheadings]{{ site.baseurl }}/content-structure/#headings-and-subheadings/).
+
+### Body of your content
+
+- Mention your keywords at least 3 times, especially in the first 2 paragraphs.
+- Identify the audience you are writing for --- for example single parents, apprentices, families.
+- Use clear, plain English and check for [readability]({{ site.baseurl }}/writing-style/#readability/).
