@@ -13,3 +13,21 @@ This meta information is often automated in your CMS. However it is best to chec
 Meta titles and meta descriptions are an important ranking factor for search engines. They are the actual words that are seen by users in search results.
 
 In the following example:
+
+{% capture content %}
+
+Caption: an example from the DTA website. {% endcapture %} {% include search.liquid title = "seo caption" content=content %}
+
+Meta title = Latest blog posts | Digital Transformation Agency
+Meta description = Read the latest blog posts from the Digital Transformation Agency
+
+Your meta title should be very clear to the user as to what that page is about. 
+
+Your meta description needs to be interesting as well as clear and relevant. Use an active voice with the right keywords to encourage people to click through to your content.
+
+Write to the set word and character lengths.
+
+For example:
+
+- Google title tags are limited to 70 characters (including spaces) 
+- Meta descriptions are 100 characters per line (including spaces) up to 3 lines
