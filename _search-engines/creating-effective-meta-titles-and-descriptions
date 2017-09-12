@@ -16,7 +16,7 @@ In the following example:
 
 {% capture content %}
 
-Caption: an example from the DTA website. {% endcapture %} {% include search.liquid title = "seo caption" content=content %}
+Caption: an example from the DTA website. {% endcapture %} {% include guide_example.liquid title = "seo caption" content=content %}
 
 Meta title = Latest blog posts | Digital Transformation Agency
 Meta description = Read the latest blog posts from the Digital Transformation Agency
