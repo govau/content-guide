@@ -14,25 +14,18 @@ Meta titles and meta descriptions are an important ranking factor for search eng
 
 In the following example:
 
-Meta title = Latest blog posts | Digital Transformation Agency
-Meta description = Read the latest blog posts from the Digital Transformation Agency
+- meta title: 'Latest blog posts &#124; Digital Transformation Agency'
+- meta description: 'Read the latest blog posts from the Digital Transformation Agency.'
 
 {% capture content %}
 <figure>
-  <img src='{{site.baseurl}}/assets/seo-sample.jpg' alt='' />
-  <figcaption>Caption: the conventional version of the Commonwealth Coat of Arms of Australia.</figcaption>
+  <img src='{{site.baseurl}}/assets/seo-sample.png' alt='' />
+  <figcaption>Caption: a search snippet for a Digital Transformation Agency page.</figcaption>
 </figure>
 {% endcapture %}
 {% include guide_example.liquid
-  title = "image caption"
+  title = "meta data in search result"
   content=content
-%}
-
-{% include guide_example.liquid
-  title =  "meta data in search result"
-  content = "
-Caption an example from the DTA website.
-"
 %}
 
 Your meta title should be very clear to the user as to what that page is about.
