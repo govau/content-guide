@@ -1,0 +1,47 @@
+---
+title: "Creating effective meta titles and descriptions"
+order: 5
+exclude_from_search: true
+---
+
+The meta title is the main linked title that users see and click on in search results.
+
+The meta description is the short description or call to action users see under the title in search results.
+
+This meta information is often automated in your CMS. However it is best to check how your CMS has been built and set up beforehand.
+
+Meta titles and meta descriptions are an important ranking factor for search engines. They are the actual words that are seen by users in search results.
+
+In the following example:
+
+Meta title = Latest blog posts | Digital Transformation Agency
+Meta description = Read the latest blog posts from the Digital Transformation Agency
+
+{% capture content %}
+<figure>
+  <img src='{{site.baseurl}}/assets/seo-sample.jpg' alt='' />
+  <figcaption>Caption: the conventional version of the Commonwealth Coat of Arms of Australia.</figcaption>
+</figure>
+{% endcapture %}
+{% include guide_example.liquid
+  title = "image caption"
+  content=content
+%}
+
+{% include guide_example.liquid
+  title =  "meta data in search result"
+  content = "
+Caption an example from the DTA website.
+"
+%}
+
+Your meta title should be very clear to the user as to what that page is about.
+
+Your meta description needs to be interesting as well as clear and relevant. Use an active voice with the right keywords to encourage people to click through to your content.
+
+Write to the set word and character lengths.
+
+For example:
+
+- Google title tags are limited to 70 characters (including spaces)
+- Meta descriptions are 100 characters per line (including spaces) up to 3 lines
