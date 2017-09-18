@@ -1,5 +1,9 @@
 # Updates to the GOV.AU Content Guide
 
+### 1.3.0 &#8212; 18 September 2017
+
+Added guidance on headings and subheadings.
+
 ### 1.2.0 &#8212; 12 July 2017
 
 Added guidance on meeting WCAG criteria with content focus.
