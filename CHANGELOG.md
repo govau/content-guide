@@ -6,6 +6,7 @@ Added guidance on:
 - headings and subheadings
 - full stops and hyperlinks
 - types of content (RTF, Excel, PowerPoint, EPUB, tables)
+- ordering lists of states and territories
 
 Also, improved guidance around using PDFs.
 
