@@ -2,7 +2,9 @@
 
 ### 1.3.0 &#8212; 18 September 2017
 
-Added guidance on headings and subheadings.
+Added guidance on:
+- headings and subheadings
+- full stops and hyperlinks
 
 ### 1.2.0 &#8212; 12 July 2017
 
