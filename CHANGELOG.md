@@ -5,6 +5,9 @@
 Added guidance on:
 - headings and subheadings
 - full stops and hyperlinks
+- types of content (RTF, Excel, PowerPoint, EPUB, tables)
+
+Also, improved guidance around using PDFs.
 
 ### 1.2.0 &#8212; 12 July 2017
 

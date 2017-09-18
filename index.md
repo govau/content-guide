@@ -10,9 +10,9 @@ List of the [resources used to write the GOV.AU Content Guide]({{ site.baseurl }
 
 ## Latest updates
 
-### 12 July 2017
+### 18 September 2017
 
-Added guidance on meeting [WCAG criteria with content focus]({{ site.baseurl }}/accessibility-inclusivity/#wcag-2-0-for-content-authors).
+Added accessibility guidance on [PDFs and other kinds of documents]({{ site.baseurl }}/types-of-content/).
 
 <p>
 <svg class="icon-inline fa-github" role="img" title="GitHub icon" aria-labelledby="fa-github-alt-source">
