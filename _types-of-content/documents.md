@@ -19,7 +19,7 @@ When creating Word documents you should:
 - use [alternative text]({{ site.baseurl }}/accessibility-inclusivity/#images-and-alt-text) with visuals and tables
 - make sure that colour-coding is not the only way you convey information
 - use enough contrast for text and background colours (Microsoft recommends the free app [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/){:rel="external"}
-- use built-in headings and styles.
+- use built-in headings and styles
 
 Microsoft has guidance on [making Word documents more accessible](https://support.office.com/en-us/article/Creating-accessible-Word-documents-d9bf3683-87ac-47ea-b91a-78dcacb3c66d?CTT=3&amp;CorrelationId=b3c40249-a7fa-4300-9c12-5d0f79242a78&amp;ui=en-US&amp;rs=en-US&amp;ad=US){:rel="external"}.
 
@@ -36,7 +36,7 @@ You should avoid RTF as a publishing format. RTF can’t carry the same level of
 ### Excel
 Only publish an Excel document if there is a strong user need. They can be extremely difficult to view on mobile devices.
 
-Sometimes it may not be appropriate to publish in HTML, for example when documents contains a large amount of data.
+Sometimes it may not be appropriate to publish in HTML, for example when documents contain a large amount of data.
 
 When publishing Excel documents, you should:
 
@@ -44,12 +44,12 @@ When publishing Excel documents, you should:
 - add meaningful hyperlink text and ScreenTips
 - give sheet tabs unique names, and remove blank sheets
 - use a simple table structure
-- use the Accessibility Checker feature to find issues and get tips.
+- use the Accessibility Checker feature to find issues and get tips
 
 Microsoft has guidance on [making Excel documents more accessible](https://support.office.com/en-us/article/Make-your-Excel-spreadsheets-accessible-6cc05fc5-1314-48b5-8eb3-683e49b3e593){:rel="external"}. Also provide contact details for users who are unable to download the document.
 
-### PowerPoint 
-Only publish a PowerPoint document if there is a strong user need. 
+### PowerPoint
+Only publish a PowerPoint document if there is a strong user need.
 
 Screen reading programs often interpret items on a PowerPoint slide in reverse order, which can confuse users with a vision or reading disability. However, PowerPoint has tools to help screen readers see slides in the way the author intended.
 
@@ -64,9 +64,9 @@ You should also:
 - use the program’s Grayscale feature to see how slides might look for someone who is colourblind
 - make sure that colour-coding is not the only way you convey information
 - make sure that animation is brief and does not distract from the main content
-- use enough contrast for text and background colors.
+- use enough contrast for text and background colours
 
-Microsoft has guidance on [making PowerPoint presentations more accessible](https://support.office.com/en-us/article/Create-more-accessible-slides-794fc5da-f686-464d-8c29-1c6ab8515465?ui=en-US&rs=en-US&ad=US){:rel="external"}. 
+Microsoft has guidance on [making PowerPoint presentations more accessible](https://support.office.com/en-us/article/Create-more-accessible-slides-794fc5da-f686-464d-8c29-1c6ab8515465?ui=en-US&rs=en-US&ad=US){:rel="external"}.
 
 ### EPUB
 EPUB publications should include appropriate metadata.
@@ -75,11 +75,9 @@ EPUB publications should include appropriate metadata.
 
 ### Tables
 
-Tables are recommended, although it’s important to use structural markup to avoid accessibility barriers. 
+Tables are recommended, although it’s important to use structural markup to avoid accessibility barriers.
 
-You should use structural markup to differentiate and link header and data cells, rather than relying only on visual cues. 
-
-This will allow screen readers to interpret the table correctly, and allow assistive technologies to use the information to provide context to users.
+You should use structural markup to differentiate and link header and data cells, rather than relying only on visual cues. This will allow screen readers to interpret the table correctly, and allow assistive technologies to use the information to provide context to users.
 
 Sometimes it may not be appropriate to publish a table in HTML, like a specialist report with a large amount of data. In these cases you should use Excel or publish to [data.gov.au](http://data.gov.au){:rel="external"}.
 

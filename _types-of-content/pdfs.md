@@ -8,9 +8,9 @@ Only publish a PDF if there is a strong user need. PDFs are not accessible to so
 
 If you make a PDF, try to also publish in HTML. Publish the non-HTML format as a secondary source of the information.
 
-Sometimes it may not be appropriate to publish in HTML, for example some types of specialist reports.  If you do not publish an HTML version, be sure to publish an HTML summary on a landing page — and provide contact details for users who are unable to access the PDF.
+Sometimes it may not be appropriate to publish in HTML, for example some types of specialist reports. If you don't publish an HTML version, be sure to publish an HTML summary on a landing page — and provide contact details for users who are unable to access the PDF.
 
-In all cases, you should follow guidance to make accessible PDFs. 
+In all cases, you should follow guidance to make accessible PDFs.
 
 For example, you should:
 
@@ -20,4 +20,4 @@ For example, you should:
 
 You can also use Adobe Acrobat Pro and other tools to check and improve accessibility of PDF files.
 
-See [PDF accessibility]({{ site.baseurl }}/accessibility-inclusivity/#pdf-accessibility). 
+See [PDF accessibility]({{ site.baseurl }}/accessibility-inclusivity/#pdf-accessibility).
