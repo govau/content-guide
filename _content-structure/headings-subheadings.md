@@ -32,6 +32,8 @@ Short content should only use 2 subheading levels (`H2` and `H3`).
 
 Start headings and subheadings with keywords that help the user to make a connection.
 
+This will also help search engines find your content.
+
 {% include guide_example.liquid
   title = "frontloading subheading"
   content= "

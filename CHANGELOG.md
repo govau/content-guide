@@ -1,5 +1,16 @@
 # Updates to the GOV.AU Content Guide
 
+### 1.3.0 &#8212; 18 September 2017
+
+Added guidance on:
+- headings and subheadings
+- full stops and hyperlinks
+- types of content (RTF, Excel, PowerPoint, EPUB, tables)
+- ordering lists of states and territories
+- using PDFs
+
+Also added 404 page.
+
 ### 1.2.0 &#8212; 12 July 2017
 
 Added guidance on meeting WCAG criteria with content focus.

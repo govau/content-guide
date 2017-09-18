@@ -8,6 +8,8 @@ Use the names of states and territories in full.
 
 Use contractions and acronyms if space is limited (for example, a table) or to avoid lengthy repetitions.
 
+Use alphabetical order by default. There may be some cases when ordering by another factor, like population size, might be better for the user.
+
 {% include guide_example.liquid
   title = "writing the names of states and territories"
   content= "

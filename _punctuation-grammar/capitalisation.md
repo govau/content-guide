@@ -1,6 +1,6 @@
 ---
 title: "Capitalisation"
-order: 1
+order: 0
 exclude_from_search: true
 ---
 
