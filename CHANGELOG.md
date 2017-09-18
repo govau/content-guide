@@ -7,8 +7,9 @@ Added guidance on:
 - full stops and hyperlinks
 - types of content (RTF, Excel, PowerPoint, EPUB, tables)
 - ordering lists of states and territories
+- using PDFs
 
-Also, improved guidance around using PDFs.
+Also added 404 page.
 
 ### 1.2.0 &#8212; 12 July 2017
 
