@@ -8,7 +8,7 @@ The best search results are gained when it’s easy for users to find content an
 
 When content is simple, clear and useful, it is perceived to be more trustworthy.
 
-When users trust your information, this helps to establish ‘topic authority’, a strong ranking factor for search engines.
+When users trust your information, this helps to establish 'topic authority', a strong ranking factor for search engines.
 
 Building strong SEO through topic authority includes things like:
 
