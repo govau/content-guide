@@ -12,7 +12,7 @@ There are 3 main types of search behaviour, depending on the audience:
 
 - navigational --- searching for a specific webpage, for example ‘mygov login’
 - informational --- searching for topical information, for example ‘can I get paid maternity leave?’
-- transactional --- searching for a ‘how to’,for example ‘import wine into Australia’
+- transactional --- searching for a ‘how to’, for example ‘import wine into Australia’
 
 Try writing to 1 or all 3 of these areas, especially in your headings:
 
