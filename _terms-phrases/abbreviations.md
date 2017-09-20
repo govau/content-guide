@@ -34,6 +34,6 @@ Abbreviate honours, awards and distinctions without full stops.
 
 ### eg, ie, etc and nb
 
-Use ‘for example’ instead of ‘eg’. If space is limited, for example in a table, you can use ‘eg’.
+Use ‘for example’ instead of ‘eg’. If space is limited, for example in a table, you can use ‘eg’ if your users can understand it.
 
 See guidance on [avoiding Latin terms]({{ site.baseurl }}/punctuation-grammar/#eg-ie-etc-and-nb).
