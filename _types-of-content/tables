@@ -1,0 +1,50 @@
+---
+title: "Tables"
+order: 9
+exclude_from_search: true
+---
+
+The use of tables can have a great impact on the readability of your content and the clear presentation of information. Tables can be used to make lists, to compare information, to align and group information, and even to perform basic actions on the data. In short, they allow us to display data in well-ordered and visibly clearer ways.
+
+Consider putting data into tables to make it easier to scan and understand but avoid creating ‘complex’ or large tables. You should produce simple, small tables wherever possible to aid cognitive processing.
+
+When creating tables be sure to use structural markup to avoid accessibility barriers. Structural markup should be used to differentiate and link header and data cells rather than relying only on visual cues. You should also make sure the data value appears first.
+
+This will allow screen readers to interpret the table correctly and allow assistive technologies to use the information to provide context to users.
+
+Sometimes it may not be appropriate to publish a table in HTML, like a specialist report with a large amount of data. In these cases you should use Excel or publish to [data.gov.au](http://data.gov.au){:rel="external"}.
+
+The World Wide Web Consortium (W3C) also has [guidance on how to structure tables](https://www.w3.org/WAI/tutorials/tables/){:rel="external"}.
+
+Tables can also be used to structure information to make the information easier to scan and understand. 
+
+{% include guide_example.liquid title = "tables" content= "
+
+The Department has shortlisted five vendors to provide services and equipment.
+
+Table 1. Shortlisted vendors
+
+[table to come]
+
+ " %}
+ 
+In all cases, tables should:
+
+- use brief but informative titles
+- be numbered sequentially
+- be positioned as close to the reference text as possible
+
+Borders and shading can be used to:
+
+- add colour and interest to a table
+- help improve readability by grouping related information or by separating individual rows of data
+- focus attention on key data by highlighting it
+
+When referring to tables within the text, use the following formats depending on the context:
+
+{% include guide_example.liquid title = "tables" content= "
+
+- As shown in Table 2, users were more likely to choose tram travel
+- The transport preferences of users are shown in Table 2
+- All users responded positively to the proposed transport options(see Table 2)
+- Most users preferred trams to buses, as shown in Table 2 " %}
