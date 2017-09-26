@@ -20,13 +20,41 @@ Tables can also be used to structure information to make the information easier 
 
 {% include guide_example.liquid title = "tables" content= "
 
-The Department has shortlisted five vendors to provide services and equipment.
+Innovation is defined as the development or introduction of new or significantly improved goods, services, processes or methods. Key indicators of innovative activity in Australian business in the period 2013 to 2015 are shown below.
 
-Table 1. Shortlisted vendors
+Table 1. Summary of innovative activity in Australian business, 2013-15 (%) 
 
-[table to come]
-
- " %}
+<table class="content-table"><caption>Sumary of innovation in Australian business</caption>
+<thead>
+<tr>
+<th scope="col">Activity</th>
+<th scope="col">2013-14</th>
+<th scope="col">2014-15</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">Goods or services</span></td>
+<td>24.1</td>
+<td>19.3</td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Operational processes</span></td>
+<td>17.9</td>
+<td>15.6</td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Organisational / managerial</span></td>
+<td>21.7</td>
+<td>17.4</td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Marketing methods </span></td>
+<td>20.3</td>
+<td>16.5</td>
+</tr>
+</tbody>
+</table> " %}
  
 In all cases, tables should:
 
