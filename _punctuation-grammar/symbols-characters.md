@@ -1,5 +1,5 @@
 ---
-title: "Symbols and characters"
+title: "Other symbols and characters"
 order: 16
 exclude_from_search: true
 ---
