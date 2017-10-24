@@ -18,7 +18,7 @@ Avoid using ‘that is’ or ‘meaning’ as an alternative to ‘ie’. Rewrit
 
 ### etc
 
-Use ‘and so on’ instead of ‘etc’ only when you really must, or restructure the sentence to say something like ‘Examples include a, b and c’, as the reader should not be left to guess what might or might not be on your list. 
+Try to restructure the sentence so the user does not need to guess what may be missing. For example, 'We help people to improve their writing skills including grammar, spelling and research.
 
 ### nb
 
