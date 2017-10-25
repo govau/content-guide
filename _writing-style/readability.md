@@ -42,3 +42,9 @@ When a user reaches a word or phrase that is unfamiliar or difficult it slows do
 A person's vocabulary will grow as they age but the shape-recognition skill stays with them.
 
 Writing for the Year 5 reading level, [structuring your writing]({{ site.baseurl }}/content-structure/) and [writing in plain English](#plain-english) will make it easier for all users to read your content.
+
+Aim to make content as readable as possible. This makes it more accessible for everyone, not just users with low literacy. Specialist and technical audiences benefit from plain English too.
+
+It's good to aim for a Year 5 reading level (around age 9). WCAG recommends you write to lower high school (Year 8 or 9).
+
+Even if you aren't able to achieve Year 5 reading level, the more readable you can make content the better it is for everyone.
