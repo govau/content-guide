@@ -8,6 +8,12 @@ Readability is about how easy or hard it is for a user to understand text.
 
 Content with a good readability level helps users know what to do. This includes users with lower comprehension skills.
 
+Aim to make content as readable as possible. This makes it more accessible for everyone, not just users with low literacy. Specialist and technical audiences benefit from plain English too.
+
+It's good to aim for a Year 5 reading level (around age 9). WCAG criteria 3.1.5 (Level AAA) recommends you write to lower high school (Year 8 or 9) level.
+
+Even if you aren't able to achieve Year 5 reading level, the more readable you can make content the better it is for everyone.
+
 ### Use readability tools carefully
 
 The 'Flesch reading ease' index is a common measure for content. It is built into many readability tools.
