@@ -192,4 +192,4 @@ first use.
 
 Level AAA requires a lower secondary education reading level, after removal of proper names and titles.
 
-We recommend a Year 5 reading level (around age 9).
+We recommend you always aim for a Year 5 reading level (around age 9). Don't go above a lower high school reading level.
