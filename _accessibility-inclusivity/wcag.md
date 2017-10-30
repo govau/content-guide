@@ -169,8 +169,6 @@ The words used in a [hyperlink]({{ site.baseurl }}/content-structure/#hyperlinks
 
 Content with a good [readability level]({{ site.baseurl }}/writing-style/#readability) helps users know what to do. This includes users with lower comprehension skills.
 
-We recommend you follow the level AAA WCAG criteria described here.
-
 ### Unusual words
 
 [WCAG criteria 3.1.3 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-meaning-idioms){:rel="external"}
@@ -192,4 +190,4 @@ first use.
 
 Level AAA requires a lower secondary education reading level, after removal of proper names and titles.
 
-We recommend a Year 5 reading level (around age 9).
+We recommend you always aim for a Year 5 reading level (around age 9). Don't go above a lower high school reading level.
