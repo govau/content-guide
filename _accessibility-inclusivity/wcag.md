@@ -169,8 +169,6 @@ The words used in a [hyperlink]({{ site.baseurl }}/content-structure/#hyperlinks
 
 Content with a good [readability level]({{ site.baseurl }}/writing-style/#readability) helps users know what to do. This includes users with lower comprehension skills.
 
-We recommend you follow the level AAA WCAG criteria described here.
-
 ### Unusual words
 
 [WCAG criteria 3.1.3 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-meaning-idioms){:rel="external"}
