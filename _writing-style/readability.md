@@ -20,7 +20,7 @@ The 'Flesch reading ease' index is a common measure for content. It is built int
 
 Content with a high Flesch reading ease score (about 100) is easy to read.
 
-Readability tools can show where content can be improved. They can also give you useful metrics to use to suggest changes to stakeholders.
+Readability tools can show where you can improve content. They can also give you useful metrics to use to suggest changes to stakeholders.
 
 Some tools give suggestions to make text more readable. Be careful using automatic recommendations. Sometimes the user will be more familiar with a longer keyword.
 
@@ -46,5 +46,3 @@ An adult brain can drop up to 30% of the text and still understand the content.
 When a user reaches a word or phrase that is unfamiliar or difficult it slows down their understanding. If they experience too much of this they lose confidence in the content and may give up.
 
 A person's vocabulary will grow as they age but the shape-recognition skill stays with them.
-
-Writing for the Year 5 reading level, [structuring your writing]({{ site.baseurl }}/content-structure/) and [writing in plain English](#plain-english) will make it easier for all users to read your content.
