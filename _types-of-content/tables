@@ -4,11 +4,19 @@ order: 9
 exclude_from_search: true
 ---
 
-The use of tables can have a great impact on the readability of your content and the clear presentation of information. Tables can be used to make lists, to compare information, to align and group information, and even to perform basic actions on the data. In short, they allow us to display data in well-ordered and visibly clearer ways.
+The use of tables can have a great impact on the readability of your content and the clear presentation of information.
 
-Consider putting data into tables to make it easier to scan and understand but avoid creating ‘complex’ or large tables. You should produce simple, small tables wherever possible to aid cognitive processing.
+Use tables to make lists, to compare information, to align and group information, and even to perform basic actions on the data.
 
-When creating tables be sure to use structural markup to avoid accessibility barriers. Structural markup should be used to differentiate and link header and data cells rather than relying only on visual cues. You should also make sure the data value appears first.
+In short, they allow us to display data in well-ordered and clearer ways.
+
+Consider putting data into tables to make it easier to scan and understand but avoid creating ‘complex’ or large tables.
+
+You should produce simple, small tables wherever possible to aid cognitive processing.
+
+When creating tables be sure to use structural markup to avoid accessibility barriers.
+
+Use structural markup to differentiate and link header and data cells rather than relying only on visual cues. You should also make sure the data value appears first.
 
 This will allow screen readers to interpret the table correctly and allow assistive technologies to use the information to provide context to users.
 
@@ -16,45 +24,9 @@ Sometimes it may not be appropriate to publish a table in HTML, like a specialis
 
 The World Wide Web Consortium (W3C) also has [guidance on how to structure tables](https://www.w3.org/WAI/tutorials/tables/){:rel="external"}.
 
-Tables can also be used to structure information to make the information easier to scan and understand. 
+Use tables to structure information to make the information easier to scan and understand.
 
-{% include guide_example.liquid title = "tables" content= "
-
-Innovation is defined as the development or introduction of new or significantly improved goods, services, processes or methods. Key indicators of innovative activity in Australian business in the period 2013 to 2015 are shown below.
-
-Table 1. Summary of innovative activity in Australian business, 2013-15 (%) 
-
-<table class="content-table"><caption>Sumary of innovation in Australian business</caption>
-<thead>
-<tr>
-<th scope="col">Activity</th>
-<th scope="col">2013-14</th>
-<th scope="col">2014-15</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><span style="font-weight: 400;">Goods or services</span></td>
-<td>24.1</td>
-<td>19.3</td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Operational processes</span></td>
-<td>17.9</td>
-<td>15.6</td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Organisational / managerial</span></td>
-<td>21.7</td>
-<td>17.4</td>
-</tr>
-<tr>
-<td><span style="font-weight: 400;">Marketing methods </span></td>
-<td>20.3</td>
-<td>16.5</td>
-</tr>
-</tbody>
-</table> " %}
+See the [table of plain English words and terms]({{ site.baseurl }}/writing-style/#plain-english-table) as an example.
  
 In all cases, tables should:
 
@@ -72,7 +44,7 @@ When referring to tables within the text, use the following formats depending on
 
 {% include guide_example.liquid title = "tables" content= "
 
-- As shown in Table 2, users were more likely to choose tram travel
-- The transport preferences of users are shown in Table 2
-- All users responded positively to the proposed transport options(see Table 2)
-- Most users preferred trams to buses, as shown in Table 2 " %}
+- As shown in Table 2, users were more likely to choose tram travel.
+- The transport preferences of users are shown in Table 2.
+- All users responded positively to the proposed transport options (see Table 2);
+- Most users preferred trams to buses, as shown in Table 2. " %}
