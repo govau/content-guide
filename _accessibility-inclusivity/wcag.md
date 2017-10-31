@@ -35,7 +35,7 @@ Alt text can be included in an HTML page and also in Word documents, PowerPoint 
 
 ##### Images of text
 
-[WCAG criteria 1.1.5 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation){:rel="external"}
+[WCAG criteria 1.4.5 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation){:rel="external"}
 
 Use real text rather than images of text whenever technically possible (logos can be an exception).
 
