@@ -34,16 +34,15 @@ Use the word million instead of digits.
 - 25 people went to the launch"
 %}
 
-Abbreviate million, billion and trillion in headings, tables and graphics.
+Abbreviate thousand, million, billion and trillion in headings, tables and graphics.
 
 {% include guide_example.liquid
   title = "abbreviating large numbers"
   content= "
-- 1m
-- 2bn
-- 3tn
-"
-%}
+- 1k
+- 2m
+- 3bn
+- 4tn " %}
 
 Use digits at the beginning of a line, bulleted item or sentence.
 
