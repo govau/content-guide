@@ -57,7 +57,7 @@ For example:
 
 [IMAGE]
 
-Short content should use 2 subheading levels (<h1> through <h3>). A heading tag (h) denotes a section heading and the numbers refer to their overall importance. <h1> is the main heading and <h3> would be the smallest and the least in priority of headings.
+Short content should use 2 subheading levels (h1 through h3). A heading tag (h) denotes a section heading and the numbers refer to their overall importance. h1 is the main heading and h3 would be the smallest and the least in priority of headings.
 
 Heading tags help search engines understand the topic that you're writing about. The h1 tag is a great place to input your target keywords. There should only be one h1 per page.
 
