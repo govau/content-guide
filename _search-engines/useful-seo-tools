@@ -1,29 +1,30 @@
 ---
 title: "Useful SEO tools"
-order: 7
+order: 4
 exclude_from_search: true
 ---
 
 There are many tools to help improve your content and make it more SEO friendly. These include:
 
-- website analytics --- what keywords your users are using to find your content. Note that this particular data is only available to Google Adwords customers.
-- keyword tools --- helps decide on your keywords. For example, Google’s Keyword Planner. Another tip is to simple type a search term into Google and see what results come up.
-- [readability tools]({{ site.baseurl }}/writing-style/#readability) to encourage plain English and clearer writing
-- link checkers --- detect and fix broken links
+- Google Keyword Planner --- Google’s own keyword research tool, designed mainly for AdWords (PPC) but highly useful for SEO too. 
+- Google Search Console --- gives insights into what search queries caused your site to appear in search results and how much traffic they affected.
+- Google Trends --- shows the popularity of search terms over time.
+- Google Autocomplete --- shows similar searches other people have searched for. Use the [Ubersuggest](https://ubersuggest.io){:rel="external"} tool to find large amounts of autosuggest keywords.
+- [readability tools]({{ site.baseurl }}/writing-style/#readability) to encourage plain English and clearer writing.
 
-### Using SEO data
+### SEO and analytics
 
-Web data such as Google Analytics can be used to understand things like:
+Tools such as Google Analytics are used to understand things like:
 
 - what keywords and phrases users are searching for
-- how users are discovering your content
+- how users are discovering content related to your keywords
 - what pages users are landing on
 - how long users spend on your site
 - how many return visitors you get
-- what your overall volume of traffic is
+- what your overall volume of traffic is and where it’s coming from
 - how many first time visits you get
 - bounce rates
 - most popular pages/ least popular pages
 - referring sites
 
-Understanding this data can help you get clearer on what content you need to be writing. This will help improve your SEO and get the best results for both your agency and your users.
+Understanding this data can help you get clearer on what content you need to be writing. This will help improve your SEO efforts and get the best results for both your users and your agency.
