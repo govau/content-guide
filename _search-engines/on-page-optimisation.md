@@ -28,8 +28,6 @@ Words in the title are bolded if they appear in the search query. This is where 
 
 Keep your title short but relevant, using keywords. Titles that are too long will get cut off by search engines.
 
-For example:
-
 {% capture content %}
 <figure>
   <img src='{{site.baseurl}}/assets/seo-metatitle.png' alt='' />
@@ -44,8 +42,6 @@ For example:
 #### Meta description tag
 
 Gives search engines a summary of what the page is about. Your description might be a couple of sentences, up to 160 characters in length. Google may use this description in your search result listing. This makes it a great opportunity to entice the user to click. 
-
-For example: 
 
 {% capture content %}
 <figure>
@@ -65,12 +61,10 @@ The goal is to write compelling text that will lead people to click on your site
 
 There are 6 heading tags.
 
-For example:
-
 {% capture content %}
 <figure>
   <img src='{{site.baseurl}}/assets/seo-headings.png' alt='' />
-  <figcaption>Caption: html tags for the 6 heading tags.</figcaption>
+  <figcaption>Caption: HTML tags for the 6 heading tags.</figcaption>
 </figure>
 {% endcapture %}
 {% include guide_example.liquid
@@ -96,8 +90,6 @@ Search engines are looking for your main keywords and similar other words. Be ca
 
 Linking is the fundamental basis of the web. Search engines want to know you’re well connected with other pages and content. This is why linking out to other pages matters when it comes to search engine optimisation. 
 
-For example:
-
 {% capture content %}
 <figure>
   <img src='{{site.baseurl}}/assets/seo-links.png' alt='' />
@@ -113,7 +105,7 @@ Some tips for linking include:
 
 - link to relevant content fairly early in the body copy
 - link to relevant other pages of your site or other sites
-- link with relevant anchor text (the clickable text in a hyperlink). For example, don’t use the word ‘here’ as your link text --- use your keywords and link from them.
+- link with relevant anchor text (the clickable text in a hyperlink). For example, don’t use the word ‘here’ as your link text --- use your keywords and link from them
 
 ### Images
 
@@ -121,4 +113,4 @@ When optimising images, use words that clearly describe the image to search engi
 
 - insert ALT tags on all images, especially those that act as links to pages within the site
 - use a main keyword in the ALT tag ensuring it’s descriptive of the image
-- keep ALT tags short but accurate and don’t repeat words.
+- keep ALT tags short but accurate and don’t repeat words

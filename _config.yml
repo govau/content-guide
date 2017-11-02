@@ -148,7 +148,7 @@ collections:
     description: "How to create and use common kinds of content."
     order: 8
   search-engines:
-    title: "Writing for search engines"
+    title: "Writing for users and search engines"
     description: "How to write content that will help search engines more easily find and rank your information."
     order: 9
 

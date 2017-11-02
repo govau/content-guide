@@ -11,7 +11,7 @@ exclude_from_search: true
 - Use keywords naturally throughout your content.
 - Use synonyms that Google uses to determine a page’s relevancy.
 
-<### URL path
+### URL path
 
 - The website page’s URL should include the main keywords for that page.
 - Each word in the URL should be separated using dashes (-) and lower case.
