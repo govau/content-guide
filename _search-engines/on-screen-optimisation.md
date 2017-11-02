@@ -94,19 +94,6 @@ For more on how to write headings, see the [Content Guide]({{ site.baseurl }}).
 
 This refers to the page content itself. This needs to be optimised for users first and search engines second. Write in a way that targets users specific needs.
 
-For example:
-
-{% capture content %}
-<figure>
-  <img src='{{site.baseurl}}/assets/seo-4.png' alt='' />
-  <figcaption>Caption: a search snippet for a Digital Transformation Agency page.</figcaption>
-</figure>
-{% endcapture %}
-{% include guide_example.liquid
-  title = "meta data in search result"
-  content=content
-%}
-
 It makes sense that content about family tax benefits uses words such as child care, income, and payments etc. To optimise your content, write the way you would write for a human.
 
 Search engines are looking for your main keywords and similar other words. Be careful of duplicate content. This is when large blocks of content are completely the same or very similar. Where there is duplicate content, search engines don’t know which content to link to.
