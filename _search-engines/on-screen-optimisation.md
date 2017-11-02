@@ -32,7 +32,16 @@ Tells users and search engines what the topic of your page is about. In a search
 
 For example:
 
-[IMAGE]
+{% capture content %}
+<figure>
+  <img src='{{site.baseurl}}/assets/seo-metatitle.png' alt='' />
+  <figcaption>Caption: a search snippet for a Digital Transformation Agency page.</figcaption>
+</figure>
+{% endcapture %}
+{% include guide_example.liquid
+  title = "meta data in search result"
+  content=content
+%}
 
 #### Meta description tag
 
@@ -44,7 +53,16 @@ Keep your title short but relevant, using keywords. Titles that are too long wil
 
 For example: 
 
-[IMAGE]
+{% capture content %}
+<figure>
+  <img src='{{site.baseurl}}/assets/seo-metadescription.png' alt='' />
+  <figcaption>Caption: a search snippet for a Digital Transformation Agency page.</figcaption>
+</figure>
+{% endcapture %}
+{% include guide_example.liquid
+  title = "meta data in search result"
+  content=content
+%}
 
 Google might also use a snippet of relevant text from the content on your page as an alternative description. 
 The goal is to write compelling text that will lead people to click on your site. Using keywords in your description will help reassure users that this is what they're looking for. 
@@ -55,7 +73,16 @@ There are 6 heading tags.
 
 For example:
 
-[IMAGE]
+{% capture content %}
+<figure>
+  <img src='{{site.baseurl}}/assets/seo-headings.png' alt='' />
+  <figcaption>Caption: a search snippet for a Digital Transformation Agency page.</figcaption>
+</figure>
+{% endcapture %}
+{% include guide_example.liquid
+  title = "meta data in search result"
+  content=content
+%}
 
 Short content should use 2 subheading levels (h1 through h3). A heading tag (h) denotes a section heading and the numbers refer to their overall importance. h1 is the main heading and h3 would be the smallest and the least in priority of headings.
 
@@ -69,7 +96,16 @@ This refers to the page content itself. This needs to be optimised for users fir
 
 For example:
 
-[IMAGE]
+{% capture content %}
+<figure>
+  <img src='{{site.baseurl}}/assets/seo-4.png' alt='' />
+  <figcaption>Caption: a search snippet for a Digital Transformation Agency page.</figcaption>
+</figure>
+{% endcapture %}
+{% include guide_example.liquid
+  title = "meta data in search result"
+  content=content
+%}
 
 It makes sense that content about family tax benefits uses words such as child care, income, and payments etc. To optimise your content, write the way you would write for a human.
 
@@ -81,7 +117,16 @@ Linking is the fundamental basis of the web. Search engines want to know you’r
 
 For example:
 
-[IMAGE]
+{% capture content %}
+<figure>
+  <img src='{{site.baseurl}}/assets/seo-links.png' alt='' />
+  <figcaption>Caption: a search snippet for a Digital Transformation Agency page.</figcaption>
+</figure>
+{% endcapture %}
+{% include guide_example.liquid
+  title = "meta data in search result"
+  content=content
+%}
 
 Some tips for linking include:
 
