@@ -1,16 +1,10 @@
 ---
-title: "On-screen optimisation"
+title: "On-page optimisation"
 order: 3
 exclude_from_search: true
 ---
 
-On-screen optimisation is the content that is displayed to users on the screen, including: 
-- URLs
-- meta titles and descriptions
-- headings
-- page content
-- links
-- images
+You can help guide people to the content that is relevant to certain keywords through the process of on-page optimisation: 
 
 ### URLs
 
@@ -35,7 +29,7 @@ For example:
 {% capture content %}
 <figure>
   <img src='{{site.baseurl}}/assets/seo-metatitle.png' alt='' />
-  <figcaption>Caption: a search snippet for a Digital Transformation Agency page.</figcaption>
+  <figcaption>Caption: a meta title snippet for a Digital Transformation Agency page.</figcaption>
 </figure>
 {% endcapture %}
 {% include guide_example.liquid
@@ -56,7 +50,7 @@ For example:
 {% capture content %}
 <figure>
   <img src='{{site.baseurl}}/assets/seo-metadescription.png' alt='' />
-  <figcaption>Caption: a search snippet for a Digital Transformation Agency page.</figcaption>
+  <figcaption>Caption: a meta description snippet for a Digital Transformation Agency page.</figcaption>
 </figure>
 {% endcapture %}
 {% include guide_example.liquid
@@ -67,7 +61,7 @@ For example:
 Google might also use a snippet of relevant text from the content on your page as an alternative description. 
 The goal is to write compelling text that will lead people to click on your site. Using keywords in your description will help reassure users that this is what they're looking for. 
 
-#### Header tags and headings
+#### Heading tags
 
 There are 6 heading tags.
 
@@ -76,7 +70,7 @@ For example:
 {% capture content %}
 <figure>
   <img src='{{site.baseurl}}/assets/seo-headings.png' alt='' />
-  <figcaption>Caption: a search snippet for a Digital Transformation Agency page.</figcaption>
+  <figcaption>Caption: html tags for the 6 heading tags.</figcaption>
 </figure>
 {% endcapture %}
 {% include guide_example.liquid
@@ -88,7 +82,7 @@ Short content should use 2 subheading levels (h1 through h3). A heading tag (h) 
 
 Heading tags help search engines understand the topic that you're writing about. The h1 tag is a great place to input your target keywords. There should only be one h1 per page.
 
-For more on how to write headings, see the [Content Guide]({{ site.baseurl }}).
+For more on how to write headings, see [headings and subheadings]({{ site.baseurl }}/content-structure/#headings-and-subheadings).
 
 ### Page content
 
