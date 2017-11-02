@@ -24,6 +24,10 @@ Metadata is often referred to as ‘tags’ that sit in the background of a webp
 
 Tells users and search engines what the topic of your page is about. In a search result, your title tag typically appears as the first line, acting as a headline of sorts. Your title tag should be unique for each page and be no more than 70 characters in length.
 
+Words in the title are bolded if they appear in the search query. This is where understanding your keyword strategy becomes valuable. Knowing what users are searching for lets you make sure that those words appear as bolded in the results.
+
+Keep your title short but relevant, using keywords. Titles that are too long will get cut off by search engines.
+
 For example:
 
 {% capture content %}
@@ -40,10 +44,6 @@ For example:
 #### Meta description tag
 
 Gives search engines a summary of what the page is about. Your description might be a couple of sentences, up to 160 characters in length. Google may use this description in your search result listing. This makes it a great opportunity to entice the user to click. 
-
-Words in the title are bolded if they appear in the search query. This is where understanding your keyword strategy becomes valuable. Knowing what users are searching for lets you make sure that those words appear as bolded in the results.
-
-Keep your title short but relevant, using keywords. Titles that are too long will get cut off by search engines.
 
 For example: 
 
