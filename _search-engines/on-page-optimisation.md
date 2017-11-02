@@ -4,7 +4,7 @@ order: 3
 exclude_from_search: true
 ---
 
-You can help guide people to the content that is relevant to certain keywords through the process of on-page optimisation: 
+You can help guide people to the content that is relevant to certain keywords through the process of on-page optimisation. 
 
 ### URLs
 
