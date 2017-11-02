@@ -101,7 +101,7 @@ For example:
 {% capture content %}
 <figure>
   <img src='{{site.baseurl}}/assets/seo-links.png' alt='' />
-  <figcaption>Caption: a search snippet for a Digital Transformation Agency page.</figcaption>
+  <figcaption>Caption: an internal link on a Digital Transformation Agency page.</figcaption>
 </figure>
 {% endcapture %}
 {% include guide_example.liquid
