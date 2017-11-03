@@ -149,7 +149,7 @@ collections:
     order: 8
   search-engines:
     title: "Writing for users and search engines"
-    description: "How to write content that will help search engines more easily find and rank your information."
+    description: "How to write content that will help search engines find and rank your information."
     order: 9
 
 # PROSE.IO
