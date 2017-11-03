@@ -7,7 +7,7 @@ exclude_from_search: true
 ### Page content
 
 - Use clear introductions, conclusions and topics to organise content into paragraphs.
-- Check for correct spelling and grammar. Vite any sources properly using internal or external links.
+- Check for correct spelling and grammar. Cite any sources properly using internal or external links.
 - Use keywords naturally throughout your content.
 - Use synonyms that Google uses to determine a page’s relevancy.
 
@@ -36,10 +36,10 @@ exclude_from_search: true
 
 ### Images
 
-- Include descriptive captions and keywords within the image `alt` tag and file names.
+- Include descriptive captions and keywords in the image `alt` tag, caption and file name.
 
 ### Internal links
 
 - Link to other pages on your website as appropriate.
 - Try to include 2 to 3 links in every page.
-- Make sure your links use keywords in the anchor text (the linked text itself), which is relevant to the page it’s linked to.
+- Make sure your links use keywords in the link text that is relevant to the page it’s linked to.

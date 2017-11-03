@@ -11,7 +11,7 @@ You can help guide people to the content that is relevant to certain keywords th
 The URL path should include the keyword phrase you’re targeting the most. Place it close to the start of the URL. The URL should be as concise and clear, and make sense to users. While there is no strict guide on length, it’s good practice to keep your URL below 100 characters. 
 
 {% include guide_example.liquid
-  title = "A user-friendly URL"
+  title = "A SEO-friendly URL"
   content= "
 https://www.dta.gov.au/blog/dta-playback-digital-service-standard
 "
@@ -89,7 +89,7 @@ Short content should only use 2 subheading levels (`h1` through `h3`). The `h1` 
 
 Heading tags help search engines understand the topic that you're writing about. 
 
-The `h1` tag is a great place to input your target keywords. There should only be one `h1` per page.
+The `h1` tag is a great place to input your target keywords. There should be only 1 `h1` per page.
 
 For more on how to write headings, see [headings and subheadings]({{ site.baseurl }}/content-structure/#headings-and-subheadings).
 

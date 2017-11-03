@@ -6,11 +6,11 @@ exclude_from_search: true
 
 Keywords are the common terms people use when searching for information. They should be user-focused, relevant and consistent.
 
-Research with users to find the keywords that they will use to find the information and click through to your page.
+Research with users to find out the keywords they will search with and click through to your page.
 
 ### Keyword research
 
-The first step in SEO is to know what it is you’re optimising for. This means knowing the words people are searching. These are the keywords you want your website pages to rank for. You can then use those keywords to write content that answers those queries.
+The first step in SEO is to know what it is you’re optimising for. This means knowing the words people are searching with. These are the keywords you want your website pages to rank for. You can then use these keywords to write content that answers those queries.
 
 {% include guide_example.liquid
   title = "selecting keywords"
@@ -44,13 +44,11 @@ Some information may relate to a particular location or group of people. If so, 
 
 ### Writing keyword-based content
 
-After you know what your keywords are, make sure to write your page content around those words. Be careful not to overuse keywords. This can have a negative impact your SEO efforts.
+After you know what your keywords are, write your page content around those words. Be careful not to overuse keywords. This can have a negative impact your SEO efforts.
 
-Include your keywords once or twice, if it make sense, in the first paragraph of your content. Try to also include supporting content that includes related concepts and terms.
+Include your keywords once or twice, if it makes sense, in the first paragraph of your content. Try to also include supporting content that contains related concepts and terms. This helps search engines understand the theme of your page. 
 
-This helps search engines understand what the theme of your page is about. 
-
-Take time to write content that is natural, easy to read, and user-centred.
+Take time to write content that is natural, easy to read and user-centred.
 
 {% include guide_example.liquid
   title = "writing keyword related content"
