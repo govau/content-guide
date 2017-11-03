@@ -7,7 +7,7 @@ exclude_from_search: true
 ### Page content
 
 - Use clear introductions, conclusions and topics to organise content into paragraphs.
-- Check for correct spelling and grammar and cite any sources properly using internal/external links.
+- Check for correct spelling and grammar. Vite any sources properly using internal or external links.
 - Use keywords naturally throughout your content.
 - Use synonyms that Google uses to determine a page’s relevancy.
 
@@ -31,13 +31,15 @@ exclude_from_search: true
 
 ### Header tags
 
-- The h1 heading tag gives users a quick overview of the content on the page. It should support the keyword theme from the metadata and use the main keywords. 
-- Adding h2 and h3 heading tags helps structure your content more clearly. Try to include main keywords in at least one subheading and keyword variations in lower headings.
+- The `h1` heading tag gives users a quick overview of the content on the page. It should support the keyword theme from the metadata and use the main keywords. 
+- Adding `h2` and `h3` heading tags helps structure your content more clearly. Try to include main keywords in at least one subheading and keyword variations in lower headings.
 
 ### Images
 
-- Include descriptive captions and keywords within the image ALT tag and file names.
+- Include descriptive captions and keywords within the image `alt` tag and file names.
 
 ### Internal links
 
-- Link to other pages on your website as appropriate. Try to include 2-3 links in every page. Make sure your links use keywords in the anchor text (the linked text itself), which is relevant to the page it’s linked to.
+- Link to other pages on your website as appropriate.
+- Try to include 2 to 3 links in every page.
+- Make sure your links use keywords in the anchor text (the linked text itself), which is relevant to the page it’s linked to.
