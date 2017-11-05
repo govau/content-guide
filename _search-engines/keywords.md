@@ -44,7 +44,7 @@ Some information may relate to a particular location or group of people. If so, 
 
 ### Writing keyword-based content
 
-After you know what your keywords are, write your page content around those words. Be careful not to overuse keywords. This can have a negative impact your SEO efforts.
+After you know what your keywords are, write your page content around those words. Be careful not to overuse keywords. This can have a negative impact on your SEO efforts.
 
 Include your keywords once or twice, if it makes sense, in the first paragraph of your content. Try to also include supporting content that contains related concepts and terms. This helps search engines understand the theme of your page. 
 

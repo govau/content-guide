@@ -32,7 +32,7 @@ exclude_from_search: true
 ### Header tags
 
 - The `h1` heading tag gives users a quick overview of the content on the page. It should support the keyword theme from the metadata and use the main keywords. 
-- Adding `h2` and `h3` heading tags helps structure your content more clearly. Try to include main keywords in at least one subheading and keyword variations in lower headings.
+- Adding `h2` and `h3` heading tags helps structure your content more clearly. Try to include main keywords in at least 1 subheading and keyword variations in lower headings.
 
 ### Images
 

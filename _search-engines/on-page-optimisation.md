@@ -104,8 +104,9 @@ Write in a way that targets the specific needs of users.
   content= "
 You are writing content to help users claim for family tax benefits.
 
-So you include words that your user research shows that people search for when they need help on this topic. For example, 'child care', 'income' and 'payments'.
-"
+Your user research shows users search for 'child care', 'income' and 'payments' when they need help with family tax benefits.
+
+So you write useful content that includes these terms and topics."
 %}
 
 To optimise your content, write the way you would write for a human.
