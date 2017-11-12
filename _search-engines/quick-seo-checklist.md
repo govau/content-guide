@@ -17,7 +17,7 @@ exclude_from_search: true
 - Each word in the URL should be separated using dashes (-) and lower case.
 - Length: try to keep it below 100 characters
 
-### Meta title tags
+### Title tags
 
 - Describe what the page is about and use tags that are unique to each page. 
 - Use your main keywords.

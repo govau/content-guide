@@ -19,7 +19,7 @@ Your website helps users become Australia citizens.
 
 You have researched with users who are keen to become Australian citizens. You have found they use the keyword 'citizenship' a lot.
 
-You will want to include 'citizenship' a few times in the opening paragraphs of your content, in your meta title, meta description and URL."
+You will want to include 'citizenship' a few times in the opening paragraphs of your content, in your title, meta description and URL."
 %}
 
 ### How to work out which keywords to use
