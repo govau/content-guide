@@ -19,8 +19,10 @@ Your website helps users become Australia citizens.
 
 You have researched with users who are keen to become Australian citizens. You have found they use the keyword 'citizenship' a lot.
 
-You will want to include 'citizenship' a few times in the opening paragraphs of your content, in your meta title, meta description and URL."
+You will want to include 'citizenship' a few times in the opening paragraphs of your content, in your title, meta description and URL."
 %}
+
+Be careful not to overuse keywords. This can have a negative impact on your SEO efforts. Make sure your content still reads naturally.
 
 ### How to work out which keywords to use
 
@@ -44,7 +46,7 @@ Some information may relate to a particular location or group of people. If so, 
 
 ### Writing keyword-based content
 
-After you know what your keywords are, write your page content around those words. Be careful not to overuse keywords. This can have a negative impact on your SEO efforts.
+After you know what your keywords are, write your page content around those words. 
 
 Include your keywords once or twice, if it makes sense, in the first paragraph of your content. Try to also include supporting content that contains related concepts and terms. This helps search engines understand the theme of your page. 
 

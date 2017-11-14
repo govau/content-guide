@@ -23,7 +23,7 @@ Use hyphens instead of spaces or underscores in the URL to separate the words. T
 
 Metadata is often referred to as ‘tags’ that sit in the background of a webpage, within the code.
 
-#### Meta title tag
+#### Title tag
 
 The `title` tag tells users and search engines what your page is about. 
 
@@ -38,11 +38,11 @@ Keep your title short but relevant, using keywords. Titles that are too long wil
 {% capture content %}
 <figure>
   <img src='{{site.baseurl}}/assets/seo-metatitle.png' alt="Example search result, with the title line highlighed." />
-  <figcaption>Caption: a meta title snippet for a Digital Transformation Agency page.</figcaption>
+  <figcaption>Caption: a title snippet for a Digital Transformation Agency page.</figcaption>
 </figure>
 {% endcapture %}
 {% include guide_example.liquid
-  title = "meta title in search result"
+  title = "title in search result"
   content=content
 %}
 
