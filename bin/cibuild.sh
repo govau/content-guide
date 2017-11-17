@@ -20,7 +20,7 @@ main() {
     master)
       echo "Building with production jekyll config"
 
-      bundle exec jekyll build --destination ./_site/$CF_PATH --baseurl /$CF_PATH
+      JEKYLL_ENV=production bundle exec jekyll build --destination ./_site/$CF_PATH --baseurl /$CF_PATH
       # Building jekyll plus the path variable
       ;;
     *)
