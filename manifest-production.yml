@@ -7,5 +7,4 @@ buildpack: staticfile_buildpack
 routes:
 - route: guides.service.gov.au/content-guide
 applications:
-- name: content-guide-blue
-- name: content-guide-green
+- name: content-guide
