@@ -36,7 +36,7 @@ In HTML5 [use the `<figcaption>` tag](https://www.w3.org/wiki/HTML/Elements/figc
 
 {% capture content %}
 <figure>
-  <img src='{{site.baseurl}}/assets/coat-of-arms.png' alt='' />
+  <img src='{% asset_path "coat-of-arms.png" %}' alt='' />
   <figcaption>Caption: the conventional version of the Commonwealth Coat of Arms of Australia.</figcaption>
 </figure>
 {% endcapture %}
