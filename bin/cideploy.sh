@@ -28,7 +28,7 @@ main() {
   case "${GITBRANCH}" in
     master)
       basicauth
-      mv _site/robots-production.txt _site/robots.txt
+      #mv _site/robots-production.txt _site/robots.txt
       cf api $CF_API_PROD
       cf auth $CF_USER_PROD $CF_PASSWORD_PROD
       cf target -o $CF_ORG_PROD
