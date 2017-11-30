@@ -8,7 +8,7 @@ Capital letters are hard to read. Keep them to a minimum.
 
 Use sentence case for most things (capitalise the first word).
 
-Use title case for proper nouns (capitalise the principle words).
+Use title case for proper nouns (capitalise the principal words).
 
 {% include guide_example.liquid
   title = "sentence case capitalisation"
@@ -38,7 +38,7 @@ In general, capitalise the first word only.
 
 Use title case for proper nouns --- for example, names of people, places or organisations).
 
-Capitalise the principle words only, to distinguish them from common nouns or the generic meaning.
+Capitalise the principal words only, to distinguish them from common nouns or the generic meaning.
 
 {% include guide_example.liquid
   title = "capitalising proper nouns"
