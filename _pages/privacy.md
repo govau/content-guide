@@ -3,6 +3,7 @@ title: "Privacy statement"
 layout: "page"
 abstract: "How we handle information about you."
 permalink: "/privacy/"
+excerpt: "The Digital Transformation Agency (DTA) is committed to meeting the highest standards when we collect, store, use and disclose your personal information."
 ---
 
 This privacy statement is about [guides.service.gov.au](http://guides.service.gov.au/) --- this is an online service managed by the Digital Transformation Agency (DTA). The DTA is located in Canberra, Australia.
