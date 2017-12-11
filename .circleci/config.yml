@@ -11,17 +11,17 @@ jobs:
 
     steps:
       - checkout                       # get the files from the repo (why would you ever not want the files????)
-      - git submodule init             # pulling submodule
-      - git submodule update
+      - run: git submodule init             # pulling submodule
+      - run: git submodule update
       # install bundler
-      - gem install --conservative bundler
-      - bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
-      - bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
+      - run: gem install --conservative bundler
+      - run: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
+      - run: bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
       # Run a html proofer over the site to check all internal links
-      - bundle exec htmlproofer tmp/_site_link_checker --disable-external --allow-hash-href --url-ignore "/(mailto:.*)/" --empty-alt-ignore
-      - JEKYLL_ENV=production bundle exec jekyll build --destination ./_site/$CF_PATH --baseurl /$CF_PATH
-      - bundle exec jekyll hyde
-      - mv _site/$CF_PATH/robots-production.txt _site/$CF_PATH/robots.txt
+      - run: bundle exec htmlproofer tmp/_site_link_checker --disable-external --allow-hash-href --url-ignore "/(mailto:.*)/" --empty-alt-ignore
+      - run: JEKYLL_ENV=production bundle exec jekyll build --destination ./_site/$CF_PATH --baseurl /$CF_PATH
+      - run: bundle exec jekyll hyde
+      - run: mv _site/$CF_PATH/robots-production.txt _site/$CF_PATH/robots.txt
       # install packages: cf-cli and tree
       - run: sudo apt-get install apt-transport-https
       - run: wget -q -O - https://packages.cloudfoundry.org/debian/cli.cloudfoundry.org.key | sudo apt-key add -
@@ -44,16 +44,17 @@ jobs:
 
     steps:
       - checkout                       # get the files from the repo (why would you ever not want the files????)
-      - git submodule init             # pulling submodule
-      - git submodule update
-      - gem install --conservative bundler
-      - bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
-      - bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
+      - run: git submodule init             # pulling submodule
+      - run: git submodule update
+      # install bundler
+      - run: gem install --conservative bundler
+      - run: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
+      - run: bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
       # Run a html proofer over the site to check all internal links
-      - bundle exec htmlproofer tmp/_site_link_checker --disable-external --allow-hash-href --url-ignore "/(mailto:.*)/" --empty-alt-ignore
-      - JEKYLL_ENV=production bundle exec jekyll build --destination ./_site/$CF_PATH --baseurl /$CF_PATH
-      - bundle exec jekyll hyde
-      - mv _site/$CF_PATH/robots-production.txt _site/$CF_PATH/robots.txt
+      - run: bundle exec htmlproofer tmp/_site_link_checker --disable-external --allow-hash-href --url-ignore "/(mailto:.*)/" --empty-alt-ignore
+      - run: JEKYLL_ENV=production bundle exec jekyll build --destination ./_site/$CF_PATH --baseurl /$CF_PATH
+      - run: bundle exec jekyll hyde
+      - run: mv _site/$CF_PATH/robots-production.txt _site/$CF_PATH/robots.txt
       # install packages: cf-cli and tree
       - run: sudo apt-get install apt-transport-https
       - run: wget -q -O - https://packages.cloudfoundry.org/debian/cli.cloudfoundry.org.key | sudo apt-key add -
@@ -76,16 +77,17 @@ jobs:
 
     steps:
       - checkout                       # get the files from the repo (why would you ever not want the files????)
-      - git submodule init             # pulling submodule
-      - git submodule update
-      - gem install --conservative bundler
-      - bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
-      - bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
+      - run: git submodule init             # pulling submodule
+      - run: git submodule update
+      # install bundler
+      - run: gem install --conservative bundler
+      - run: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
+      - run: bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
       # Run a html proofer over the site to check all internal links
-      - bundle exec htmlproofer tmp/_site_link_checker --disable-external --allow-hash-href --url-ignore "/(mailto:.*)/" --empty-alt-ignore
-      - JEKYLL_ENV=production bundle exec jekyll build --destination ./_site/$CF_PATH --baseurl /$CF_PATH
-      - bundle exec jekyll hyde
-      - mv _site/$CF_PATH/robots-production.txt _site/$CF_PATH/robots.txt
+      - run: bundle exec htmlproofer tmp/_site_link_checker --disable-external --allow-hash-href --url-ignore "/(mailto:.*)/" --empty-alt-ignore
+      - run: JEKYLL_ENV=production bundle exec jekyll build --destination ./_site/$CF_PATH --baseurl /$CF_PATH
+      - run: bundle exec jekyll hyde
+      - run: mv _site/$CF_PATH/robots-production.txt _site/$CF_PATH/robots.txt
       # install packages: cf-cli and tree
       - run: sudo apt-get install apt-transport-https
       - run: wget -q -O - https://packages.cloudfoundry.org/debian/cli.cloudfoundry.org.key | sudo apt-key add -
