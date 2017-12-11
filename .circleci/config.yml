@@ -31,7 +31,7 @@ jobs:
       - run: cf version                # log what version we are running
       - run: cf login -a api.system.y.cld.gov.au -o $CF_ORG_STAGING -s $CF_SPACE_STAGING -u $CF_USER_STAGING -p $CF_PASSWORD_STAGING
       - run: tree -C                   # log all files before we push
-      - run: cf zero-downtime-push service-manual -f manifest-staging.yml
+      - run: cf zero-downtime-push content-guide -f manifest-staging.yml
 
 
   # DEPLOY-STAGING JOB
@@ -93,7 +93,7 @@ jobs:
       - run: cf version
       - run: cf login -a api.system.y.cld.gov.au -o $CF_ORG_STAGING -s $CF_SPACE_STAGING -u $CF_USER_STAGING -p $CF_PASSWORD_STAGING
       - run: tree -C
-      - run: cf zero-downtime-push service-manual-$CIRCLE_BRANCH -f manifest-testing.yml
+      - run: cf zero-downtime-push content-guide-$CIRCLE_BRANCH -f manifest-testing.yml
 
 
 # OUR WORKFLOW
