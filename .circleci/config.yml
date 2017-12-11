@@ -13,7 +13,7 @@ jobs:
       - checkout                       # get the files from the repo (why would you ever not want the files????)
       - run: git submodule init             # pulling submodule
       - run: git submodule update
-      - run: bundle install --path=vendor/bundle --jobs=4 --retry=3
+      - run: sudo bundle install --path=vendor/bundle --jobs=4 --retry=3
       - run: sudo bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
       # Run a html proofer over the site to check all internal links
       - run: sudo bundle exec htmlproofer tmp/_site_link_checker --disable-external --allow-hash-href --url-ignore "/(mailto:.*)/" --empty-alt-ignore
@@ -44,7 +44,7 @@ jobs:
       - checkout                       # get the files from the repo (why would you ever not want the files????)
       - run: git submodule init             # pulling submodule
       - run: git submodule update
-      - run: bundle install --path=vendor/bundle --jobs=4 --retry=3
+      - run: sudo bundle install --path=vendor/bundle --jobs=4 --retry=3
       - run: sudo bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
       # Run a html proofer over the site to check all internal links
       - run: sudo bundle exec htmlproofer tmp/_site_link_checker --disable-external --allow-hash-href --url-ignore "/(mailto:.*)/" --empty-alt-ignore
@@ -75,7 +75,7 @@ jobs:
       - checkout                       # get the files from the repo (why would you ever not want the files????)
       - run: git submodule init             # pulling submodule
       - run: git submodule update
-      - run: bundle install --path=vendor/bundle --jobs=4 --retry=3
+      - run: sudo bundle install --path=vendor/bundle --jobs=4 --retry=3
       - run: sudo bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
       # Run a html proofer over the site to check all internal links
       - run: sudo bundle exec htmlproofer tmp/_site_link_checker --disable-external --allow-hash-href --url-ignore "/(mailto:.*)/" --empty-alt-ignore
