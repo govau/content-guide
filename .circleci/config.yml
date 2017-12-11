@@ -14,6 +14,8 @@ jobs:
       - run: git submodule init             # pulling submodule
       - run: git submodule update
       # install bundler
+      - run: apt-get install rubygems-integration
+      - run: apt-get install ruby ruby-dev
       - run: gem install --conservative bundler
       - run: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
       - run: bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
@@ -47,6 +49,8 @@ jobs:
       - run: git submodule init             # pulling submodule
       - run: git submodule update
       # install bundler
+      - run: apt-get install rubygems-integration
+      - run: apt-get install ruby ruby-dev
       - run: gem install --conservative bundler
       - run: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
       - run: bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
@@ -80,6 +84,8 @@ jobs:
       - run: git submodule init             # pulling submodule
       - run: git submodule update
       # install bundler
+      - run: apt-get install rubygems-integration
+      - run: apt-get install ruby ruby-dev
       - run: gem install --conservative bundler
       - run: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
       - run: bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
