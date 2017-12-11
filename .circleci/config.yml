@@ -16,13 +16,13 @@ jobs:
       # install bundler
       - run: sudo apt-get install rubygems-integration
       - run: sudo apt-get install ruby ruby-dev
-      - run: gem install --conservative bundler
-      - run: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
-      - run: bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
+      - run: sudo gem install --conservative bundler
+      - run: sudo bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
+      - run: sudo bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
       # Run a html proofer over the site to check all internal links
-      - run: bundle exec htmlproofer tmp/_site_link_checker --disable-external --allow-hash-href --url-ignore "/(mailto:.*)/" --empty-alt-ignore
-      - run: JEKYLL_ENV=production bundle exec jekyll build --destination ./_site/$CF_PATH --baseurl /$CF_PATH
-      - run: bundle exec jekyll hyde
+      - run: sudo bundle exec htmlproofer tmp/_site_link_checker --disable-external --allow-hash-href --url-ignore "/(mailto:.*)/" --empty-alt-ignore
+      - run: sudo JEKYLL_ENV=production bundle exec jekyll build --destination ./_site/$CF_PATH --baseurl /$CF_PATH
+      - run: sudo bundle exec jekyll hyde
       - run: mv _site/$CF_PATH/robots-production.txt _site/$CF_PATH/robots.txt
       # install packages: cf-cli and tree
       - run: sudo apt-get install apt-transport-https
@@ -51,13 +51,13 @@ jobs:
       # install bundler
       - run: sudo apt-get install rubygems-integration
       - run: sudo apt-get install ruby ruby-dev
-      - run: gem install --conservative bundler
-      - run: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
-      - run: bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
+      - run: sudo gem install --conservative bundler
+      - run: sudo bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
+      - run: sudo bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
       # Run a html proofer over the site to check all internal links
-      - run: bundle exec htmlproofer tmp/_site_link_checker --disable-external --allow-hash-href --url-ignore "/(mailto:.*)/" --empty-alt-ignore
-      - run: JEKYLL_ENV=production bundle exec jekyll build --destination ./_site/$CF_PATH --baseurl /$CF_PATH
-      - run: bundle exec jekyll hyde
+      - run: sudo bundle exec htmlproofer tmp/_site_link_checker --disable-external --allow-hash-href --url-ignore "/(mailto:.*)/" --empty-alt-ignore
+      - run: sudo JEKYLL_ENV=production bundle exec jekyll build --destination ./_site/$CF_PATH --baseurl /$CF_PATH
+      - run: sudo bundle exec jekyll hyde
       - run: mv _site/$CF_PATH/robots-production.txt _site/$CF_PATH/robots.txt
       # install packages: cf-cli and tree
       - run: sudo apt-get install apt-transport-https
@@ -86,13 +86,13 @@ jobs:
       # install bundler
       - run: sudo apt-get install rubygems-integration
       - run: sudo apt-get install ruby ruby-dev
-      - run: gem install --conservative bundler
-      - run: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
-      - run: bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
+      - run: sudo gem install --conservative bundler
+      - run: sudo bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
+      - run: sudo bundle exec jekyll build --destination tmp/_site_link_checker/baseurl --baseurl /baseurl
       # Run a html proofer over the site to check all internal links
-      - run: bundle exec htmlproofer tmp/_site_link_checker --disable-external --allow-hash-href --url-ignore "/(mailto:.*)/" --empty-alt-ignore
-      - run: JEKYLL_ENV=production bundle exec jekyll build --destination ./_site/$CF_PATH --baseurl /$CF_PATH
-      - run: bundle exec jekyll hyde
+      - run: sudo bundle exec htmlproofer tmp/_site_link_checker --disable-external --allow-hash-href --url-ignore "/(mailto:.*)/" --empty-alt-ignore
+      - run: sudo JEKYLL_ENV=production bundle exec jekyll build --destination ./_site/$CF_PATH --baseurl /$CF_PATH
+      - run: sudo bundle exec jekyll hyde
       - run: mv _site/$CF_PATH/robots-production.txt _site/$CF_PATH/robots.txt
       # install packages: cf-cli and tree
       - run: sudo apt-get install apt-transport-https
