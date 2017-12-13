@@ -20,7 +20,7 @@ Plain English [improves readability]({{ site.baseurl }}/writing-style/#readabili
 - Use [active voice](#voice) --- not passive.
 - Use the shorter, plain English word, term, sentence and paragraph over the longer.
 - Minimise punctuation. Use several short sentences instead of a long sentence broken up with punctuation.
-- Aim for a [Year 5 reading level](#readability) (the same level a 9 year old can understand).
+- Aim for an [age 9 reading level](#readability) reading level.
 
 ### Make sure all of the users can understand
 
