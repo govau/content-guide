@@ -1,5 +1,9 @@
 # Updates to the GOV.AU Content Guide
 
+### 1.3.1 &#8212; 14 December 2017
+
+Fixed error in hyphen guidance.
+
 ### 1.3.0 &#8212; 18 September 2017
 
 Added guidance on:
