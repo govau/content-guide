@@ -1,8 +1,17 @@
-# Updates to the GOV.AU Content Guide
+# Updates to the Content Guide
 
 ### 1.3.1 &#8212; 14 December 2017
 
-Fixed error in hyphen guidance.
+Added:
+- abbreviation of thousands (thanks [davidgilbertson](https://github.com/davidgilbertson) 🤗)
+- clarification of readability guidance
+
+Fixed:
+- error in hyphen guidance
+- typo in capitalisation guidance
+- typo in WCAG guidance (thanks [awkawk](https://github.com/awkawk) 🤗)
+
+Other platform cleanups.
 
 ### 1.3.0 &#8212; 18 September 2017
 
