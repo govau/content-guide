@@ -8,10 +8,33 @@ Avoid the Latin abbreviations eg, ie, etc (et cetera) and nb.
 
 [Don't use italics for Latin]({{ site.baseurl }}/formatting/#italics).
 
-Use 'for example' instead of &#8217;eg&#8217;.
+### eg
 
-If space is limited, for example in a table, you can use &#8217;eg&#8217;.
+Use ‘for example’ instead of ‘eg’.
 
-Only do this if your users can understand it (sometimes screen readers won't read it correctly).
+If space is limited you can use &#8217;eg&#8217; (for example, in a table). Only do this if your users can understand it. Sometimes screen readers won’t read 'eg' correctly.
 
-Avoid using 'that is' or 'meaning' as an alternative to &#8217;ie&#8217;. Rewrite and restructure your content instead.
+### ie
+
+Avoid using ‘that is’ or ‘meaning’ as an alternative to ‘ie’. Rewrite and restructure your content instead.
+
+### etc
+
+Try to rewrite the sentence so the user does not need to guess what the 'etc' refers to.
+
+{% include guide_example.liquid
+  title = "using et cetera"
+  content= "
+Like this:
+
+> We help people to improve their writing skills: grammar, spelling and research.
+
+Not this:
+
+> We help people improve their writing and editing etc.
+"
+%}
+
+### nb
+
+Do not use 'nb' (nota bene or ‘note well’).
