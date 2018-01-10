@@ -1,5 +1,9 @@
 # Updates to the Content Guide
 
+### 1.X.X &#8212; X January 2018
+
+Improved guidance on Latin abbreviation.
+
 ### 1.3.1 &#8212; 14 December 2017
 
 Added:
