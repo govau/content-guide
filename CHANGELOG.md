@@ -17,6 +17,10 @@ Fixed:
 
 Other platform cleanups.
 
+### 1.4.0 &#8212; 14 December 2017
+
+Corrected guidance on readability.
+
 ### 1.3.0 &#8212; 18 September 2017
 
 Added guidance on:
