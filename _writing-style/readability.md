@@ -12,7 +12,7 @@ Aim to make content as readable as possible. This makes it more accessible for e
 
 ### Aim for age 9 reading level
 
-It's good to aim for age 9 reading level. Someone who is age 9 would be in Australian Grade 3 or Grade 4.
+It's good to aim for age 9 reading level. Someone who is age 9 would be in Australian Year 3 or Year 4.
 
 WCAG criteria 3.1.5 (Level AAA) recommends you write to lower secondary education level. This is Year 7 to Year 8 in Australia, or between 12 to 14 years old.
 

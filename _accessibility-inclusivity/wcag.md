@@ -190,4 +190,4 @@ first use.
 
 Level AAA requires a lower secondary education reading level, after removal of proper names and titles (between 12 to 14 years old).
 
-We recommend you [aim for age 9 readability level]({{ site.baseurl }}/writing-style/#readability) (Australian Grade 3 or Grade 4). Don't go above a lower high school reading level.
+We recommend you [aim for age 9 readability level]({{ site.baseurl }}/writing-style/#readability) (Australian Year 3 or Year 4). Don't go above a lower high school reading level.
