@@ -10,9 +10,9 @@ List of the [resources used to write the GOV.AU Content Guide]({{ site.baseurl }
 
 ## Latest updates
 
-### 18 September 2017
+### 12 January 2018
 
-Added accessibility guidance on [PDFs and other kinds of documents]({{ site.baseurl }}/types-of-content/).
+Corrected and improved guidance on [readability and tools]({{ site.baseurl }}/writing-style/#readability).
 
 <p>
 <svg class="icon-inline fa-github" role="img" title="GitHub icon" aria-labelledby="fa-github-alt-source">
