@@ -1,5 +1,9 @@
 # Updates to the GOV.AU Content Guide
 
+### 1.X.X &#8212; X
+
+Improved guidance on tables.
+
 ### 1.4.0 &#8212; 14 December 2017
 
 Corrected guidance on readability.

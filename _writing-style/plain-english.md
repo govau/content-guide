@@ -30,7 +30,7 @@ Write in plain English so everyone can understand, regardless of their ability.
 
 Think about the [needs of users who speak a language other than English]({{ site.baseurl }}/accessibility-inclusivity/#languages-other-than-english).
 
-### Plain English words and terms
+<h3 id="plain-english-table">Plain English words and terms</h3>
 
 <table class="content-table">
 <thead>
