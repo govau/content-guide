@@ -2,7 +2,8 @@
 
 ### 1.X.X &#8212; X January 2018
 
-Improved guidance on Latin abbreviation.
+- Improved guidance on Latin abbreviation.
+- Corrected and refactored readability guidance
 
 ### 1.3.1 &#8212; 14 December 2017
 
@@ -16,10 +17,6 @@ Fixed:
 - typo in WCAG guidance (thanks [awkawk](https://github.com/awkawk) 🤗)
 
 Other platform cleanups.
-
-### 1.4.0 &#8212; 14 December 2017
-
-Corrected guidance on readability.
 
 ### 1.3.0 &#8212; 18 September 2017
 
