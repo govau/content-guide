@@ -13,7 +13,7 @@ a first-class experience
 "
 %}
 
-Do not use hyphens when joining an adverb to a noun.
+Do not use a hyphen if the first word of a compound is an adverb ending in `ly`.
 
 {% include guide_example.liquid
   title = "not using hyphens to join adverb to noun"

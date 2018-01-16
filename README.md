@@ -1,10 +1,12 @@
-# GOV.AU Content Guide
+# Content Guide
 
 This guide is designed to help people working in the Australian Government create simpler, clearer and faster information.
 
 Live site: https://guides.service.gov.au/content-guide/
 
-Staging site: https://content-guide.apps.staging.digital.gov.au/
+Staging site: https://content-guide.apps.y.cld.gov.au/
+
+Test sites: https://content-guide-[test-branchname].apps.y.cld.gov.au/
 
 ---
 
@@ -37,8 +39,6 @@ This guide is built with [Jekyll](http://jekyllrb.com/).
 ### Setup
 
 You would only **need** to do the following if you are a developer. If you are a content editor you can access and editing content for the guide directly via GitHub. However, it can be nice having the guide locally to work and preview --- feel free to ask a developer if you would like to set up a local instance of the guide.
-
-There is also a simpler guide in the [README of the service-handbook project](https://github.com/AusDTO/service-handbook/blob/gh-pages/README.md) which might be useful to incorporate here.
 
 ### Requirements
 
@@ -88,4 +88,4 @@ Copyright Digital Transformation Agency. Licensed under the Creative Commons Att
 
 ## About the DTA
 
-The GOV.AU Content Guide is maintained and funded by the [Digital Transformation Agency](https://www.dta.gov.au/).
+The Content Guide is maintained and funded by the [Digital Transformation Agency](https://www.dta.gov.au/).

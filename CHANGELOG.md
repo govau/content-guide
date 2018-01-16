@@ -1,12 +1,23 @@
-# Updates to the GOV.AU Content Guide
+# Updates to the Content Guide
 
-### 1.X.X &#8212; X
+### 1.3.2 &#8212; X January 2018
 
-Improved guidance on tables.
+- Improved guidance on Latin abbreviation.
+- Corrected and refactored readability guidance
+- Improved guidance on tables.
 
-### 1.4.0 &#8212; 14 December 2017
+### 1.3.1 &#8212; 14 December 2017
 
-Corrected guidance on readability.
+Added:
+- abbreviation of thousands (thanks [davidgilbertson](https://github.com/davidgilbertson) 🤗)
+- clarification of readability guidance
+
+Fixed:
+- error in hyphen guidance
+- typo in capitalisation guidance
+- typo in WCAG guidance (thanks [awkawk](https://github.com/awkawk) 🤗)
+
+Other platform cleanups.
 
 ### 1.3.0 &#8212; 18 September 2017
 
