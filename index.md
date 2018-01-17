@@ -10,9 +10,11 @@ List of the [resources used to write the GOV.AU Content Guide]({{ site.baseurl }
 
 ## Latest updates
 
-### 12 January 2018
+### 17 January 2018
 
-Corrected and improved guidance on [readability and tools]({{ site.baseurl }}/writing-style/#readability).
+- Improved guidance on [readability and tools]({{ site.baseurl }}/writing-style/#readability).
+- Added more guidance on Latin abbreviations ([eg, ie, etc and nb]({{ site.baseurl }}/punctuation-grammar/#eg-ie-etc-and-nb))
+- Added more detail to guidance on using [tables]({{ site.baseurl }}/types-of-content/#tables).
 
 <p>
 <svg class="icon-inline fa-github" role="img" title="GitHub icon" aria-labelledby="fa-github-alt-source">

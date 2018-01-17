@@ -1,10 +1,10 @@
 # Updates to the Content Guide
 
-### 1.3.2 &#8212; X January 2018
+### 1.4.1 &#8212; 17 January 2018
 
-- Improved guidance on Latin abbreviation.
-- Corrected and refactored readability guidance
-- Improved guidance on tables.
+- Improved guidance on readability and readability tools.
+- Added more guidance on Latin abbreviations.
+- Added more detail to guidance on using tables.
 
 ### 1.3.1 &#8212; 14 December 2017
 
