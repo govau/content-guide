@@ -10,7 +10,7 @@ List of the [resources used to write the GOV.AU Content Guide]({{ site.baseurl }
 
 ## Latest updates
 
-### 23 January 2018
+### 30 January 2018
 
 - Improved guidance on [readability and tools]({{ site.baseurl }}/writing-style/#readability).
 - Improved guidance on Latin abbreviations ([eg, ie, etc and nb]({{ site.baseurl }}/punctuation-grammar/#eg-ie-etc-and-nb)).
