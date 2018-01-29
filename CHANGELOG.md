@@ -1,5 +1,11 @@
 # Updates to the Content Guide
 
+### 1.3.2 &#8212; 30 January 2018
+
+- Improved guidance on readability and tools.
+- Improved guidance on Latin abbreviations (eg, ie, etc and nb).
+- Added more guidance on using tables.
+
 ### 1.3.1 &#8212; 14 December 2017
 
 Added:
