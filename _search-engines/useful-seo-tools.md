@@ -6,7 +6,7 @@ exclude_from_search: true
 
 There are many tools to help improve your content and make it more friendly for SEO:
 
-- [Google Keyword Planner](https://adwords.google.com/intl/en_au/home/tools/keyword-planner/){:rel="external"} --- Google’s own keyword research tool, designed mainly for AdWords (pay per click) but useful for SEO. 
+- [Google Keyword Planner](https://adwords.google.com/intl/en_au/home/tools/keyword-planner/){:rel="external"} --- Google’s own keyword research tool, designed mainly for AdWords (pay per click) but useful for SEO.
 - [Google Search Console](https://www.google.com/webmasters/tools/){:rel="external"} --- gives insights into what search queries caused your site to appear in search results and how much traffic they affected.
 - [Google Trends](https://www.google.com.au/trends/){:rel="external"} --- shows the popularity of search terms over time.
 - Google Autocomplete --- shows similar searches other people have made. You can use tools like [Ubersuggest](https://ubersuggest.io){:rel="external"} to find large amounts of autosuggest keywords.

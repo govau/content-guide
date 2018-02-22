@@ -4,11 +4,11 @@ order: 3
 exclude_from_search: true
 ---
 
-You can help guide people to the content that is relevant to certain keywords through the process of on-page optimisation. 
+You can help guide people to the content that is relevant to certain keywords through the process of on-page optimisation. This will include things like URLs, metadata, headings, internal links, page content and images.
 
 ### URLs
 
-The URL path should include the keyword phrase you’re targeting the most. Place it close to the start of the URL. The URL should be as concise and clear, and make sense to users. While there is no strict guide on length, it’s good practice to keep your URL below 100 characters. 
+The URL path should include the keyword phrase you’re targeting the most. Place it close to the start of the URL. The URL should be as concise and clear, and make sense to users. While there is no strict guide on length, it’s good practice to keep your URL below 100 characters.
 
 {% include guide_example.liquid
   title = "A SEO-friendly URL"
@@ -25,9 +25,9 @@ Metadata is often referred to as ‘tags’ that sit in the background of a webp
 
 #### Title tag
 
-The `title` tag tells users and search engines what your page is about. 
+The `title` tag tells users and search engines what your page is about.
 
-In a search result, your title tag typically appears as the first line, as a headline. 
+In a search result, your title tag typically appears as the first line, as a headline.
 
 Your title tag should be unique for each page and no more than 70 characters in length.
 
@@ -51,7 +51,13 @@ Keep your title short but relevant, using keywords. Titles that are too long wil
 The `meta name="description"`
 tag gives search engines a summary of what the page is about.
 
-Your description might be a couple of sentences, up to 160 characters in length. Google may use this description in your search result listing. This makes it a great opportunity to show the user why they should click. 
+Your description can be up to 300 characters in length.
+
+Google may use this description in your search result listing. This makes it a great opportunity to show the user why they should click.
+
+Google increased the character limit for meta descriptions in December 2017 to 300. But you do not need to update your existing meta descriptions.
+
+Don’t focus on the character limit. Aim to write engaging, user-focused, keyword-rich, plain English descriptions. Keep thinking about what will encourage a user to click through.
 
 {% capture content %}
 <figure>
@@ -64,19 +70,26 @@ Your description might be a couple of sentences, up to 160 characters in length.
   content=content
 %}
 
-Google might also use a snippet of relevant text from the content on your page as an alternative description. 
+Google might also use a snippet of relevant text from the content on your page as an alternative description.
 
-The goal is to write compelling text that will lead people to click on your site. Using keywords in your description will help reassure users that this is what they're looking for. 
+The goal is to write compelling text that will lead people to click on your site. Using keywords in your description will help reassure users that this is what they're looking for.
 
 #### Heading tags
 
 There are 6 heading tags.
 
-{% capture content %}
 <figure>
   <img src='{{site.baseurl}}/assets/seo-headings.png' alt='' />
   <figcaption>Caption: HTML heading tags from h1 to h6.</figcaption>
 </figure>
+
+{% capture content %}
+This Content Guide uses `h1`, `h2` and `h3` heading tags to break up content and make it easy to read.
+
+For example, in [Writing style]({{ site.baseurl }}/writing-style/):
+- `h1` = Writing style
+- `h2` = Tone
+- `h3` = Pronouns
 {% endcapture %}
 {% include guide_example.liquid
   title = "HTML heading tags"
@@ -87,7 +100,7 @@ A heading tag (`h`) denotes a section heading and the numbers refer to their ove
 
 Short content should only use 2 subheading levels (`h1` through `h3`). The `h1` is the main heading and the `h3` headings would be the smallest and have the lowest priority.
 
-Heading tags help search engines understand the topic that you're writing about. 
+Heading tags help search engines understand the topic that you're writing about.
 
 The `h1` tag is a great place to input your target keywords. There should be only 1 `h1` per page.
 
@@ -117,7 +130,7 @@ Be careful of duplicate content. This is when large blocks of content are comple
 
 ### Internal links
 
-Linking is the fundamental basis of the web. Search engines want to know you’re well connected with other pages and content. This is why linking out to other pages matters when it comes to search engine optimisation. 
+Linking is the fundamental basis of the web. Search engines want to know you’re well connected with other pages and content. This is why linking out to other pages matters when it comes to search engine optimisation.
 
 {% capture content %}
 <figure>
@@ -147,4 +160,3 @@ Image optimisation techniques:
 - Keep `alt` tags short but accurate and avoid repeating words.
 
 If the caption clearly explains the image [use a blank alt text]({{ site.baseurl }}/accessibility-inclusivity/#images-and-alt-text) (`alt=""`). Try to include keywords in the caption, don't create an `alt` text just for keywords.
-
