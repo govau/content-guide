@@ -133,10 +133,9 @@ Be careful of duplicate content. This is when large blocks of content are comple
 Linking is the fundamental basis of the web. Search engines want to know you’re well connected with other pages and content. This is why linking out to other pages matters when it comes to search engine optimisation.
 
 {% capture content %}
-<figure>
-  <img src='{{site.baseurl}}/assets/seo-links.png' alt="The content 'Writing for the Year 5 reading level, structuring your writing and writing in plain English will make it easier for users to read your content'. The link text 'structuring your writing' is highlighted and shows it links to the page https://guides.service.gov.au/content-guide/content-structure/" />
-  <figcaption>Caption: an internal link on a Digital Transformation Agency page.</figcaption>
-</figure>
+Use [responsive design methods](https://guides.service.gov.au/digital-service-standard/6-consistent-and-responsive/){:rel="external"} to make sure users can read your content on <strong>all</strong> their devices.
+
+The text 'responsive design methods' links to https://guides.service.gov.au/digital-service-standard/6-consistent-and-responsive/
 {% endcapture %}
 {% include guide_example.liquid
   title = "internal link in website content"
