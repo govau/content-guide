@@ -37,7 +37,7 @@ Keep your title short but relevant, using keywords. Titles that are too long wil
 
 {% capture content %}
 <figure>
-  <img src='{{site.baseurl}}/assets/seo-metatitle.png' alt="Example search result, with the title line highlighed." />
+  <img src='{% asset_path "seo-metatitle.png" %}' alt="Example search result, with the title line highlighted." />
   <figcaption>Caption: a title snippet for a Digital Transformation Agency page.</figcaption>
 </figure>
 {% endcapture %}
@@ -61,7 +61,7 @@ Don’t focus on the character limit. Aim to write engaging, user-focused, keywo
 
 {% capture content %}
 <figure>
-  <img src='{{site.baseurl}}/assets/seo-metadescription.png' alt="Example search result, with the page description highlighed." />
+  <img src='{% asset_path "seo-metadescription.png" %}' alt="Example search result, with the page description highlighed." />
   <figcaption>Caption: a meta description snippet for a Digital Transformation Agency page.</figcaption>
 </figure>
 {% endcapture %}
@@ -79,7 +79,7 @@ The goal is to write compelling text that will lead people to click on your site
 There are 6 heading tags.
 
 <figure>
-  <img src='{{site.baseurl}}/assets/seo-headings.png' alt='' />
+  <img src='{% asset_path "seo-headings.png" %}' alt='' />
   <figcaption>Caption: HTML heading tags from h1 to h6.</figcaption>
 </figure>
 
