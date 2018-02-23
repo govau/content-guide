@@ -1,6 +1,6 @@
 # Updates to the Content Guide
 
-### 1.4.1 &#8212; 23 February 2018
+### 1.4.0 &#8212; 23 February 2018
 
 Guidance on writing for search engines and users.
 
