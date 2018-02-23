@@ -8,7 +8,7 @@ You can help guide people to the content that is relevant to certain keywords th
 
 ### URLs
 
-The URL path should include the keyword phrase you’re targeting the most. Place it close to the start of the URL. The URL should be as concise and clear, and make sense to users. While there is no strict guide on length, it’s good practice to keep your URL below 100 characters.
+The URL path should include the keyword phrase you’re targeting the most. Place it close to the start of the URL. The URL should be concise and clear, and make sense to users. While there is no strict guide on length, it’s good practice to keep your URL below 100 characters.
 
 {% include guide_example.liquid
   title = "A SEO-friendly URL"
