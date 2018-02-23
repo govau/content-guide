@@ -10,6 +10,16 @@ List of the [resources used to write the GOV.AU Content Guide]({{ site.baseurl }
 
 ## Latest updates
 
+### 23 February 2018
+
+Guidance on [writing for search engines]({{ site.baseurl }}/search-engines/) and users:
+
+- what search engine optimisation is and how it works
+- how to use keywords correctly
+- on-page optimisation — working with URLs, metadata, headings, page content, links and images
+- links to SEO tools
+- quick SEO checklist
+
 ### 30 January 2018
 
 - Improved guidance on [readability and tools]({{ site.baseurl }}/writing-style/#readability).
