@@ -8,6 +8,8 @@ Staging site: https://content-guide.apps.y.cld.gov.au/
 
 Test sites: https://content-guide-[test-branchname].apps.y.cld.gov.au/
 
+Visual tests: https://github.com/govau/backstop-content-guide-tests
+
 ---
 
 ## Table of contents
