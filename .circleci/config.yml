@@ -18,7 +18,7 @@ jobs:
       # Run a html proofer over the site to check all internal links
       - run: sudo bundle exec htmlproofer tmp/_site_link_checker --disable-external --allow-hash-href --url-ignore "/(mailto:.*)/" --empty-alt-ignore
       - run: sudo JEKYLL_ENV=production bundle exec jekyll build --destination ./_site/
-      - run: sudo bundle exec jekyll hyde
+      # - run: sudo bundle exec jekyll hyde
       - run: mv _site/robots-production.txt _site/robots.txt
       # install packages: cf-cli and tree
       - run: sudo apt-get install apt-transport-https
