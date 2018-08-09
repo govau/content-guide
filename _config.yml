@@ -68,10 +68,10 @@ exclude: [
 ]
 
 
-# GEMS
+# PLUGINS
 #
 # These are additional Ruby gems this guide relies on.
-gems:
+plugins:
   - jekyll-assets # https://github.com/jekyll/jekyll-assets
   - rouge # https://github.com/jneen/rouge
 
