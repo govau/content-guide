@@ -7,11 +7,10 @@
 # TEAM SETTINGS
 team: Content Guide Team
 email_team: content@digital.gov.au
-url: https://guides.service.gov.au/content-guide/
-
 
 # GUIDE SETTINGS
 title: GOV.AU Content Guide
+url: https://guides.service.gov.au/content-guide/
 description: A guide to help Australian Government teams design simple, clear and fast content.
 github_url: https://github.com/govau/content-guide
 google_analytics: UA-61222473-19
