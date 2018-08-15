@@ -1,5 +1,8 @@
 # Updates to the Content Guide
 
+### 1.4.2 &#8212;15 Aug 2018
+Upgrade Ruby and Jekyll
+
 ### 1.4.1 &#8212;14 June 2018
 Fix typo on Punctuation and Grammar page
 
