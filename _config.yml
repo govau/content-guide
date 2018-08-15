@@ -8,9 +8,9 @@
 team: Content Guide Team
 email_team: content@digital.gov.au
 
-
 # GUIDE SETTINGS
 title: GOV.AU Content Guide
+url: https://guides.service.gov.au/content-guide/
 description: A guide to help Australian Government teams design simple, clear and fast content.
 github_url: https://github.com/govau/content-guide
 google_analytics: UA-61222473-19
@@ -68,10 +68,10 @@ exclude: [
 ]
 
 
-# GEMS
+# PLUGINS
 #
 # These are additional Ruby gems this guide relies on.
-gems:
+plugins:
   - jekyll-assets # https://github.com/jekyll/jekyll-assets
   - rouge # https://github.com/jneen/rouge
 
