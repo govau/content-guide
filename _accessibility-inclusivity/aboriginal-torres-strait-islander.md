@@ -71,7 +71,7 @@ Remember that English can be a second, third or even fourth language for many Fi
 
 Guidance on how to write for First Australian audiences:
 
-- [Communicating with Aboriginal and Torres Strait Islander Audiences --- Department of Prime Minister and Cabinet (2016)](https://www.dpmc.gov.au/resource-centre/indigenous-affairs/communicating-aboriginal-and-torres-strait-islander-audiences){:rel="external"}
+- [Communicating with Aboriginal and Torres Strait Islander Audiences --- Department of Prime Minister and Cabinet (2016)](https://www.pmc.gov.au/resource-centre/indigenous-affairs/communicating-aboriginal-and-torres-strait-islander-audiences){:rel="external"}
 - [Media Consumption and Communication Preferences of Aboriginal and Torres Strait Islander Audiences --- Department of Finance (2014)](http://www.finance.gov.au/advertising/indigenous-communications-research/){:rel="external"}
 
 ### Writing cultural terms
@@ -90,4 +90,4 @@ Make sure of the context and relevance before using First Australian cultural te
 "
 %}
 
-There's guidance on using First Australian cultural terms in the [Communicating with Aboriginal and Torres Strait Islander Audiences](https://www.dpmc.gov.au/resource-centre/indigenous-affairs/communicating-aboriginal-and-torres-strait-islander-audiences){:rel="external"} 2016 report.
+There's guidance on using First Australian cultural terms in the [Communicating with Aboriginal and Torres Strait Islander Audiences](https://www.pmc.gov.au/resource-centre/indigenous-affairs/communicating-aboriginal-and-torres-strait-islander-audiences){:rel="external"} 2016 report.
