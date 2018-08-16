@@ -11,7 +11,7 @@ We know [Australians prefer to use digital government services](https://www.dta.
 
 The Content Guide helps teams design content that is accessible to all users regardless of their ability and environment.
 
-The GOV.AU Content Guide and the [DTA Design Guide](http://guides.service.gov.au/design-guide) are part of a suite of guidance products designed to help teams build services that meet the [Digital Service Standard](https://www.dta.gov.au/standard/){:rel="external"}.
+The GOV.AU Content Guide and the [DTA Design Guide](https://designsystem.gov.au/) are part of a suite of guidance products designed to help teams build services that meet the [Digital Service Standard](https://www.dta.gov.au/standard/){:rel="external"}.
 
 ## Start here
 
