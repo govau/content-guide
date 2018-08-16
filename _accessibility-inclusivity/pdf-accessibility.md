@@ -28,7 +28,7 @@ To make a PDF accessible you must make sure structural elements such as headings
 
 Guidance on how to structure PDFs:
 
-- [PDF Techniques for WCAG 2.0 --- W3C](https://www.w3.org/TR/2014/NOTE-WCAG20-TECHS-20140408/pdf.html){:rel="external"}
+- [PDF Techniques for WCAG 2.0 --- W3C](https://www.w3.org/TR/WCAG20-TECHS/pdf.html){:rel="external"}
 - <a href="https://www.w3.org/TR/WCAG20-TECHS/general.html" rel="external">General Techniques for WCAG 2.0 --- W3C
 - [Accessibility for Adobe Acrobat --- Adobe](http://www.adobe.com/accessibility/products/acrobat.html){:rel="external"}
 - [Accessibility for Adobe InDesign --- Adobe](http://www.adobe.com/accessibility/products/indesign.html){:rel="external"}
