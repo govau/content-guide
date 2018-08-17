@@ -11,11 +11,6 @@ We know [Australians prefer to use digital government services](https://www.dta.
 
 The Content Guide helps teams design content that is accessible to all users regardless of their ability and environment.
 
-## Other guidance resources
-The [Content Strategy Guide](https://guides.service.gov.au/content-strategy/) helps content leaders in government teams set the foundation to create, deliver and govern content.
-
-The [Design System](https://designsystem.gov.au/) is a framework and set of tools to help designers and developers build accessible products and services.
-
 ## Start here
 
 If you're new to content design we suggest you read this first:
@@ -33,6 +28,11 @@ If you're an experienced content creator, check guidance on:
 We're working on [guidance on content types]({{ site.baseurl }}/types-of-content), including documents, forms and surveys.
 
 You'll find guidance on how we use the UI-Kit CSS framework to build common design patterns in the [DTA Design Guide](http://guides.service.gov.au/design-guide/).
+
+## Other guidance resources
+The [Content Strategy Guide](https://guides.service.gov.au/content-strategy/) helps content leaders in government teams set the foundation to create, deliver and govern content.
+
+The [Design System](https://designsystem.gov.au/) is a framework and set of tools to help designers and developers build accessible products and services.
 
 ## How we write this guide
 
