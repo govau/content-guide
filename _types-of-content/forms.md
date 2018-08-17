@@ -4,7 +4,7 @@ order: 5
 exclude_from_search: true
 ---
 
-Guidance on [forms, fields and labels](http://guides.service.gov.au/design-guide/components/forms-buttons/index.html) is available in the DTA Design Guide.
+There’s guidance on designing [accessible buttons](https://designsystem.gov.au/components/buttons/) and [text inputs](https://designsystem.gov.au/components/text-inputs/) in the Design System.
 
 ### Start with the user’s needs
 
