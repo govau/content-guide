@@ -40,6 +40,6 @@ Other resources:
 - [Queensland Government's Equivalent alternatives for auditory and visual content checklist 3](http://www.qld.gov.au/web/cue/module7/checkpoints/checkpoint03/){:rel="external"}
 - [Department of the Prime Minister and Cabinet's Communicating with Aboriginal and Torres Strait Islander Audiences](https://www.pmc.gov.au/resource-centre/indigenous-affairs/communicating-aboriginal-and-torres-strait-islander-audiences){:rel="external"}
 - [Vision Australia's Computer screen readers](https://www.visionaustralia.org/information/adaptive-technology/using-technology/computer-screen-readers){:rel="external"}
-- [People with Disability's Guide to Reporting Disability](http://www.pwd.org.au/library/guide-to-reporting-disability.html){:rel="external"}
+<!-- - [People with Disability's Guide to Reporting Disability](http://www.pwd.org.au/library/guide-to-reporting-disability.html){:rel="external"} -->
 - [Nielsen Norman Group's How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/){:rel="external"}
 - [Australian Network on Disability's Inclusive language](http://www.and.org.au/pages/inclusive-language.html){:rel="external"}
