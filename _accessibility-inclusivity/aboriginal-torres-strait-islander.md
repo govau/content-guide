@@ -23,7 +23,7 @@ Don't use:
 "
 %}
 
-The [Australian Indigenous Languages Database](http://austlang.aiatsis.gov.au/main.php){:rel="external"} from AIATSIS may help you identify the appropriate local language.
+The [Australian Indigenous Languages Database](https://collection.aiatsis.gov.au/austlang/search){:rel="external"} from AIATSIS may help you identify the appropriate local language.
 
 Use 'First Australians' or 'Aboriginal and Torres Strait Islander peoples' (note the plural) if you are not sure of the local language group or are talking about multiple groups.
 
