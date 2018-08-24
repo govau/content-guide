@@ -47,7 +47,7 @@ Grouping links together at the bottom of a page can disrupt readability too. Use
 
 Use keywords the user will understand that accurately describe the action.
 
-Guidance on [buttons and labels](http://guides.service.gov.au/design-guide/components/forms-buttons/index.html) is available in the DTA Design Guide.
+There’s guidance on designing [accessible buttons](https://designsystem.gov.au/components/buttons/) and [text inputs](https://designsystem.gov.au/components/text-inputs/) in the Design System.
 
 ### Use the email address as the link
 

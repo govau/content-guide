@@ -34,13 +34,12 @@ It's harder for users with mobile devices to consume long content.
 
 Plan forms that are easy to use on small touch screens.
 
-There's guidance on [making accessible forms](http://guides.service.gov.au/design-guide/components/forms-buttons/) in the DTA Design Guide.
+There’s guidance on designing [accessible buttons](https://designsystem.gov.au/components/buttons/) and [text inputs](https://designsystem.gov.au/components/text-inputs/) in the Design System.
 
 ### Use clear typography
 
 Use typography and accessible contrasts that make text readable on all devices.
 
-There's [guidance on typography and colours](http://guides.service.gov.au/design-guide/foundations/) in the DTA Design Guide.
 
 ### Avoid PDFs and other documents
 

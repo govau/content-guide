@@ -1,6 +1,9 @@
 # Updates to the Content Guide
 
-### 1.4.2 &#8212;15 Aug 2018
+### 1.4.21 &#8212;17 Aug 2018
+Replace Design Guide references with appropriate pages in Design System
+
+### 1.4.20 &#8212;15 Aug 2018
 Upgrade Ruby and Jekyll
 
 ### 1.4.1 &#8212;14 June 2018
