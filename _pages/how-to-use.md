@@ -27,8 +27,6 @@ If you're an experienced content creator, check guidance on:
 
 We're working on [guidance on content types]({{ site.baseurl }}/types-of-content), including documents, forms and surveys.
 
-You'll find guidance on how we use the UI-Kit CSS framework to build common design patterns in the [DTA Design Guide](http://guides.service.gov.au/design-guide/).
-
 ## Other guidance resources
 The [Content Strategy Guide](https://guides.service.gov.au/content-strategy/) helps content leaders in government teams set the foundation to create, deliver and govern content.
 
