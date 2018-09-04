@@ -12,7 +12,7 @@ You should still make sure the PDF content is available in another format such a
 
 ### PDFs are not accessible on mobile devices
 
-On mobile devices, PDFs do not comply with [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/){:rel="external"} due to a lack of support for document structure.
+On mobile devices, PDFs do not comply with [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/){:rel="external"} due to a lack of support for document structure.
 
 People can only use assistive technologies to read PDFs if they are using a desktop or laptop device.
 
@@ -28,8 +28,7 @@ To make a PDF accessible you must make sure structural elements such as headings
 
 Guidance on how to structure PDFs:
 
-- [PDF Techniques for WCAG 2.0 --- W3C](https://www.w3.org/TR/WCAG20-TECHS/pdf.html){:rel="external"}
-- <a href="https://www.w3.org/TR/WCAG20-TECHS/general.html" rel="external">General Techniques for WCAG 2.0 --- W3C
+- [General Techniques for WCAG 2.1 --- W3C](https://www.w3.org/WAI/WCAG21/Techniques/){:rel="external"}
 - [Accessibility for Adobe Acrobat --- Adobe](http://www.adobe.com/accessibility/products/acrobat.html){:rel="external"}
 - [Accessibility for Adobe InDesign --- Adobe](http://www.adobe.com/accessibility/products/indesign.html){:rel="external"}
 

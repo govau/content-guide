@@ -1,10 +1,10 @@
 ---
-title: "WCAG 2.0 for content authors"
+title: "WCAG 2.1 for content authors"
 order: 12
 exclude_from_search: true
 ---
 
-The Web Content Accessibility Guidelines 2.0 ([WCAG 2.0](https://www.w3.org/WAI/intro/wcag){:rel="external"}) outlines ways to make digital content accessible to the broadest population.
+The Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/intro/wcag){:rel="external"}) outlines ways to make digital content accessible to the broadest population.
 
 The [Australian Government Digital Service Standard](https://www.dta.gov.au/standard/){:rel="external"} requires conformance to WCAG 2.0 level AA, which includes level A. There are 38 criteria that apply at level AA, plus some from level AAA we recommend.
 
@@ -16,9 +16,9 @@ Meeting WCAG is an important step in making content accessible. But the needs of
 
 Make sure you do your own research to understand the needs of all your users at every stage.
 
-### WCAG 2.0 content-related requirements
+### WCAG 2.1 content-related requirements
 
-Each WCAG 2.0 criteria is linked to the relevant section of [How to meet WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/){:rel="external"}.
+Each WCAG 2.1 criteria is linked to the relevant section of [How to meet WCAG 2.1](https://www.w3.org/WAI/WCAG21/quickref/){:rel="external"}.
 
 #### Images
 Only include images on a page if they meet a real user need.
