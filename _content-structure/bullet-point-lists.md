@@ -92,11 +92,11 @@ Like this:
 > You can't use the same form of identification for name and address.
 >
 > Proof of name:
-> - driver’s license
+> - driver’s licence
 > - marriage certificate
 >
 > Proof of address:
-> - driver’s license
+> - driver’s licence
 > - bank statement
 > - bill
 
@@ -105,10 +105,10 @@ Not this:
 > - your referral document
 > - 2 forms of identification to prove who you are and where you live (you can’t use the same form for both name and address):
 >   - proof of name:
->     - driver’s license
+>     - driver’s licence
 >     - marriage certificate
 >   - proof of address:
->     - driver’s license
+>     - driver’s licence
 >     - bank statement
 >     - bill
 "
