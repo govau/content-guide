@@ -27,7 +27,7 @@ See [images and alt text](#images-and-alt-text) for help.
 
 ##### Image alt text
 
-[WCAG criteria 1.1.1 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-text-equiv-all){:rel="external"}
+[WCAG criteria 1.1.1 (Level A)](https://www.w3.org/WAI/WCAG21/quickref/#text-alternatives){:rel="external"}
 
 Prepare alt text for images.
 
@@ -35,13 +35,13 @@ Alt text can be included in an HTML page and also in Word documents, PowerPoint 
 
 ##### Images of text
 
-[WCAG criteria 1.4.5 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-text-presentation){:rel="external"}
+[WCAG criteria 1.4.5 (Level AA)](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text){:rel="external"}
 
 Use real text rather than images of text whenever technically possible (logos can be an exception).
 
 ##### Use of colour
 
-[WCAG criteria 1.4.1 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-without-color){:rel="external"}
+[WCAG criteria 1.4.1 (Level A)](https://www.w3.org/WAI/WCAG21/quickref/#use-of-color){:rel="external"}
 
 Make sure that colour is not the only visual means of conveying information in graphs and diagrams.
 
@@ -57,7 +57,7 @@ Read [video](#video-accessibility) for help.
 
 ##### Audio-only and video-only --- pre-recorded media
 
-[WCAG criteria 1.2.1 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-av-only-alt){:rel="external"}
+[WCAG criteria 1.2.1 (Level A)](https://www.w3.org/WAI/WCAG21/quickref/#audio-only-and-video-only-prerecorded){:rel="external"}
 
 Create a transcript that tells the same story and presents the same information as the pre-recorded content.
 
@@ -67,19 +67,19 @@ Read [types of content --- video]({{ site.baseurl }}/types-of-content/#video) fo
 
 ##### Captions --- pre-recorded video
 
-[WCAG criteria 1.2.2 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-captions){:rel="external"}
+[WCAG criteria 1.2.2 (Level A)](https://www.w3.org/WAI/WCAG21/quickref/#captions-prerecorded){:rel="external"}
 
 Accurate captions must be provided. Don't rely on auto-captioning options.
 
 ##### Audio description or media alternative --- pre-recorded audio
 
-[WCAG criteria 1.2.3 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-av-only-alt){:rel="external"}
+[WCAG criteria 1.2.3 (Level A)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-or-media-alternative-prerecorded){:rel="external"}
 
 At level A, a transcript is a sufficient alternative.  At level AA audio description must also be provided.
 
 ##### Audio description --- pre-recorded video
 
-[WCAG criteria 1.2.5 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-audio-desc-only){:rel="external"}
+[WCAG criteria 1.2.5 (Level AA)](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-prerecorded){:rel="external"}
 
 Audio description is required for instructional videos to describe the action happening on-screen.
 
@@ -87,7 +87,7 @@ Audio description is usually not required for speeches or interviews, unless the
 
 ##### Sign language --- pre-recorded video
 
-[WCAG criteria 1.2.6 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-media-equiv-sign){:rel="external"}
+[WCAG criteria 1.2.6 (Level AAA)](https://www.w3.org/WAI/WCAG21/quickref/#sign-language-prerecorded){:rel="external"}
 
 We recommend the inclusion of Auslan for health and safety information and compliance information or situations.
 
@@ -99,7 +99,7 @@ Read [headings and sub-headings]({{ site.baseurl }}/content-structure/#headings-
 
 #### Information structure
 
-[WCAG criteria  1.3.1 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-content-structure-separation-programmatic){:rel="external"}
+[WCAG criteria  1.3.1 (Level A)](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships){:rel="external"}
 
 Good heading structure is essential. Headings are used for navigation by some users.
 
@@ -111,7 +111,7 @@ Use clear row and column headings for tables. This makes it easier to understand
 
 #### Headings, labels and instructions
 
-[WCAG criteria 2.4.6 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-descriptive){:rel="external"}, [2.4.10 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-headings){:rel="external"} and [3.3.2 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-minimize-error-cues){:rel="external"}
+[WCAG criteria 2.4.6 (Level AA)](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels){:rel="external"}, [2.4.10 (Level AAA)](https://www.w3.org/WAI/WCAG21/quickref/#section-headings){:rel="external"} and [3.3.2 (Level A)](https://www.w3.org/WAI/WCAG21/quickref/#labels-or-instructions){:rel="external"}
 
 Headings must clearly describe the topic or the following section. Use section headings to organise the content.
 
@@ -119,7 +119,7 @@ Provide clear labels and instructions with forms. Labels must clearly describe t
 
 #### Error suggestions and help
 
-[WCAG criteria 3.3.3 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-minimize-error-suggestions){:rel="external"} and [3.3.5 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-minimize-error-context-help){:rel="external"}
+[WCAG criteria 3.3.3 (Level AA)](https://www.w3.org/WAI/WCAG21/quickref/#error-suggestion){:rel="external"} and [3.3.5 (Level AAA)](https://www.w3.org/WAI/WCAG21/quickref/#help){:rel="external"}
 
 There are 2 related criteria:
 - The 'error suggestion' criteria describes the error the user has made and then adds clarity about what to do to resolve it.
@@ -129,7 +129,7 @@ There are 2 related criteria:
 
 #### Use of colour
 
-[WCAG criteria 1.4.1 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-without-color){:rel="external"}
+[WCAG criteria 1.4.1 (Level A)](https://www.w3.org/WAI/WCAG21/quickref/#use-of-color){:rel="external"}
 
 Make sure that colour is not the only visual way of presenting information.
 
@@ -137,7 +137,7 @@ People with visual impairment may not be able to see colours.
 
 #### Contrast
 
-[WCAG criteria 1.4.3 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-contrast){:rel="external"} and [1.4.6 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast7){:rel="external"}
+[WCAG criteria 1.4.3 (Level AA)](https://www.w3.org/WAI/WCAG21/quickref/#contrast-minimum){:rel="external"} and [1.4.6 (Level AAA)](https://www.w3.org/WAI/WCAG21/quickref/#contrast-enhanced){:rel="external"}
 
 Contrast relates to the level of brightness between the content and the background.
 
@@ -147,13 +147,13 @@ There are different levels of contrast involved in meeting AA and AAA criteria.
 
 #### Sensory characteristics
 
-[WCAG criteria 1.3.3 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-content-structure-separation-understanding){:rel="external"}
+[WCAG criteria 1.3.3 (Level A)](https://www.w3.org/WAI/WCAG21/quickref/#sensory-characteristics){:rel="external"}
 
 Don't rely only on sensory characteristics such as shape, size, visual location, orientation, or sound. For example, don’t say ‘press the round button’ or ‘the button on the right’.
 
 #### Page title
 
-[WCAG criteria 2.4.2 (Level A)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-title){:rel="external"}
+[WCAG criteria 2.4.2 (Level A)](https://www.w3.org/WAI/WCAG21/quickref/#page-titled){:rel="external"}
 
 The page title is the first thing a screen reader user will hear so it is important to write a clear title.
 
@@ -161,7 +161,7 @@ Search results usually present the page title so it must clearly describe the pa
 
 #### Link purpose
 
-[WCAG criteria 2.4.4 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-refs){:rel="external"} and [2.4.9 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-link){:rel="external"}
+[WCAG criteria 2.4.4 (Level A)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context){:rel="external"} and [2.4.9 (Level AAA)](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-link-only){:rel="external"}
 
 The words used in a [hyperlink]({{ site.baseurl }}/content-structure/#hyperlinks) should help the user understand what they are linking to.
 
@@ -171,20 +171,20 @@ Content with a good [readability level]({{ site.baseurl }}/writing-style/#readab
 
 ### Unusual words
 
-[WCAG criteria 3.1.3 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-meaning-idioms){:rel="external"}
+[WCAG criteria 3.1.3 (Level AAA)](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words){:rel="external"}
 
 Explain unusual words by providing a glossary.
 
 #### Abbreviations
 
-[WCAG criteria 3.1.4 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-meaning-located){:rel="external"}
+[WCAG criteria 3.1.4 (Level AAA)](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations){:rel="external"}
 
 Every page should expand all abbreviations and acronyms at their
 first use.
 
 #### Reading level
 
-[WCAG criteria 3.1.5 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-meaning-supplements){:rel="external"}
+[WCAG criteria 3.1.5 (Level AAA)](https://www.w3.org/WAI/WCAG21/quickref/#reading-level){:rel="external"}
 
 [Plain English]({{ site.baseurl }}/writing-style/#plain-english) is beneficial to all readers, but essential for some.
 
