@@ -1,5 +1,5 @@
 ---
-title: "WCAG 2.1 for content authors"
+title: "WCAG for content authors"
 order: 12
 exclude_from_search: true
 ---
