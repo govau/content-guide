@@ -23,7 +23,7 @@ Sources:
 
 ### Abilities and expectations of Australians vary
 
-- 18.3% of Australians live with a disability affecting their daily activities.
+- 18.3% of Australians live with disability affecting their daily activities.
 - 12.1% of 35 to 44 year olds live with disability.
 - 50.7% of Australians aged 65 and over live with disability.
 - 85.4% of Australians aged 90 and over live with disability.
