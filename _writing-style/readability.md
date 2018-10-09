@@ -46,7 +46,7 @@ The 'Flesch reading ease' index is a common measure for content. Many readabilit
 
 A score of 100 on the Flesch reading ease index should be readable by someone who reads at US school Grade 5 level. This is an age 10 to 11 reading level. But it's better to aim for age 9 (between US Grade 3 and Grade 4).
 
-There are other popular scales used by readability tools. For example, [Hemmingway Editor](http://www.hemingwayapp.com/){:rel="external"} uses the automated readability index, which is also based on US school grades.
+There are other popular scales used by readability tools. For example, [Hemingway Editor](http://www.hemingwayapp.com/){:rel="external"} uses the automated readability index, which is also based on US school grades.
 
 ### Don't just test the reading level
 
