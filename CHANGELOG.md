@@ -1,17 +1,21 @@
 # Updates to the Content Guide
 
-### 1.4.21 &#8212;17 Aug 2018
-Replace Design Guide references with appropriate pages in Design System
+### 1.4.4 &#8212;10 October 2018
+- Fixed typos (thanks [davidjb](https://github.com/davidjb) 🤗 ).
+- Added detail about test environments to README.md.
 
-### 1.4.20 &#8212;15 Aug 2018
-Upgrade Ruby and Jekyll
+### 1.4.3 &#8212;17 August 2018
+Replaced Design Guide references with appropriate pages in Design System.
+
+### 1.4.2 &#8212;15 August 2018
+Upgraded Ruby and Jekyll.
 
 ### 1.4.1 &#8212;14 June 2018
-Fix typo on Punctuation and Grammar page
+Fixed typo on Punctuation and Grammar page.
 
 ### 1.4.0 &#8212; 23 February 2018
 
-Guidance on writing for search engines and users.
+Added guidance on writing for search engines and users.
 
 ### 1.3.2 &#8212; 30 January 2018
 
