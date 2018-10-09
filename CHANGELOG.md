@@ -1,8 +1,9 @@
 # Updates to the Content Guide
 
 ### 1.4.4 &#8212;10 October 2018
-- Fixed typos (thanks [davidjb](https://github.com/davidjb) 🤗 ).
+- Fixed typos (thanks [davidjb](https://github.com/davidjb) 🤗).
 - Added detail about test environments to README.md.
+- Tidied up this file.
 
 ### 1.4.3 &#8212;17 August 2018
 Replaced Design Guide references with appropriate pages in Design System.
