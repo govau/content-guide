@@ -12,6 +12,13 @@ Visual tests: https://github.com/govau/backstop-content-guide-tests
 
 ---
 
+## Test environments (automatic provisioning)
+- Branches deployed with the 'test-' prefix will be deployed to a new environment.
+- `https://content-guide-[test-branchname].apps.y.cld.gov.au/` 
+- example branch `test-staging` https://content-guide-test-staging.apps.y.cld.gov.au/
+
+---
+
 ## Table of contents
 
 1. [Feedback](#feedback)
