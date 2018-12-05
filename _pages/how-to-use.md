@@ -7,7 +7,7 @@ permalink: "/how-to-use-guide/"
 excerpt: "How to get started with this content guide for Australian Government teams."
 ---
 
-We know [Australians prefer to use digital government services](https://www.dta.gov.au/blog/how-do-australians-really-feel-about-digital-government-services/){:rel="external"}. We need to make it easy for all users to access the services they need.
+We know [Australians prefer to use digital government services](http://webarchive.nla.gov.au/gov/20180615063802/https://www.dta.gov.au/blog/how-do-australians-really-feel-about-digital-government-services/){:rel="external"}. We need to make it easy for all users to access the services they need.
 
 The Content Guide helps teams design content that is accessible to all users regardless of their ability and environment.
 
