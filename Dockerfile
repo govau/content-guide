@@ -1,7 +1,5 @@
 FROM circleci/ruby:2.5.1
 
-#RUN sudo usermod -u 1000 circleci
-
 RUN gem update && gem install jekyll
 
 RUN echo '#!/usr/bin/env bash \n\
