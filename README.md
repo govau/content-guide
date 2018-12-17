@@ -61,7 +61,7 @@ You have two options to instantiate a local environment. Use the Docker option w
 
 #### Option 1: Docker
 
-This option creates a Docker container with all required dependencies and their versions and allows you to keep your host clean. It lets you move between similar projects that require different versions of the same dependencies.
+This option creates a Docker container with all required dependencies and their versions and allows you to keep your host clean. It lets you move between similar projects that require different versions of the same dependencies more easily.
 
 Build the local Docker container:
 ```
