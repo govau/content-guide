@@ -68,10 +68,12 @@ Build the local Docker container:
 docker build -t content-guide .
 ```
 
-And run it while in the `content-guide` directory. This will resolve all application dependencies and serve over port 80 while watching over local changes.
+And run it while in the `content-guide` directory. This will resolve all application dependencies, serve over port 80 and watch over local changes.
 ```
 docker run --rm --volume="$PWD:/workdir" -p 80:4000 -it content-guide
 ```
+
+Point your browser to your docker host, eg `http://localhost/content-guide/`
 
 #### Option 2: DIY
 
