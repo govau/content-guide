@@ -1,5 +1,10 @@
 # Updates to the Content Guide
 
+### 1.4.5 &#8212;17 December 2018
+- Address a broken link
+- Add Docker option for local development
+- Updated gitignore
+
 ### 1.4.4 &#8212;10 October 2018
 - Fixed typos (thanks [davidjb](https://github.com/davidjb) 🤗).
 - Added detail about test environments to README.md.
