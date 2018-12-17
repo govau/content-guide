@@ -49,7 +49,31 @@ This guide is built with [Jekyll](http://jekyllrb.com/).
 
 You would only **need** to do the following if you are a developer. If you are a content editor you can access and editing content for the guide directly via GitHub. However, it can be nice having the guide locally to work and preview --- feel free to ask a developer if you would like to set up a local instance of the guide.
 
-### Requirements
+Prep:
+```
+git clone github.com:govau/content-guide
+cd content-guide
+git submodule init
+git submodule update
+```
+
+You have two options to instantiate a local environment. Use the Docker option which handles dependency management automatically, or do it yourself.
+
+#### Option 1: Docker
+
+This option creates a Docker container with all required dependencies and their versions and allows you to keep your host clean. It lets you move between similar projects that require different versions of the same dependencies.
+
+Build the local Docker container:
+```
+docker build -t content-guide .
+```
+
+And run it while in the `content-guide` directory. This will resolve all application dependencies and serve over port 80 while watching over local changes.
+```
+docker run --rm --volume="$PWD:/workdir" -p 80:4000 -it content-guide
+```
+
+#### Option 2: DIY
 
 - Ruby
 - Jekyll
@@ -61,10 +85,6 @@ We will likely change this, and instead package up everything needed to produce 
 Setup locally
 
 ```
-git clone git@github.com:govau/content-guide.git 
-cd content-guide
-git submodule init
-git submodule update
 gem install bundler
 bundle install
 ```

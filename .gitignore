@@ -4,6 +4,7 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+vendor
 
 ### Jekyll Assets ###
 .asset-cache
