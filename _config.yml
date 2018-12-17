@@ -64,7 +64,9 @@ exclude: [
   "manifest*.yml",
   "yarn.lock",
   "README.md",
-  "*.sublime-project"
+  "*.sublime-project",
+  "Dockerfile",
+  ".asset-cache"
 ]
 
 
