@@ -30,8 +30,8 @@ Guidance on how to structure PDFs:
 
 - [PDF Techniques for WCAG 2.0 --- W3C](https://www.w3.org/TR/WCAG20-TECHS/pdf.html){:rel="external"}
 - <a href="https://www.w3.org/TR/WCAG20-TECHS/general.html" rel="external">General Techniques for WCAG 2.0 --- W3C
-- [Accessibility for Adobe Acrobat --- Adobe](http://www.adobe.com/accessibility/products/acrobat.html){:rel="external"}
-- [Accessibility for Adobe InDesign --- Adobe](http://www.adobe.com/accessibility/products/indesign.html){:rel="external"}
+- [Accessibility for Adobe Acrobat --- Adobe](https://www.adobe.com/accessibility/products/acrobat.html){:rel="external"}
+- [Accessibility for Adobe InDesign --- Adobe](https://www.adobe.com/accessibility/products/indesign.html){:rel="external"}
 
 ### Make it clear you're linking to a PDF file
 
