@@ -10,7 +10,7 @@ Use simple tables to organise and compare certain kinds of information. Create t
 
 If a table cell has more than 1 sentence there may be a better format for the information (for example, a list).
 
-Some kinds of data may not be right for a table. It may be better to publish technical data from a spreadsheet as a dataset on [data.gov.au](http://data.gov.au){:rel="external"} and link to it.
+Some kinds of data may not be right for a table. It may be better to publish technical data from a spreadsheet as a dataset on [data.gov.au](https://data.gov.au){:rel="external"} and link to it.
 
 Find out how the information can best meet the user's need.
 
