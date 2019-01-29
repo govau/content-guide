@@ -57,6 +57,6 @@ This avoids getting caught up in semantics and is respectful of:
 - religious affiliations
 - values or philosophical differences
 
-More [guidance on inclusive language](http://www.and.org.au/pages/inclusive-language.html){:rel="external"} is available from the Australian Network on Disability.
+More [guidance on inclusive language](https://www.and.org.au/pages/inclusive-language.html){:rel="external"} is available from the Australian Network on Disability.
 
-<!-- People with Disability have [examples of how to talk about disability](http://pwd.org.au/library/guide-to-reporting-disability.html){:rel="external"}. -->
+<!-- People with Disability have [examples of how to talk about disability](https://pwd.org.au/library/guide-to-reporting-disability.html){:rel="external"}. -->
