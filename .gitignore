@@ -10,7 +10,7 @@ _site/
 .asset-cache
 
 ### npm ###
-node_modules
+/node_modules
 npm-debug.log
 
 ### Generated data ###
