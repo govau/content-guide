@@ -13,9 +13,6 @@ vendor
 node_modules
 npm-debug.log
 
-### Design System ###
-pancake
-
 ### Generated data ###
 _data/*.json
 _assets/scss/.sass-lint.yml
