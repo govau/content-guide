@@ -1,117 +1,69 @@
-<nav class="skip-to">
-  <a href="#content">Skip to main content</a>
-  {% comment %} TODO is there a better way of deciding whether to show the local nav skip link? {% endcomment %}
-  {% if page.collection %}<a href="#nav">Skip to local navigation</a>{% endif %}
+<nav class="au-skip-link" aria-label="skip links navigation">
+  <a class="au-skip-link__link" href="#content">Skip to main content</a>
+  <a class="au-skip-link__link" href="#main-nav">Skip to main navigation</a>
 </nav>
 
-<header role="banner">
-  {% comment %}
-    This is the (internal) site logo and site-nav.
+<header class="au-grid au-header au-header--dark" role="banner">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7">
+        <a class="au-header__brand" href="{{ site.baseurl }}/">
+          <img src="{% asset_path "australian-government-white.png" %}" alt="Australian Government">
+          <div class="au-header__text">
+            <h2 class="au-header__heading">{{ site.title }}</h2>
+            {% comment %}<div class="au-header__subline">Simple explaination of the website</div>{% endcomment %}
+          </div>
+        </a>
+      </div>
+      <div class="col-md-5 site-search">
+        <form class="search__searchbox" role="search" autocomplete="off" action="{{ site.baseurl }}/search/" method="get">
+          <input type="text" class="au-text-input au-text-input--dark round--left" name="q" id="search-input__header" placeholder="Content Guide">
+          <button type="submit" class="au-btn au-btn--dark icon icon--search round--right" id="search-btn__header"><span class="search-btn__label">Search</span></button>
+        </form>
+      </div>
+    </div>
+  </div>
+  </div>
 
-    Logic: only show if it isn’t the homepage.
-  {% endcomment %}
-  {% if page.url != '/' %}
-    <section class="page-header">
-      <div class="wrapper">
-        <div class="page-header__logo">
-          <a href="{{ site.baseurl }}/" class="logo">
-            <svg role="img" title="Content Guide logo" aria-labelledby="dc_logo-title">
-              <title id="dc_logo-title" lang="en">Content Guide logo</title>
-              <use xlink:href="{% asset_path "spritesheet.svg" %}#dc_logo"/>
-            </svg>
-            <span>{{ site.title }}</span>
-          </a>
-
-          <div class="site-search">
-            <form action="{{ site.baseurl }}/search/" role="search" method="get">
-              <label for="site-search-text">Search</label>
-              <div class="site-search-border">
-                <input type="search" name="q" id="site-search-text" title="Search" class="search-input"/>
-                <input class="submit" type="submit" value="Search"/>
+  <nav id="main-nav" class="au-main-nav au-main-nav--dark" aria-label="main navigation">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div id="main-nav-default" class="au-main-nav__content">
+            <button
+              aria-controls="main-nav-default"
+              class="au-main-nav__toggle au-main-nav__toggle--open"
+              onClick="return AU.mainNav.Toggle( this )">
+              Menu
+            </button>
+            <div class="au-main-nav__menu">
+              <div class="au-main-nav__menu-inner">
+                <div class="au-main-nav__focus-trap-top"></div>
+                <button
+                  aria-controls="main-nav-default"
+                  class="au-main-nav__toggle au-main-nav__toggle--close"
+                  onClick="return AU.mainNav.Toggle( this )">
+                  Close
+                </button>
+                <ul class="au-link-list">
+                  <li><a href="/">Home</a></li>
+                  <li><a href="/digital-service-standard">Digital Service Standard</a></li>
+                  <li><a href="/topics">Topics</a></li>
+                  <li><a href="/content-strategy-guide">Content Strategy Guide</a></li>
+                  <li class="active"><a href="/content-guide/" aria-current="page">Content Guide</a></li>
+                </ul>
+                <div class="au-main-nav__focus-trap-bottom"></div>
               </div>
-            </form>
-          </div><!--site-search-->
-
-          {% comment %}<span class="badge--default">Draft</span>{% endcomment %}
+            </div>
+            <div
+              class="au-main-nav__overlay"
+              aria-controls="main-nav-default"
+              onClick="return AU.mainNav.Toggle( this )">
+            </div>
+          </div>
         </div>
       </div>
-    </section>
-  {% endif %}
-
-  {% comment %}
-    This is the homepage header hero.
-
-    Logic: only show if this is the homepage.
-  {% endcomment %}
-  {% if page.url == '/' %}
-    <section class="hero">
-      <div class="wrapper">
-        <div class="page-header__logo">
-          <a href="{{ site.baseurl }}/" class="logo">
-            <svg role="img" title="Content Guide logo" aria-labelledby="dc_logo-title">
-              <title id="dc_logo-title" lang="en">Content Guide logo</title>
-              <use xlink:href="{% asset_path "spritesheet.svg" %}#dc_logo"/>
-            </svg>
-
-            <h1>{{ site.title }}</h1>
-          </a>
-
-          {% comment %}<span class="badge--default">Draft</span>{% endcomment %}
-
-          <div class="site-search">
-             <form action="{{ site.baseurl }}/search/" role="search" method="get">
-               <label for="site-search-text">Search</label>
-               <div class="site-search-border">
-                 <input type="search" name="q" id="site-search-text" title="Search" class="search-input"/>
-                 <input class="submit" type="submit" value="Search"/>
-               </div>
-             </form>
-          </div><!--site-search-->
-        </div>
-
-        <div class="site-description">
-          <p class="tagline">{{ site.description }}</p>
-        </div>
-      </div>
-    </section>
-  {% endif %}
-
-  {% comment %}
-    Only show if this if it isn’t the homepage.
-  {% endcomment %}
-  {% unless page.url == '/' %}
-    <nav class="breadcrumbs" aria-label="breadcrumb">
-      {% comment %}
-        Our breadcrumb logic is very simple, and runs 2-tiers deep. It assumes the
-        usage of Jekyll Collections: https://jekyllrb.com/docs/collections
-
-        The capture is only done for brevity and future re-use.
-
-        The if condition sets the page title to ‘Overview’ if it’s the index page
-        for its page.parent.
-      {% endcomment %}
-      {% capture page_title_slugified %}{{ page.title | slugify }}{% endcapture %}
-
-      <div class="wrapper">
-        <ul>
-          <li><a href="{{site.baseurl}}/">Home</a></li>
-
-          <!-- {% for collection in site.collections %}
-            {% if collection.label == page.collection %}
-              <li><a href="{{ site.baseurl }}/{{ collection.label }}">{{ collection.title }}</a></li>
-              {% break %}
-            {% endif %}
-          {% endfor %} -->
-
-          <li>
-            {% if page_title_slugified == page.parent %}
-              Overview
-            {% else %}
-              {{ page.title }}
-            {% endif %}
-          </li>
-        </ul>
-      </div>
-    </nav>
-  {% endunless %}
+    </div>
+  </nav>
 </header>
+

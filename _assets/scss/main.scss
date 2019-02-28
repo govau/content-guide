@@ -1,16 +1,79 @@
 @charset 'utf-8';
 
-$gov-ui-kit-image-base-url: '../images/uikit/';
+$guide-color-primary: #45c2f0;
 
-@import '../vendor/dto-ui-kit/assets/sass/ui-kit';
-@import 'guide';
+// load in design systems sass files
+$AU-color-foreground-action:     #00698f !default;
+$AU-color-foreground-focus:      #9263DE !default;
+$AU-color-foreground-text:       #313131 !default;
+$AU-color-background:            #ffffff !default;
+@import '../vendor/ds/main';
 
-@import 'heading-overrides';
+// load in card styles from dta-gov-au
+$AU-color-foreground-background:                #ffffff;
+$AU-color-background-alt-shade-suggestion:      #e0e0e0;
+$AU-colordark-foreground-border-suggestion:     #8c8c8c;
+$AU-colordark-background-shade-suggestion:      #323232;
+@import '../vendor/dta-gov-au/dta-gov-au.mixin.card-cta-link';
+@import '../vendor/dta-gov-au/dta-gov-au.base.card';
 
-p.longdesc {
-  max-width: none;
+// load in search styles from guides
+@import '../vendor/guides/icons';
+@import '../vendor/guides/search';
+
+
+body {
+  padding: 0;
+  margin: 0;
 }
 
-.list-search {
-  margin: 0;
+.au-header {
+  padding-bottom: 0;
+  box-shadow: 0 0 5px 0 grey;
+
+  &.au-header--dark {
+    background: $AU-color-foreground-text;
+  }
+
+  .au-header__brand img {
+    max-height: 80px;
+  }
+}
+
+.au-body.au-body--dark {
+  a {
+    color: $guide-color-primary;
+  }
+}
+
+.au-main-nav.au-main-nav--dark {
+  border-color: $guide-color-primary;
+  padding-top: 1rem;
+
+  &, .au-main-nav__menu {
+    background-color: unset;
+  }
+  a:hover {
+    background: unset;
+  }
+  .active a {
+    &, &:hover {
+      border-color: #fff;
+    }
+    &:hover {
+      background: unset;
+    }
+  }
+}
+
+main#content {
+  padding-top: 2rem;
+
+  h2, h3, h4 {
+    margin-top: 2.5rem;
+  }
+
+  .au-card h3.au-card__title {
+    margin-top: 0;
+  }
 }

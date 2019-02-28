@@ -5,7 +5,6 @@ excerpt: "A content guide to help Australian Government teams design better cont
 ---
 
 ## Sources
-
 List of the [resources used to write the GOV.AU Content Guide]({{ site.baseurl }}/sources/).
 
 ## Latest updates
