@@ -1,0 +1,117 @@
+/*
+Colours
+
+A basic palette of colours that are clear and accessible.
+
+We are finalising the colours &mdash; for help <a href="https://github.com/AusDTO/gov-au-ui-kit/issues" rel="external">log a GitHub issue</a>.
+
+Collection: Foundation
+
+Style guide: Colours
+*/
+
+/*
+Colours palette
+
+Style guide: Colours.1 Colours palette
+*/
+
+// Colour constants
+
+$black:         #000;
+$non-black:     #313131;
+$grey:          #6e6e6e;
+$light-grey:    lighten($grey, 30%);
+$non-white:     #f0f3f5;
+$white:         #fff;
+
+$aqua:          #18788d;
+$dark-aqua:     darken($aqua, 5%);
+$darker-aqua:   darken($aqua, 10%);
+$light-aqua:    lighten($aqua, 30%);
+$lighter-aqua:  lighten($aqua, 60%);
+
+$navy:          #043751;
+$dark-navy:     darken($navy, 10%);
+
+$maroon:        #880e48;
+
+/*
+Contextual colours palette
+
+Style guide: Colours.2 Contextual colours palette
+*/
+
+$green:         #007554;
+$light-green:   #e6efc2;
+
+$red:           #c00;
+$light-red:     #f9dede;
+
+$yellow:        #f9c642;
+$light-yellow:  #fdf7dc;
+
+$blue:          #00bfe9;
+$light-blue:    #e8f5fa;
+
+/*
+Accessibility
+
+Style guide: Colours.3 Accessibility
+*/
+
+// Colour variables
+
+$background-colour:             $white;
+$background-secondary-colour:   $non-white;
+
+$link-colour:                   $non-black;
+$link-colour--hover:            $light-aqua;
+$nav-menu-toggle--hover:       $light-grey;
+
+$link-inverted-colour:          $white;
+$link-inverted-colour--hover:   $white;
+
+$button-bg-colour:              $aqua;
+$button-bg-colour--hover:       $darker-aqua;
+$button-bg-colour--active:      $dark-aqua;
+$button-bg-colour--disabled:    $light-grey;
+
+$button-inverted-colour:        $white;
+
+$button-text-colour:            $white;
+$button-inverted-text-colour:   $navy;
+
+$focus-colour:                  $lighter-aqua;
+$error-colour:                  $red;
+$success-colour:                $green;
+$warning-colour:                $yellow;
+$info-colour:                   $blue;
+
+$callout-bg-light-colour:       $lighter-aqua;
+
+$border-colour:                 $light-grey;
+$border-soft-colour:            rgba($light-grey, 0.5);
+$border-contrast-colour:        $navy;
+$border-highlight-colour:       $aqua;
+
+$box-shadow-colour:             rgba($non-black, 0.5);
+
+$body-text-colour:              $non-black;
+$body-inverted-text-colour:     $white;
+
+$badge-colour--default:         $grey;
+$badge-colour--alpha:           $non-black;
+$badge-colour--beta:            $maroon;
+$badge-colour--error:           $error-colour;
+$badge-colour--success:         $green;
+
+$controls-bg-colour:            $dark-navy;
+$controls-contrast-bg-colour:   $maroon;
+$header-bg-colour:              $navy;
+$header-bg-colour-2:            #104f71;
+$header-bg-colour-3:            #1c809d;
+$hero-bg-colour:                #0098b0;
+$breadcrumbs-bg-colour:         $non-white;
+
+$input-focus-colour:            $light-aqua;
