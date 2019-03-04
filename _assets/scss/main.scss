@@ -77,3 +77,23 @@ main#content {
     margin-top: 0;
   }
 }
+
+section {
+  &.hero {
+    background-color: #F0F3F5;
+    padding: 3rem 0;
+
+    img {
+      max-width: 90%;
+      display: none;
+      @include AU-media(sm) {
+        display: block;
+      }
+    }
+  }
+
+  .tagline {
+    font-size: x-large;
+    margin-top: 1rem;
+  }
+}
