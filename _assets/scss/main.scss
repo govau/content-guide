@@ -73,16 +73,23 @@ main#content {
     margin-top: 2.5rem;
   }
 
-  .au-card h3.au-card__title {
-    margin-top: 0;
+  .au-card {
+    border-top: 5px solid $guide-color-primary;
+
+    h3.au-card__title {
+      margin-top: 0;
+    }
   }
 }
 
 section {
   &.hero {
     background-color: #F0F3F5;
-    padding: 3rem 0;
-
+    padding: 1rem 0;
+    @include AU-media(md) {
+      padding: 3rem 0;
+    }
+    
     img {
       max-width: 90%;
       display: none;
@@ -94,6 +101,8 @@ section {
 
   .tagline {
     font-size: x-large;
-    margin-top: 1rem;
+    @include AU-media(sm) {
+      margin-top: 1rem;
+    }
   }
 }
