@@ -17,9 +17,10 @@ $AU-colordark-background-shade-suggestion:      #323232;
 @import '../vendor/dta-gov-au/dta-gov-au.mixin.card-cta-link';
 @import '../vendor/dta-gov-au/dta-gov-au.base.card';
 
-// load in search styles from guides
+// load in styles from guides
 @import '../vendor/guides/icons';
 @import '../vendor/guides/search';
+@import '../vendor/guides/childnav';
 
 
 body {

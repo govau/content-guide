@@ -1,0 +1,193 @@
+$activeborderwidth: -8px;
+
+.au-grid .childnav__container {
+	@media print {
+		width: 0;
+	}
+}
+
+.childnav {
+	width: 100%;
+
+	@include AU-media( md ) {
+		margin-bottom: -1000rem;
+		position: relative;
+		top: -2rem;
+		left: -1.4rem;
+	}
+	@media print {
+		display: none;
+	}
+}
+
+#guides-childnav-accordion .au-accordion__title {
+	display: none;
+}
+
+#guides-childnav-accordion .au-accordion__body-wrapper {
+	border: none;
+}
+
+#guides-childnav-accordion {
+	border: none;
+}
+
+#childnav__button {
+	display:block;
+	@include AU-media( md ) {
+		display: none;
+	}
+
+	&:after {
+		content: " ";
+		display: inline-block;
+		float: right;
+		position: relative;
+		top: 6px;
+		@include AU-space( width, 1unit );
+		@include AU-space( height, 1unit );
+		background-repeat: no-repeat;
+		background-image: AU-svguri('
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">' +
+			'	<path fill="#{ $AU-colordark-foreground-text }" d="M64 0l64 64-16 16-64-64"/>' +
+			'	<path fill="#{ $AU-colordark-foreground-text }" d="M64 0l16 16-64 64L0 64"/>' +
+			'</svg>');
+		transition: all 0.25s ease-in;
+	}
+
+	&.au-accordion--closed:after {
+		transform: rotate( -180deg );
+		top: 1px;
+	}
+}
+
+// open sidebar menu when on desktop
+// Use the hidden accordion when closed in mobile and force it to show on desktop
+.js #guides-childnav-accordion .au-accordion__body.au-accordion--closed {
+	@include AU-media( md ) {
+		display: block;
+		height: auto;
+	}
+}
+
+////////////////////////////////////////////////////////////////
+// 🚧🚧
+// DRAFT NAV STYLING- WILL BE UPDATED when component is ready
+// 🚧🚧
+////////////////////////////////////////////////////////////////
+
+$text:   #414141;
+$muted:  #636363;
+$border: #e3e3e3;
+$action: #007099;
+$shade: #f5f5f5;
+
+h2.au-sidenav--title  {
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+.au-sidenav {
+
+	// the top menu item
+  .au-sidenav--title {
+    margin: 0;
+    border-bottom: solid 2px $border;
+    font-weight: normal;
+
+    a {
+      display: block;
+      color: $action;
+      padding: 1rem 0.5rem;
+      text-decoration: none;
+
+      &:hover {
+        color: $text;
+        text-decoration: underline;
+      }
+			&:focus {outline: 3px solid $AU-color-foreground-focus;}
+    }
+  }
+
+	// top menu item active page
+	.au-sidenav--title-active {
+		box-shadow: $activeborderwidth 0px 0 0 $action;
+		position: relative;
+		top: -2px;
+		background: $AU-color-background-shade;
+		padding-left: 0.4rem;
+		font-weight: bold;
+
+		a {
+			color: $text;
+		}
+	}
+
+  .au-sidenav--list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 14px;
+
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      font-size: 14px;
+      position: relative;
+    }
+
+    a {
+      display: block;
+      border-bottom: solid 1px $border;
+      padding: 0.8rem 1.5rem;
+      color: $action;
+      text-decoration: none;
+			transition: color 0.2s ease-in-out;
+
+      &:hover {
+        color: $text;
+        text-decoration: underline;
+      }
+			&:focus {outline: 3px solid $AU-color-foreground-focus;}
+    }
+
+    .active > a {
+
+			box-shadow: $activeborderwidth 0px 0 0 $action;
+			position: relative;
+			top: -2px;
+      background: $AU-color-background-shade;
+      padding-left: 1rem;
+      font-weight: bold;
+			color: $text;
+    }
+
+    ul a {
+      padding-left: 2.4rem;
+      position: relative;
+    }
+
+    ul .active > a {
+      padding-left: 2.75rem;
+    }
+
+
+
+    ul ul a {
+      padding-left: 3rem;
+    }
+
+  }
+}
+
+
+///////////// sitemap 🗺️
+
+.navigation__item__anchor,
+.navigation__item__span {
+	display: block;
+	font-size: 90%;
+	padding-top: 0rem;
+	padding-bottom: 0.2rem;
+}

@@ -10,45 +10,6 @@
     <section class="footer-top">
       <nav>
         <div class="footer-menu">
-          <h2>Content</h2>
-          <ul>
-            <li><a href="{{ homeUrl }}">Home</a></li>
-
-            <li><a href="{{ site.baseurl }}/how-to-use-guide">How to use this guide</a></li>
-
-            {% comment %}
-              Need to loop through pages too?
-            {% endcomment %}
-
-            {% comment %}
-              Making sure we have control over the order of the items via the "weight" attribute
-            {% endcomment %}
-            {% assign collections_ordered = site.collections | sort: "order" %}
-
-            {% comment %}
-              Iterating over all collections
-            {% endcomment %}
-            {% for collection in collections_ordered %}
-              {% capture collection_url %}{{ site.baseurl }}/{{ collection.label }}/{% endcapture %}
-
-              {% comment %}
-                Skip if this is filed under posts
-              {% endcomment %}
-              {% if collection.label == "posts" %}
-                {% continue %}
-              {% endif %}
-
-              <li>
-                <a href="{{ collection_url }}">
-                  {{ collection.title }}
-                </a>
-              </li>
-            {% endfor %}
-
-            <li><a href="{{ site.baseurl }}/sources">Sources</a></li>
-          </ul>
-        </div>
-        <div class="footer-menu">
           <h2>Feedback</h2>
           {% comment %}
             Remove hardcoding.

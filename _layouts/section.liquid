@@ -5,7 +5,27 @@ layout: default
 <main role="main" id="content" class="content-main au-grid au-body">
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-3">
+        <nav class="au-sidenav">
+          <ul class="au-sidenav--list">
+            {% assign collections_ordered = site.collections | sort: "order" %}
+
+            {% for collection in collections_ordered %}
+              {% capture collection_url %}{{ site.baseurl }}/{{ collection.label }}/{% endcapture %}
+
+              {% comment %}
+                Skip if this is filed under posts
+              {% endcomment %}
+              {% if collection.label == "posts" %}
+                {% continue %}
+              {% endif %}
+
+              <li{% if collection.title == page.title %} class="active"{% endif %}><a href="{{ collection_url }}">{{ collection.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </div>
+      <div class="col-md-9">
         {{ content }}
       </div>
     </div>
