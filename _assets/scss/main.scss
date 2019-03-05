@@ -113,3 +113,41 @@ section {
     }
   }
 }
+
+nav.index-links {
+  border-left: 4px solid $AU-color-foreground-action;
+  padding-left: 1.5rem;
+
+  h2 {
+    font-size: 1rem;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 1rem;
+  }
+}
+
+.header__brand--print {
+  display:none;
+  @media print {
+    display: inline;
+  }
+  img {
+    @media print {
+      display: inline;
+      @include AU-space( width, 8unit);
+      @include AU-space( margin-bottom, 1unit);
+      @include AU-space( padding-right, 1unit);
+      @include AU-space( border-right, 1px solid lightgray);
+    }
+  }
+  strong {
+    @media print {
+      display: inline;
+      position: relative;
+      @include AU-space( padding-left, 1unit);
+      @include AU-space( top, -2.5unit);
+    }
+  }
+}
