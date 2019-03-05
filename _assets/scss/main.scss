@@ -22,7 +22,6 @@ $AU-colordark-background-shade-suggestion:      #323232;
 @import '../vendor/guides/search';
 @import '../vendor/guides/childnav';
 
-
 body {
   padding: 0;
   margin: 0;
@@ -148,6 +147,40 @@ nav.index-links {
       position: relative;
       @include AU-space( padding-left, 1unit);
       @include AU-space( top, -2.5unit);
+    }
+  }
+}
+
+.au-footer.au-footer--dark {
+  margin-top: 3rem;
+  background-color: $AU-color-foreground-text;
+  border-top: none;
+
+  .footer__affiliate {
+    border-left: 1px solid #a2a2a2;
+    font-size: 0.875rem;
+    padding: .5rem 0 .5rem 1rem;
+
+    span {
+      display: block;
+    }
+  }
+
+  .au-link-list {
+    padding: 2rem 0;
+    margin-top: -0.5rem;
+
+    > li {
+      margin-right: 1rem;
+    }
+  }
+
+  .footer__legal-links {
+    border-top: 1px solid #a2a2a2;
+    border-bottom: 1ps xolid #a2a2a2;
+
+    li {
+      display: inline-block;
     }
   }
 }
