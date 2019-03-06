@@ -18,6 +18,7 @@ $AU-color-foreground-background:                #ffffff;
 $AU-color-background-alt-shade-suggestion:      #e0e0e0;
 $AU-colordark-foreground-border-suggestion:     #8c8c8c;
 $AU-colordark-background-shade-suggestion:      #323232;
+$AU-colordark-background-alt-shade:             #121212;
 @import '../vendor/dta-gov-au/dta-gov-au.mixin.card-cta-link';
 @import '../vendor/dta-gov-au/dta-gov-au.base.card';
 
@@ -26,6 +27,7 @@ $AU-colordark-background-shade-suggestion:      #323232;
 @import '../vendor/guides/search';
 @import '../vendor/guides/childnav';
 @import '../vendor/guides/examples';
+@import '../vendor/guides/header-govau';
 
 %scrolling-example {
   width: 100%;
@@ -86,7 +88,7 @@ body {
 }
 
 main#content {
-  padding-top: 2rem;
+  margin-top: 2rem;
 
   h2, h3, h4 {
     margin-top: 2.5rem;
