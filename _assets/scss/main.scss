@@ -172,6 +172,31 @@ nav.index-links {
   }
 }
 
+h2[id] {
+  .headline-slug-link {
+    border-bottom: none;
+    position: relative;
+    color: $AU-color-foreground-text;
+    text-decoration: none;
+    font-weight: 400;
+
+    &:hover {
+      border-bottom: none;
+      background-color: $background-colour;
+
+      &:after {
+        content: '\00B6'; // pilcrow character
+        position: absolute;
+        width: 1.5rem;
+        left: -1.5rem;
+        top: 0.5em;
+        font-size: $smaller-font-size;
+        color: $grey;
+      }
+    }
+  }
+}
+
 blockquote {
   margin: $medium-spacing 0;
   padding: $small-spacing ($base-spacing + $small-spacing);
