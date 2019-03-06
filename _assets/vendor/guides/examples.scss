@@ -1,0 +1,140 @@
+// Custom styling for the rendered example and code blocks.
+//
+// Extract the repeating bits plz
+.guide-example {
+    padding-top: 0;
+  
+    .guide-example--heading {
+      margin: 0;
+      display: inline;
+  
+      span {
+        font-size: smaller;
+      }
+    }
+  
+    .guide-example__rendered {
+      position: relative;
+      border: solid 2px $non-white;
+      margin: ($base-spacing * 1.5) 0;
+      padding: 2rem;
+  
+      .guide-example__rendered__heading {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-weight: normal;
+        background-color: $non-white;
+        font-size: $small-font-size;
+        padding: $tiny-spacing $small-spacing;
+      }
+  
+      // This ensures that we don’t allow rendered examples to overflow their
+      // containing boxes.
+      .wrapper {
+        box-sizing: border-box;
+        min-width: 0;
+      }
+    }
+  
+    .highlight {
+      border-top-left-radius: $base-border-radius;
+      border-top-right-radius: $base-border-radius;
+  
+      pre {
+        @extend %scrolling-example;
+  
+        margin: 0;
+        padding-top: $medium-spacing;
+        // padding-left: ($medium-spacing + $small-spacing);
+        padding-right: $small-spacing;
+      }
+    }
+  
+    // We're making a linting exception here on purpose:
+    //
+    // This targets the visually hidden skip link rendered example to increase the
+    // height of the example space, and to place a message into the space
+    // notifying users that the space is intentionally visually empty until
+    // manually activated.
+    #rendered-skip-links {
+      padding-bottom: $base-spacing;
+  
+      &:after {
+        content: 'This example space contains a visually hidden feature.';
+        font-size: $small-font-size;
+      }
+    }
+  
+    .guide-example--code-accordion {
+      .accordion-panel {
+        padding-right: 0;
+        padding-left: 0;
+        padding-bottom: 0;
+      }
+  
+      .guide-example--html-copy,
+      .guide-example--code {
+        margin: 0 $base-spacing;
+      }
+  
+      .guide-example--html-copy {
+        //@include button-colours(transparent, $dark-aqua, $dark-aqua, $dark-aqua, $non-white);
+  
+        button {
+          font-size: $small-font-size;
+          border-radius: $base-border-radius;
+        }
+      }
+    }
+  
+    .guide-example--meta {
+      background-color: $lighter-grey;
+      padding: $medium-spacing $base-spacing;
+  
+      .guide-example--html-copy {
+        //@include button-colours(transparent, $dark-aqua, $dark-aqua, $dark-aqua, $non-white);
+  
+        margin-bottom: $small-spacing;
+  
+        button {
+          border-radius: $base-border-radius;
+          font-size: $small-font-size;
+        }
+      }
+  
+      .guide-example--cite {
+        font-size: $small-font-size;
+      }
+    }
+  }
+  
+  // Custom styling for the Typography section Typeface eg blocks.
+  .guide-example--type {
+    @extend %scrolling-example;
+  
+    margin-bottom: $base-spacing;
+    padding: $medium-spacing;
+    background-color: $non-white;
+    border-radius: $base-border-radius;
+    color: $dark-aqua;
+    overflow: auto;
+  
+    p {
+      font-size: 2em;
+    }
+  
+    :first-child {
+      margin-top: 0;
+    }
+  
+    :last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  // Custom styling for code examples
+.guide-example--code {
+    padding-bottom: 1.2em; // not base-spacing?
+  }

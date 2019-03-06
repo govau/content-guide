@@ -1,13 +1,17 @@
 @charset 'utf-8';
 
-$guide-color-primary: #45c2f0;
-
 // load in design systems sass files
 $AU-color-foreground-action:     #00698f !default;
 $AU-color-foreground-focus:      #9263DE !default;
 $AU-color-foreground-text:       #313131 !default;
 $AU-color-background:            #ffffff !default;
 @import '../vendor/ds/main';
+@import '../vendor/ds/vendor/colours';
+//@import '../vendor/ds/vendor/mixins';
+@import '../vendor/ds/vendor/variables';
+
+$guide-color-primary: #45c2f0;
+$lighter-grey: lighten($grey, 48%);
 
 // load in card styles from dta-gov-au
 $AU-color-foreground-background:                #ffffff;
@@ -21,6 +25,16 @@ $AU-colordark-background-shade-suggestion:      #323232;
 @import '../vendor/guides/icons';
 @import '../vendor/guides/search';
 @import '../vendor/guides/childnav';
+@import '../vendor/guides/examples';
+
+%scrolling-example {
+  width: 100%;
+}
+
+.visuallyhidden {
+  position: absolute;
+  left: -10000px;
+}
 
 body {
   padding: 0;
@@ -35,8 +49,13 @@ body {
     background: $AU-color-foreground-text;
   }
 
-  .au-header__brand img {
-    max-height: 80px;
+  .au-header__brand {
+    img {
+      max-height: 80px;
+    }
+    .au-header__text {
+      margin-top: 0.5rem;
+    }
   }
 }
 
@@ -149,6 +168,142 @@ nav.index-links {
       @include AU-space( top, -2.5unit);
     }
   }
+}
+
+blockquote {
+  margin: $medium-spacing 0;
+  padding: $small-spacing ($base-spacing + $small-spacing);
+  background-color: $background-secondary-colour;
+  font-family: $base-serif;
+  quotes: '\201C''\201D''\2018''\2019';
+
+  &.pullquote {
+    padding: 0;
+    background-color: $background-colour;
+
+    p {
+      font-size: rem(24);
+      line-height: $base-leading;
+      text-align: center;
+      font-weight: $base-font-weight;
+      margin-top: $base-spacing;
+
+      @include AU-media(sm) {
+        font-size: rem(26);
+      }
+    }
+
+    // Support: IE7 does not properly support pseudo elements `:before`/`:after`: http://caniuse.com/#feat=css-sel2
+
+    &::before,
+    &::after {
+      text-align: center;
+      margin: 0;
+    }
+  }
+
+  &::before,
+  &::after {
+    display: block;
+    height: 0;
+    font-family: $base-serif;
+    font-size: 2.6875rem;
+    color: $aqua;
+  }
+
+  &::before {
+    margin-left: -($small-spacing * 0.75);
+    padding-bottom: $tiny-spacing;
+    content: open-quote;
+  }
+
+  &::after {
+    margin-right: -($small-spacing * 0.75);
+    margin-top: -($small-spacing);
+    padding-bottom: $medium-spacing;
+    text-align: right;
+    content: close-quote;
+  }
+
+  footer {
+    margin-top: $medium-spacing;
+    padding-top: $tiny-spacing;
+    border-top: 1px solid $light-grey;
+  }
+
+  cite {
+    display: inline-block;
+    font-family: $base-sans-serif;
+
+    &::before {
+      content: 'Citation: ';
+      text-transform: lowercase;
+      font-variant: small-caps;
+      letter-spacing: 1px;
+      color: $body-text-colour;
+    }
+  }
+
+  // So that nested blockquotes do not break the vertical rhythm.
+  blockquote {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
+.content-table {
+  width: 100%;
+  border-collapse: collapse;
+
+  tr:nth-child(even) {
+    background-color: $non-white;
+  }
+
+  td,
+  th {
+    border-bottom: solid 1px $light-grey;
+    padding: $tiny-spacing;
+    text-align: left;
+
+    @include AU-media(sm) {
+      padding: $small-spacing;
+      font-size: initial;
+    }
+  }
+
+  thead {
+    border-bottom: solid 2px $grey;
+  }
+}
+
+code,
+pre,
+samp,
+kbd {
+  font-family: $base-monospace;
+  font-size: $small-font-size;
+}
+
+kbd {
+  display: inline-block;
+  border: solid 1px $light-aqua;
+  border-radius: $base-border-radius;
+  box-shadow: 0 1px 0 0 $light-aqua;
+  background-color: $non-white;
+  color: $dark-aqua;
+  text-align: center;
+  font-size: $small-font-size;
+  padding: 0 $small-spacing;
+  margin: 0 $tiny-spacing;
+}
+
+.back-to-index-link {
+  display: block;
+  font-size: $small-font-size;
+  float: right;
+  margin-top: 1rem;
 }
 
 .au-footer.au-footer--dark {
