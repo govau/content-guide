@@ -25,9 +25,3 @@ Guidance on [writing for search engines]({{ site.baseurl }}/search-engines/) and
 - Improved guidance on Latin abbreviations ([eg, ie, etc and nb]({{ site.baseurl }}/punctuation-grammar/#eg-ie-etc-and-nb)).
 - Added more guidance on using [tables]({{ site.baseurl }}/types-of-content/#tables).
 
-<p>
-<svg class="icon-inline fa-github" role="img" title="GitHub icon" aria-labelledby="fa-github-alt-source">
-<title id="fa-github-alt-source" lang="en">GitHub icon</title>
-<use xlink:href="{% asset_path spritesheet.svg %}#fa-github"/>
-</svg> Read the <a href="https://github.com/govau/content-guide/blob/master/CHANGELOG.md" rel="external">full Content Guide changelog on GitHub</a>.
-</p>
