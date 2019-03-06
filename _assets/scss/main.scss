@@ -72,7 +72,7 @@ body {
   padding-top: 1rem;
 
   &, .au-main-nav__menu {
-    background-color: unset;
+    background-color: $AU-color-foreground-text;
   }
   a:hover {
     background: unset;
