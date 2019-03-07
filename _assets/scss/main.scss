@@ -95,11 +95,20 @@ body {
     border-color: $light-grey;
   }
 
+  .au-text-input {
+    width: 100%;
+  }
+
   .au-btn {
     background: $lighter-grey;
+    margin: 0;
 
     &:hover {
       background: #fff;
+    }
+    &.icon {
+      padding: 0.5rem;
+      padding-left: 0.75rem;
     }
   }
 }
