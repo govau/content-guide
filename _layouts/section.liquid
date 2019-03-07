@@ -6,6 +6,13 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-md-3">
+        <div class="search-section">
+          <form class="search__searchbox" role="search" autocomplete="off" action="{{ site.baseurl }}/search/" method="get">
+            <input type="text" class="au-text-input round--left" name="q" id="search-input__header" placeholder="Search section">
+            <button type="submit" class="au-btn icon icon--search round--right" id="search-btn__header"><span class="search-btn__label visuallyhidden">Search</span></button>
+          </form>
+        </div>
+
         <nav class="au-sidenav">
           <ul class="au-sidenav--list">
             {% assign collections_ordered = site.collections | sort: "order" %}

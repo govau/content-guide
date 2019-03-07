@@ -87,6 +87,23 @@ body {
   }
 }
 
+.search-section {
+  margin-bottom: 2rem;
+
+  .au-text-input, .au-btn {
+    border-width: 1px;
+    border-color: $light-grey;
+  }
+
+  .au-btn {
+    background: $lighter-grey;
+
+    &:hover {
+      background: #fff;
+    }
+  }
+}
+
 main#content {
   margin-top: 2rem;
 
