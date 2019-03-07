@@ -5,18 +5,45 @@ layout: default
 <main role="main" id="content" class="content-main au-body">
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-3">
+        <div class="search-section">
+          <form class="search__searchbox" role="search" autocomplete="off" action="{{ site.baseurl }}/search/" method="get">
+            <input type="text" class="au-text-input round--left" name="q" id="search-input__header" placeholder="Search section">
+            <button type="submit" class="au-btn icon icon--search round--right" id="search-btn__header"><span class="search-btn__label visuallyhidden">Search</span></button>
+          </form>
+        </div>
 
-  <header>
-    <h1>{{ page.title }}</h1>
+        <nav class="au-sidenav">
+          <ul class="au-sidenav--list">
+            {% assign collections_ordered = site.collections | sort: "order" %}
 
-    <div class="abstract">
-      {{ page.abstract | markdownify }}
-    </div>
-  </header>
-  <article>
-    {{ content }}
-  </article>
+            {% for collection in collections_ordered %}
+              {% capture collection_url %}{{ site.baseurl }}/{{ collection.label }}/{% endcapture %}
+
+              {% comment %}
+                Skip if this is filed under posts
+              {% endcomment %}
+              {% if collection.label == "posts" %}
+                {% continue %}
+              {% endif %}
+
+              <li{% if collection.title == page.title %} class="active"{% endif %}><a href="{{ collection_url }}">{{ collection.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </div>
+      <div class="col-md-9">
+
+        <header>
+          <h1>{{ page.title }}</h1>
+
+          <div class="abstract">
+            {{ page.abstract | markdownify }}
+          </div>
+        </header>
+        <article>
+          {{ content }}
+        </article>
 
       </div>
     </div>
