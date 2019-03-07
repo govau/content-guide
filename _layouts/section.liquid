@@ -5,7 +5,7 @@ layout: default
 <main role="main" id="content" class="content-main au-body">
   <div class="container">
     <div class="row">
-      <div class="col-md-3">
+      <div class="col-sm-3">
         <div class="search-section">
           <form class="search__searchbox" role="search" autocomplete="off" action="{{ site.baseurl }}/search/" method="get">
             <input type="text" class="au-text-input round--left" name="q" id="search-input__header" placeholder="Search section">
@@ -13,26 +13,36 @@ layout: default
           </form>
         </div>
 
-        <nav class="au-sidenav">
-          <ul class="au-sidenav--list">
-            {% assign collections_ordered = site.collections | sort: "order" %}
+        <nav class="au-sidenav au-side-nav au-accordion" aria-label="side navigation">
+          <button 
+            class="au-side-nav__toggle au-accordion__title au-accordion--closed" 
+            aria-controls="nav-default"
+            aria-expanded="false"  
+            onclick="return AU.accordion.Toggle( this )">
+            In this section
+          </button>
+          <div id="nav-default" class="au-side-nav__content au-accordion--closed au-accordion__body">
 
-            {% for collection in collections_ordered %}
-              {% capture collection_url %}{{ site.baseurl }}/{{ collection.label }}/{% endcapture %}
+            <ul class="au-sidenav--list">
+              {% assign collections_ordered = site.collections | sort: "order" %}
 
-              {% comment %}
-                Skip if this is filed under posts
-              {% endcomment %}
-              {% if collection.label == "posts" %}
-                {% continue %}
-              {% endif %}
+              {% for collection in collections_ordered %}
+                {% capture collection_url %}{{ site.baseurl }}/{{ collection.label }}/{% endcapture %}
 
-              <li{% if collection.title == page.title %} class="active"{% endif %}><a href="{{ collection_url }}">{{ collection.title }}</a></li>
-            {% endfor %}
-          </ul>
+                {% comment %}
+                  Skip if this is filed under posts
+                {% endcomment %}
+                {% if collection.label == "posts" %}
+                  {% continue %}
+                {% endif %}
+
+                <li{% if collection.title == page.title %} class="active"{% endif %}><a href="{{ collection_url }}">{{ collection.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
         </nav>
       </div>
-      <div class="col-md-9">
+      <div class="col-sm-9">
         {{ content }}
       </div>
     </div>
