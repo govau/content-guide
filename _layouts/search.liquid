@@ -5,20 +5,38 @@ layout: default
 <main role="main" id="content" class="content-main au-body">
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-3">
+        <div class="search-section">
+          <form class="search__searchbox" role="search" autocomplete="off" action="{{ site.baseurl }}/search/" method="get">
+            <input type="text" class="au-text-input round--left" name="q" id="search-input__header" placeholder="Search section">
+            <button type="submit" class="au-btn icon icon--search round--right" id="search-btn__header"><span class="search-btn__label visuallyhidden">Search</span></button>
+          </form>
+        </div>
 
-<main role="main" id="content" class="content-main">
-  {% comment %}<header>
-    <h1>Search</h1>
-  </header>{% endcomment %}
+        <nav class="au-sidenav">
+          <ul class="au-sidenav--list">
+            {% assign collections_ordered = site.collections | sort: "order" %}
 
-  {% include search.liquid %}
+            {% for collection in collections_ordered %}
+              {% capture collection_url %}{{ site.baseurl }}/{{ collection.label }}/{% endcapture %}
 
-</main>
+              {% comment %}
+                Skip if this is filed under posts
+              {% endcomment %}
+              {% if collection.label == "posts" %}
+                {% continue %}
+              {% endif %}
 
-{% javascript search.js.liquid %}
-
+              <li{% if collection.title == page.title %} class="active"{% endif %}><a href="{{ collection_url }}">{{ collection.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </div>
+      <div class="col-md-9">
+        {% include search.liquid %}
       </div>
     </div>
   </div>
 </main>
+
+{% javascript search.js.liquid %}
