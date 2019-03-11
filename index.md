@@ -1,11 +1,11 @@
 ---
 layout: homepage-draft
-title: GOV.AU Content Guide homepage
+title: Content Guide homepage
 excerpt: "A content guide to help Australian Government teams design better content. Learn how to structure content, write in plain English and create accessible content."
 ---
 
 ## Sources
-List of the [resources used to write the GOV.AU Content Guide]({{ site.baseurl }}/sources/).
+List of the [resources used to write the Content Guide]({{ site.baseurl }}/sources/).
 
 ## Latest updates
 

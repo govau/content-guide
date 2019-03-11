@@ -1,7 +1,7 @@
 ---
 title: "How to use this guide"
 layout: "page"
-abstract: "The GOV.AU Content Guide helps Australian Government teams design simple, clear and fast content."
+abstract: "The Content Guide helps Australian Government teams design simple, clear and fast content."
 published: true
 permalink: "/how-to-use-guide/"
 excerpt: "How to get started with this content guide for Australian Government teams."
