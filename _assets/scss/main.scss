@@ -151,13 +151,6 @@ section {
       }
     }
   }
-
-  .tagline {
-    font-size: x-large;
-    @include AU-media(sm) {
-      margin-top: 1rem;
-    }
-  }
 }
 
 .au-side-nav__content>ul>li {
