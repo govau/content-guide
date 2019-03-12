@@ -163,6 +163,18 @@ section {
   }
 }
 
+.au-breadcrumbs {
+  margin-top: 2rem;
+  display: none;
+  @include AU-media(sm) {
+    display: block;
+  }
+
+  li {
+    font-size: 0.9rem;
+  }
+}
+
 nav.index-links {
   border-left: 4px solid $AU-color-foreground-action;
   padding-left: 1.5rem;

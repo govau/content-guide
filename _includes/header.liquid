@@ -97,3 +97,28 @@
   </nav>
 </header>
 
+{% unless page.url == '/' %}
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <nav class="au-breadcrumbs" aria-label="breadcrumb">
+        {% comment %}
+          Our breadcrumb logic is very simple, and runs 2-tiers deep. It assumes the
+          usage of Jekyll Collections: https://jekyllrb.com/docs/collections
+
+          The capture is only done for brevity and future re-use.
+
+          The if condition sets the page title to ‘Overview’ if it’s the index page
+          for its page.parent.
+        {% endcomment %}
+        {% capture page_title_slugified %}{{ page.title | slugify }}{% endcapture %}
+          <ul class="au-link-list au-link-list--inline">
+            <li><a href="{{site.baseurl}}/">Content Guide</a></li>
+            <li>{{ page.title }}</li>
+          </ul>
+      </nav>
+
+      </div>
+    </div>
+  </div>
+  {% endunless %}
