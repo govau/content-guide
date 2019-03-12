@@ -10,17 +10,14 @@ layout: default
           <p>A guide to help Australian Government teams design simple, clear and fast content.</p>
         </div>
 
-        <h2 class="subtitle--homepage">Get started</h2>
+        <div class="search-section">
+          <form class="search__searchbox" role="search" autocomplete="off" action="{{ site.baseurl }}/search/" method="get">
+            <input type="text" class="au-text-input round--left" name="q" id="search-input__header" placeholder="Find topic">
+            <button type="submit" class="au-btn icon icon--search round--right" id="search-btn__header"><span class="search-btn__label">Search</span></button>
+          </form>
+        </div>
 
-        <p class="longdesc">
-          Read <a href="{{ site.baseurl }}/how-to-use-guide/">how to use this guide</a>. We also have a <a href="https://guides.service.gov.au/content-strategy/">Content Strategy Guide</a> to help create, deliver and govern content.
-        </p>
-        <p class="longdesc">
-        Learn how to <a href="{{ site.baseurl }}/content-structure/">structure content</a>, write in <a href="{{ site.baseurl }}/writing-style/">plain English</a> and create
-          <a href="{{ site.baseurl }}/accessibility-inclusivity/"> accessible content</a> that includes everyone.
-        </p>
-
-        <h2>Guidance</h2>
+        <h2>Content design guidance</h2>
       </div>
     </div>
 
@@ -111,6 +108,24 @@ layout: default
               <div class="au-card__text">
                 <p>How to write content that will help search engines more easily find and rank your information.</p>
                 <p>Includes guidance on keywords, headings, metadata and SEO tools.</p>
+              </div>
+            </a>
+          </li>
+
+          <li class="col-xs-12 col-sm-4">
+            <a href="{{ site.baseurl }}/how-to-use-guide/" class="au-card au-card--shadow au-cta-link">
+              <h3 class="au-card__title">How to use this guide</h3>
+              <div class="au-card__text">
+                <p>New to content design? Read this first.</p>
+              </div>
+            </a>
+          </li>
+
+          <li class="col-xs-12 col-sm-4">
+            <a href="/content-strategy/" class="au-card au-card--shadow au-cta-link">
+              <h3 class="au-card__title">Create a content strategy</h3>
+              <div class="au-card__text">
+                <p>Download templates, streamline processes and reduce risk in your agency.</p>
               </div>
             </a>
           </li>

@@ -103,6 +103,10 @@ body {
     background: $lighter-grey;
     margin: 0;
 
+    .search-btn__label {
+      color: $AU-color-foreground-text;
+    }
+
     &:hover {
       background: #fff;
     }
@@ -404,6 +408,11 @@ kbd {
 
     li {
       display: inline-block;
+
+      a {
+        color: #fff;
+        font-size: 0.88rem;
+      }
     }
   }
 }

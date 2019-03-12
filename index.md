@@ -1,6 +1,6 @@
 ---
 layout: homepage-draft
-title: Content Guide homepage
+title: Content Guide
 excerpt: "A content guide to help Australian Government teams design better content. Learn how to structure content, write in plain English and create accessible content."
 ---
 
@@ -8,6 +8,10 @@ excerpt: "A content guide to help Australian Government teams design better cont
 List of the [resources used to write the Content Guide]({{ site.baseurl }}/sources/).
 
 ## Latest updates
+
+### March 2019
+
+Applied consistent branding similar to other Digital Transformation Agency products.
 
 ### 23 February 2018
 
@@ -25,3 +29,6 @@ Guidance on [writing for search engines]({{ site.baseurl }}/search-engines/) and
 - Improved guidance on Latin abbreviations ([eg, ie, etc and nb]({{ site.baseurl }}/punctuation-grammar/#eg-ie-etc-and-nb)).
 - Added more guidance on using [tables]({{ site.baseurl }}/types-of-content/#tables).
 
+## Contribute
+
+Join our [Government Content community](https://www.dta.gov.au/help-and-advice/communities-practice#content-design-and-strategy-community) to make suggestions and provide feedback.
