@@ -9,9 +9,7 @@ This is the main loop. It iterates through all collections.
   {% if collection.label == page.collection %}
 
   <header>
-    <h1><span class="guide-title">{{ site.title }}</span>
-      {{ collection.title }}
-    </h1>
+    <h1>{{ collection.title }}</h1>
 
     <div class="abstract">
       {{ page.abstract | markdownify }}

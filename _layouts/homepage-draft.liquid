@@ -1,135 +1,146 @@
 ---
 layout: default
 ---
+<main role="main" id="content" class="content-main homepage au-body">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h1>Content Guide</h1>
+        <div class="abstract">
+          <p>A guide to help Australian Government teams design simple, clear and fast content.</p>
+        </div>
+      </div>
+    </div>
+  </div>
 
-<main role="main" id="content" class="content-main homepage">
+  <div id="home-search-area">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-xs-12">
+          <div class="search-section">
+            <form class="search__searchbox" role="search" autocomplete="off" action="{{ site.baseurl }}/search/" method="get">
+              <input type="text" class="au-text-input round--left" name="q" id="search-input__header" placeholder="Search Content Guide">
+              <button type="submit" class="au-btn icon icon--search round--right" id="search-btn__header"><span class="search-btn__label">Search</span></button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
-  <h2 class="subtitle--homepage">Get started</h2>
+  <div class="container">
+    <div class="row">
+      <nav aria-label="main navigation">
 
-  <p class="longdesc">
-    Read <a href="{{ site.baseurl }}/how-to-use-guide/">how to use this guide</a>. We also have a <a href="https://guides.service.gov.au/content-strategy/">Content Strategy Guide</a> to help create, deliver and govern content.
-  </p>
-  <p class="longdesc">
-   Learn how to <a href="{{ site.baseurl }}/content-structure/">structure content</a>, write in <a href="{{ site.baseurl }}/writing-style/">plain English</a> and create
-    <a href="{{ site.baseurl }}/accessibility-inclusivity/"> accessible content</a> that includes everyone.
-  <p>
+        <ul class="collection-listing au-card-list au-card-list--matchheight">
+          <li class="col-xs-12 col-sm-4">
+            <a href="{{ site.baseurl }}/content-structure/" class="au-card au-card--shadow au-cta-link">
+              <h3 class="au-card__title">Content structure</h3>
+              <div class="au-card__text">
+                <p>The basic building blocks for crafting good content. Includes hyperlinks, headings and bullet lists.</p>
+              </div>
+            </a>
+          </li>
 
-  <h2>Guidance</h2>
+          <li class="col-xs-12 col-sm-4">
+            <a href="{{ site.baseurl }}/writing-style/" class="au-card au-card--shadow au-cta-link">
+              <h3 class="au-card__title">Writing style</h3>
+              <div class="au-card__text">
+                <p>Guidance on writing plain English content that reflects a modern government voice. Includes readability, audience and voice.</p>
+              </div>
+            </a>
+          </li>
 
-  <nav aria-label="main navigation">
+          <li class="col-xs-12 col-sm-4">
+            <a href="{{ site.baseurl }}/accessibility-inclusivity/" class="au-card au-card--shadow au-cta-link">
+              <h3 class="au-card__title">Accessibility and inclusivity</h3>
+              <div class="au-card__text">
+                <p>How to design content for everyone. Includes guidance on writing for First Australian audiences and people who speak languages other than English.</p>
+              </div>
+            </a>
+          </li>
 
-    <ul class="collection-listing">
-      {% comment %}<li>
-        <h3>
-          <a href="{{ site.baseurl }}/how-to-use-guide/">
-          How to use this guide
-          </a>
-        </h3>
-        <p>About this Content Guide and how you can use it.</p>
+          <li class="col-xs-12 col-sm-4">
+            <a href="{{ site.baseurl }}/punctuation-grammar/" class="au-card au-card--shadow au-cta-link">
+              <h3 class="au-card__title">Punctuation and grammar</h3>
+              <div class="au-card__text">
+                <p>How to punctuate and capitalise content for screens.</p>
+              </div>
+            </a>
+          </li>
 
-      </li>{% endcomment %}
+          <li class="col-xs-12 col-sm-4">
+            <a href="{{ site.baseurl }}/terms-phrases/" class="au-card au-card--shadow au-cta-link">
+              <h3 class="au-card__title">Terms and phrases</h3>
+              <div class="au-card__text">
+                <p>Spellings of commonly used government and digital words and terms. Includes Australian Government words and common digital terms.</p>
+              </div>
+            </a>
+          </li>
 
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}/content-structure/">
-          Content structure
-          </a>
-        </h3>
-        <p>The basic building blocks for crafting good content.</p>
-        <p>Includes hyperlinks, headings and bullet lists.</p>
-      </li>
+          <li class="col-xs-12 col-sm-4">
+            <a href="{{ site.baseurl }}/numbers-measurements/" class="au-card au-card--shadow au-cta-link">
+              <h3 class="au-card__title">Numbers and measurements</h3>
+              <div class="au-card__text">
+                <p>Guidance for writing numbers on screens.</p>
+              </div>
+            </a>
+          </li>
 
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}/writing-style/">
-          Writing style
-          </a>
-        </h3>
-        <p>Guidance on writing plain English content that reflects a modern government voice.</p>
-        <p>Includes readability, audience and voice.</p>
-      </li>
+          <li class="col-xs-12 col-sm-4">
+            <a href="{{ site.baseurl }}/formatting/" class="au-card au-card--shadow au-cta-link">
+              <h3 class="au-card__title">Formatting</h3>
+              <div class="au-card__text">
+                <p>How to use italic, bold and underline.</p>
+              </div>
+            </a>
+          </li>
 
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}/accessibility-inclusivity/">
-          Accessibility and inclusivity
-          </a>
-        </h3>
-        <p>How to design content for everyone.</p>
-        <p>Includes guidance on writing for First Australian audiences and people who speak languages other than English.</p>
+          <li class="col-xs-12 col-sm-4">
+            <a href="{{ site.baseurl }}/types-of-content/" class="au-card au-card--shadow au-cta-link">
+              <h3 class="au-card__title">Types of content</h3>
+              <div class="au-card__text">
+                <p>How to create and use common kinds of content. Includes documents, fact sheets and video.</p>
+              </div>
+            </a>
+          </li>
 
-      </li>
+          <li class="col-xs-12 col-sm-4">
+            <a href="{{ site.baseurl }}/search-engines/" class="au-card au-card--shadow au-cta-link">
+              <h3 class="au-card__title">Writing for search engines</h3>
+              <div class="au-card__text">
+                <p>How to write content that will help search engines more easily find and rank your information. Includes guidance on keywords, headings, metadata and SEO tools.</p>
+              </div>
+            </a>
+          </li>
 
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}/punctuation-grammar/">
-          Punctuation and grammar
-          </a>
-        </h3>
-        <p>How to punctuate and capitalise content for screens.</p>
+          <li class="col-xs-12 col-sm-4">
+            <a href="{{ site.baseurl }}/how-to-use-guide/" class="au-card au-card--shadow au-cta-link">
+              <h3 class="au-card__title">How to use this guide</h3>
+              <div class="au-card__text">
+                <p>New to content design? Read this first.</p>
+              </div>
+            </a>
+          </li>
 
-      </li>
+          <li class="col-xs-12 col-sm-4">
+            <a href="/content-strategy/" class="au-card au-card--shadow au-cta-link" data-proofer-ignore>
+              <h3 class="au-card__title">Create a content strategy</h3>
+              <div class="au-card__text">
+                <p>Download templates, streamline processes and reduce risk in your agency.</p>
+              </div>
+            </a>
+          </li>
+        </ul>
+      </nav>
 
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}/terms-phrases/">
-          Terms and phrases
-          </a>
-        </h3>
-        <p>Spellings of commonly used government and digital words and terms.</p>
-        <p>Includes Australian Government words and common digital terms.</p>
-      </li>
+    </div><!-- row -->
 
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}/numbers-measurements/">
-          Numbers and measurements
-          </a>
-        </h3>
-        <p>Guidance for writing numbers on screens.</p>
-      </li>
-
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}/formatting/">
-          Formatting
-          </a>
-        </h3>
-        <p>How to use italic, bold and underline.</p>
-      </li>
-
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}/types-of-content/">
-          Types of content
-          </a>
-        </h3>
-        <p>How to create and use common kinds of content.</p>
-        <p>Includes documents, fact sheets and video.</p>
-      </li>
-
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}/search-engines/">
-          Writing for search engines
-          </a>
-        </h3>
-        <p>How to write content that will help search engines more easily find and rank your information.</p>
-        <p>Includes guidance on keywords, headings, metadata and SEO tools.</p>
-      </li>
-
-      {% comment %}<li>
-        <h3>
-          <a href="/sources/">
-          Sources
-          </a>
-        </h3>
-        <p>How this guide was put together.</p>
-
-      </li>{% endcomment %}
-    </ul>
-  </nav>
-
-  {{ content }}
+    <div class="row">
+      <div class="col-md-12">
+        {{ content }}
+      </div>
+    </div>
+  </div><!-- container -->
 
 </main>

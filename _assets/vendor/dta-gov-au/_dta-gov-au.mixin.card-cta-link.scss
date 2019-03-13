@@ -1,0 +1,27 @@
+@mixin AU-card-cta-link($color: $AU-color-foreground-border-suggestion, $color-hover: $color) {
+  .au-cta-link {
+    @include AU-space( margin-top, 0 );
+    transition: background-color 0.3s ease-in-out;
+    &:hover, &:focus {
+      background-color: $AU-color-background-alt-shade-suggestion;
+    }
+    &:after {
+      background-image: AU-svguri('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">' +
+          '<path fill="#{ $color }" d="M128 64l-64 64-16-16 64-64"/>' +
+          '<path fill="#{ $color }" d="M128 64l-16 16-64-64L64 0"/>' +
+        '</svg>');
+      display: block;
+      position: absolute;
+      @include AU-space( right, 2unit );
+      @include AU-space( bottom, 1unit );
+      transition-property: right;
+    }
+    &:hover:after {
+      @include AU-space( right, 1.5unit );
+      background-image: AU-svguri('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">' +
+          '<path fill="#{ $color-hover }" d="M128 64l-64 64-16-16 64-64"/>' +
+          '<path fill="#{ $color-hover }" d="M128 64l-16 16-64-64L64 0"/>' +
+        '</svg>');
+    }
+  }
+}

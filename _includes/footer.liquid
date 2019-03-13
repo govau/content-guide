@@ -4,119 +4,34 @@
   {% assign homeUrl = site.baseurl %}
 {% endif %}
 
-<footer role="contentinfo">
-  <div class="wrapper">
-
-    <section class="footer-top">
-      <nav>
-        <div class="footer-menu">
-          <h2>Content</h2>
-          <ul>
-            <li><a href="{{ homeUrl }}">Home</a></li>
-
-            <li><a href="{{ site.baseurl }}/how-to-use-guide">How to use this guide</a></li>
-
-            {% comment %}
-              Need to loop through pages too?
-            {% endcomment %}
-
-            {% comment %}
-              Making sure we have control over the order of the items via the "weight" attribute
-            {% endcomment %}
-            {% assign collections_ordered = site.collections | sort: "order" %}
-
-            {% comment %}
-              Iterating over all collections
-            {% endcomment %}
-            {% for collection in collections_ordered %}
-              {% capture collection_url %}{{ site.baseurl }}/{{ collection.label }}/{% endcapture %}
-
-              {% comment %}
-                Skip if this is filed under posts
-              {% endcomment %}
-              {% if collection.label == "posts" %}
-                {% continue %}
-              {% endif %}
-
-              <li>
-                <a href="{{ collection_url }}">
-                  {{ collection.title }}
-                </a>
-              </li>
-            {% endfor %}
-
-            <li><a href="{{ site.baseurl }}/sources">Sources</a></li>
-          </ul>
+<footer class="au-footer au-body au-body--dark au-footer--dark " role="contentinfo" data-proofer-ignore>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-offset-1 col-md-8 col-md-push-3">
+        <h2 class="au-display-md">Guidance and tools</h2>
+        <ul class="au-link-list  au-link-list--inline">
+          <li><a href="https://designsystem.gov.au/">Design System</a></li>
+          <li><a href="/content-strategy/">Content Strategy Guidance</a></li>
+          <li><a href="/digital-service-standard/">Digital Service Standard Guide</a></li>
+          <li><a href="https://cloud.gov.au/">cloud.gov.au</a></li>
+        </ul>
+        <ul class="au-link-list footer__legal-links">
+          <li><a href="/support/">Contact</a></li>
+          <li><a href="https://www.dta.gov.au/accessibility">Accessibility</a></li>
+          <li><a href="/privacy-statement/">Privacy</a></li>
+          <li><a href="https://www.dta.gov.au/disclaimer-and-copyright">Disclaimer</a></li>
+          <li><a href="https://github.com/govau/content-guide/">Github</a></li>
+        </ul>
+        <div class="au-footer__end">
+          <div class="footer__content footer__legal">
+            <p>&copy; Commonwealth of Australia. With the exception of the Commonwealth Coat of Arms and where otherwise noted, this work is <a href="https://creativecommons.org/licenses/by/4.0/" rel="external">licensed under the CC BY 4.0 license</a>.</p>
+            <p>This page uses content adapted from the <a href="https://www.gov.uk/government/organisations/government-digital-service" rel="external">UK Government Digital Service</a> under the Open Government Licence v3.0.</p>
+          </div>
         </div>
-        <div class="footer-menu">
-          <h2>Feedback</h2>
-          {% comment %}
-            Remove hardcoding.
-          {% endcomment %}
-          <ul>
-            <li><a href="{{ site.baseurl }}/privacy/">Privacy statement</a></li>
-            <li><a href="https://groups.google.com/a/digital.gov.au/forum/#!forum/content-design-in-government" rel="external">Content Design in Government Google Group</a></li>
-
-            {% comment %}
-              Inserts the github_url /issues/new, if it’s defined (defined in _config.yml).
-            {% endcomment %}
-            {% if site.github_url %}
-            <li>
-            <svg class="icon-inline fa-github" role="img" title="GitHub icon" aria-labelledby="fa-github-alt-source">
-              <title id="fa-github-alt-source" lang="en">GitHub icon</title>
-              <use xlink:href="{% asset_path "spritesheet.svg" %}#fa-github"/>
-            </svg>
-            <a href="{{ site.github_url }}/issues/new" rel="external">Report an issue on GitHub</a></li>
-            {% endif %}
-
-            <li>
-              <svg class="icon-inline fa-envelope-o" role="img" title="envelope email icon">
-                <use xlink:href="{% asset_path "spritesheet.svg" %}#fa-envelope-o"/>
-              </svg>
-              <a href="mailto:{{ site.email_team }}">{{ site.email_team }}</a>
-            </li>
-          </ul>
-        </div>
-
-        <div class="footer-menu">
-          <h2>Digital Transformation Agency</h2>
-          {% comment %}
-            Consider removing hardcoding?
-          {% endcomment %}
-          <ul>
-            <li><a href="https://www.dta.gov.au/" rel="external">About the <abbr>DTA</abbr></a></li>
-          </ul>
-        </div>
-      </nav>
-    </section>
-
-    <section>
-      <div class="footer-logo">
-        {% img coat-of-arms.png alt:'Australian Government Coat of Arms' width:auto height:auto %}
       </div>
-
-
-      {% comment %}
-        Inserts the github_url, if it’s defined (defined in _config.yml).
-      {% endcomment %}
-      {% if site.github_url %}
-        <p>
-          <svg class="icon-inline fa-github" role="img" title="GitHub icon" aria-labelledby="fa-github-alt-source">
-            <title id="fa-github-alt-source" lang="en">GitHub icon</title>
-            <use xlink:href="{% asset_path "spritesheet.svg" %}#fa-github"/>
-          </svg>
-
-          <a class="footer-link" href="{{ site.github_url }}" rel="external">
-            {{ site.title }} on GitHub
-          </a>
-        </p>
-      {% endif %}
-
-        <p>&copy; Commonwealth of Australia.</p>
-        <p><small>With the exception of the <a href="https://www.pmc.gov.au/government/commonwealth-coat-arms" rel="external">Commonwealth Coat of Arms</a> and where otherwise noted, this work is <a href="{{ site.github_url }}/blob/master/LICENSE.md" rel="external license">licensed under the {{ site.license }} license</a>.</small></p>
-
-        <p><a href="#">Back to top &uarr;</a></p>
+      <div class="col-md-3 col-md-pull-9 footer__logo">
+        <p class="footer__affiliate"><span>Content Guide is a </span><span class="footer__affiliate-link"><a href="https://www.dta.gov.au/our-projects">Digital Transformation Agency product</a>.</span></p>
       </div>
-    </section>
+    </div>
   </div>
 </footer>
