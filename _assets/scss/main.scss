@@ -132,11 +132,18 @@ main#content {
     margin-top: 2.5rem;
   }
 
-  .au-card {
-    border-top: 5px solid $guide-color-primary;
+  .au-card-list {
+    padding: 1rem;
+    @include AU-media(sm) {
+      padding: 0;
+    }
 
-    h3.au-card__title {
-      margin-top: 0;
+    .au-card {
+      border-top: 5px solid $guide-color-primary;
+
+      h3.au-card__title {
+        margin-top: 0;
+      }
     }
   }
 
