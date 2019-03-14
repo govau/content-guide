@@ -11,7 +11,7 @@ List of the [resources used to write the Content Guide]({{ site.baseurl }}/sourc
 
 ### 14 March 2019
 
-- Incorporated [WCAG 2.1 guidance](/content-guide/accessibility-inclusivity/#wcag-for-content-authors)
+- Incorporated [WCAG 2.1 guidance]({{ site.baseurl }}/accessibility-inclusivity/#wcag-for-content-authors)
 - Applied consistent branding similar to other Digital Transformation Agency products
 
 ## Contribute

@@ -6,7 +6,7 @@ exclude_from_search: true
 
 ### Microsoft Word
 
-Microsoft Word formats (.doc and .docx) don’t conform to [WCAG 2.0]({{ site.baseurl }}/accessibility-inclusivity/#wcag-2-0-for-content-authors).  Additionally they can be difficult to view on mobile devices.
+Microsoft Word formats (.doc and .docx) don’t conform to [WCAG 2.0]({{ site.baseurl }}/accessibility-inclusivity/#wcag-for-content-authors).  Additionally they can be difficult to view on mobile devices.
 
 Don’t publish Word documents on the web on their own. Provide the information on an HTML page as well. If this isn't possible, [create an accessible PDF]({{ site.baseurl }}/accessibility-inclusivity/#pdf-accessibility) and publish both non-HTML formats from a landing page that summarises the document.
 
