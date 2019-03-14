@@ -6,7 +6,7 @@ exclude_from_search: true
 
 ### Microsoft Word
 
-Microsoft Word formats (.doc and .docx) don’t conform to [WCAG 2.0]({{ site.baseurl }}/accessibility-inclusivity/#wcag-2-0-for-content-authors).  Additionally they can be difficult to view on mobile devices.
+Microsoft Word formats (.doc and .docx) don’t conform to [WCAG 2.0]({{ site.baseurl }}/accessibility-inclusivity/#wcag-for-content-authors).  Additionally they can be difficult to view on mobile devices.
 
 Don’t publish Word documents on the web on their own. Provide the information on an HTML page as well. If this isn't possible, [create an accessible PDF]({{ site.baseurl }}/accessibility-inclusivity/#pdf-accessibility) and publish both non-HTML formats from a landing page that summarises the document.
 
@@ -31,7 +31,7 @@ Google has guidance on [making Google Docs more accessible](https://support.goog
 
 ### Rich Text Format (RTF)
 
-You should avoid RTF as a publishing format. RTF can’t carry the same level of semantic information or accessibility that the .docx format can. Note though that Microsoft Word formats (.doc and .docx) don’t conform to [WCAG 2.0]({{ site.baseurl }}/accessibility-inclusivity/#wcag-2-0-for-content-authors) and can be difficult to view on mobile devices.
+You should avoid RTF as a publishing format. RTF can’t carry the same level of semantic information or accessibility that the .docx format can. Note though that Microsoft Word formats (.doc and .docx) don’t conform to [WCAG 2.0]({{ site.baseurl }}/accessibility-inclusivity/#wcag-for-content-authors) and can be difficult to view on mobile devices.
 
 ### Excel
 Only publish an Excel document if there is a strong user need. They can be extremely difficult to view on mobile devices.

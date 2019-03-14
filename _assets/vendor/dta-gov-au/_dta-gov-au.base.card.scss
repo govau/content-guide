@@ -1,0 +1,222 @@
+.au-card {
+	@include AU-space( padding, 1.5unit );
+	@include AU-media( md ) {
+		@include AU-space( padding, 2unit );
+	}
+	width: 100%;
+  font-weight: normal;
+	display:block;
+	box-sizing: border-box;
+	img,
+	svg {
+		display: block;
+		min-width: 100%;
+		height: auto;
+	}
+
+	// Typographic spacing
+	* + hr,
+	* + p,
+	* + .au-card__title,
+	* + .au-card__cta {
+		@include AU-space( margin-top, 0unit );
+		font-weight: normal;
+	}
+	.au-card__title {
+		@include AU-fontgrid( lg );
+		@include AU-space( margin-bottom, 1unit );
+		text-decoration: underline;
+		text-decoration-color: currentColor;
+		transition: text-decoration-color 0.3s ease-in-out;
+		font-weight: normal;
+		@include AU-media( sm ) {
+			@include AU-fontgrid( md );
+			@include AU-space( margin-bottom, 1.5unit );
+		}
+		@include AU-media( md ) {
+			@include AU-fontgrid( lg );
+			@include AU-space( margin-bottom, 1.5unit );
+		}
+	}
+
+	&.au-cta-link:hover {
+		.au-card__title {
+			text-decoration-color: transparent;
+		}
+	}
+
+	.au-card__text {
+		@include AU-space( margin-bottom, 1unit );
+		@include AU-fontgrid( md );
+		@include AU-media( sm ) {
+			@include AU-fontgrid( sm );
+			@include AU-space( margin-bottom, 2unit );
+		}
+		@include AU-media( md ) {
+			@include AU-fontgrid( md );
+			@include AU-space( margin-bottom, 2.5unit );
+		}
+		ul {
+			@include AU-space( padding-left, 1.25unit );
+		}
+		li {
+			list-style-type: disc;
+		}
+	}
+
+	hr {
+		margin-bottom: 0;
+	}
+
+	.au-card__cta,
+	.au-card__image {
+		display: block;
+	}
+
+	&.au-card--shadow {
+		border-radius: 4px;
+		overflow:hidden;
+		box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+		background: $AU-color-foreground-background;
+
+		.lt-ie9 & {
+			border: solid 1px $AU-colordark-foreground-border-suggestion;
+		}
+
+		.au-card__fullwidth,
+		.au-card__bg {
+			@include AU-space( margin-left, -1unit );
+			@include AU-space( margin-right, -1unit );
+			height: auto;
+
+			&:first-child {
+				@include AU-space( margin-top, -1unit );
+				min-height: 0%;
+			}
+
+			&:last-child {
+				@include AU-space( margin-bottom, -1unit );
+			}
+		}
+	}
+
+	&.au-card--centered {
+		text-align: center;
+
+		img,
+		svg {
+			margin: 0 auto;
+		}
+	}
+
+	.au-card__bg {
+		@include AU-space( padding, 1unit );
+		background-color: $AU-colordark-background-shade-suggestion;
+
+		&:not(:first-child) {
+			@include AU-space( margin-top, 1unit );
+		}
+	}
+}
+
+// When the box is a link
+a.au-card {
+	color: $AU-color-foreground-text;
+
+	.au-body & {
+		text-decoration: none;
+	}
+
+	&.au-card--shadow {
+		&:focus {
+			border-radius: 0;
+		}
+
+		&:hover {
+			box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+		}
+	}
+
+	.au-card__link,
+	.au-card__cta {
+		color: $AU-color-foreground-action;
+		text-decoration: underline;
+		text-decoration-skip: ink;
+	}
+
+	&:hover .au-card__link {
+		text-decoration: none;
+		color: $AU-color-foreground-text;
+	}
+}
+
+// Card listing match height
+.au-card-list {
+	// This makes the card lists behave like rows so negative margins are added to
+	// cancel out left and right padding.
+	@extend .row;
+	list-style: none;
+	padding: 0;
+	@include AU-card-cta-link($AU-color-foreground-text, $AU-color-foreground-text);
+	@include AU-space( margin-top, 0 );
+	@include AU-space( margin-bottom, 0 );
+
+	> li {
+		list-style: none;
+	}
+
+	.au-body & {
+		> li {
+			@include AU-space( margin, 0.75unit 0 );
+		}
+	}
+
+	&.au-card-list--matchheight {
+		display: table;
+		@supports( display: flex ) {
+			display: flex;
+			flex-wrap: wrap;
+		}
+
+		> li {
+			display: table-cell;
+			@include AU-media( sm ) {
+				min-height: 17rem;
+			}
+			@supports( display: flex ) {
+				display: flex;
+			}
+			&.col-sm-4 {
+				@include AU-media( sm ) {
+					// Safari doesn't like the .33333% at the end.
+					width: 33%;
+				}
+			}
+			&.col-sm-6 {
+				@include AU-media( sm ) {
+					// Or 50%?
+					width: 49%;
+				}
+			}
+			&.col-md-4 {
+				@include AU-media( md ) {
+					width: 33%;
+				}
+			}
+
+		}
+		.au-card {
+			@include AU-media( sm ) {
+				@include AU-space( min-height, 17unit );
+			}
+			@supports( display: flex ) {
+				display:flex;
+				flex-direction: column;
+			}
+		}
+
+		.au-card__stretch {
+			flex: 1 0 auto;
+		}
+	}
+}

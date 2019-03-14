@@ -9,7 +9,7 @@ team: Content Guide Team
 email_team: content@digital.gov.au
 
 # GUIDE SETTINGS
-title: GOV.AU Content Guide
+title: Content Guide
 url: https://guides.service.gov.au/content-guide/
 description: A guide to help Australian Government teams design simple, clear and fast content.
 github_url: https://github.com/govau/content-guide
@@ -88,10 +88,10 @@ assets:
     - "*.svg"
   sources:
     - _assets/scss
-    - _assets/vendor/dto-ui-kit/assets/sass/ui-kit
     - _assets/img
     - _assets/js
     - _assets/js/vendor
+    - _assets/vendor/ds
 
 
 # HIGHLIGHTER

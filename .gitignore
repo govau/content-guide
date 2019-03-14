@@ -4,13 +4,13 @@
 _site/
 .sass-cache/
 .jekyll-metadata
-vendor
+/vendor
 
 ### Jekyll Assets ###
 .asset-cache
 
 ### npm ###
-node_modules
+/node_modules
 npm-debug.log
 
 ### Generated data ###

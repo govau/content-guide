@@ -1,24 +1,26 @@
 ---
-title: "WCAG 2.0 for content authors"
+title: "WCAG for content authors"
 order: 12
 exclude_from_search: true
 ---
 
-The Web Content Accessibility Guidelines 2.0 ([WCAG 2.0](https://www.w3.org/WAI/intro/wcag){:rel="external"}) outlines ways to make digital content accessible to the broadest population.
+The Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/intro/wcag){:rel="external"}) outlines ways to make digital content more accessible to the broadest audience.
 
-The [Australian Government Digital Service Standard](https://www.dta.gov.au/standard/){:rel="external"} requires conformance to WCAG 2.0 level AA, which includes level A. There are 38 criteria that apply at level AA, plus some from level AAA we recommend.
+Australian government agencies are required to meet WCAG 2.0 Level AA, which includes Level A. This is also required by the [Australian Government Digital Service Standard](https://www.dta.gov.au/standard/){:rel="external"} (criteria 9 &mdash; make it accessible).
 
-Content authors are primarily responsible for 17 criteria.
+WCAG 2.1 was released in June 2018 and extends WCAG 2.0. Agencies are strongly encouraged to meet WCAG 2.1 which will provide a more accessible experience. Conforming to WCAG 2.1 means you also conform with 2.0.
+
+Content authors are primarily responsible for 17 criteria from WCAG 2.0 and 4 criteria from WCAG 2.1.
 
 ### Remember --- accessibility goes beyond technical requirements
 
 Meeting WCAG is an important step in making content accessible. But the needs of your users may not be met just by conforming with WCAG.
 
-Make sure you do your own research to understand the needs of all your users at every stage.
+Make sure you [do your own research](https://guides.service.gov.au/topics/user-research/identifying-users-needs/) to understand the needs of all your users at every stage.
 
-### WCAG 2.0 content-related requirements
+### WCAG content-related requirements
 
-Each WCAG 2.0 criteria is linked to the relevant section of [How to meet WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/){:rel="external"}.
+Only WCAG criteria with content-related aspects are listed in this section. Each WCAG 2.0 and WCAG 2.1 criteria is linked to the relevant section of [How to meet WCAG](https://www.w3.org/WAI/WCAG20/quickref/){:rel="external"}.
 
 #### Images
 Only include images on a page if they meet a real user need.
@@ -53,7 +55,7 @@ Pre-recorded audio files must have a transcript.
 
 Pre-recorded video files must have a transcript, captions and potentially an audio described version.
 
-Read [video](#video-accessibility) for help.
+Read [video accessibility](#video-accessibility) for help.
 
 ##### Audio-only and video-only --- pre-recorded media
 
@@ -107,7 +109,7 @@ Read [content structure]({{site.baseurl}}/content-structure/) for help.
 
 Lists help users skim content.
 
-Use clear row and column headings for tables. This makes it easier to understand tabular information and helps screen readers navigate tables.
+Use clear **row and column headings** for tables. This makes it easier to understand tabular information and helps screen readers navigate tables.
 
 #### Headings, labels and instructions
 
@@ -163,7 +165,13 @@ Search results usually present the page title so it must clearly describe the pa
 
 [WCAG criteria 2.4.4 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-refs){:rel="external"} and [2.4.9 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-link){:rel="external"}
 
-The words used in a [hyperlink]({{ site.baseurl }}/content-structure/#hyperlinks) should help the user understand what they are linking to.
+The [words used in a hyperlink]({{ site.baseurl }}/content-structure/#hyperlinks) should help the user understand what they are linking to.
+
+#### Shortcut keys
+
+[WCAG 2.1 criteria 2.1.4 (Level A)](https://www.w3.org/WAI/WCAG21/quickref/#character-key-shortcuts){:rel="external"}
+
+If keyboard shortcuts can be turned off or re-mapped (as an alternative to only being active when applicable), then clear instructions for doing this need to be provided.
 
 ### Reading and comprehension
 
