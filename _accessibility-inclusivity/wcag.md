@@ -55,7 +55,7 @@ Pre-recorded audio files must have a transcript.
 
 Pre-recorded video files must have a transcript, captions and potentially an audio described version.
 
-Read [video](#video-accessibility) for help.
+Read [video accessibility](#video-accessibility) for help.
 
 ##### Audio-only and video-only --- pre-recorded media
 
@@ -165,7 +165,7 @@ Search results usually present the page title so it must clearly describe the pa
 
 [WCAG criteria 2.4.4 (Level AA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-refs){:rel="external"} and [2.4.9 (Level AAA)](https://www.w3.org/WAI/WCAG20/quickref/#qr-navigation-mechanisms-link){:rel="external"}
 
-The words used in a [hyperlink]({{ site.baseurl }}/content-structure/#hyperlinks) should help the user understand what they are linking to.
+The [words used in a hyperlink]({{ site.baseurl }}/content-structure/#hyperlinks) should help the user understand what they are linking to.
 
 #### Shortcut keys
 

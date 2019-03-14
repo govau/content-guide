@@ -1,6 +1,6 @@
 # Updates to the Content Guide
-### 2.0.0 &#8212; March 2019
-- Incorporated WCAG 2.1 guidance
+### 2.0.0 &#8212; 14 March 2019
+- Added WCAG 2.1 guidance
 - Adopted Design Systems and DTA branding
 
 ### 1.4.5 &#8212;17 December 2018
