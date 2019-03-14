@@ -113,15 +113,33 @@ body {
     margin: 0;
 
     .search-btn__label {
-      color: $AU-color-foreground-text;
+      font-weight: 300;
     }
 
     &:hover {
       background: #fff;
+
+      span {
+        text-decoration: underline;
+      }
     }
     &.icon {
       padding: 0.5rem;
       padding-left: 0.75rem;
+    }
+  }
+}
+
+.homepage {
+  .search-section {
+    .au-btn {
+      background: $AU-color-foreground-action;
+
+      &.icon {
+        padding: 0.5rem;
+        padding-left: 1rem;
+        padding-right: 1.5rem;
+      }
     }
   }
 }
