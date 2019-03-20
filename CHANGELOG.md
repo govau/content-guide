@@ -1,12 +1,15 @@
 # Updates to the Content Guide
+### 2.0.1 &#8212; 20 March 2019
+- Fixed typo.
+
 ### 2.0.0 &#8212; 14 March 2019
-- Added WCAG 2.1 guidance
-- Adopted Design Systems and DTA branding
+- Added WCAG 2.1 guidance.
+- Adopted Design Systems and DTA branding.
 
 ### 1.4.5 &#8212;17 December 2018
-- Address a broken link
-- Add Docker option for local development
-- Updated gitignore
+- Addressed a broken link.
+- Added Docker option for local development.
+- Updated gitignore.
 
 ### 1.4.4 &#8212;10 October 2018
 - Fixed typos (thanks [davidjb](https://github.com/davidjb) 🤗).
