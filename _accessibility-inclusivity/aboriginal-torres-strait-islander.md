@@ -18,8 +18,8 @@ Don't use:
 {% include guide_example.liquid
   title = "using language group name"
   content= "
-- The Ngunnawal woman spoke first.
-- We wish to acknowledge the traditional custodians of the land we are meeting on, the Ngunnawal people.
+- The Ngunawal woman spoke first.
+- We wish to acknowledge the traditional custodians of the land we are meeting on, the Ngunawal people.
 "
 %}
 
