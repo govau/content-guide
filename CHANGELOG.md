@@ -1,4 +1,7 @@
 # Updates to the Content Guide
+### 2.0.2 &#8212; April 2019
+- Updated acronyms and initialisms guidance.
+
 ### 2.0.1 &#8212; 20 March 2019
 - Fixed typo.
 

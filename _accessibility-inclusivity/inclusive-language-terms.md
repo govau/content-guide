@@ -60,3 +60,18 @@ This avoids getting caught up in semantics and is respectful of:
 More [guidance on inclusive language](https://www.and.org.au/pages/inclusive-language.html){:rel="external"} is available from the Australian Network on Disability.
 
 <!-- People with Disability have [examples of how to talk about disability](https://pwd.org.au/library/guide-to-reporting-disability.html){:rel="external"}. -->
+
+### Transgender pepole
+
+* Avoid the use of incorrect genders, or even gender pronouns if it is not specifically relevant.
+* The general term to be applied in a document is 'transgender person' (not 'people identifying as transgender'. People may choose to self-identify as transgender, trans, or trans (identified gender)
+
+Intersex is typically referred to as 'intersex', with no variation recommended - refer to the first resource.
+
+Resources:
+
+* [Intersex Human Rights Australia](https://ihra.org.au/style){:rel="external"} (media guide)
+* [Victorian Government Inclusive Language Guide](https://www.vic.gov.au/inclusive-language-guide){:rel="external"}
+* [LGBTI Health Alliance Inclusive Language Guide](https://lgbtihealth.org.au/sites/default/files/Alliance%20Health%20Information%20Sheet%20Inclusive%20Language%20Guide%20on%20Intersex%2C%20Trans%20and%20Gender%20Diversity_0.pdf){:rel="external"} (PDF)
+* [ACON Health External Language Guide](https://www.acon.org.au/wp-content/uploads/2017/11/External_Language-Guide-17396_print_V12A.pdf){:rel="external"} (PDF)
+
