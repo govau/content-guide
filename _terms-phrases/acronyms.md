@@ -47,7 +47,7 @@ If you are writing for an international audience, use the general rule for writi
 
 Don’t use full stops or spaces in acronyms or initialisms.
 
-* ATM — not A.T.M. or A T M
+* ATM --- not A.T.M. or A T M
 
 When using an acronym or initialism for the name of an organisation, check with that organisation (for example, using its website or annual report) to ensure you are using it correctly.
 
