@@ -7,7 +7,7 @@ jobs:
   # installing dependencies, building assets and deploying to staging
   deploy-staging:
     docker:
-      - image: circleci/ruby:2.5.1
+      - image: circleci/ruby:2.5.5
 
     steps:
       - checkout                       # get the files from the repo (why would you ever not want the files????)
@@ -38,7 +38,7 @@ jobs:
   # installing dependencies, building assets and deploying to production
   deploy-prod:
     docker:
-      - image: circleci/ruby:2.5.1
+      - image: circleci/ruby:2.5.5
 
     steps:
       - checkout                       # get the files from the repo (why would you ever not want the files????)
@@ -69,7 +69,7 @@ jobs:
   # installing dependencies, building assets and deploying to test branches
   deploy-test:
     docker:
-      - image: circleci/ruby:2.5.1
+      - image: circleci/ruby:2.5.5
 
     steps:
       - checkout                       # get the files from the repo (why would you ever not want the files????)

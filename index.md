@@ -8,6 +8,10 @@ excerpt: "A content guide to help Australian Government teams design better cont
 List of the [resources used to write the Content Guide]({{ site.baseurl }}/sources/).
 
 ## Latest updates
+### April 2019
+
+- Updated [acronyms and initialisms]({{ site.baseurl }}/terms-phrases/#acronyms-and-initialisms) guidance
+- Updated [inclusive language and terms]({{ site.baseurl }}/accessibility-inclusivity/#inclusive-language-and-terms)
 
 ### 14 March 2019
 
