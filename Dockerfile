@@ -1,4 +1,4 @@
-FROM circleci/ruby:2.5.1
+FROM circleci/ruby:2.5.5
 
 RUN echo '#!/usr/bin/env bash \n\
 \n\
