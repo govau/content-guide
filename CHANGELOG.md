@@ -1,4 +1,7 @@
 # Updates to the Content Guide
+### 2.0.3 &#8212; September 2019
+- Fixed structure of inclusive language and terms.
+
 ### 2.0.2 &#8212; April 2019
 - Updated acronyms and initialisms guidance.
 - Updated inclusive language and terms.
