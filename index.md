@@ -8,6 +8,7 @@ excerpt: "A content guide to help Australian Government teams design better cont
 List of the [resources used to write the Content Guide]({{ site.baseurl }}/sources/).
 
 ## Latest updates
+
 ### September 2019
 
 - Updated structure of [inclusive language and terms]({{ site.baseurl }}/accessibility-inclusivity/#inclusive-language-and-terms)

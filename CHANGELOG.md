@@ -1,4 +1,5 @@
 # Updates to the Content Guide
+
 ### 2.0.3 &#8212; September 2019
 - Fixed structure of inclusive language and terms.
 

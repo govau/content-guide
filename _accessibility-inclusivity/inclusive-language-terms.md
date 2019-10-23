@@ -79,3 +79,4 @@ Refer to these resources for detailed guidance on gender and sexuality:
 * [LGBTI Health Alliance's inclusive language guide 389KB PDF](https://lgbtihealth.org.au/sites/default/files/Alliance%20Health%20Information%20Sheet%20Inclusive%20Language%20Guide%20on%20Intersex%2C%20Trans%20and%20Gender%20Diversity_0.pdf){:rel="external"}
 * [ACON's language guide on trans and gender diverse inclusion 117KB PDF](https://www.acon.org.au/wp-content/uploads/2017/11/External_Language-Guide-17396_print_V12A.pdf){:rel="external"}
 * [Intersex Human Rights Australia's media and style guide](https://ihra.org.au/style){:rel="external"}
+
