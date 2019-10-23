@@ -25,4 +25,4 @@ List of the [resources used to write the Content Guide]({{ site.baseurl }}/sourc
 
 ## Contribute
 
-Join our [government content community](https://www.dta.gov.au/help-and-advice/communities-practice#content-design-and-strategy-community) to make suggestions and provide feedback.
+Join our government [Content Community of Practice](https://www.dta.gov.au/help-and-advice/communities-practice#content-design-and-strategy-community) to make suggestions and give feedback. To join, email [content@dta.gov.au](mailto:content@dta.gov.au).
