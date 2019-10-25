@@ -61,7 +61,7 @@ Not this:
 
 ### Transgender people
 
-Avoid the use of incorrect genders, or even gender pronouns if it is not specifically relevant.
+Avoid the use of incorrect genders, or even gendered pronouns if it is not specifically relevant.
 
 The general term to be applied in a document is 'transgender person' (not 'people identifying as transgender'. People may choose to self-identify as transgender, trans, or trans (identified gender).
 
