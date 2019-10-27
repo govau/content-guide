@@ -8,6 +8,11 @@ excerpt: "A content guide to help Australian Government teams design better cont
 List of the [resources used to write the Content Guide]({{ site.baseurl }}/sources/).
 
 ## Latest updates
+
+### September 2019
+
+- Updated structure of [inclusive language and terms]({{ site.baseurl }}/accessibility-inclusivity/#inclusive-language-and-terms)
+
 ### June 2019
 
 - Updated [acronyms and initialisms]({{ site.baseurl }}/terms-phrases/#acronyms-and-initialisms) guidance
@@ -20,4 +25,4 @@ List of the [resources used to write the Content Guide]({{ site.baseurl }}/sourc
 
 ## Contribute
 
-Join our [government content community](https://www.dta.gov.au/help-and-advice/communities-practice#content-design-and-strategy-community) to make suggestions and provide feedback.
+Join our government [Content Community of Practice](https://www.dta.gov.au/help-and-advice/communities-practice#content-design-and-strategy-community) to make suggestions and give feedback. To join, email [content@dta.gov.au](mailto:content@dta.gov.au).

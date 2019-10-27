@@ -1,4 +1,9 @@
 # Updates to the Content Guide
+
+### 2.0.3 &#8212; October 2019
+- Fixed structure of inclusive language and terms.
+- Update how to join Content Community of Practice.
+
 ### 2.0.2 &#8212; April 2019
 - Updated acronyms and initialisms guidance.
 - Updated inclusive language and terms.
