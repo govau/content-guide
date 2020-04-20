@@ -4,7 +4,7 @@ order: 5
 exclude_from_search: true
 ---
 
-Use spaces to help people read phone numbers.
+Use non-breaking spaces to help people read phone numbers.
 
 {% include guide_example.liquid
   title = "phone numbers"
@@ -22,23 +22,23 @@ Use spaces to help people read phone numbers.
 
 Use a link to allow users on a mobile device to call phone numbers.
 
-Use `tel:[phone number]` as the URL. Remove spaces between the numbers.
+Use `tel:[phone number]` as the URL. Remove spaces between the numbers in the link.
 
 Remember all web pages can be accessed internationally. Include the international dialling prefix if appropriate.
 
 {% include guide_example.liquid
   title = "telephone links"
   content= "
-[02 5550 0000](tel:0255500000)
+[02&nbsp;5550&nbsp;0000](tel:0255500000)
 
-HTML: <code>&lt;a href=&quot;tel:0255500000&quot;&gt;02 5550 0000&lt;/a&gt;</code>
+HTML: <code>&lt;a href=&quot;tel:0255500000&quot;&gt;02&nbsp;5550&nbsp;0000&lt;/a&gt;</code>
 
-[61 2 7010 0000](tel:61270100000)
+[61&nbsp;2&nbsp;7010&nbsp;0000](tel:61270100000)
 
-HTML: <code>&lt;a href=&quot;tel:61270100000&quot;&gt;61 2 7010 0000&lt;/a&gt;</code>
+HTML: <code>&lt;a href=&quot;tel:61270100000&quot;&gt;61&nbsp;2&nbsp;7010&nbsp;0000&lt;/a&gt;</code>
 
-[61 491 570 156](tel:61491570156)
+[61&nbsp;491&nbsp;570&nbsp;156](tel:61491570156)
 
-HTML: <code>&lt;a href=&quot;tel:61491570156&quot;&gt;61 491 570 156&lt;/a&gt;</code>
+HTML: <code>&lt;a href=&quot;tel:61491570156&quot;&gt;61&nbsp;491&nbsp;570&nbsp;156&lt;/a&gt;</code>
 "
 %}
