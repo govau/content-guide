@@ -9,6 +9,7 @@ $AU-color-background:            #ffffff !default;
 @import '../vendor/ds/vendor/colours';
 //@import '../vendor/ds/vendor/mixins';
 @import '../vendor/ds/vendor/variables';
+@import 'content-guide.obsolete';
 
 $guide-color-primary: #45c2f0;
 $lighter-grey: lighten($grey, 48%);
@@ -92,7 +93,7 @@ body {
   background: #f1f1f1;
   padding: 3rem 0 2rem;
   box-shadow: inset 0px 11px 5px -10px #aaa,
-    inset 0px -11px 5px -10px #aaa; 
+    inset 0px -11px 5px -10px #aaa;
   margin-bottom: 2rem;
 }
 
@@ -177,7 +178,7 @@ section {
     @include AU-media(md) {
       padding: 3rem 0;
     }
-    
+
     img {
       max-width: 90%;
       display: none;
