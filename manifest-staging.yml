@@ -3,7 +3,7 @@ path: _site/
 instances: 1
 memory: 64M
 disk_quota: 256M
-buildpack: staticfile_buildpack
+buildpack: nginx_buildpack
 stack: cflinuxfs3
 
 applications:
