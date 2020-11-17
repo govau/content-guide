@@ -21,6 +21,7 @@ jobs:
       - run: sudo bundle exec jekyll hyde
       - run: mv _site/robots-production.txt _site/robots.txt
       # install packages: cf-cli and tree
+      - run: sudo apt-get update
       - run: sudo apt-get install apt-transport-https
       - run: wget -q -O - https://packages.cloudfoundry.org/debian/cli.cloudfoundry.org.key | sudo apt-key add -
       - run: echo "deb https://packages.cloudfoundry.org/debian stable main" | sudo tee /etc/apt/sources.list.d/cloudfoundry-cli.list
@@ -52,6 +53,7 @@ jobs:
       - run: sudo bundle exec jekyll hyde
       - run: mv _site/content-guide/robots-production.txt _site/content-guide/robots.txt
       # install packages: cf-cli and tree
+      - run: sudo apt-get update
       - run: sudo apt-get install apt-transport-https
       - run: wget -q -O - https://packages.cloudfoundry.org/debian/cli.cloudfoundry.org.key | sudo apt-key add -
       - run: echo "deb https://packages.cloudfoundry.org/debian stable main" | sudo tee /etc/apt/sources.list.d/cloudfoundry-cli.list
@@ -83,6 +85,7 @@ jobs:
       - run: sudo bundle exec jekyll hyde
       - run: mv _site/robots-production.txt _site/robots.txt
       # install packages: cf-cli and tree
+      - run: sudo apt-get update
       - run: sudo apt-get install apt-transport-https
       - run: wget -q -O - https://packages.cloudfoundry.org/debian/cli.cloudfoundry.org.key | sudo apt-key add -
       - run: echo "deb https://packages.cloudfoundry.org/debian stable main" | sudo tee /etc/apt/sources.list.d/cloudfoundry-cli.list
