@@ -52,6 +52,7 @@ jobs:
       - run: sudo JEKYLL_ENV=production bundle exec jekyll build --destination ./_site/content-guide --baseurl /content-guide
       - run: sudo bundle exec jekyll hyde
       - run: mv _site/content-guide/robots-production.txt _site/content-guide/robots.txt
+      - run: mv nginx.conf _site/content-guide/
       # install packages: cf-cli and tree
       - run: sudo apt-get update
       - run: sudo apt-get install apt-transport-https
